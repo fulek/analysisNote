@@ -1,0 +1,91 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{barone}
+V.~Barone and E.~Predazzi, {\em High-Energy Particle Diffraction}.
+\newblock Springer, 2002.
+
+\bibitem{donnachie_dosch_landshoff_nachtmann_2002}
+S.~Donnachie, G.~Dosch, P.~Landshoff, and O.~Nachtmann,
+  \href{http://dx.doi.org/10.1017/CBO9780511534935}{{\em Pomeron Physics and
+  QCD}}.
+\newblock Cambridge Monographs on Particle Physics, Nuclear Physics and
+  Cosmology. Cambridge University Press, 2002.
+
+\bibitem{systmeasurhic}
+B.~Abelev, M.~Aggarwal, Z.~Ahammed, B.~Anderson, D.~Arkhipkin, K.~Krueger,
+  H.~Spinka, and D.~Underwood, ``Systematic measurements of identified particle
+  spectra in pp, d+au, and au+au collisions at the star detector.,'' {\em
+  Physical Review C: Nuclear Physics} {\bfseries 79} (2009) -- ,.
+  10.1103/PhysRevC.79.034909.
+
+\bibitem{Adam:2015qaa}
+{\bfseries ALICE} Collaboration, J.~Adam {\em et~al.}, ``{Measurement of pion,
+  kaon and proton production in proton–proton collisions at $\sqrt{s} = 7$
+  TeV},'' \href{http://dx.doi.org/10.1140/epjc/s10052-015-3422-9}{{\em Eur.
+  Phys. J.} {\bfseries C75} no.~5, (2015) 226},
+\href{http://arxiv.org/abs/1504.00024}{{\ttfamily arXiv:1504.00024 [nucl-ex]}}.
+%%CITATION = ARXIV:1504.00024;%%.
+
+\bibitem{Kopeliovich:1988qm}
+B.~Z. Kopeliovich and B.~G. Zakharov, ``{Novel Mechanisms of Baryon Number Flow
+  Over Large Rapidity Gap},''
+\href{http://dx.doi.org/10.1007/BF01588211}{{\em Z. Phys.} {\bfseries C43}
+  (1989) 241}.
+%%CITATION = ZEPYA,C43,241;%%.
+
+\bibitem{Rossi:1977cy}
+G.~C. Rossi and G.~Veneziano, ``{A Possible Description of Baryon Dynamics in
+  Dual and Gauge Theories},''
+\href{http://dx.doi.org/10.1016/0550-3213(77)90178-X}{{\em Nucl. Phys.}
+  {\bfseries B123} (1977) 507--545}.
+%%CITATION = NUPHA,B123,507;%%.
+
+\bibitem{Bopp:2000cr}
+F.~W. Bopp, ``{Central baryons in dual models and the possibility of a backward
+  peak in diffraction},''
+\href{http://arxiv.org/abs/hep-ph/0002190}{{\ttfamily arXiv:hep-ph/0002190
+  [hep-ph]}}.
+%%CITATION = HEP-PH/0002190;%%.
+
+\bibitem{Aamodt:2010dx}
+{\bfseries ALICE} Collaboration, K.~Aamodt {\em et~al.}, ``{Midrapidity
+  antiproton-to-proton ratio in pp collisions at $\sqrt{s} = 0.9$ and $7$~TeV
+  measured by the ALICE experiment},''
+  \href{http://dx.doi.org/10.1103/PhysRevLett.105.072002}{{\em Phys. Rev.
+  Lett.} {\bfseries 105} (2010) 072002},
+\href{http://arxiv.org/abs/1006.5432}{{\ttfamily arXiv:1006.5432 [hep-ex]}}.
+%%CITATION = ARXIV:1006.5432;%%.
+
+\bibitem{Kopeliovich:1998ps}
+B.~Kopeliovich and B.~Povh, ``{Baryon stopping at HERA: Evidence for gluonic
+  mechanism},'' \href{http://dx.doi.org/10.1016/S0370-2693(98)01546-9}{{\em
+  Phys. Lett.} {\bfseries B446} (1999) 321--325},
+\href{http://arxiv.org/abs/hep-ph/9810530}{{\ttfamily arXiv:hep-ph/9810530
+  [hep-ph]}}.
+%%CITATION = HEP-PH/9810530;%%.
+
+\bibitem{runlog}
+\url{https://online.star.bnl.gov/rp/pp200/}.
+
+\bibitem{runlog1}
+\url{https://online.star.bnl.gov/RunLogRun15/}.
+
+\bibitem{rvrtxmtg}
+\url{https://drupal.star.bnl.gov/STAR/event/2017/09/27/software-and-computing-meeting/revertexing-2015-rp-stream}.
+
+\bibitem{picoDst}
+\url{https://drupal.star.bnl.gov/STAR/system/files/talk_42.pdf}.
+
+\bibitem{pythia8}
+``{PYTHIA 8 manual}.''
+\newblock \url{http://home.thep.lu.se/~torbjorn/pythia81html/Welcome.html}.
+
+\bibitem{DAGOSTINI1995487}
+G.~D'Agostini, ``A multidimensional unfolding method based on bayes' theorem,''
+  \href{http://dx.doi.org/https://doi.org/10.1016/0168-9002(95)00274-X}{{\em
+  Nuclear Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment} {\bfseries 362} no.~2,
+  (1995) 487 -- 498}.
+  \url{http://www.sciencedirect.com/science/article/pii/016890029500274X}.
+
+\end{thebibliography}\endgroup

@@ -1,0 +1,25 @@
+\section{Corrections}\label{sec:Corrections}
+\subsection{Monte Carlo Embedding Technique}
+The correction factors are obtained by the multistep
+embedding MC technique. First, simulated tracks are
+blended into real events at the raw data level. Real data
+events to be used in the embedding are sampled over the
+entire data-taking period in order to have proper representation
+of the whole data set used in the analysis.  Three samples of embedding MC were produced:
+\begin{enumerate}
+	\item The MC track kinematics are taken
+	from flat distributions in $\eta$ and $p_T$. The flat $p_T$ distribution
+	is used in order to have similar statistics in different
+	$p_T$ bins.
+	\item PYTHIA 8.186 SD  with Sch{\"u}ler and Sj{\"o}strand Pomeron Flux model (\cite{pythia8}).
+	\item PYTHIA 8.186 CD  with Minimum Bias Rockefeller Pomeron Flux model (\cite{pythia8}).
+\end{enumerate}
+The tracks are propagated through the full simulation of
+the STAR detector and geometry using GEANT with a
+realistic simulation of the STAR-TPC response. The obtained raw data 
+information for the simulated particles are added on to
+the existing information of the real data. Next, the mixed events are treated just as real data
+and are processed through the full reconstruction chain.
+
+\input{vertexing.tex}
+\input{chargedCorrections.tex}

@@ -1,0 +1,121 @@
+\documentclass[a4paper,10pt,notitlepage]{report}
+\usepackage[utf8]{inputenc}
+\usepackage{authblk}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{cite}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{hyperref}
+\usepackage[numbers]{natbib}
+\usepackage{rotating}
+\usepackage{lineno}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\pdfinfo{%
+  /Title    ()
+  /Author   (Lukasz Fulek)
+}
+
+
+
+
+%chapter heading
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+ \vspace*{18\p@}%
+  {\parindent \z@ \raggedright
+%     \LARGE \bfseries \thechapter. #1\par\nobreak
+%     \vskip 40\p@
+      \Huge \bfseries \thechapter. #1\par\nobreak
+      \vskip 40\p@
+  }}
+\makeatother
+
+
+% Title Page
+\title{\textbf{Measurement of particle production\\with Roman Pot detectors in diffractive proton-proton interactions at~$\sqrt{s}=$~200~GeV}\vspace*{10pt}}
+\author[1]{Leszek Adamczyk}
+\author[1]{Łukasz Fulek}
+\author[2]{Włodek Guryn}
+\author[3]{Bogdan Pawlik}
+\author[1]{\mbox{Mariusz Przybycień}}
+\author[1]{Rafał Sikora}
+\affil[1]{AGH University of Science and Technology, FPACS, Kraków, Poland}
+\affil[2]{Brookhaven National Laboratory, Upton, NY, USA}
+\affil[3]{Institute of Nuclear Physics PAN, Kraków, Poland}
+
+\setcounter{Maxaffil}{0}
+\renewcommand\Affilfont{\itshape\small}
+\renewcommand{\bibname}{References}
+
+\begin{document}
+
+\begin{center}
+\begin{minipage}[c]{0.12\linewidth}%
+\vspace{5.5pt}\textbf{\LARGE{of the}}
+\end{minipage}
+\begin{minipage}[c]{0.15\linewidth}%
+\hspace*{-8pt}\includegraphics[width=\linewidth]{graphics/STAR_logo.pdf}
+\end{minipage}~
+\begin{minipage}[c]{0.24\linewidth}%
+\vspace{9pt}\hspace*{-8pt}\textbf{\LARGE{Experiment}}
+\end{minipage}\\[-50pt]
+\textbf{\LARGE{Analysis Note}}
+
+\vspace*{110pt}
+\begin{minipage}{\linewidth}
+\maketitle
+\begin{abstract}
+	In this note we present the analysis of the diffractive measurement with the STAR Roman Pot detectors at~RHIC. The measurement is focused on the~spectra of identified charged particles as pions, kaons, protons and their antiparticle counterparts in Single Diffraction Dissociation $\left(p+p\to p+X\right)$ and Central Diffraction $\left(p+p\to p+X+p \right)$ processes. The~spectra of inclusive charged particles are also measured.
+	Moreover, the~proton–antiproton production asymmetry as a~function of rapidity is presented and allows one  to study the~baryon number transfer over a~large space in rapidity in single diffraction. A~similar effect has been studied in proton-proton and proton-photon interactions but it is the first measurement in proton-Pomeron interaction. This data come from proton-proton collisions collected in 2015.
+	The forward proton(s) were tagged in the STAR Roman Pot system while the charged particle tracks were reconstructed in the~STAR Time Projection Chamber (TPC). 
+	Ionization energy loss of charged particles was used for particle identification. 
+	We describe all stages of the analysis involving the extraction of efficiency and acceptance corrections, comparison of the data with MC simulations and systematic uncertainty studies.	
+\end{abstract}
+\thispagestyle{empty}
+\end{minipage}
+
+\vspace{100pt}
+
+ \Huge{\textbf{\textit{DRAFT}}}
+\end{center}
+
+
+\clearpage
+\thispagestyle{empty}
+\newgeometry{hmargin={2cm, 2cm}, height=10.0in}
+\tableofcontents
+
+
+
+%% =====  DATASET ====
+\input{Introduction.tex}
+%\input{ExperimentalSetup.tex}
+\input{Dataset.tex}
+\input{Analysis.tex}
+\input{SystematicStudy.tex}
+\input{Results.tex}
+
+
+% %% ===== DODATKI ===== ------------
+% \begin{appendices}
+% \input{Appendix_RunList.tex}
+% \input{Appendix_tDistributions.tex}
+% \input{Appendix_AngularBeamDivergence.tex}
+% \input{Appendix_BunchProfiles.tex}
+% \end{appendices}
+
+
+\addcontentsline{toc}{chapter}{References}
+\bibliography{references.bib}{}
+\bibliographystyle{utphys}
+
+\end{document}          

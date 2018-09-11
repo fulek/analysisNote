@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: PID_AnalysisNote.aux
+The style file: utphys.bst
+Database file #1: references.bib.bib
+Warning--entry type for "runlog" isn't style-file defined
+--line 451 of file references.bib.bib
+Warning--entry type for "runlog1" isn't style-file defined
+--line 454 of file references.bib.bib
+Warning--entry type for "rvrtxmtg" isn't style-file defined
+--line 457 of file references.bib.bib
+Warning--entry type for "picoDst" isn't style-file defined
+--line 460 of file references.bib.bib
+Warning--entry type for "pythia8" isn't style-file defined
+--line 463 of file references.bib.bib
+Warning--all relevant fields are empty in runlog
+Warning--all relevant fields are empty in runlog1
+Warning--all relevant fields are empty in rvrtxmtg
+Warning--all relevant fields are empty in picoDst
+You've used 15 entries,
+            2328 wiz_defined-function locations,
+            663 strings with 6730 characters,
+and the built_in function-call counts, 3608 in all, are:
+= -- 375
+> -- 101
+< -- 0
++ -- 41
+- -- 26
+* -- 288
+:= -- 415
+add.period$ -- 26
+call.type$ -- 15
+change.case$ -- 9
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 195
+empty$ -- 410
+format.name$ -- 26
+if$ -- 963
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 35
+newline$ -- 63
+num.names$ -- 10
+pop$ -- 82
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 140
+stack$ -- 0
+substring$ -- 126
+swap$ -- 68
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 21
+width$ -- 17
+write$ -- 117
+(There were 9 warnings)

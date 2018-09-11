@@ -1,0 +1,26 @@
+\subsection{Vertex reconstruction}
+In $pp$ collisions, where the charged-particle multiplicity is low, the vertex finding algorithm sometimes fails to find a primary vertex. In addition, at high luminosity, vertex finder can fail due to the contribution of pile-up events and providing a wrong reconstructed vertex. In this study we require at least two reconstructed global tracks $N^{global}_{reco}\geq 2$ passing all the quality cuts listed in Table \ref{tab:trackCut} but without $\textrm{DCA}_{xy}$ and $\textrm{DCA}_{z}$ cuts. 
+
+\subsubsection{Track quality cuts used for vertexing}
+The tracks used by vertex finder have to  pass different set of quality cuts than used in this analysis. 
+A global track $N^{global}_{vrt}$ used in vertex reconstruction has to pass the quality cuts listed in the Table \ref{tab:trackCutVertex}. Since that, vertex reconstruction efficiency and fake vertex rate is calculated as a function of $N^{global}_{vrt}$ instead of $N^{global}_{reco}$. 
+
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{| l | l |}
+		\hline			
+		Quantity & Cut \\
+		\hline
+		\hline
+		Number of Fit Points & Fit Points $>20$\\
+		Transverse Impact Parameter & $|d_0|<2$~cm\\ 
+		Ratio of Fit Points / Possible Fit Points & Fit Points/ Possible Fit Points $>0.52$\\
+		Global Track Transverse Momentum & $p_{T}>0.2$~GeV/c\\
+		TOF Matched Track & TOF Match-Flag $\geq1$\\
+		\hline  
+	\end{tabular}
+	\caption[Vertexing Track Level Cuts]{Vertexing Track Level Cuts}
+	\label{tab:trackCutVertex}
+\end{table}
+\subsubsection{Vertex efficiency and fake vertex}

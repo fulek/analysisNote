@@ -1,0 +1,37 @@
+%%===========================================================%%
+%%                                                           %%
+%%                          DATASET                          %%
+%%                                                           %%
+%%===========================================================%%
+
+
+\chapter{Data set}\label{chap:dataset}
+\section{Trigger}
+The main triggers designed for diffractive studies in Run 15 and used for the analysis described in this note  are:
+\begin{enumerate}[label=\alph*)]
+	\item \textbf{SDT} for SD formed by the following conditions combined with the logical AND:
+	\begin{enumerate}[label=\arabic*.]
+		\item RP\_EOR $\vert\vert$ RP\_WOR - signal in at least one RP on one side of the STAR central detector.
+		\item Veto on any signal in small BBC tiles or ZDC on the outgoing proton side of the STAR central detector.
+		\item At least two TOF hits.
+	\end{enumerate}
+	\item \textbf{CPT2} for CD: 
+	\begin{enumerate}[label=\arabic*.]
+		\item (ET \&\& !IT) $\vert\vert$ (!ET \&\& IT) - signal in at least one RP on each side of the STAR central detector. A veto was introduced on signal in RPs above and below beamline.
+		\item Veto on any signal in small BBC tiles or ZDC on any side of the STAR central detector.
+		\item At least two TOF hits.
+	\end{enumerate}
+\end{enumerate}
+Above requirements were imposed in accordance  with the diffractive events topology. Veto on any signal in small BBC tiles and ZDC allows to accept only events with rapidity gap and reject diffractive events with parallel pile-up event. The requirement of at least two TOF hits was to ensure activity in the mid-rapidity.
+
+During Run 15 about 560 M CPT2 and 34 M SDT triggers were collected, which corresponds to $16.5$~pb$^{-1}$ and $16.9$~nb$^{-1}$ of integrated luminosity, repsectively. More information about number of events per run, prescales, rates, etc. can be found in the Ref. \cite{runlog,runlog1}.
+\section{Reconstruction}
+Raw data was processed with the library version SL17f with the following BFC options:
+\vspace{1em}
+
+\noindent\texttt{DbV20160418,pp2015c,btof,mtd,mtdCalib,pp2pp,-beamline,beamline3D,UseBTOFmatchOnly,VFStoreX, \newline fmsDat,fmsPoint,fpsDat,BEmcChkStat,-evout,CorrX,OSpaceZ2,OGridLeak3D,-hitfilt}
+\vspace{1em}
+
+The \texttt{UseBTOFmatchOnly} option was used to form the vertices only from the global TPC tracks matched with TOF hits. It was found that this option provides better signal reconstruction efficiency and resolutions. The~study was performed with the same dataset processed with the SL15k library version and the details about it can be found in the Ref. \cite{rvrtxmtg}. 
+
+The produced MuDst files (standard STAR data format) were further reduced to Cracow's picoDst data format. The details about picoDst format used in this analysis can be found in the Ref. \cite{picoDst}.
