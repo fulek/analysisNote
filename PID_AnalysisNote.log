@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  11 SEP 2018 17:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  1 OCT 2018 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1198,7 +1198,37 @@ als/accidentalBkg_2RP_cd_Cut_scale.pdf, page is rotated 90 degrees>]
  <./graphics/accidentals/compareCuts.pdf, page is rotated 90 degrees> <./graphi
 cs/accidentals/compareCuts.pdf, page is rotated 90 degrees> <./graphics/acciden
 tals/compareCuts.pdf, page is rotated 90 degrees> <./graphics/accidentals/compa
-reCuts.pdf, page is rotated 90 degrees>]) (./chargedCorrections.tex
+reCuts.pdf, page is rotated 90 degrees>]
+<graphics/vertexing/vertexEffi.pdf, id=897, page=2, 569.12625pt x 408.52625pt>
+File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
+
+<use graphics/vertexing/vertexEffi.pdf, page 2>
+Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page2 used on input
+ line 40.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/vertexing/vertexEffi.pdf, id=898, page=3, 569.12625pt x 408.52625pt>
+File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
+
+<use graphics/vertexing/vertexEffi.pdf, page 3>
+Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page3 used on input
+ line 47.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/vertexing/vertexEffi.pdf, id=899, page=20, 569.12625pt x 408.52625pt>
+File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
+<use graphics/vertexing/vertexEffi.pdf, page 20>
+Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page20 used on inpu
+t line 53.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/vertexing/vertexEffi.pdf, id=900, page=21, 569.12625pt x 408.52625pt>
+File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
+<use graphics/vertexing/vertexEffi.pdf, page 21>
+Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page21 used on inpu
+t line 60.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+) (./chargedCorrections.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
@@ -1211,7 +1241,10 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
 
-
+[19 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphi
+cs/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/
+vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pd
+f, page is rotated 90 degrees>]
 Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
@@ -1225,17 +1258,17 @@ ML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 )$ and $
 \OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 )$. 
  []
 
-))) (./SystematicStudy.tex [19]
+))) (./SystematicStudy.tex [20]
 Chapter 4.
-) (./Results.tex [20
+) (./Results.tex [21
 
 ]
 Chapter 5.
-) (./PID_AnalysisNote.bbl [21
+) (./PID_AnalysisNote.bbl [22
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
- [22
+ [23
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
@@ -1247,10 +1280,10 @@ Package rerunfilecheck Info: File `PID_AnalysisNote.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 121.
  ) 
 Here is how much of TeX's memory you used:
- 9303 strings out of 493089
- 143066 string characters out of 6134841
- 236853 words of memory out of 5000000
- 12499 multiletter control sequences out of 15000+600000
+ 9329 strings out of 493089
+ 143864 string characters out of 6134841
+ 237222 words of memory out of 5000000
+ 12521 multiletter control sequences out of 15000+600000
  18677 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,13n,51p,1166b,722s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1278,10 +1311,10 @@ st/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PID_AnalysisNote.pdf (22 pages, 784033 bytes).
+Output written on PID_AnalysisNote.pdf (23 pages, 815248 bytes).
 PDF statistics:
- 1049 PDF objects out of 1200 (max. 8388607)
- 644 compressed objects within 7 object streams
- 112 named destinations out of 1000 (max. 500000)
- 418 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1101 PDF objects out of 1200 (max. 8388607)
+ 666 compressed objects within 7 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 438 words of extra memory for PDF output out of 10000 (max. 10000000)
 
