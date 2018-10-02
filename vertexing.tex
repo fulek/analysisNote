@@ -66,6 +66,43 @@ For events with exactly two global tracks used for vertexing, $N^{global}_{vrt}=
 	\caption[Vertex-finding efficiency and fake vertex rate]{Vertex-finding efficiency and fake vertex rate as a function of number of tracks used in vertexing $N^{global}_{vrt}$ (a-b). For events with exactly two global tracks used for vertexing, $N^{global}_{vrt}=2$, the vertex-finding efficiency and fake vertex rate were calculated as a function of $|\Delta z_0|$ (c-d).}
 	\label{fig:vertexEfficiency}
 \end{figure}
+\subsubsection{Fake vertex events}
+From the MC study, the particle spectra from fake
+vertex events are extracted and compared to those from
+good events (with a correctly reconstructed vertex). It
+is found that particles from the fake vertex events have
+somewhat harder $p_T$ spectra than those in good events,
+presumably due to the wrongly assigned reconstructed vertex to true-level primary vertex in final track fitting and the fact that higher $p_T$
+particles are assigned larger weight in the vertex-fitting
+algorithm. Figure \ref{fig:fakeVertexEvents} shows the ratio of the charged
+hadron $p_T$ spectrum in good vertex events to that in all
+events with a reconstructed vertex (i.e. sum of good and
+fake vertex events) for SD~(a) and CD~(b).
+The spectra are normalized per event before the
+ratio is taken. This ratio is parameterized, and the parameterization,
+$\epsilon_{fake}(p_T)$, is multiplied with all $p_T$ spectra
+to correct for the $p_T$-dependent effect of the fake vertex
+events. 
+\begin{figure}[H]
+	\centering
+	\parbox{0.484\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				{\includegraphics[width=\linewidth, page=19]{graphics/chargedMC/bkg0max.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.484\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				{\includegraphics[width=\linewidth, page=15]{graphics/chargedMC/bkg1max.pdf}}}
+		\end{subfigure}
+	}
+	\caption[The $p_T$ dependent correction to particle spectra due
+		to fake vertex events, $\epsilon_{fake}(p_T)$, in SD and CD collisions]{The $p_T$ dependent correction to particle spectra due
+	to fake vertex events, $\epsilon_{fake}(p_T)$, in SD (a) and CD (b) collisions.}
+	\label{fig:fakeVertexEvents}
+\end{figure}
 \subsubsection{Other corrections to the reconstructed vertices}
 As it was mentioned in  the previous section, in the analysis only events with exactly one primary vertex. The~data was corrected for vetoing the events due to additional vertices reconstructed as a primary vertices:
 \begin{enumerate}[label=(\alph*)]
