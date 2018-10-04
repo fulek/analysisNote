@@ -15,6 +15,7 @@
 \usepackage{amssymb}
 \usepackage{enumitem}
 \usepackage{cleveref}
+\usepackage[]{appendix}
 
 \makeatletter
 \setlength{\@fptop}{0pt}
@@ -107,12 +108,12 @@
 
 
 % %% ===== DODATKI ===== ------------
-% \begin{appendices}
-% \input{Appendix_RunList.tex}
+ \begin{appendices}% 
+\input{dEdxFitAppendix.tex}
 % \input{Appendix_tDistributions.tex}
 % \input{Appendix_AngularBeamDivergence.tex}
 % \input{Appendix_BunchProfiles.tex}
-% \end{appendices}
+ \end{appendices}
 
 
 \addcontentsline{toc}{chapter}{References}
