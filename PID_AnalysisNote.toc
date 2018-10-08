@@ -24,7 +24,5 @@
 \contentsline {subsubsection}{Other corrections to the reconstructed vertices}{20}{section*.23}
 \contentsline {subsection}{\numberline {3.4.3}Correction to $dN/dn_{ch}$}{22}{subsection.3.4.3}
 \contentsline {section}{\numberline {3.5}Particle Identification by $dE/dx$}{22}{section.3.5}
-\contentsline {chapter}{\numberline {4}Systematic uncertainty study}{25}{chapter.4}
-\contentsline {chapter}{\numberline {5}Results}{26}{chapter.5}
-\contentsline {chapter}{\numberline {A}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD collisions}{27}{Appendix.1.A}
-\contentsline {chapter}{References}{31}{figure.caption.30}
+\contentsline {chapter}{\numberline {A}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{26}{Appendix.1.A}
+\contentsline {chapter}{References}{29}{figure.caption.31}

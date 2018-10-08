@@ -88,4 +88,17 @@ G.~D'Agostini, ``A multidimensional unfolding method based on bayes' theorem,''
   (1995) 487 -- 498}.
   \url{http://www.sciencedirect.com/science/article/pii/016890029500274X}.
 
+\bibitem{Bichsel:2006cs}
+H.~Bichsel, ``{A method to improve tracking and particle identification in TPCs
+  and silicon detectors},''
+\href{http://dx.doi.org/10.1016/j.nima.2006.03.009}{{\em Nucl. Instrum. Meth.}
+  {\bfseries A562} (2006) 154--197}.
+%%CITATION = NUIMA,A562,154;%%.
+
+\bibitem{commonnote}
+L.~Adamczyk, L.~Fulek, and R.~Sikora, ``{Supplementary note on diffractive
+  analyses of 2015 proton-proton data}.''
+\newblock
+  \url{https://github.com/rafalsikora/DiffractiveAnalyses_CommonNote/blob/master/DiffractiveAnalyses_AnalysisNote.pdf}.
+
 \end{thebibliography}\endgroup
