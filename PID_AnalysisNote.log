@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  8 OCT 2018 18:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.8)  9 OCT 2018 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **PID_AnalysisNote.tex
 (./PID_AnalysisNote.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/report.cls
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -24,23 +24,25 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2014/09/29 v1.1m UTF-8 support for inputenc
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00BB (decimal 187)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C0 (decimal 192)
@@ -105,50 +107,94 @@ File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00FD (decimal 253)
    defining Unicode char U+00FE (decimal 254)
    defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
    defining Unicode char U+0102 (decimal 258)
    defining Unicode char U+0103 (decimal 259)
    defining Unicode char U+0104 (decimal 260)
    defining Unicode char U+0105 (decimal 261)
    defining Unicode char U+0106 (decimal 262)
    defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
    defining Unicode char U+010C (decimal 268)
    defining Unicode char U+010D (decimal 269)
    defining Unicode char U+010E (decimal 270)
    defining Unicode char U+010F (decimal 271)
    defining Unicode char U+0110 (decimal 272)
    defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
    defining Unicode char U+0118 (decimal 280)
    defining Unicode char U+0119 (decimal 281)
    defining Unicode char U+011A (decimal 282)
    defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
    defining Unicode char U+011E (decimal 286)
    defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
    defining Unicode char U+0130 (decimal 304)
    defining Unicode char U+0131 (decimal 305)
    defining Unicode char U+0132 (decimal 306)
    defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
    defining Unicode char U+0139 (decimal 313)
    defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
    defining Unicode char U+013D (decimal 317)
    defining Unicode char U+013E (decimal 318)
    defining Unicode char U+0141 (decimal 321)
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0143 (decimal 323)
    defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
    defining Unicode char U+0147 (decimal 327)
    defining Unicode char U+0148 (decimal 328)
    defining Unicode char U+014A (decimal 330)
    defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
    defining Unicode char U+0150 (decimal 336)
    defining Unicode char U+0151 (decimal 337)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
    defining Unicode char U+0154 (decimal 340)
    defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
    defining Unicode char U+0158 (decimal 344)
    defining Unicode char U+0159 (decimal 345)
    defining Unicode char U+015A (decimal 346)
    defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
    defining Unicode char U+015E (decimal 350)
    defining Unicode char U+015F (decimal 351)
    defining Unicode char U+0160 (decimal 352)
@@ -157,10 +203,22 @@ File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+0163 (decimal 355)
    defining Unicode char U+0164 (decimal 356)
    defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
    defining Unicode char U+016E (decimal 366)
    defining Unicode char U+016F (decimal 367)
    defining Unicode char U+0170 (decimal 368)
    defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
    defining Unicode char U+0178 (decimal 376)
    defining Unicode char U+0179 (decimal 377)
    defining Unicode char U+017A (decimal 378)
@@ -168,6 +226,31 @@ File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+017C (decimal 380)
    defining Unicode char U+017D (decimal 381)
    defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
@@ -186,10 +269,12 @@ File: t1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00B8 (decimal 184)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C5 (decimal 197)
@@ -207,6 +292,14 @@ File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2018 (decimal 8216)
@@ -217,8 +310,8 @@ File: ot1enc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2014/09/29 v1.1m UTF-8 support for inputenc
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -241,7 +334,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/preprint/authblk.sty
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip43
 \@affilsep=\skip44
@@ -249,22 +342,22 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@authors=\count89
 \c@affil=\count90
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count91
@@ -280,27 +373,27 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks17
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count94
@@ -308,7 +401,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count95
 \float@exts=\toks18
@@ -316,17 +409,17 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks19
 \@floatcapt=\box27
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/cite/cite.sty
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen113
 \captionmargin@=\dimen114
 \captionwidth=\dimen115
@@ -338,19 +431,19 @@ Package caption3 Info: TeX engine: e-TeX on input line 57.
 \c@ContinuedFloat=\count96
 Package caption Info: float package is loaded.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
 \c@subfigure=\count97
 \c@subtable=\count98
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -389,24 +482,24 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen120
 \Hy@linkcounter=\count99
 \Hy@pagecounter=\count100
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count101
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -418,7 +511,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count102
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -443,19 +536,19 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count107
 \c@bookmark@seq@number=\count108
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip45
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 
 
@@ -467,10 +560,10 @@ Package natbib Warning: The `cite' package should not be used
 LaTeX Info: Redefining \cite on input line 694.
 LaTeX Info: Redefining \citenum on input line 708.
 \c@NAT@ctr=\count109
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/rotating/rotating.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count110
@@ -479,7 +572,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box28
 \rot@mess@toks=\toks20
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/lineno/lineno.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count111
 \output=\toks21
@@ -497,41 +590,41 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \bframebox=\box29
 LaTeX Info: Redefining \\ on input line 3056.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2013/01/14 v2.14 AMS math features
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
 \@mathmargin=\skip50
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
-Package: amstext 2000/06/29 v2.01
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen129
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen130
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count118
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count119
 \leftroot@=\count120
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count121
 \DOTSCASE@=\count122
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box30
 \strutbox@=\box31
 \big@size=\dimen131
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
 \macc@depth=\count123
 \c@MaxMatrixCols=\count124
 \dotsspace@=\muskip11
@@ -552,20 +645,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \multlinegap=\skip51
 \multlinetaggap=\skip52
 \mathdisplay@stack=\toks26
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip53
 \enit@outerparindent=\dimen138
@@ -573,7 +666,7 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box32
 \enitdp@description=\count130
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/cleveref/cleveref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
 Package cleveref Info: `hyperref' support loaded on input line 2230.
 LaTeX Info: Redefining \cref on input line 2230.
@@ -587,7 +680,7 @@ LaTeX Info: Redefining \Cpagerefrange on input line 2230.
 LaTeX Info: Redefining \labelcref on input line 2230.
 LaTeX Info: Redefining \labelcpageref on input line 2230.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/appendix/appendix.sty
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@pps=\count131
 \c@@ppsavesec=\count132
@@ -645,7 +738,7 @@ LaTeX Font Info:    ... okay on input line 61.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count134
 \scratchdimen=\dimen139
@@ -658,10 +751,10 @@ LaTeX Font Info:    ... okay on input line 61.
 \MPnumerator=\count138
 \makeMPintoPDFobject=\count139
 \everyMPtoPDFconversion=\toks29
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
@@ -669,7 +762,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -680,10 +773,10 @@ Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box34
 Package hyperref Info: Link coloring OFF on input line 61.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count140
@@ -698,15 +791,15 @@ LaTeX Info: Redefining \nameref on input line 61.
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 66.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 66.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<graphics/STAR_logo.pdf, id=100, 283.68053pt x 199.9972pt>
+<graphics/STAR_logo.pdf, id=108, 283.68053pt x 199.9972pt>
 File: graphics/STAR_logo.pdf Graphic file (type pdf)
 
 <use graphics/STAR_logo.pdf>
@@ -714,8 +807,8 @@ Package pdftex.def Info: graphics/STAR_logo.pdf used on input line 68.
 (pdftex.def)             Requested size: 62.73549pt x 44.2284pt.
  [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./graph
-ics/STAR_logo.pdf>] [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./graphics/STAR_logo.pdf>]
+ [2]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -752,6 +845,7 @@ ics/STAR_logo.pdf>] [2]
 \tf@toc=\write4
 \openout4 = `PID_AnalysisNote.toc'.
 
+
 (./Introduction.tex [3
 
 
@@ -766,14 +860,14 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 10.
 
-<graphics/introduction/cd.png, id=168, 361.35pt x 285.065pt>
+<graphics/introduction/cd.png, id=178, 361.35pt x 285.065pt>
 File: graphics/introduction/cd.png Graphic file (type png)
 
 <use graphics/introduction/cd.png>
 Package pdftex.def Info: graphics/introduction/cd.png used on input line 21.
 (pdftex.def)             Requested size: 234.10614pt x 184.68544pt.
 
-<graphics/introduction/sd.png, id=170, 361.35pt x 286.06876pt>
+<graphics/introduction/sd.png, id=180, 361.35pt x 286.06876pt>
 File: graphics/introduction/sd.png Graphic file (type png)
 
 <use graphics/introduction/sd.png>
@@ -788,18 +882,42 @@ Chapter 2.
 
 ]
 Chapter 3.
-(./selection.tex) (./accidentalBkg.tex [7
+(./selection.tex [7
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+<graphics/cutFlow/SDT.pdf, id=259, page=1, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+<use graphics/cutFlow/SDT.pdf, page 1>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page1 used on input line 64.
+
+(pdftex.def)             Requested size: 243.46881pt x 174.76523pt.
+
+Overfull \hbox (9.36267pt too wide) in paragraph at lines 64--64
+[][] 
+ []
+
+<graphics/cutFlow/CPT2.pdf, id=260, page=1, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 1>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page1 used on input line 71
+.
+(pdftex.def)             Requested size: 243.46881pt x 174.76523pt.
+
+Overfull \hbox (9.36267pt too wide) in paragraph at lines 71--71
+[][] 
+ []
+
+) (./accidentalBkg.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
 
-<graphics/accidentals/accidentalBkg_1RP.pdf, id=251, page=1, 569.12625pt x 408.
+<graphics/accidentals/accidentalBkg_1RP.pdf, id=263, page=1, 569.12625pt x 408.
 52625pt>
 File: graphics/accidentals/accidentalBkg_1RP.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_1RP.pdf, page 1>
@@ -807,15 +925,16 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_1RP.pdf, page1 used
  on input line 26.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd.pdf, id=252, 569.12625pt x 408.52625
+<graphics/accidentals/accidentalBkg_2RP_cd.pdf, id=264, 569.12625pt x 408.52625
 pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_2RP_cd.pdf>
 Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd.pdf used on 
 input line 33.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
-
-<graphics/accidentals/accidentalBkg_1RP.pdf, id=254, page=14, 569.12625pt x 408
+ [8 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFlo
+w/CPT2.pdf, page is rotated 90 degrees>]
+<graphics/accidentals/accidentalBkg_1RP.pdf, id=361, page=14, 569.12625pt x 408
 .52625pt>
 File: graphics/accidentals/accidentalBkg_1RP.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_1RP.pdf, page 14>
@@ -823,7 +942,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_1RP.pdf, page14 use
 d on input line 47.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_1RP.pdf, id=255, page=15, 569.12625pt x 408
+<graphics/accidentals/accidentalBkg_1RP.pdf, id=362, page=15, 569.12625pt x 408
 .52625pt>
 File: graphics/accidentals/accidentalBkg_1RP.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_1RP.pdf, page 15>
@@ -831,7 +950,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_1RP.pdf, page15 use
 d on input line 54.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg.pdf, id=256, page=14, 569.12625pt x 408.526
+<graphics/accidentals/accidentalBkg.pdf, id=363, page=14, 569.12625pt x 408.526
 25pt>
 File: graphics/accidentals/accidentalBkg.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg.pdf, page 14>
@@ -839,16 +958,16 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg.pdf, page14 used on
  input line 60.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg.pdf, id=257, page=15, 569.12625pt x 408.526
+<graphics/accidentals/accidentalBkg.pdf, id=364, page=15, 569.12625pt x 408.526
 25pt>
 File: graphics/accidentals/accidentalBkg.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg.pdf, page 15>
 Package pdftex.def Info: graphics/accidentals/accidentalBkg.pdf, page15 used on
  input line 67.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
- [8 <./graphics/accidentals/accidentalBkg_1RP.pdf, page is rotated 90 degrees> 
+ [9 <./graphics/accidentals/accidentalBkg_1RP.pdf, page is rotated 90 degrees> 
 <./graphics/accidentals/accidentalBkg_2RP_cd.pdf, page is rotated 90 degrees>]
-<graphics/accidentals/accidentalBkg.pdf, id=353, page=33, 569.12625pt x 408.526
+<graphics/accidentals/accidentalBkg.pdf, id=458, page=33, 569.12625pt x 408.526
 25pt>
 File: graphics/accidentals/accidentalBkg.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg.pdf, page 33>
@@ -856,18 +975,15 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg.pdf, page33 used on
  input line 79.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg.pdf, id=354, page=37, 569.12625pt x 408.526
+<graphics/accidentals/accidentalBkg.pdf, id=459, page=37, 569.12625pt x 408.526
 25pt>
 File: graphics/accidentals/accidentalBkg.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg.pdf, page 37>
 Package pdftex.def Info: graphics/accidentals/accidentalBkg.pdf, page37 used on
  input line 86.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
- [9 <./graphics/accidentals/accidentalBkg_1RP.pdf, page is rotated 90 degrees> 
-<./graphics/accidentals/accidentalBkg_1RP.pdf, page is rotated 90 degrees> <./g
-raphics/accidentals/accidentalBkg.pdf, page is rotated 90 degrees> <./graphics/
-accidentals/accidentalBkg.pdf, page is rotated 90 degrees>]
-<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=407, page=1, 569.12625pt x 4
+
+<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=462, page=1, 569.12625pt x 4
 08.52625pt>
 File: graphics/accidentals/accidentalBkg_XiCut2.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_XiCut2.pdf, page 1>
@@ -875,7 +991,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_XiCut2.pdf, page1 u
 sed on input line 99.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=408, page=33, 569.12625pt x 
+<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=463, page=33, 569.12625pt x 
 408.52625pt>
 File: graphics/accidentals/accidentalBkg_XiCut2.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_XiCut2.pdf, page 33>
@@ -883,7 +999,13 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_XiCut2.pdf, page33
 used on input line 106.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=409, page=14, 569.12625pt x 
+[10 <./graphics/accidentals/accidentalBkg_1RP.pdf, page is rotated 90 degrees> 
+<./graphics/accidentals/accidentalBkg_1RP.pdf, page is rotated 90 degrees> <./g
+raphics/accidentals/accidentalBkg.pdf, page is rotated 90 degrees> <./graphics/
+accidentals/accidentalBkg.pdf, page is rotated 90 degrees> <./graphics/accident
+als/accidentalBkg.pdf, page is rotated 90 degrees> <./graphics/accidentals/acci
+dentalBkg.pdf, page is rotated 90 degrees>]
+<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=512, page=14, 569.12625pt x 
 408.52625pt>
 File: graphics/accidentals/accidentalBkg_XiCut2.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_XiCut2.pdf, page 14>
@@ -891,7 +1013,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_XiCut2.pdf, page14
 used on input line 117.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=410, page=15, 569.12625pt x 
+<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=513, page=15, 569.12625pt x 
 408.52625pt>
 File: graphics/accidentals/accidentalBkg_XiCut2.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_XiCut2.pdf, page 15>
@@ -899,7 +1021,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_XiCut2.pdf, page15
 used on input line 124.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=411, page=2, 569.12625pt x 4
+<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=514, page=2, 569.12625pt x 4
 08.52625pt>
 File: graphics/accidentals/accidentalBkg_XiCut2.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_XiCut2.pdf, page 2>
@@ -907,7 +1029,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_XiCut2.pdf, page2 u
 sed on input line 135.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=412, page=5, 569.12625pt x 4
+<graphics/accidentals/accidentalBkg_XiCut2.pdf, id=515, page=5, 569.12625pt x 4
 08.52625pt>
 File: graphics/accidentals/accidentalBkg_XiCut2.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_XiCut2.pdf, page 5>
@@ -915,11 +1037,12 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_XiCut2.pdf, page5 u
 sed on input line 142.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-[10 <./graphics/accidentals/accidentalBkg.pdf, page is rotated 90 degrees> <./g
-raphics/accidentals/accidentalBkg.pdf, page is rotated 90 degrees> <./graphics/
-accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degrees> <./graphics/a
-ccidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degrees>]
-<graphics/accidentals/accidentalBkg_2RP_cd.pdf, id=462, page=49, 569.12625pt x 
+[11 <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degree
+s> <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degrees
+> <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degrees>
+ <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degrees>]
+
+<graphics/accidentals/accidentalBkg_2RP_cd.pdf, id=567, page=49, 569.12625pt x 
 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_2RP_cd.pdf, page 49>
@@ -927,7 +1050,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd.pdf, page49
 used on input line 157.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd.pdf, id=463, page=55, 569.12625pt x 
+<graphics/accidentals/accidentalBkg_2RP_cd.pdf, id=568, page=55, 569.12625pt x 
 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd.pdf Graphic file (type pdf)
  <use graphics/accidentals/accidentalBkg_2RP_cd.pdf, page 55>
@@ -935,7 +1058,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd.pdf, page55
 used on input line 164.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, id=464, page=7, 569.12625
+<graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, id=569, page=7, 569.12625
 pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf Graphic file (type pd
 f)
@@ -944,12 +1067,13 @@ f)
 Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, p
 age7 used on input line 170.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
- [11 <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degre
+ [12 <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degre
 es> <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degree
-s> <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degrees
-> <./graphics/accidentals/accidentalBkg_XiCut2.pdf, page is rotated 90 degrees>
-]
-<graphics/accidentals/accidentalBkg_2RP_cd_Coll.pdf, id=472, page=26, 569.12625
+s> <./graphics/accidentals/accidentalBkg_2RP_cd.pdf, page is rotated 90 degrees
+> <./graphics/accidentals/accidentalBkg_2RP_cd.pdf, page is rotated 90 degrees>
+ <./graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, page is rotated 90 deg
+rees>]
+<graphics/accidentals/accidentalBkg_2RP_cd_Coll.pdf, id=662, page=26, 569.12625
 pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Coll.pdf Graphic file (type pdf
 )
@@ -959,7 +1083,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_Coll.pdf, pa
 ge26 used on input line 185.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=473, page=1, 569.
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=663, page=1, 569.
 12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -969,7 +1093,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page1 used on input line 192.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=474, page=54, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=664, page=54, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -979,11 +1103,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page54 used on input line 198.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-[12 <./graphics/accidentals/accidentalBkg_2RP_cd.pdf, page is rotated 90 degree
-s> <./graphics/accidentals/accidentalBkg_2RP_cd.pdf, page is rotated 90 degrees
-> <./graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, page is rotated 90 de
-grees>]
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=570, page=35, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=668, page=35, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -993,7 +1113,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page35 used on input line 210.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=571, page=43, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=669, page=43, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -1003,7 +1123,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page43 used on input line 217.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=572, page=33, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=670, page=33, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -1013,7 +1133,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page33 used on input line 223.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=573, page=41, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=671, page=41, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -1027,7 +1147,7 @@ df, page41 used on input line 230.
 egrees> <./graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, page is ro
 tated 90 degrees> <./graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, 
 page is rotated 90 degrees>]
-<graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, id=668, page=30, 569.1262
+<graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, id=767, page=30, 569.1262
 5pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf Graphic file (type pd
 f)
@@ -1037,7 +1157,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_scale.pdf, p
 age30 used on input line 242.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=669, page=30, 569.
+<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=768, page=30, 569.
 12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf Graphic file (typ
 e pdf)
@@ -1047,7 +1167,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pd
 f, page30 used on input line 249.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=670, page=38, 569.
+<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=769, page=38, 569.
 12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf Graphic file (typ
 e pdf)
@@ -1057,7 +1177,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pd
 f, page38 used on input line 255.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=671, page=4, 569.1
+<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=770, page=4, 569.1
 2625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf Graphic file (typ
 e pdf)
@@ -1071,7 +1191,7 @@ ed 90 degrees> <./graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, pag
 e is rotated 90 degrees> <./graphics/accidentals/accidentalBkg_2RP_cd_cut_NoCol
 l.pdf, page is rotated 90 degrees> <./graphics/accidentals/accidentalBkg_2RP_cd
 _cut_NoColl.pdf, page is rotated 90 degrees>]
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=681, page=61, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=780, page=61, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -1081,7 +1201,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page61 used on input line 275.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=682, page=62, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=781, page=62, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -1091,7 +1211,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page62 used on input line 282.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=683, page=69, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=782, page=69, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -1101,7 +1221,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page69 used on input line 288.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=684, page=70, 569
+<graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, id=783, page=70, 569
 .12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf Graphic file (ty
 pe pdf)
@@ -1111,7 +1231,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.p
 df, page70 used on input line 295.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=685, page=12, 569.
+<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=784, page=12, 569.
 12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf Graphic file (typ
 e pdf)
@@ -1121,7 +1241,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pd
 f, page12 used on input line 306.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=686, page=24, 569.
+<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=785, page=24, 569.
 12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf Graphic file (typ
 e pdf)
@@ -1131,7 +1251,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pd
 f, page24 used on input line 313.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=687, page=13, 569.
+<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=786, page=13, 569.
 12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf Graphic file (typ
 e pdf)
@@ -1141,7 +1261,7 @@ Package pdftex.def Info: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pd
 f, page13 used on input line 319.
 (pdftex.def)             Requested size: 232.17242pt x 166.6553pt.
 
-<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=688, page=25, 569.
+<graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf, id=787, page=25, 569.
 12625pt x 408.52625pt>
 File: graphics/accidentals/accidentalBkg_2RP_cd_Cut_scale.pdf Graphic file (typ
 e pdf)
@@ -1160,7 +1280,7 @@ identalBkg_2RP_cd_cut_NoColl.pdf, page is rotated 90 degrees> <./graphics/accid
 entals/accidentalBkg_2RP_cd_cut_NoColl.pdf, page is rotated 90 degrees> <./grap
 hics/accidentals/accidentalBkg_2RP_cd_cut_NoColl.pdf, page is rotated 90 degree
 s>]
-<graphics/accidentals/compareCuts.pdf, id=830, page=1, 569.12625pt x 408.52625p
+<graphics/accidentals/compareCuts.pdf, id=929, page=1, 569.12625pt x 408.52625p
 t>
 File: graphics/accidentals/compareCuts.pdf Graphic file (type pdf)
  <use graphics/accidentals/compareCuts.pdf, page 1>
@@ -1168,7 +1288,7 @@ Package pdftex.def Info: graphics/accidentals/compareCuts.pdf, page1 used on in
 put line 340.
 (pdftex.def)             Requested size: 149.94484pt x 107.62935pt.
 
-<graphics/accidentals/compareCuts.pdf, id=831, page=3, 569.12625pt x 408.52625p
+<graphics/accidentals/compareCuts.pdf, id=930, page=3, 569.12625pt x 408.52625p
 t>
 File: graphics/accidentals/compareCuts.pdf Graphic file (type pdf)
  <use graphics/accidentals/compareCuts.pdf, page 3>
@@ -1176,7 +1296,7 @@ Package pdftex.def Info: graphics/accidentals/compareCuts.pdf, page3 used on in
 put line 347.
 (pdftex.def)             Requested size: 149.94484pt x 107.62935pt.
 
-<graphics/accidentals/compareCuts.pdf, id=832, page=5, 569.12625pt x 408.52625p
+<graphics/accidentals/compareCuts.pdf, id=931, page=5, 569.12625pt x 408.52625p
 t>
 File: graphics/accidentals/compareCuts.pdf Graphic file (type pdf)
  <use graphics/accidentals/compareCuts.pdf, page 5>
@@ -1184,7 +1304,7 @@ Package pdftex.def Info: graphics/accidentals/compareCuts.pdf, page5 used on in
 put line 354.
 (pdftex.def)             Requested size: 149.94484pt x 107.62935pt.
 
-<graphics/accidentals/compareCuts.pdf, id=833, page=2, 569.12625pt x 408.52625p
+<graphics/accidentals/compareCuts.pdf, id=932, page=2, 569.12625pt x 408.52625p
 t>
 File: graphics/accidentals/compareCuts.pdf Graphic file (type pdf)
  <use graphics/accidentals/compareCuts.pdf, page 2>
@@ -1192,7 +1312,7 @@ Package pdftex.def Info: graphics/accidentals/compareCuts.pdf, page2 used on in
 put line 360.
 (pdftex.def)             Requested size: 149.94484pt x 107.62935pt.
 
-<graphics/accidentals/compareCuts.pdf, id=834, page=4, 569.12625pt x 408.52625p
+<graphics/accidentals/compareCuts.pdf, id=933, page=4, 569.12625pt x 408.52625p
 t>
 File: graphics/accidentals/compareCuts.pdf Graphic file (type pdf)
  <use graphics/accidentals/compareCuts.pdf, page 4>
@@ -1200,7 +1320,7 @@ Package pdftex.def Info: graphics/accidentals/compareCuts.pdf, page4 used on in
 put line 367.
 (pdftex.def)             Requested size: 149.94484pt x 107.62935pt.
 
-<graphics/accidentals/compareCuts.pdf, id=835, page=6, 569.12625pt x 408.52625p
+<graphics/accidentals/compareCuts.pdf, id=934, page=6, 569.12625pt x 408.52625p
 t>
 File: graphics/accidentals/compareCuts.pdf Graphic file (type pdf)
  <use graphics/accidentals/compareCuts.pdf, page 6>
@@ -1213,46 +1333,198 @@ t_scale.pdf, page is rotated 90 degrees> <./graphics/accidentals/accidentalBkg_
 2RP_cd_Cut_scale.pdf, page is rotated 90 degrees> <./graphics/accidentals/accid
 entalBkg_2RP_cd_Cut_scale.pdf, page is rotated 90 degrees> <./graphics/accident
 als/accidentalBkg_2RP_cd_Cut_scale.pdf, page is rotated 90 degrees>]
-(./vertexing.tex [18 <./graphics/accidentals/compareCuts.pdf, page is rotated 9
-0 degrees> <./graphics/accidentals/compareCuts.pdf, page is rotated 90 degrees>
- <./graphics/accidentals/compareCuts.pdf, page is rotated 90 degrees> <./graphi
-cs/accidentals/compareCuts.pdf, page is rotated 90 degrees> <./graphics/acciden
-tals/compareCuts.pdf, page is rotated 90 degrees> <./graphics/accidentals/compa
-reCuts.pdf, page is rotated 90 degrees>]
-<graphics/vertexing/vertexEffi.pdf, id=902, page=2, 569.12625pt x 408.52625pt>
-File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
+<graphics/cutFlow/SDT.pdf, id=943, page=9, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
 
+<use graphics/cutFlow/SDT.pdf, page 9>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page9 used on input line 32.
+
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=944, page=7, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 7>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page7 used on input line 39
+.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT.pdf, id=945, page=8, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 8>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page8 used on input line 50.
+
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=946, page=6, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 6>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page6 used on input line 57
+.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+ [18 <./graphics/accidentals/compareCuts.pdf, page is rotated 90 degrees> <./gr
+aphics/accidentals/compareCuts.pdf, page is rotated 90 degrees> <./graphics/acc
+identals/compareCuts.pdf, page is rotated 90 degrees> <./graphics/accidentals/c
+ompareCuts.pdf, page is rotated 90 degrees> <./graphics/accidentals/compareCuts
+.pdf, page is rotated 90 degrees> <./graphics/accidentals/compareCuts.pdf, page
+ is rotated 90 degrees>]
+<graphics/cutFlow/SDT.pdf, id=998, page=2, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 2>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page2 used on input line 68.
+
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=999, page=2, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 2>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page2 used on input line 75
+.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT.pdf, id=1000, page=3, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 3>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page3 used on input line 86.
+
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT.pdf, id=1001, page=4, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 4>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page4 used on input line 93.
+
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+ [19 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFl
+ow/CPT2.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT.pdf, page is r
+otated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees> <.
+/graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFlow/CPT2
+.pdf, page is rotated 90 degrees>]
+<graphics/cutFlow/SDT.pdf, id=1097, page=5, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 5>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page5 used on input line 105
+.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=1098, page=3, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 3>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page3 used on input line 11
+2.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT.pdf, id=1099, page=6, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 6>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page6 used on input line 124
+.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=1100, page=4, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 4>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page4 used on input line 13
+1.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT.pdf, id=1101, page=7, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 7>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page7 used on input line 137
+.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=1102, page=5, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 5>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page5 used on input line 14
+4.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+ [20 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFl
+ow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT.pdf, page is ro
+tated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees>]
+<graphics/cutFlow/SDT.pdf, id=1152, page=10, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 10>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page10 used on input line 15
+6.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=1153, page=8, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 8>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page8 used on input line 16
+3.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT.pdf, id=1154, page=11, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT.pdf, page 11>
+Package pdftex.def Info: graphics/cutFlow/SDT.pdf, page11 used on input line 16
+9.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/CPT2.pdf, id=1155, page=9, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/CPT2.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/CPT2.pdf, page 9>
+Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page9 used on input line 17
+6.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+ [21 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFl
+ow/CPT2.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT.pdf, page is r
+otated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees>] (
+./vertexing.tex [22 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <.
+/graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT
+.pdf, page is rotated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated
+ 90 degrees>]
+<graphics/vertexing/vertexEffi.pdf, id=1174, page=2, 569.12625pt x 408.52625pt>
+File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
 <use graphics/vertexing/vertexEffi.pdf, page 2>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page2 used on input
  line 45.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=903, page=3, 569.12625pt x 408.52625pt>
+<graphics/vertexing/vertexEffi.pdf, id=1175, page=3, 569.12625pt x 408.52625pt>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
-
 <use graphics/vertexing/vertexEffi.pdf, page 3>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page3 used on input
  line 52.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=904, page=20, 569.12625pt x 408.52625pt>
+<graphics/vertexing/vertexEffi.pdf, id=1176, page=20, 569.12625pt x 408.52625pt
+>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
-<use graphics/vertexing/vertexEffi.pdf, page 20>
+ <use graphics/vertexing/vertexEffi.pdf, page 20>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page20 used on inpu
 t line 58.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=905, page=21, 569.12625pt x 408.52625pt>
+<graphics/vertexing/vertexEffi.pdf, id=1177, page=21, 569.12625pt x 408.52625pt
+>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
-<use graphics/vertexing/vertexEffi.pdf, page 21>
+ <use graphics/vertexing/vertexEffi.pdf, page 21>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page21 used on inpu
 t line 65.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<graphics/chargedMC/bkg0max.pdf, id=907, page=19, 569.12625pt x 408.52625pt>
+<graphics/chargedMC/bkg0max.pdf, id=1179, page=19, 569.12625pt x 408.52625pt>
 File: graphics/chargedMC/bkg0max.pdf Graphic file (type pdf)
 
 <use graphics/chargedMC/bkg0max.pdf, page 19>
@@ -1260,34 +1532,32 @@ Package pdftex.def Info: graphics/chargedMC/bkg0max.pdf, page19 used on input l
 ine 93.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/chargedMC/bkg1max.pdf, id=908, page=15, 569.12625pt x 408.52625pt>
+<graphics/chargedMC/bkg1max.pdf, id=1180, page=15, 569.12625pt x 408.52625pt>
 File: graphics/chargedMC/bkg1max.pdf Graphic file (type pdf)
 
 <use graphics/chargedMC/bkg1max.pdf, page 15>
 Package pdftex.def Info: graphics/chargedMC/bkg1max.pdf, page15 used on input l
 ine 100.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
- [19] [20 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./
-graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vert
-exing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexE
-ffi.pdf, page is rotated 90 degrees> <./graphics/chargedMC/bkg0max.pdf, page is
- rotated 90 degrees> <./graphics/chargedMC/bkg1max.pdf, page is rotated 90 degr
-ees>]
-<graphics/vertexing/vertexEffi.pdf, id=1059, page=4, 569.12625pt x 408.52625pt>
+ [23 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graph
+ics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing
+/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.p
+df, page is rotated 90 degrees>]
+<graphics/vertexing/vertexEffi.pdf, id=1235, page=4, 569.12625pt x 408.52625pt>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
 <use graphics/vertexing/vertexEffi.pdf, page 4>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page4 used on input
  line 128.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1060, page=7, 569.12625pt x 408.52625pt>
+<graphics/vertexing/vertexEffi.pdf, id=1236, page=7, 569.12625pt x 408.52625pt>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
 <use graphics/vertexing/vertexEffi.pdf, page 7>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page7 used on input
  line 135.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1061, page=10, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1237, page=10, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 10>
@@ -1295,7 +1565,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page10 used on inpu
 t line 141.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1062, page=13, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1238, page=13, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 13>
@@ -1303,7 +1573,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page13 used on inpu
 t line 148.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1063, page=16, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1239, page=16, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 16>
@@ -1311,7 +1581,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page16 used on inpu
 t line 154.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1064, page=22, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1240, page=22, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 22>
@@ -1319,7 +1589,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page22 used on inpu
 t line 165.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1065, page=25, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1241, page=25, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 25>
@@ -1327,7 +1597,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page25 used on inpu
 t line 172.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1066, page=28, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1242, page=28, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 28>
@@ -1335,7 +1605,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page28 used on inpu
 t line 178.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1067, page=31, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1243, page=31, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 31>
@@ -1343,27 +1613,29 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page31 used on inpu
 t line 185.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1068, page=34, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1244, page=34, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 34>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page34 used on inpu
 t line 191.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
-) (./chargedCorrections.tex
+ [24 <./graphics/chargedMC/bkg0max.pdf, page is rotated 90 degrees> <./graphics
+/chargedMC/bkg1max.pdf, page is rotated 90 degrees>])) (./chargedCorrections.te
+x
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `subscript' on input line 1.
+(hyperref)                removing `math shift' on input line 2.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 1.
+(hyperref)                removing `subscript' on input line 2.
 
-[21 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphi
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 2.
+
+[25 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphi
 cs/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/
 vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pd
 f, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pdf, page is ro
@@ -1372,12 +1644,12 @@ ees> <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graph
 ics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing
 /vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.p
 df, page is rotated 90 degrees>]
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
 
 
-Overfull \hbox (10.4493pt too wide) in paragraph at lines 28--30
+Overfull \hbox (10.4493pt too wide) in paragraph at lines 29--31
 \OT1/cmr/m/n/10 where nor-mal-ized $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML/c
 mm/m/it/10 N[]\OT1/cmr/m/n/10 )$ and $\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 (\OML
 /cmm/m/it/10 N[]\OT1/cmr/m/n/10 )$ serve as prob-a-bil-ity dis-tri-bu-tions $\O
@@ -1385,7 +1657,7 @@ ML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 )$ and $
 \OML/cmm/m/it/10 P[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 )$. 
  []
 
-)) (./PID.tex
+) (./PID.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
@@ -1394,15 +1666,15 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
 
-<graphics/pid/SDT_dEdx.pdf, id=1126, page=1, 569.12625pt x 408.52625pt>
+<graphics/pid/SDT_dEdx.pdf, id=1400, page=1, 569.12625pt x 408.52625pt>
 File: graphics/pid/SDT_dEdx.pdf Graphic file (type pdf)
 
 <use graphics/pid/SDT_dEdx.pdf, page 1>
 Package pdftex.def Info: graphics/pid/SDT_dEdx.pdf, page1 used on input line 33
 .
 (pdftex.def)             Requested size: 478.86255pt x 343.7519pt.
- [22]
-<graphics/pid/spectraFit_SDT.pdf, id=1140, page=1, 569.12625pt x 549.05125pt>
+ [26]
+<graphics/pid/spectraFit_SDT.pdf, id=1411, page=1, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 1>
@@ -1410,7 +1682,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page1 used on input l
 ine 63.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1141, page=14, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1412, page=14, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 14>
@@ -1418,18 +1690,18 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page14 used on input
 line 70.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1142, page=21, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1413, page=21, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 21>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page21 used on input 
 line 76.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
- [23 <./graphics/pid/SDT_dEdx.pdf, page is rotated 90 degrees>] [24 <./graphics
+ [27 <./graphics/pid/SDT_dEdx.pdf, page is rotated 90 degrees>] [28 <./graphics
 /pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit
 _SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page 
 is rotated 90 degrees>]
-<graphics/pid/spectraFit_SDT.pdf, id=1250, page=5, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1521, page=5, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 5>
@@ -1437,7 +1709,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page5 used on input l
 ine 114.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1251, page=16, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1522, page=16, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 16>
@@ -1445,16 +1717,16 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page16 used on input
 line 121.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1252, page=26, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1523, page=26, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 26>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page26 used on input 
 line 127.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
-) [25 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
+) [29 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
 cs/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraF
-it_SDT.pdf, page is rotated 90 degrees>]) (./dEdxFitAppendix.tex [26]
+it_SDT.pdf, page is rotated 90 degrees>]) (./dEdxFitAppendix.tex [30]
 Appendix A.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1476,7 +1748,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 7.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1308, page=2, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1578, page=2, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 2>
@@ -1484,7 +1756,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page2 used on input l
 ine 16.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1309, page=3, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1579, page=3, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 3>
@@ -1492,7 +1764,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page3 used on input l
 ine 23.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1310, page=4, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1580, page=4, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 4>
@@ -1506,7 +1778,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page5 used on input l
 ine 35.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1311, page=6, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1581, page=6, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 6>
@@ -1514,7 +1786,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page6 used on input l
 ine 42.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1312, page=7, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1582, page=7, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 7>
@@ -1522,7 +1794,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page7 used on input l
 ine 48.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1313, page=8, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1583, page=8, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 8>
@@ -1530,7 +1802,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page8 used on input l
 ine 54.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1314, page=9, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1584, page=9, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 9>
@@ -1538,7 +1810,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page9 used on input l
 ine 61.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1315, page=10, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1585, page=10, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 10>
@@ -1546,7 +1818,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page10 used on input
 line 67.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1316, page=11, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1586, page=11, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 11>
@@ -1554,7 +1826,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page11 used on input
 line 73.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1317, page=12, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1587, page=12, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 12>
@@ -1562,7 +1834,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page12 used on input
 line 80.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1318, page=13, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1588, page=13, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 13>
@@ -1570,7 +1842,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page13 used on input
 line 86.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1319, page=15, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1589, page=15, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 15>
@@ -1584,7 +1856,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page16 used on input
 line 104.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1320, page=17, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1590, page=17, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 17>
@@ -1592,7 +1864,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page17 used on input
 line 110.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1321, page=18, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1591, page=18, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 18>
@@ -1600,7 +1872,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page18 used on input
 line 116.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1322, page=19, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1592, page=19, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 19>
@@ -1608,14 +1880,14 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page19 used on input
 line 123.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1323, page=20, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1593, page=20, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 20>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page20 used on input 
 line 129.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
- [27
+ [31
 
  <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pi
 d/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SD
@@ -1626,7 +1898,7 @@ s/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFi
 t_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page
  is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 
 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees>]
-<graphics/pid/spectraFit_SDT.pdf, id=1372, page=22, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1643, page=22, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 22>
@@ -1634,7 +1906,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page22 used on input
 line 142.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1373, page=23, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1644, page=23, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 23>
@@ -1642,7 +1914,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page23 used on input
 line 149.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1374, page=24, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1645, page=24, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 24>
@@ -1650,7 +1922,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page24 used on input
 line 155.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1375, page=25, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1646, page=25, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 25>
@@ -1664,7 +1936,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page26 used on input
 line 168.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1376, page=27, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1647, page=27, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 27>
@@ -1672,7 +1944,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page27 used on input
 line 174.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1377, page=28, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1648, page=28, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 28>
@@ -1680,7 +1952,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page28 used on input
 line 180.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1378, page=29, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1649, page=29, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 29>
@@ -1688,7 +1960,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page29 used on input
 line 187.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1379, page=30, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1650, page=30, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 30>
@@ -1696,7 +1968,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page30 used on input
 line 193.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1380, page=31, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1651, page=31, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 31>
@@ -1704,7 +1976,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page31 used on input
 line 199.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1381, page=32, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1652, page=32, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 32>
@@ -1712,7 +1984,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page32 used on input
 line 206.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1382, page=33, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1653, page=33, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 33>
@@ -1720,7 +1992,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page33 used on input
 line 212.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1383, page=34, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1654, page=34, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 34>
@@ -1728,14 +2000,14 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page34 used on input
 line 218.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1384, page=35, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1655, page=35, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 35>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page35 used on input 
 line 224.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
-) [28 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
+) [32 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
 cs/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraF
 it_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, pag
 e is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90
@@ -1743,7 +2015,7 @@ e is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90
 Overfull \vbox (6.86818pt too high) has occurred while \output is active []
 
 
-[29 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics
+[33 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics
 /pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit
 _SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page 
 is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 d
@@ -1756,7 +2028,7 @@ graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/sp
 ectraFit_SDT.pdf, page is rotated 90 degrees>] (./PID_AnalysisNote.bbl)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
 
-[30
+[34
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
@@ -1764,47 +2036,45 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
 Package rerunfilecheck Info: File `PID_AnalysisNote.out' has not changed.
-(rerunfilecheck)             Checksum: F14A0CD9E54F9F5EA7BBD9F462BC7D21;1626.
+(rerunfilecheck)             Checksum: 05C0495C02EA83733148785AEF418883;1785.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
  ) 
 Here is how much of TeX's memory you used:
- 11216 strings out of 493089
- 187495 string characters out of 6134841
- 283766 words of memory out of 5000000
- 14364 multiletter control sequences out of 15000+600000
+ 11509 strings out of 493029
+ 192157 string characters out of 6136235
+ 283382 words of memory out of 5000000
+ 14691 multiletter control sequences out of 15000+600000
  21470 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,13n,51p,1166b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
-usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
-local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loca
-l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/
-texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
-xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texl
-ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texliv
-e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2
-015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2015
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2015/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2015/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2015/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2015/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2015/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dist/font
-s/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PID_AnalysisNote.pdf (30 pages, 1675904 bytes).
+ 36i,13n,53p,1166b,752s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on PID_AnalysisNote.pdf (34 pages, 1824500 bytes).
 PDF statistics:
- 1540 PDF objects out of 1728 (max. 8388607)
- 871 compressed objects within 9 object streams
- 145 named destinations out of 1000 (max. 500000)
- 678 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1813 PDF objects out of 2073 (max. 8388607)
+ 994 compressed objects within 10 object streams
+ 159 named destinations out of 1000 (max. 500000)
+ 794 words of extra memory for PDF output out of 10000 (max. 10000000)
 
