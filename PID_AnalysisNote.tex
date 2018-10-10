@@ -110,11 +110,14 @@
 % %% ===== DODATKI ===== ------------
  \begin{appendices}% 
 \input{dEdxFitAppendix.tex}
-% \input{Appendix_tDistributions.tex}
-% \input{Appendix_AngularBeamDivergence.tex}
-% \input{Appendix_BunchProfiles.tex}
  \end{appendices}
-
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Figures}
+\begingroup
+\let\clearpage\relax
+\listoftables
+\addcontentsline{toc}{chapter}{List of Tables}
+\endgroup
 
 \addcontentsline{toc}{chapter}{References}
 \bibliography{references.bib}{}
