@@ -24,7 +24,7 @@ and are processed through the full reconstruction chain.
 \subsection{Data-MC comparison}
 The most critical quality assurance is to make sure that the MC simulation reproduces the characteristics of the real data. This
 is carried out by comparing various distributions from real data and from embedding
-MC as shown in \Cref{fig:cutFlownpr,fig:cutFlowvz,fig:cutFlowEta,fig:cutFlowSDeta,fig:cutFlowpt,fig:cutFlowdca,fig:cutFlowhits}. Good agreement is found between embedding MC and real
+MC as shown in \Cref{fig:cutFlownpr,fig:cutFlowvz,fig:cutFlowEta,fig:cutFlowSDeta,fig:cutFlowpt,fig:cutFlowdca,fig:cutFlowhits,fig:cutFlowXi,fig:cutFlowPos}. Good agreement is found between embedding MC and real
 data.
 \begin{figure}[H]
 	\centering
@@ -180,6 +180,87 @@ data.
 	}	
 	\caption[Comparison of  the number of fit points and number of $dE/dx$ fit points for SD and CD collisions between embedding MC and real data]{Comparison of  the number of fit points and number of $dE/dx$ fit points for SD and CD collisions between embedding MC and real data. Blue lines and arrows indicate region accepted in analysis.}
 	\label{fig:cutFlowhits}
+\end{figure}
+
+
+\begin{figure}[H]
+	\centering
+	\parbox{0.484\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowxutsa}}{\includegraphics[width=\linewidth, page=1]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.484\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowxisb}}{\includegraphics[width=\linewidth, page=2]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\caption[Comparison of  the proton fractional momentum loss $\xi$ measured in RPs located on EAST for SD collisions between embedding MC and real data]{Comparison of  the proton fractional momentum loss $\xi$ measured in RPs located on EAST for SD collisions between embedding MC and real data. }
+	\label{fig:cutFlowXi}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpsa}}{\includegraphics[width=\linewidth, page=5]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpsb}}{\includegraphics[width=\linewidth, page=6]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpsc}}{\includegraphics[width=\linewidth, page=7]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpsd}}{\includegraphics[width=\linewidth, page=8]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpse}}{\includegraphics[width=\linewidth, page=9]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpsf}}{\includegraphics[width=\linewidth, page=10]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpsg}}{\includegraphics[width=\linewidth, page=11]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\quad
+	\parbox{0.45\textwidth}{
+		\centering
+		\begin{subfigure}[b]{\linewidth}{
+				\subcaptionbox{\label{fig:cutFlowpsh}}{\includegraphics[width=\linewidth, page=12]{graphics/cutFlow/SDT_RP.pdf}}}
+		\end{subfigure}
+	}
+	\caption[Comparison of  the proton position measured in RPs located on EAST for SD collisions between embedding MC and real data]{Comparison of  the proton position measured in RPs located on EAST for SD collisions between embedding MC and real data. }
+	\label{fig:cutFlowPos}
 \end{figure}
 
 \input{vertexing.tex}

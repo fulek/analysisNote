@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  10 OCT 2018 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  7 NOV 2018 22:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1396,26 +1396,116 @@ Package pdftex.def Info: graphics/cutFlow/CPT2.pdf, page9 used on input line 18
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
  [21 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFl
 ow/CPT2.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT.pdf, page is r
-otated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees>] (
-./vertexing.tex [22 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <.
-/graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT
-.pdf, page is rotated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated
- 90 degrees>]
-<graphics/vertexing/vertexEffi.pdf, id=1185, page=2, 569.12625pt x 408.52625pt>
+otated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees>]
+<graphics/cutFlow/SDT_RP.pdf, id=1173, page=1, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 1>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page1 used on input line 
+193.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1174, page=2, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 2>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page2 used on input line 
+200.
+(pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1175, page=5, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 5>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page5 used on input line 
+212.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1176, page=6, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 6>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page6 used on input line 
+219.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1177, page=7, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 7>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page7 used on input line 
+226.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1178, page=8, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 8>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page8 used on input line 
+233.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1179, page=9, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 9>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page9 used on input line 
+240.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1180, page=10, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 10>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page10 used on input line
+ 247.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1181, page=11, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 11>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page11 used on input line
+ 254.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+
+<graphics/cutFlow/SDT_RP.pdf, id=1182, page=12, 569.12625pt x 408.52625pt>
+File: graphics/cutFlow/SDT_RP.pdf Graphic file (type pdf)
+
+<use graphics/cutFlow/SDT_RP.pdf, page 12>
+Package pdftex.def Info: graphics/cutFlow/SDT_RP.pdf, page12 used on input line
+ 261.
+(pdftex.def)             Requested size: 217.66211pt x 156.23895pt.
+ [22 <./graphics/cutFlow/SDT.pdf, page is rotated 90 degrees> <./graphics/cutFl
+ow/CPT2.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT.pdf, page is r
+otated 90 degrees> <./graphics/cutFlow/CPT2.pdf, page is rotated 90 degrees> <.
+/graphics/cutFlow/SDT_RP.pdf, page is rotated 90 degrees> <./graphics/cutFlow/S
+DT_RP.pdf, page is rotated 90 degrees>]
+Overfull \vbox (7.25581pt too high) has occurred while \output is active []
+
+
+[23 <./graphics/cutFlow/SDT_RP.pdf, page is rotated 90 degrees> <./graphics/cut
+Flow/SDT_RP.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT_RP.pdf, pa
+ge is rotated 90 degrees> <./graphics/cutFlow/SDT_RP.pdf, page is rotated 90 de
+grees> <./graphics/cutFlow/SDT_RP.pdf, page is rotated 90 degrees> <./graphics/
+cutFlow/SDT_RP.pdf, page is rotated 90 degrees> <./graphics/cutFlow/SDT_RP.pdf,
+ page is rotated 90 degrees> <./graphics/cutFlow/SDT_RP.pdf, page is rotated 90
+ degrees>] (./vertexing.tex
+<graphics/vertexing/vertexEffi.pdf, id=1242, page=2, 569.12625pt x 408.52625pt>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
 <use graphics/vertexing/vertexEffi.pdf, page 2>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page2 used on input
  line 45.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1186, page=3, 569.12625pt x 408.52625pt>
+<graphics/vertexing/vertexEffi.pdf, id=1243, page=3, 569.12625pt x 408.52625pt>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
 <use graphics/vertexing/vertexEffi.pdf, page 3>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page3 used on input
  line 52.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1187, page=20, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1244, page=20, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 20>
@@ -1423,7 +1513,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page20 used on inpu
 t line 58.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1188, page=21, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1245, page=21, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 21>
@@ -1431,7 +1521,10 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page21 used on inpu
 t line 65.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/chargedMC/bkg0max.pdf, id=1190, page=19, 569.12625pt x 408.52625pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<graphics/chargedMC/bkg0max.pdf, id=1247, page=19, 569.12625pt x 408.52625pt>
 File: graphics/chargedMC/bkg0max.pdf Graphic file (type pdf)
 
 <use graphics/chargedMC/bkg0max.pdf, page 19>
@@ -1439,32 +1532,34 @@ Package pdftex.def Info: graphics/chargedMC/bkg0max.pdf, page19 used on input l
 ine 93.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
 
-<graphics/chargedMC/bkg1max.pdf, id=1191, page=15, 569.12625pt x 408.52625pt>
+<graphics/chargedMC/bkg1max.pdf, id=1248, page=15, 569.12625pt x 408.52625pt>
 File: graphics/chargedMC/bkg1max.pdf Graphic file (type pdf)
 
 <use graphics/chargedMC/bkg1max.pdf, page 15>
 Package pdftex.def Info: graphics/chargedMC/bkg1max.pdf, page15 used on input l
 ine 100.
 (pdftex.def)             Requested size: 234.10614pt x 168.0454pt.
- [23 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graph
-ics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing
-/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.p
-df, page is rotated 90 degrees>]
-<graphics/vertexing/vertexEffi.pdf, id=1246, page=4, 569.12625pt x 408.52625pt>
+ [24] [25 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./
+graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vert
+exing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexE
+ffi.pdf, page is rotated 90 degrees> <./graphics/chargedMC/bkg0max.pdf, page is
+ rotated 90 degrees> <./graphics/chargedMC/bkg1max.pdf, page is rotated 90 degr
+ees>]
+<graphics/vertexing/vertexEffi.pdf, id=1399, page=4, 569.12625pt x 408.52625pt>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
 <use graphics/vertexing/vertexEffi.pdf, page 4>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page4 used on input
  line 128.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1247, page=7, 569.12625pt x 408.52625pt>
+<graphics/vertexing/vertexEffi.pdf, id=1400, page=7, 569.12625pt x 408.52625pt>
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
 <use graphics/vertexing/vertexEffi.pdf, page 7>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page7 used on input
  line 135.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1248, page=10, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1401, page=10, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 10>
@@ -1472,7 +1567,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page10 used on inpu
 t line 141.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1249, page=13, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1402, page=13, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 13>
@@ -1480,7 +1575,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page13 used on inpu
 t line 148.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1250, page=16, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1403, page=16, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 16>
@@ -1488,7 +1583,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page16 used on inpu
 t line 154.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1251, page=22, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1404, page=22, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 22>
@@ -1496,7 +1591,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page22 used on inpu
 t line 165.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1252, page=25, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1405, page=25, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 25>
@@ -1504,7 +1599,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page25 used on inpu
 t line 172.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1253, page=28, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1406, page=28, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 28>
@@ -1512,7 +1607,7 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page28 used on inpu
 t line 178.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1254, page=31, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1407, page=31, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 31>
@@ -1520,16 +1615,19 @@ Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page31 used on inpu
 t line 185.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
 
-<graphics/vertexing/vertexEffi.pdf, id=1255, page=34, 569.12625pt x 408.52625pt
+<graphics/vertexing/vertexEffi.pdf, id=1408, page=34, 569.12625pt x 408.52625pt
 >
 File: graphics/vertexing/vertexEffi.pdf Graphic file (type pdf)
  <use graphics/vertexing/vertexEffi.pdf, page 34>
 Package pdftex.def Info: graphics/vertexing/vertexEffi.pdf, page34 used on inpu
 t line 191.
 (pdftex.def)             Requested size: 145.11053pt x 104.16345pt.
- [24 <./graphics/chargedMC/bkg0max.pdf, page is rotated 90 degrees> <./graphics
-/chargedMC/bkg1max.pdf, page is rotated 90 degrees>])) (./chargedCorrections.te
-x
+)) (./chargedCorrections.tex
+[26 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphi
+cs/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/
+vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pd
+f, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pdf, page is ro
+tated 90 degrees>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2.
@@ -1542,15 +1640,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 2.
 
-[25 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphi
-cs/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/
-vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pd
-f, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pdf, page is ro
-tated 90 degrees> <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degr
-ees> <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graph
-ics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing
-/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.p
-df, page is rotated 90 degrees>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
@@ -1573,15 +1663,20 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
 
-<graphics/pid/SDT_dEdx.pdf, id=1411, page=1, 569.12625pt x 408.52625pt>
+[27 <./graphics/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphi
+cs/vertexing/vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/
+vertexEffi.pdf, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pd
+f, page is rotated 90 degrees> <./graphics/vertexing/vertexEffi.pdf, page is ro
+tated 90 degrees>]
+<graphics/pid/SDT_dEdx.pdf, id=1478, page=1, 569.12625pt x 408.52625pt>
 File: graphics/pid/SDT_dEdx.pdf Graphic file (type pdf)
 
 <use graphics/pid/SDT_dEdx.pdf, page 1>
 Package pdftex.def Info: graphics/pid/SDT_dEdx.pdf, page1 used on input line 33
 .
 (pdftex.def)             Requested size: 478.86255pt x 343.7519pt.
- [26]
-<graphics/pid/spectraFit_SDT.pdf, id=1422, page=1, 569.12625pt x 549.05125pt>
+
+<graphics/pid/spectraFit_SDT.pdf, id=1480, page=1, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 1>
@@ -1589,7 +1684,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page1 used on input l
 ine 63.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1423, page=14, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1481, page=14, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 14>
@@ -1597,18 +1692,18 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page14 used on input
 line 70.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1424, page=21, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1482, page=21, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 21>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page21 used on input 
 line 76.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
- [27 <./graphics/pid/SDT_dEdx.pdf, page is rotated 90 degrees>] [28 <./graphics
+ [28 <./graphics/pid/SDT_dEdx.pdf, page is rotated 90 degrees>] [29 <./graphics
 /pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit
 _SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page 
 is rotated 90 degrees>]
-<graphics/pid/spectraFit_SDT.pdf, id=1532, page=5, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1591, page=5, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 5>
@@ -1616,7 +1711,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page5 used on input l
 ine 114.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1533, page=16, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1592, page=16, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 16>
@@ -1624,16 +1719,16 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page16 used on input
 line 121.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1534, page=26, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1593, page=26, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 26>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page26 used on input 
 line 127.
 (pdftex.def)             Requested size: 234.10614pt x 225.84972pt.
-) [29 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
+) [30 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
 cs/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraF
-it_SDT.pdf, page is rotated 90 degrees>]) (./dEdxFitAppendix.tex [30]
+it_SDT.pdf, page is rotated 90 degrees>]) (./dEdxFitAppendix.tex [31]
 Appendix A.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1655,7 +1750,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 7.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1589, page=2, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1650, page=2, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 2>
@@ -1663,7 +1758,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page2 used on input l
 ine 16.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1590, page=3, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1651, page=3, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 3>
@@ -1671,7 +1766,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page3 used on input l
 ine 23.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1591, page=4, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1652, page=4, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 4>
@@ -1685,7 +1780,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page5 used on input l
 ine 35.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1592, page=6, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1653, page=6, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 6>
@@ -1693,7 +1788,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page6 used on input l
 ine 42.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1593, page=7, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1654, page=7, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 7>
@@ -1701,7 +1796,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page7 used on input l
 ine 48.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1594, page=8, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1655, page=8, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 8>
@@ -1709,7 +1804,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page8 used on input l
 ine 54.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1595, page=9, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1656, page=9, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 9>
@@ -1717,7 +1812,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page9 used on input l
 ine 61.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1596, page=10, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1657, page=10, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 10>
@@ -1725,7 +1820,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page10 used on input
 line 67.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1597, page=11, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1658, page=11, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 11>
@@ -1733,7 +1828,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page11 used on input
 line 73.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1598, page=12, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1659, page=12, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 12>
@@ -1741,7 +1836,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page12 used on input
 line 80.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1599, page=13, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1660, page=13, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 13>
@@ -1749,7 +1844,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page13 used on input
 line 86.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1600, page=15, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1661, page=15, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 15>
@@ -1763,7 +1858,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page16 used on input
 line 104.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1601, page=17, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1662, page=17, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 17>
@@ -1771,7 +1866,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page17 used on input
 line 110.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1602, page=18, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1663, page=18, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 18>
@@ -1779,7 +1874,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page18 used on input
 line 116.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1603, page=19, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1664, page=19, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 19>
@@ -1787,14 +1882,14 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page19 used on input
 line 123.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1604, page=20, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1665, page=20, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 20>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page20 used on input 
 line 129.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
- [31
+ [32
 
  <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pi
 d/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SD
@@ -1805,7 +1900,7 @@ s/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFi
 t_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page
  is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 
 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees>]
-<graphics/pid/spectraFit_SDT.pdf, id=1655, page=22, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1714, page=22, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 22>
@@ -1813,7 +1908,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page22 used on input
 line 142.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1656, page=23, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1715, page=23, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 23>
@@ -1821,7 +1916,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page23 used on input
 line 149.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1657, page=24, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1716, page=24, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 24>
@@ -1829,7 +1924,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page24 used on input
 line 155.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1658, page=25, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1717, page=25, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 25>
@@ -1843,7 +1938,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page26 used on input
 line 168.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1659, page=27, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1718, page=27, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 27>
@@ -1851,7 +1946,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page27 used on input
 line 174.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1660, page=28, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1719, page=28, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 28>
@@ -1859,7 +1954,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page28 used on input
 line 180.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1661, page=29, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1720, page=29, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 29>
@@ -1867,7 +1962,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page29 used on input
 line 187.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1662, page=30, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1721, page=30, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 30>
@@ -1875,7 +1970,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page30 used on input
 line 193.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1663, page=31, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1722, page=31, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 31>
@@ -1883,7 +1978,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page31 used on input
 line 199.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1664, page=32, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1723, page=32, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 32>
@@ -1891,7 +1986,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page32 used on input
 line 206.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1665, page=33, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1724, page=33, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 33>
@@ -1899,7 +1994,7 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page33 used on input
 line 212.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1666, page=34, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1725, page=34, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 34>
@@ -1907,14 +2002,14 @@ Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page34 used on input
 line 218.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
 
-<graphics/pid/spectraFit_SDT.pdf, id=1667, page=35, 569.12625pt x 549.05125pt>
+<graphics/pid/spectraFit_SDT.pdf, id=1726, page=35, 569.12625pt x 549.05125pt>
 File: graphics/pid/spectraFit_SDT.pdf Graphic file (type pdf)
 
 <use graphics/pid/spectraFit_SDT.pdf, page 35>
 Package pdftex.def Info: graphics/pid/spectraFit_SDT.pdf, page35 used on input 
 line 224.
 (pdftex.def)             Requested size: 145.11053pt x 139.99365pt.
-) [32 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
+) [33 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphi
 cs/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraF
 it_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, pag
 e is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90
@@ -1922,7 +2017,7 @@ e is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90
 Overfull \vbox (6.86818pt too high) has occurred while \output is active []
 
 
-[33 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics
+[34 <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics
 /pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit
 _SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page 
 is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 d
@@ -1932,7 +2027,7 @@ aFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, p
 age is rotated 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 
 90 degrees> <./graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./
 graphics/pid/spectraFit_SDT.pdf, page is rotated 90 degrees> <./graphics/pid/sp
-ectraFit_SDT.pdf, page is rotated 90 degrees>] (./PID_AnalysisNote.lof [34
+ectraFit_SDT.pdf, page is rotated 90 degrees>] (./PID_AnalysisNote.lof [35
 
 ])
 \tf@lof=\write5
@@ -1943,9 +2038,9 @@ ectraFit_SDT.pdf, page is rotated 90 degrees>] (./PID_AnalysisNote.lof [34
 \tf@lot=\write6
 \openout6 = `PID_AnalysisNote.lot'.
 
- (./PID_AnalysisNote.bbl [35])
+ (./PID_AnalysisNote.bbl [36])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
- [36
+ [37
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
@@ -1954,14 +2049,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
 Package rerunfilecheck Info: File `PID_AnalysisNote.out' has not changed.
-(rerunfilecheck)             Checksum: 20F23E3A0ED54BFC9CCF32B6F17D24EB;1884.
+(rerunfilecheck)             Checksum: 5D9D2A109E45982AF10A93E2E52F0E73;1884.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
  ) 
 Here is how much of TeX's memory you used:
- 11404 strings out of 493089
- 192060 string characters out of 6134841
+ 11483 strings out of 493089
+ 194141 string characters out of 6134841
  285766 words of memory out of 5000000
- 14525 multiletter control sequences out of 15000+600000
+ 14600 multiletter control sequences out of 15000+600000
  21470 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,13n,51p,1166b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1991,10 +2086,10 @@ nts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2015/texmf-dist/font
 s/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2015/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmtt10.pfb>
-Output written on PID_AnalysisNote.pdf (36 pages, 1833204 bytes).
+Output written on PID_AnalysisNote.pdf (37 pages, 1895594 bytes).
 PDF statistics:
- 1885 PDF objects out of 2073 (max. 8388607)
- 1063 compressed objects within 11 object streams
- 163 named destinations out of 1000 (max. 500000)
- 810 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1951 PDF objects out of 2073 (max. 8388607)
+ 1093 compressed objects within 11 object streams
+ 166 named destinations out of 1000 (max. 500000)
+ 860 words of extra memory for PDF output out of 10000 (max. 10000000)
 

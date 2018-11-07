@@ -23,14 +23,16 @@
 \contentsline {figure}{\numberline {3.19}{\ignorespaces Comparison of the transverse momentum distributions, $p_T$, for SD collisions between embedding MC and real data}}{20}{figure.caption.22}
 \contentsline {figure}{\numberline {3.20}{\ignorespaces Comparison of the radial and logitudinal component of global track DCA for SD and CD collisions between embedding MC and real data}}{21}{figure.caption.23}
 \contentsline {figure}{\numberline {3.21}{\ignorespaces Comparison of the number of fit points and number of $dE/dx$ fit points for SD and CD collisions between embedding MC and real data}}{22}{figure.caption.24}
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Vertex-finding efficiency and fake vertex rate}}{23}{figure.caption.28}
-\contentsline {figure}{\numberline {3.23}{\ignorespaces The $p_T$ dependent correction to particle spectra due to fake vertex events, $\epsilon _{fake}(p_T)$, in SD and CD collisions}}{24}{figure.caption.30}
-\contentsline {figure}{\numberline {3.24}{\ignorespaces Fraction of events with reconstructed best vertex and additional reconstructed vertices as a function of $N_{vrt}^{global}$}}{25}{figure.caption.32}
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Fraction of events with reconstructed best vertex and additional reconstructed vertices as a function of $|\Delta z_0|$}}{25}{figure.caption.33}
-\contentsline {figure}{\numberline {3.26}{\ignorespaces Specific ionization energy loss $dE/dx$ as a function of rigidity $q\times p$ for particles in $|\eta | < 0.7$ measured in $200$\nobreakspace {}GeV SD pp collisions by the STAR-TPC}}{27}{figure.caption.34}
-\contentsline {figure}{\numberline {3.27}{\ignorespaces The $n\sigma ^{i}_{dE/dx}$ variable versus $p_T$ in SD collisions}}{28}{figure.caption.35}
-\contentsline {figure}{\numberline {3.28}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $, $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ and $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ for $\mathaccentV {bar}016{p}/p$ in SD collisions}}{29}{figure.caption.36}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Comparison of the proton fractional momentum loss $\xi $ measured in RPs located on EAST for SD collisions between embedding MC and real data}}{22}{figure.caption.25}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Comparison of the proton position measured in RPs located on EAST for SD collisions between embedding MC and real data}}{23}{figure.caption.26}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Vertex-finding efficiency and fake vertex rate}}{25}{figure.caption.30}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces The $p_T$ dependent correction to particle spectra due to fake vertex events, $\epsilon _{fake}(p_T)$, in SD and CD collisions}}{25}{figure.caption.32}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Fraction of events with reconstructed best vertex and additional reconstructed vertices as a function of $N_{vrt}^{global}$}}{26}{figure.caption.34}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Fraction of events with reconstructed best vertex and additional reconstructed vertices as a function of $|\Delta z_0|$}}{27}{figure.caption.35}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Specific ionization energy loss $dE/dx$ as a function of rigidity $q\times p$ for particles in $|\eta | < 0.7$ measured in $200$\nobreakspace {}GeV SD pp collisions by the STAR-TPC}}{28}{figure.caption.36}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces The $n\sigma ^{i}_{dE/dx}$ variable versus $p_T$ in SD collisions}}{29}{figure.caption.37}
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $, $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ and $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ for $\mathaccentV {bar}016{p}/p$ in SD collisions}}{30}{figure.caption.38}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD collisions}}{31}{figure.caption.37}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD collisions}}{32}{figure.caption.38}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ for $\mathaccentV {bar}016{p}/p$ in SD collisions}}{33}{figure.caption.39}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD collisions}}{32}{figure.caption.39}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD collisions}}{33}{figure.caption.40}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ for $\mathaccentV {bar}016{p}/p$ in SD collisions}}{34}{figure.caption.41}

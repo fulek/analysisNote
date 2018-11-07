@@ -18,15 +18,15 @@
 \contentsline {section}{\numberline {3.4}Corrections}{18}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Monte Carlo Embedding Technique}{18}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}Data-MC comparison}{18}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Vertex reconstruction}{22}{subsection.3.4.3}
-\contentsline {subsubsection}{Track quality cuts used for vertexing}{22}{section*.25}
-\contentsline {subsubsection}{Vertex efficiency and fake vertex}{22}{section*.27}
-\contentsline {subsubsection}{Fake vertex events}{24}{section*.29}
-\contentsline {subsubsection}{Other corrections to the reconstructed vertices}{24}{section*.31}
-\contentsline {section}{\numberline {3.5}Inclusive charged particle distributions}{25}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Correction to $dN/dn_{ch}$}{25}{subsection.3.5.1}
-\contentsline {section}{\numberline {3.6}Particle Identification by $dE/dx$}{26}{section.3.6}
-\contentsline {chapter}{\numberline {A}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{31}{Appendix.1.A}
-\contentsline {chapter}{List of Figures}{35}{chapter*.40}
-\contentsline {chapter}{List of Tables}{35}{chapter*.41}
-\contentsline {chapter}{References}{35}{chapter*.41}
+\contentsline {subsection}{\numberline {3.4.3}Vertex reconstruction}{24}{subsection.3.4.3}
+\contentsline {subsubsection}{Track quality cuts used for vertexing}{24}{section*.27}
+\contentsline {subsubsection}{Vertex efficiency and fake vertex}{24}{section*.29}
+\contentsline {subsubsection}{Fake vertex events}{24}{section*.31}
+\contentsline {subsubsection}{Other corrections to the reconstructed vertices}{25}{section*.33}
+\contentsline {section}{\numberline {3.5}Inclusive charged particle distributions}{27}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Correction to $dN/dn_{ch}$}{27}{subsection.3.5.1}
+\contentsline {section}{\numberline {3.6}Particle Identification by $dE/dx$}{28}{section.3.6}
+\contentsline {chapter}{\numberline {A}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{32}{Appendix.1.A}
+\contentsline {chapter}{List of Figures}{36}{chapter*.42}
+\contentsline {chapter}{List of Tables}{36}{chapter*.43}
+\contentsline {chapter}{References}{36}{chapter*.43}
