@@ -1,0 +1,36 @@
+\BOOKMARK [0][-]{Doc-Start}{List of contributions}{}% 1
+\BOOKMARK [0][-]{Doc-Start}{Change log}{}% 2
+\BOOKMARK [0][-]{chapter*.2}{List of Figures}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
+\BOOKMARK [0][-]{chapter.2}{Data Sample and Signal Selection in STAR}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Data Sample}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Online Selection}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.3}{Reconstruction}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.4}{Event Selection}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.5}{Track Selection}{chapter.2}% 10
+\BOOKMARK [1][-]{section.2.6}{Fiducial Region of the Measurement}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.7}{Monte Carlo Samples }{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{Charged Particle Production Measured with the STAR Detector}{}% 13
+\BOOKMARK [1][-]{section.3.1}{Background Contribution}{chapter.3}% 14
+\BOOKMARK [2][-]{subsection.3.1.1}{Accidental Background}{section.3.1}% 15
+\BOOKMARK [2][-]{subsection.3.1.2}{Non-SD Background}{section.3.1}% 16
+\BOOKMARK [2][-]{subsection.3.1.3}{Background from Non-Primary Tracks}{section.3.1}% 17
+\BOOKMARK [1][-]{section.3.2}{Selection Efficiencies}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.2.1}{TPC Track Reconstruction}{section.3.2}% 19
+\BOOKMARK [2][-]{subsection.3.2.2}{TOF Matching Efficiency}{section.3.2}% 20
+\BOOKMARK [2][-]{subsection.3.2.3}{Vertex Reconstruction}{section.3.2}% 21
+\BOOKMARK [2][-]{subsection.3.2.4}{Correction to BBC-Small }{section.3.2}% 22
+\BOOKMARK [1][-]{section.3.3}{Corrections related to the fiducial region definition}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.3.1}{Energy Loss Correction}{section.3.3}% 24
+\BOOKMARK [2][-]{subsection.3.3.2}{Migrations of Tracks into and out of the Fiducial Region}{section.3.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.3}{Migrations of }{section.3.3}% 26
+\BOOKMARK [1][-]{section.3.4}{Corrections and Unfolding Procedure}{chapter.3}% 27
+\BOOKMARK [2][-]{subsection.3.4.1}{Correction to dN/dnch}{section.3.4}% 28
+\BOOKMARK [2][-]{subsection.3.4.2}{Particle Identification}{section.3.4}% 29
+\BOOKMARK [1][-]{section.3.5}{Systematic Uncertainties}{chapter.3}% 30
+\BOOKMARK [1][-]{section.3.6}{Results}{chapter.3}% 31
+\BOOKMARK [0][-]{chapter.4}{Summary and Conclusions}{}% 32
+\BOOKMARK [0][-]{chapter*.42}{Bibliography}{}% 33
+\BOOKMARK [0][-]{section*.43}{Appendices}{}% 34
+\BOOKMARK [0][-]{Appendix.1.A}{Proton and Antiproton DCA Distributions}{}% 35
+\BOOKMARK [0][-]{Appendix.1.B}{Distributions of nidE/dx in SD}{}% 36

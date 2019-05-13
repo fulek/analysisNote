@@ -1,0 +1,20 @@
+\subsection{Migrations of Tracks into and out of the Fiducial Region}\label{section:star_okr}
+The procedure, described in this section, accounts for migrations of tracks into and out of the fiducial region, which originate from TPC resolution effects. The fraction of such tracks, $f_{okr}(p_T, \eta)$ was defined as follows:
+\begin{equation}
+f_{okr}(p_T, \eta)=f_{okr}^-(p_T, \eta)-f_{okr}^+(p_T, \eta)
+\end{equation}
+where:
+\begin{description}
+	\item $f_{okr}^-(p_T, \eta)$ is the fraction of reconstructed tracks for which the corresponding primary particle is outside of the kinematic range of the measurement,
+	\item $f_{okr}^+(p_T, \eta)$  is the fraction of primary particles for which the corresponding reconstructed track is outside of the kinematic range of the measurement.
+\end{description}
+The resulting residual migrations, shown in Fig.~\ref{fig:okr}, were estimated using MC. The main effect  was observed  at $|\eta| \sim 0.7$, where about $2-6\%$ reconstructed tracks were associated to primary particle outside the fiducial region.  
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.49\textwidth, page=1]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\includegraphics[width=0.49\textwidth, page=2]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\caption[Fraction of selected tracks migrating from outside of the kinematic range to the signal region and fraction of particles for which the corresponding reconstructed track is outside the kinematic range of the measurement ]{Fraction of selected tracks migrating from outside of the kinematic range to the signal region (left) and fraction of particles for which the corresponding reconstructed track is outside the kinematic range of the measurement (right).}
+	\label{fig:okr}
+\end{figure}
+\FloatBarrier
