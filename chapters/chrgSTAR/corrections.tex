@@ -1,6 +1,33 @@
 \section{Corrections and Unfolding Procedure}\label{section:star_corrections}
+After the subtraction of accidental and non-SD backgrounds, the data was corrected to obtain the inclusive distributions of charged particles and particle to antiparticle (pion, kaon, proton and their antiparticle) multiplicity ratios. These corrections due to detector effects include:
+\begin{itemize}
+	\item event-by-event weights due to vertex reconstruction efficiency:
+\begin{equation}
+w_{ev}^{vrt}\left(n_{vrt}^{global}, |\Delta z_0|\right)=\frac{1}{\epsilon_{vrt}\left(n_{vrt}^{global}, |\Delta z_0|\right)}\cdot\frac{1}{\epsilon_{vrt}^{veto}\left(n_{vrt}^{global}, |\Delta z_0|\right)}
+\label{eq:vertexCorrection}
+\end{equation}
+where the 	$|\Delta z_0|$ dependence is only applicable for events with $n_{vrt}^{global}$ as described in Sec.~\ref{section:star_vertex}.
+	\item track-by-track weights due to track reconstruction efficiency, track backgrounds from non-primary tracks, migrations of tracks into and out of the fiducial region:
+\begin{equation}
+w_{trk}\left(p_T,\eta,V_{z}\right)=\frac{1-f_{okr}\left(p_T,\eta\right)-f_{bkg}\left(p_T,\eta\right)-f_{fake}\left(p_T,\eta\right)}{\epsilon_{ TPC}\left(p_T,\eta,V_{z}\right)\epsilon_{ TOF}\left(p_T,\eta,V_{z}\right)}
+\label{eq:trackCorrection}
+\end{equation}
+\item event-by-event (for $n_{ch}$ distribution ) or track-by-track (for $p_T$, $\eta$ distributions) weights, $f_{\xi}$, due to migrations of events between three $\xi$ regions.
+\end{itemize}
+Additionally, the obtained distributions were corrected due to BBC-small efficiency by using the following weight:
+\begin{equation}
+w_{BBC} = \frac{1}{\epsilon_{ BBC}}
+\label{eq:bbcCorrection}
+\end{equation} 
 
-%vertexing
+In the following sections, the correction procedure   for each of the measured distributions is presented separately.
+The uncorrected distribtuions in a wider range  are shown in \cref{fig:nonSDnsel,fig:nonSDpt,fig:nonSDera}.
+
+%multiplicity
 \input{chapters/chrgSTAR/dNdnch.tex}
+%eta, pT
+\input{chapters/chrgSTAR/dNdptdeta.tex}
 %vertexing
 \input{chapters/chrgSTAR/PIDdEdx.tex}
+%ratios
+\input{chapters/chrgSTAR/ratios.tex}

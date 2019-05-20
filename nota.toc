@@ -36,12 +36,14 @@
 \contentsline {subsection}{\numberline {3.3.2}Migrations of Tracks into and out of the Fiducial Region}{26}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Migrations of $\xi $}{27}{subsection.3.3.3}
 \contentsline {section}{\numberline {3.4}Corrections and Unfolding Procedure}{29}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Correction to $dN/dn_{ch}$}{29}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Particle Identification}{31}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}Systematic Uncertainties}{37}{section.3.5}
-\contentsline {section}{\numberline {3.6}Results}{37}{section.3.6}
-\contentsline {chapter}{\numberline {4}Summary and Conclusions}{45}{chapter.4}
-\contentsline {chapter}{\nonumberline Bibliography}{46}{chapter*.42}
-\contentsline {chapter}{Appendices}{47}{section*.43}
-\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{48}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{61}{Appendix.1.B}
+\contentsline {subsection}{\numberline {3.4.1}Correction to $dN/dn_{ch}$}{30}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Correction to transverse momentum and pseudorapidity distribution}{32}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Particle Identification}{33}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Antiparticle-to-Particle Ratios}{39}{subsection.3.4.4}
+\contentsline {section}{\numberline {3.5}Systematic Uncertainties}{40}{section.3.5}
+\contentsline {section}{\numberline {3.6}Results}{45}{section.3.6}
+\contentsline {chapter}{\numberline {4}Summary and Conclusions}{52}{chapter.4}
+\contentsline {chapter}{\nonumberline Bibliography}{53}{chapter*.47}
+\contentsline {chapter}{Appendices}{54}{section*.48}
+\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{55}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{68}{Appendix.1.B}

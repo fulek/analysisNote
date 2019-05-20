@@ -24,44 +24,52 @@
 \contentsline {figure}{\numberline {3.16}{\ignorespaces PYTHIA~8 4C (SaS) prediction on BBC efficiency divided by the~HERWIG prediction as a function of $n_{ch}$, $p_T$ and $\mathaccentV {bar}016{\eta }$ in three ranges of $\xi $}}{25}{figure.caption.22}
 \contentsline {figure}{\numberline {3.17}{\ignorespaces Fraction of selected tracks migrating from outside of the kinematic range to the signal region and fraction of particles for which the corresponding reconstructed track is outside the kinematic range of the measurement }}{26}{figure.caption.23}
 \contentsline {figure}{\numberline {3.18}{\ignorespaces The resolution of $\xi _{reco}$ as a function of $\xi _{true}$}}{27}{figure.caption.24}
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Fraction of events $f_{xi}^-$ and $f_{xi}^+$ as a function of $n_{ch}$ in three ranges of $\xi $}}{27}{figure.caption.25}
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Fraction of events $f_{xi}^-$ and $f_{xi}^+$ as a function of $p_T$ in three ranges of $\xi $}}{28}{figure.caption.26}
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Fraction of events $f_{xi}^-$ and $f_{xi}^+$ as a function of $\mathaccentV {bar}016{\eta }$ in three ranges of $\xi $}}{29}{figure.caption.27}
-\contentsline {figure}{\numberline {3.22}{\ignorespaces \relax }}{30}{figure.caption.28}
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Specific ionization energy loss $dE/dx$ as a function of rigidity $q\times p$ for particles in $|\eta | < 0.7$}}{31}{figure.caption.29}
-\contentsline {figure}{\numberline {3.24}{\ignorespaces The $n\sigma ^{i}_{dE/dx}$ variable versus $p_T$}}{32}{figure.caption.30}
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $, $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ and $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ for $\mathaccentV {bar}016{p}/p$}}{33}{figure.caption.31}
-\contentsline {figure}{\numberline {3.26}{\ignorespaces Means, widths and electron amplitudes of each $n\sigma ^{\pi ^\pm }_{dE/dx}$ fit as a function of $p_T$.}}{35}{figure.caption.32}
-\contentsline {figure}{\numberline {3.27}{\ignorespaces Means, widths and electron amplitudes of each $n\sigma ^{K^\pm }_{dE/dx}$ fit as a function of $p_T$.}}{36}{figure.caption.33}
-\contentsline {figure}{\numberline {3.28}{\ignorespaces Means and widths of each $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ fit as a function of $p_T$.}}{37}{figure.caption.34}
-\contentsline {figure}{\numberline {3.29}{\ignorespaces Primary charged-particle multiplicity shown separately for three ranges of the $\xi $ and the mean multiplicity $\delimiter "426830A n_{ch}\delimiter "526930B $ as a function of $\xi $.}}{38}{figure.caption.35}
-\contentsline {figure}{\numberline {3.30}{\ignorespaces Primary charged-particle multiplicities as a function of $p_T$ shown separately for three ranges of the $\xi $ and the mean transverse momenta $\delimiter "426830A p_T\delimiter "526930B $ as a function of $\xi $.}}{39}{figure.caption.36}
-\contentsline {figure}{\numberline {3.31}{\ignorespaces Primary charged-particle multiplicity as a function of $\mathaccentV {bar}016{\eta }$ shown separately for three ranges of the $\xi $ and the mean pseudorapidity $\delimiter "426830A \mathaccentV {bar}016{\eta }\delimiter "526930B $ as a function of $\xi $.}}{40}{figure.caption.37}
-\contentsline {figure}{\numberline {3.32}{\ignorespaces Ratio of production yields of $\pi ^-/\pi ^+$ as a function of $p_T$ shown separately for three ranges of the $\xi $.}}{41}{figure.caption.38}
-\contentsline {figure}{\numberline {3.33}{\ignorespaces Ratio of production yields of $K^-/K^+$ as a function of $p_T$ shown separately for three ranges of the $\xi $.}}{42}{figure.caption.39}
-\contentsline {figure}{\numberline {3.34}{\ignorespaces Ratio of production yields of $\mathaccentV {bar}016{p}/p$ as a function of $p_T$ shown separately for three ranges of the $\xi $.}}{43}{figure.caption.40}
-\contentsline {figure}{\numberline {3.35}{\ignorespaces Ratio of production yields of $\pi ^-/\pi ^+$, $K^-/K^+$ and $\mathaccentV {bar}016{p}/p$ as a~function of $\xi $. \relax }}{44}{figure.caption.41}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Fraction of events $f_{\xi }^-$ and $f_{\xi }^+$ as a function of $n_{ch}$ in three ranges of $\xi $}}{27}{figure.caption.25}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Fraction of events $f_{\xi }^-$ and $f_{\xi }^+$ as a function of $p_T$ in three ranges of $\xi $}}{28}{figure.caption.26}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Fraction of events $f_{\xi }^-$ and $f_{\xi }^+$ as a function of $\mathaccentV {bar}016{\eta }$ in three ranges of $\xi $}}{29}{figure.caption.27}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces $\epsilon ^{m}(n_{ch})$ and $\epsilon ^{r}(n_{ch})$ in three ranges of $\xi $}}{31}{figure.caption.28}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces The unfolding matrices calculated from MC for three ranges of $\xi $ separately.\relax }}{32}{figure.caption.29}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Specific ionization energy loss $dE/dx$ as a function of rigidity $q\times p$ for particles in $|\eta | < 0.7$}}{33}{figure.caption.30}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces The $n\sigma ^{i}_{dE/dx}$ variable versus $p_T$}}{34}{figure.caption.31}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $, $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ and $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ for $\mathaccentV {bar}016{p}/p$}}{35}{figure.caption.32}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces Means, widths and electron amplitudes of each $n\sigma ^{\pi ^\pm }_{dE/dx}$ fit as a function of $p_T$.}}{37}{figure.caption.33}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Means and widths of each $n\sigma ^{\mathaccentV {bar}016{p}/p}_{dE/dx}$ fit as a function of $p_T$.}}{38}{figure.caption.34}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces Means, widths and electron amplitudes of each $n\sigma ^{K^\pm }_{dE/dx}$ fit as a function of $p_T$.}}{39}{figure.caption.35}
+\contentsline {figure}{\numberline {3.30}{\ignorespaces Components of the systematic uncertainties for the charged particle multiplicity in three $\xi $ regions and the average charged particle multiplicity}}{41}{figure.caption.36}
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Components of the systematic uncertainties for $p_T$ distributions in three $\xi $ regions and the average $p_T$ distribution}}{42}{figure.caption.37}
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Components of the systematic uncertainties for $\mathaccentV {bar}016{\eta }$ distributions in three $\xi $ regions and the average $\mathaccentV {bar}016{\eta }$ distribution}}{42}{figure.caption.37}
+\contentsline {figure}{\numberline {3.33}{\ignorespaces Components of the systematic uncertainties of $\pi ^-/\pi ^+$ multiplicity ratios in three $\xi $ regions}}{43}{figure.caption.38}
+\contentsline {figure}{\numberline {3.34}{\ignorespaces Components of the systematic uncertainties of $K^-/K^+$ multiplicity ratios in three $\xi $ regions}}{43}{figure.caption.38}
+\contentsline {figure}{\numberline {3.35}{\ignorespaces Components of the systematic uncertainties of $\mathaccentV {bar}016{p}/p$ multiplicity ratios in three $\xi $ regions}}{44}{figure.caption.39}
+\contentsline {figure}{\numberline {3.36}{\ignorespaces Components of the systematic uncertainties of average antiparticle-to-particle multiplicity ratios in three $\xi $ regions}}{44}{figure.caption.39}
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Primary charged-particle multiplicity shown separately for three ranges of the $\xi $ and the mean multiplicity $\delimiter "426830A n_{ch}\delimiter "526930B $ as a function of $\xi $.}}{45}{figure.caption.40}
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Primary charged-particle multiplicities as a function of $p_T$ shown separately for three ranges of the $\xi $ and the mean transverse momenta $\delimiter "426830A p_T\delimiter "526930B $ as a function of $\xi $.}}{46}{figure.caption.41}
+\contentsline {figure}{\numberline {3.39}{\ignorespaces Primary charged-particle multiplicity as a function of $\mathaccentV {bar}016{\eta }$ shown separately for three ranges of the $\xi $ and the mean pseudorapidity $\delimiter "426830A \mathaccentV {bar}016{\eta }\delimiter "526930B $ as a function of $\xi $.}}{47}{figure.caption.42}
+\contentsline {figure}{\numberline {3.40}{\ignorespaces Ratio of production yields of $\pi ^-/\pi ^+$ as a function of $p_T$ shown separately for three ranges of the $\xi $.}}{48}{figure.caption.43}
+\contentsline {figure}{\numberline {3.41}{\ignorespaces Ratio of production yields of $K^-/K^+$ as a function of $p_T$ shown separately for three ranges of the $\xi $.}}{49}{figure.caption.44}
+\contentsline {figure}{\numberline {3.42}{\ignorespaces Ratio of production yields of $\mathaccentV {bar}016{p}/p$ as a function of $p_T$ shown separately for three ranges of the $\xi $.}}{50}{figure.caption.45}
+\contentsline {figure}{\numberline {3.43}{\ignorespaces Ratio of production yields of $\pi ^-/\pi ^+$, $K^-/K^+$ and $\mathaccentV {bar}016{p}/p$ as a~function of $\xi $. \relax }}{51}{figure.caption.46}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.02 < \xi <0.05$ and loose selection.\relax }}{49}{figure.caption.44}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.02 < \xi <0.05$ and normal selection.\relax }}{50}{figure.caption.45}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.05 < \xi <0.1$ and loose selection.\relax }}{51}{figure.caption.46}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.05< \xi <0.1$ and normal selection.\relax }}{52}{figure.caption.47}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.1 < \xi <0.2$ and loose selection.\relax }}{53}{figure.caption.48}
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.1< \xi <0.2$ and normal selection.\relax }}{54}{figure.caption.49}
-\contentsline {figure}{\numberline {A.7}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.02 < \xi <0.05$ and loose selection.\relax }}{55}{figure.caption.50}
-\contentsline {figure}{\numberline {A.8}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.02 < \xi <0.05$ and normal selection.\relax }}{56}{figure.caption.51}
-\contentsline {figure}{\numberline {A.9}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.05 < \xi <0.1$ and loose selection.\relax }}{57}{figure.caption.52}
-\contentsline {figure}{\numberline {A.10}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.05 < \xi <0.1$ and normal selection.\relax }}{58}{figure.caption.53}
-\contentsline {figure}{\numberline {A.11}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.1 < \xi <0.2$ and loose selection.\relax }}{59}{figure.caption.54}
-\contentsline {figure}{\numberline {A.12}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.1 < \xi <0.2$ and normal selection.\relax }}{60}{figure.caption.55}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.02 < \xi <0.05$ and loose selection.\relax }}{56}{figure.caption.49}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.02 < \xi <0.05$ and normal selection.\relax }}{57}{figure.caption.50}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.05 < \xi <0.1$ and loose selection.\relax }}{58}{figure.caption.51}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.05< \xi <0.1$ and normal selection.\relax }}{59}{figure.caption.52}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.1 < \xi <0.2$ and loose selection.\relax }}{60}{figure.caption.53}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Distributions of DCA for protons in SD interactions with $0.1< \xi <0.2$ and normal selection.\relax }}{61}{figure.caption.54}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.02 < \xi <0.05$ and loose selection.\relax }}{62}{figure.caption.55}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.02 < \xi <0.05$ and normal selection.\relax }}{63}{figure.caption.56}
+\contentsline {figure}{\numberline {A.9}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.05 < \xi <0.1$ and loose selection.\relax }}{64}{figure.caption.57}
+\contentsline {figure}{\numberline {A.10}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.05 < \xi <0.1$ and normal selection.\relax }}{65}{figure.caption.58}
+\contentsline {figure}{\numberline {A.11}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.1 < \xi <0.2$ and loose selection.\relax }}{66}{figure.caption.59}
+\contentsline {figure}{\numberline {A.12}{\ignorespaces Distributions of DCA for antiprotons in SD interactions with $0.1 < \xi <0.2$ and normal selection.\relax }}{67}{figure.caption.60}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD interactions with $0.02 < \xi <0.05$}}{62}{figure.caption.56}
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD interactions with $0.05 < \xi <0.1$}}{63}{figure.caption.57}
-\contentsline {figure}{\numberline {B.3}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD interactions with $0.1 < \xi <0.2$}}{64}{figure.caption.58}
-\contentsline {figure}{\numberline {B.4}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD interactions with $0.02 < \xi <0.5$}}{65}{figure.caption.59}
-\contentsline {figure}{\numberline {B.5}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD interactions with $0.05 < \xi <0.1$}}{66}{figure.caption.60}
-\contentsline {figure}{\numberline {B.6}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD interactions with $0.1 < \xi <0.2$}}{67}{figure.caption.61}
-\contentsline {figure}{\numberline {B.7}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p},p}_{dE/dx}$ for $\mathaccentV {bar}016{p},p$ in SD interactions with $0.02 < \xi <0.05$}}{68}{figure.caption.62}
-\contentsline {figure}{\numberline {B.8}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p},p}_{dE/dx}$ for $\mathaccentV {bar}016{p},p$ in SD interactions with $0.05 < \xi <0.1$}}{69}{figure.caption.63}
-\contentsline {figure}{\numberline {B.9}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p},p}_{dE/dx}$ for $\mathaccentV {bar}016{p},p$ in SD interactions with $0.1 < \xi <0.2$}}{70}{figure.caption.64}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD interactions with $0.02 < \xi <0.05$}}{69}{figure.caption.61}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD interactions with $0.05 < \xi <0.1$}}{70}{figure.caption.62}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Distributions of $n\sigma ^{\pi ^\pm }_{dE/dx}$ for $\pi ^\pm $ in SD interactions with $0.1 < \xi <0.2$}}{71}{figure.caption.63}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD interactions with $0.02 < \xi <0.5$}}{72}{figure.caption.64}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD interactions with $0.05 < \xi <0.1$}}{73}{figure.caption.65}
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Distributions of $n\sigma ^{K^\pm }_{dE/dx}$ for $K^\pm $ in SD interactions with $0.1 < \xi <0.2$}}{74}{figure.caption.66}
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p},p}_{dE/dx}$ for $\mathaccentV {bar}016{p},p$ in SD interactions with $0.02 < \xi <0.05$}}{75}{figure.caption.67}
+\contentsline {figure}{\numberline {B.8}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p},p}_{dE/dx}$ for $\mathaccentV {bar}016{p},p$ in SD interactions with $0.05 < \xi <0.1$}}{76}{figure.caption.68}
+\contentsline {figure}{\numberline {B.9}{\ignorespaces Distributions of $n\sigma ^{\mathaccentV {bar}016{p},p}_{dE/dx}$ for $\mathaccentV {bar}016{p},p$ in SD interactions with $0.1 < \xi <0.2$}}{77}{figure.caption.69}
