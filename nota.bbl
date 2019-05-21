@@ -1,6 +1,23 @@
 
 \providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
 
+\bibitem{supplementaryNote}
+L.~Adamczyk, L.~Fulek and R.~Sikora, ``{Supplementary note on diffractive
+  analyses of 2015 proton-proton data}.''
+  \url{https://drupal.star.bnl.gov/STAR/blog/rafals/supplementary-note-diffractive-analyses-2015-proton-proton-data},
+  January, 2019.
+
+\bibitem{BaryonNoRapidity}
+B.~Z. Kopeliovich and B.~G. Zakharov, \emph{{Novel Mechanisms of Baryon Number
+  Flow Over Large Rapidity Gap}},
+  \href{https://doi.org/10.1007/BF01588211}{\emph{Z. Phys.} {\bfseries C43}
+  (1989) 241}.
+
+\bibitem{Bopp:2000cr}
+F.~W. Bopp, \emph{{Central baryons in dual models and the possibility of a
+  backward peak in diffraction}},
+  \href{https://arxiv.org/abs/hep-ph/0002190}{{\ttfamily hep-ph/0002190}}.
+
 \bibitem{RHIC:rhicRunLuminosity}
 W.~Fischer, ``Run overview of the {R}elativistic {H}eavy {I}on {C}ollider.''
   \url{http://www.agsrhichome.bnl.gov/RHIC/Runs/}.
@@ -56,11 +73,17 @@ R.~Ciesielski and K.~Goulianos, \emph{{MBR Monte Carlo Simulation in PYTHIA8}},
   {\bfseries C79} (2009) 034909}
   [\href{https://arxiv.org/abs/0808.2041}{{\ttfamily 0808.2041}}].
 
-\bibitem{supplementaryNote}
-L.~Adamczyk, L.~Fulek and R.~Sikora, ``{Supplementary note on diffractive
-  analyses of 2015 proton-proton data}.''
-  \url{https://drupal.star.bnl.gov/STAR/blog/rafals/supplementary-note-diffractive-analyses-2015-proton-proton-data},
-  January, 2019.
+\bibitem{unfolding:2016mok}
+{\scshape ATLAS} collaboration, \emph{{Charged-particle distributions in
+  $\sqrt{s}$ = 13 TeV pp interactions measured with the ATLAS detector at the
+  LHC}}, \href{https://doi.org/10.1016/j.physletb.2016.04.050}{\emph{Phys.
+  Lett.} {\bfseries B758} (2016) 67}
+  [\href{https://arxiv.org/abs/1602.01633}{{\ttfamily 1602.01633}}].
+
+\bibitem{unfolding:DAgostini}
+G.~D'Agostini, \emph{{A Multidimensional unfolding method based on Bayes'
+  theorem}}, \href{https://doi.org/10.1016/0168-9002(95)00274-X}{\emph{Nucl.
+  Instrum. Meth.} {\bfseries A362} (1995) 487}.
 
 \bibitem{Bichsel:2006cs}
 H.~Bichsel, \emph{{A method to improve tracking and particle identification in

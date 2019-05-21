@@ -3,47 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nota.aux
 The style file: JHEP.bst
 Database file #1: literatur.bib
-Warning--I didn't find a database entry for "unfolding:2016mok"
-Warning--I didn't find a database entry for "unfolding:DAgostini"
-You've used 12 entries,
+You've used 16 entries,
             2268 wiz_defined-function locations,
-            648 strings with 6376 characters,
-and the built_in function-call counts, 3158 in all, are:
-= -- 321
-> -- 124
+            680 strings with 7116 characters,
+and the built_in function-call counts, 4099 in all, are:
+= -- 425
+> -- 145
 < -- 0
-+ -- 38
-- -- 26
-* -- 253
-:= -- 449
-add.period$ -- 12
-call.type$ -- 12
-change.case$ -- 12
++ -- 46
+- -- 30
+* -- 331
+:= -- 584
+add.period$ -- 16
+call.type$ -- 16
+change.case$ -- 16
 chr.to.int$ -- 0
-cite$ -- 12
-duplicate$ -- 150
-empty$ -- 279
-format.name$ -- 26
-if$ -- 835
+cite$ -- 16
+duplicate$ -- 197
+empty$ -- 362
+format.name$ -- 30
+if$ -- 1087
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 35
-newline$ -- 40
-num.names$ -- 10
-pop$ -- 32
+int.to.str$ -- 16
+missing$ -- 50
+newline$ -- 52
+num.names$ -- 13
+pop$ -- 37
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 144
+skip$ -- 186
 stack$ -- 0
-substring$ -- 107
-swap$ -- 76
+substring$ -- 142
+swap$ -- 99
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 22
-width$ -- 14
-write$ -- 116
-(There were 2 warnings)
+while$ -- 30
+width$ -- 18
+write$ -- 154
