@@ -42,9 +42,9 @@
 \contentsline {subsection}{\numberline {3.4.3}Particle Identification}{37}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}Antiparticle-to-Particle Ratios}{43}{subsection.3.4.4}
 \contentsline {section}{\numberline {3.5}Systematic Uncertainties}{44}{section.3.5}
-\contentsline {section}{\numberline {3.6}Results}{49}{section.3.6}
-\contentsline {chapter}{\numberline {4}Summary and Conclusions}{56}{chapter.4}
-\contentsline {chapter}{\nonumberline Bibliography}{57}{chapter*.49}
-\contentsline {chapter}{Appendices}{59}{section*.50}
-\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{60}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{73}{Appendix.1.B}
+\contentsline {section}{\numberline {3.6}Results}{52}{section.3.6}
+\contentsline {chapter}{\numberline {4}Summary and Conclusions}{59}{chapter.4}
+\contentsline {chapter}{\nonumberline Bibliography}{60}{chapter*.52}
+\contentsline {chapter}{Appendices}{62}{section*.53}
+\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{63}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{76}{Appendix.1.B}

@@ -34,39 +34,41 @@ The following sources of systematic uncertainties were considered:
 
 \Cref{fig:results_star_nch_syst,fig:results_star_pt_syst,fig:results_star_eta_syst} show the components contributing to the total systematic uncertainty for charged particle distributions without the identification. The dominant systematic uncertainty for $p_T$ and $n_{ch}$ distributions is related to TOF system simulation accuracy. It affects mainly low-$p_T$ particles, where it is about $6\%$, and large charged particle multiplicities, where it varies up to $25\%$ for $n_{ch}=8$ and $0.02 < \xi < 0.05$. In case of $\bar{\eta}$ distribution, the systematic uncertainty on TOF mainly refers to charged particles produced at the edge of the fiducial region, for which it is about $2\%$.  However, the largest (up to $6\%$) systematic uncertainty for $\bar{\eta}$,  is related to the observed diffrence  in the distributions calculated separately with respect to the forward proton direction (east or west). The rest of the components have smaller contribution to the total systematic uncertainty. The systematic uncertainty on non-closure is at the level of $2\%$ which proves  the accuracy of the correction procedure. 
 
-\Cref{fig:results_star_syst_pi,fig:results_star_syst_K,fig:results_star_syst_p,fig:results_star_syst_xi_part} show breakdown of all different systematics for the antiparticle-to-particle multiplicity ratio distributions. Since most of the corrections are the same for particle and its antiparticle, nearly all systematic uncertainties cancel out in the antiparticle-to-particle ratios. The largest source of systematics, which  does not, is on TPC track reconstruction efficiency due to dead-material effect  and it varies up to $2\%$ for low-$p_T$ $\bar{p}/p$ multiplicity ratio.
+\Cref{fig:results_star_syst_pi,fig:results_star_syst_K,fig:results_star_syst_p,fig:results_star_syst_xi_part} show breakdown of all different systematics for the antiparticle-to-particle multiplicity ratio distributions. An additional systematic contribution for $\bar{p}/p$ multiplicity ratio due to proton background estimation was introduced.
+Since most of the corrections are the same for particle and its antiparticle, nearly all systematic uncertainties cancel out in the antiparticle-to-particle ratios. 
+The largest sources of systematics, which  do not, are related to proton background estimation and dead-material effect on TPC track reconstruction efficiency.  The former was found to be up to $5\%$, whereas the latter varies up to $2\%$ for low-$p_T$ $\bar{p}/p$ multiplicity ratio. 
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=.41\textwidth,page=1]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.47\textwidth,page=1]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\hfill
-	\includegraphics[width=.41\textwidth,page=7]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.47\textwidth,page=7]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\newline
-	\includegraphics[width=.41\textwidth,page=13]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.47\textwidth,page=13]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\hfill
-	\includegraphics[width=.41\textwidth,page=19]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.47\textwidth,page=19]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	%
 	\caption[Components of the systematic uncertainties for $p_T$ distributions in three $\xi$ regions and the average $p_T$ distribution]{Components of the systematic uncertainties for $p_T$ distributions in three $\xi$ regions and an average $p_T$ distribution. The total  systematic uncertainty is a quadratic sum of all  components.}
 	\label{fig:results_star_pt_syst}
-	\vspace*{\floatsep}
+	%\vspace*{\floatsep}
+\end{figure}	
+\begin{figure}[h!]
 	\centering
-	\includegraphics[width=.41\textwidth,page=5]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.49\textwidth,page=5]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\hfill
-	\includegraphics[width=.41\textwidth,page=11]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.49\textwidth,page=11]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\newline
-	\includegraphics[width=.41\textwidth,page=17]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.49\textwidth,page=17]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\hfill
-	\includegraphics[width=.41\textwidth,page=21]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+	\includegraphics[width=.49\textwidth,page=21]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	%
 	\caption[Components of the systematic uncertainties for $\bar{\eta}$ distributions in three $\xi$ regions and the average $\bar{\eta}$ distribution]{Components of the systematic uncertainties for $\bar{\eta}$ distributions in three $\xi$ regions and an average $\bar{\eta}$ distribution. The total  systematic uncertainty is a quadratic sum of all  components.}
 	\label{fig:results_star_eta_syst}
-\end{figure}
-
-
-
+\end{figure}	
 \captionsetup{format=plain,indention=0pt,justification=justified}
 \begin{figure}[h!]
 	\centering
+	
 	\begin{subfigure}{.49\textwidth}
 		\includegraphics[width=\textwidth,page=19]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
 	\end{subfigure}
@@ -80,39 +82,49 @@ The following sources of systematic uncertainties were considered:
 		\caption[Components of the systematic uncertainties of $\pi^-/\pi^+$ multiplicity ratios  in three $\xi$ regions]{Components of the systematic uncertainties of $\pi^-/\pi^+$ multiplicity ratios  in three $\xi$ regions. The total  systematic uncertainty is a quadratic sum of all  components.}
 		\label{fig:results_star_syst_pi}
 	\end{minipage}
-	\vspace*{\floatsep}
-		\centering
-		\begin{subfigure}{.49\textwidth}
-			\includegraphics[width=\textwidth,page=22]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
-		\end{subfigure}
-		\begin{subfigure}{.49\textwidth}
-			\includegraphics[width=\textwidth,page=23]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
-		\end{subfigure}
-		\begin{subfigure}{.49\textwidth}
-			\includegraphics[width=\textwidth,page=24]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
-		\end{subfigure}
-		\begin{minipage}{.49\textwidth}
-			\caption[Components of the systematic uncertainties of $K^-/K^+$ multiplicity ratios  in three $\xi$ regions]{Components of the systematic uncertainties of $K^-/K^+$ multiplicity ratios  in three $\xi$ regions. The total  systematic uncertainty is a quadratic sum of all  components.}
-			\label{fig:results_star_syst_K}
-		\end{minipage}
 \end{figure}
 
 \begin{figure}[h!]
 	\centering
+	
+	
+	\centering
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=25]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+		\includegraphics[width=\textwidth,page=22]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=26]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+		\includegraphics[width=\textwidth,page=23]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=27]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+		\includegraphics[width=\textwidth,page=24]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
 	\end{subfigure}
 	\begin{minipage}{.49\textwidth}
-		\caption[Components of the systematic uncertainties of $\bar{p}/p$ multiplicity ratios  in three $\xi$ regions]{Components of the systematic uncertainties of $\bar{p}/p$ multiplicity ratios  in three $\xi$ regions. The total  systematic uncertainty is a quadratic sum of all  components.}
-		\label{fig:results_star_syst_p}
+		\caption[Components of the systematic uncertainties of $K^-/K^+$ multiplicity ratios  in three $\xi$ regions]{Components of the systematic uncertainties of $K^-/K^+$ multiplicity ratios  in three $\xi$ regions. The total  systematic uncertainty is a quadratic sum of all  components.}
+		\label{fig:results_star_syst_K}
 	\end{minipage}
-	\vspace*{\floatsep}
+\end{figure}
+%\captionsetup{format=plain,indention=0pt,justification=justified}
+\begin{figure}[h!]
+		\centering
+		\begin{subfigure}{.49\textwidth}
+			\includegraphics[width=\textwidth,page=25]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+		\end{subfigure}
+		\begin{subfigure}{.49\textwidth}
+			\includegraphics[width=\textwidth,page=26]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+		\end{subfigure}
+		\begin{subfigure}{.49\textwidth}
+			\includegraphics[width=\textwidth,page=27]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+		\end{subfigure}
+		\begin{minipage}{.49\textwidth}
+			\caption[Components of the systematic uncertainties of $\bar{p}/p$ multiplicity ratios  in three $\xi$ regions]{Components of the systematic uncertainties of $\bar{p}/p$ multiplicity ratios  in three $\xi$ regions. The total  systematic uncertainty is a quadratic sum of all  components.}
+			\label{fig:results_star_syst_p}
+		\end{minipage}
+\end{figure}
+
+\begin{figure}[t!]
+	%\centering
+	
+	%\vspace*{\floatsep}
 	\centering
 		\begin{subfigure}{.49\textwidth}
 			\includegraphics[width=\textwidth,page=37]{chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf}
