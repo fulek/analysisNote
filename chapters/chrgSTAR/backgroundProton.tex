@@ -86,10 +86,31 @@ First, the normalization interval of the  knock-out   proton  background templat
 
 The  knock-out proton background contribution was  parametrized as  it is shown in the Eq.~\ref{eq:protonBkgParametrization}. The systematic uncertainty related to the fit procedure was estimated by varying the   parameters, $p_0$ and $p_1$, by $\pm1\sigma$. As a result, the  relative systematic uncertainties of about $10\%$ for $p_0$ and $p_1$ were introduced.
 
- All above components of the systematic uncertainty related to the knock-out proton background are shown in Fig.~\ref{fig:protonBkgSyst}.
+
  
- Figure~\ref{fig:protonBkgSystRatio} shows the data to MC ratio of  the  number of events in the background dominated region, $2<DCA<15$~cm. No significant differences (negligible slope) were observed in the shape of the $DCA$ distribution between data and MC. Thus, no additional systematic uncertainty related to description of the dead-material by the simulation was introduced.
+ Figure~\ref{fig:protonBkgSystRatio} shows the data to MC ratio of  the  number of events in the background dominated region, $2<DCA<15$~cm. The shape of the $DCA$ distribution in data  differs from that seen in simulation. Thus, the following functional form was used to estimate the slope between data and MC:
+\begin{equation}
+\frac{\textrm{data}}{\textrm{MC}}\left(DCA\right) = A(DCA-8.5)+B
+\label{eq:slopeBkgFit}
+\end{equation}
+where $A$ (slope) and  $B$ are fit free parameters. An extrapolation of the slope was used to estimate how many
+more tail-like tracks would fit into the signal region and a systematic uncertainty, which varies up to $5\%$ for $0.02< \xi<0.05$, was introduced. 
+
+All above components of the systematic uncertainty related to the knock-out proton background are shown in Fig.~\ref{fig:protonBkgSyst}.
  \captionsetup{format=plain,indention=0pt,justification=justified}
+ 
+ \begin{figure}[h!]
+ 	\centering
+ 	\begin{subfigure}{.49\textwidth}
+ 		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/DCAproton/Ratio.pdf}
+ 	\end{subfigure}
+ 	\begin{minipage}{.49\textwidth}
+ 		\caption[Data to MC ratio of  the  number of events in the background dominated region  in three ranges of $\xi$]{Data to MC ratio of  the  number of events in the background dominated region in three ranges of $\xi$ with fitted functional form given by Eq.~\ref{eq:slopeBkgFit}.}
+ 		\label{fig:protonBkgSystRatio}
+ 	\end{minipage}
+ 	
+ \end{figure}
+ 
  \begin{figure}[h!]
  	\centering
  	\begin{subfigure}{.49\textwidth}
@@ -105,20 +126,9 @@ The  knock-out proton background contribution was  parametrized as  it is shown 
  		\caption[Components of the systematic uncertainty related to the  knock-out background protons contribution in three $\xi$ ranges]{Components of the systematic uncertainty related to the  knock-out background protons contribution in three $\xi$ ranges. }
  		\label{fig:protonBkgSyst}
  	\end{minipage}
- 	
+ 	\vspace{-1.5cm}
  \end{figure}
- 
-  \begin{figure}[h!]
-  	\centering
-  	\begin{subfigure}{.49\textwidth}
-  		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/DCAproton/Ratio.pdf}
-  	\end{subfigure}
-  	\begin{minipage}{.49\textwidth}
-  		\caption[Data to MC ratio of  the  number of events in the background dominated region  in three ranges of $\xi$]{Data to MC ratio of  the  number of events in the background dominated region in three ranges of $\xi$.}
-  		\label{fig:protonBkgSystRatio}
-  	\end{minipage}
-  	
-  \end{figure}
+
  \captionsetup{format=default,indention=0pt,justification=justified}
  
   \FloatBarrier

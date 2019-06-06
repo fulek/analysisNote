@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  5 JUN 2019 14:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  6 JUN 2019 19:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3860,7 +3860,7 @@ Missing character: There is no ! in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
 l.57 	\includegraphics
-                      [width=.41\textwidth,page=5]{chapters/chrgSTAR/img/sys...
+                      [width=.49\textwidth,page=5]{chapters/chrgSTAR/img/sys...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3876,11 +3876,11 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no = in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no 4 in font nullfont!
-Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    p
-l.57 	\includegraphics[width=.41\textwidth,pa
+l.57 	\includegraphics[width=.49\textwidth,pa
                                              ge=5]{chapters/chrgSTAR/img/sys...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3945,7 +3945,7 @@ deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
 l.59 	\includegraphics
-                      [width=.41\textwidth,page=11]{chapters/chrgSTAR/img/sy...
+                      [width=.49\textwidth,page=11]{chapters/chrgSTAR/img/sy...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3955,7 +3955,7 @@ and I'll forget about whatever was undefined.
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    p
-l.59 	\includegraphics[width=.41\textwidth,pa
+l.59 	\includegraphics[width=.49\textwidth,pa
                                              ge=11]{chapters/chrgSTAR/img/sy...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3966,7 +3966,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
 l.61 	\includegraphics
-                      [width=.41\textwidth,page=17]{chapters/chrgSTAR/img/sy...
+                      [width=.49\textwidth,page=17]{chapters/chrgSTAR/img/sy...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3976,7 +3976,7 @@ and I'll forget about whatever was undefined.
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    p
-l.61 	\includegraphics[width=.41\textwidth,pa
+l.61 	\includegraphics[width=.49\textwidth,pa
                                              ge=17]{chapters/chrgSTAR/img/sy...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3987,7 +3987,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
 l.63 	\includegraphics
-                      [width=.41\textwidth,page=21]{chapters/chrgSTAR/img/sy...
+                      [width=.49\textwidth,page=21]{chapters/chrgSTAR/img/sy...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -3997,7 +3997,7 @@ and I'll forget about whatever was undefined.
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    p
-l.63 	\includegraphics[width=.41\textwidth,pa
+l.63 	\includegraphics[width=.49\textwidth,pa
                                              ge=21]{chapters/chrgSTAR/img/sy...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -4413,7 +4413,7 @@ cmr/m/n/10 =
 
 
 Overfull \hbox (43.4352pt too wide) in paragraph at lines 41--71
- \OML/cmm/m/it/10 :\OT1/cmr/m/n/10 41\OML/cmm/m/it/10 page \OT1/cmr/m/n/10 = 
+ \OML/cmm/m/it/10 :\OT1/cmr/m/n/10 49\OML/cmm/m/it/10 page \OT1/cmr/m/n/10 = 
  []
 
 
@@ -4428,7 +4428,7 @@ Overfull \hbox (38.78424pt too wide) in paragraph at lines 41--71
 
 
 Overfull \hbox (43.4352pt too wide) in paragraph at lines 41--71
- \OML/cmm/m/it/10 :\OT1/cmr/m/n/10 41\OML/cmm/m/it/10 page \OT1/cmr/m/n/10 = 
+ \OML/cmm/m/it/10 :\OT1/cmr/m/n/10 49\OML/cmm/m/it/10 page \OT1/cmr/m/n/10 = 
  []
 
 
@@ -4438,7 +4438,7 @@ Overfull \hbox (280.61607pt too wide) in paragraph at lines 41--71
 
 
 Overfull \hbox (43.4352pt too wide) in paragraph at lines 41--71
- \OML/cmm/m/it/10 :\OT1/cmr/m/n/10 41\OML/cmm/m/it/10 page \OT1/cmr/m/n/10 = 
+ \OML/cmm/m/it/10 :\OT1/cmr/m/n/10 49\OML/cmm/m/it/10 page \OT1/cmr/m/n/10 = 
  []
 
 
@@ -5206,7 +5206,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.90 \begin{figure}
+l.87 \begin{figure}
                    [h!]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5217,7 +5217,7 @@ Missing character: There is no h in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 90--92
+Overfull \hbox (20.0pt too wide) in paragraph at lines 87--89
  [] 
  []
 
@@ -5228,8 +5228,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 		\begin{subfigure}
-                        {.49\textwidth}
+l.92 	\begin{subfigure}
+                       {.49\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5240,8 +5240,8 @@ Missing character: There is no 9 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.95 		\begin{subfigure}{.49\textwidth}
-                                       
+l.92 	\begin{subfigure}{.49\textwidth}
+                                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -5249,8 +5249,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.95 		\begin{subfigure}{.49\textwidth}
-                                       
+l.92 	\begin{subfigure}{.49\textwidth}
+                                      
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -5259,8 +5259,8 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
-l.96 			\includegraphics
-                        [width=\textwidth,page=22]{chapters/chrgSTAR/img/sys...
+l.93 		\includegraphics
+                       [width=\textwidth,page=22]{chapters/chrgSTAR/img/syst...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5277,8 +5277,8 @@ Missing character: There is no = in font nullfont!
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    p
-l.96 			\includegraphics[width=\textwidth,pa
-                                            ge=22]{chapters/chrgSTAR/img/sys...
+l.93 		\includegraphics[width=\textwidth,pa
+                                           ge=22]{chapters/chrgSTAR/img/syst...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -5330,13 +5330,13 @@ Missing character: There is no D in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.96 ...age=22]{chapters/chrgSTAR/img/syst/outPID_
+l.93 ...age=22]{chapters/chrgSTAR/img/syst/outPID_
                                                   SDT.pdf}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.96 ...chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+l.93 ...chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5351,8 +5351,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 		\end{subfigure}
-                      
+l.94 	\end{subfigure}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5360,8 +5360,8 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.97 		\end{subfigure}
-                      
+l.94 	\end{subfigure}
+                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -5371,8 +5371,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.97 		\end{subfigure}
-                      
+l.94 	\end{subfigure}
+                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -5386,8 +5386,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.98 		\begin{subfigure}
-                        {.49\textwidth}
+l.95 	\begin{subfigure}
+                       {.49\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5398,8 +5398,8 @@ Missing character: There is no 9 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.98 		\begin{subfigure}{.49\textwidth}
-                                       
+l.95 	\begin{subfigure}{.49\textwidth}
+                                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -5407,8 +5407,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.98 		\begin{subfigure}{.49\textwidth}
-                                       
+l.95 	\begin{subfigure}{.49\textwidth}
+                                      
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -5417,8 +5417,8 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
-l.99 			\includegraphics
-                        [width=\textwidth,page=23]{chapters/chrgSTAR/img/sys...
+l.96 		\includegraphics
+                       [width=\textwidth,page=23]{chapters/chrgSTAR/img/syst...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5435,8 +5435,8 @@ Missing character: There is no = in font nullfont!
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    p
-l.99 			\includegraphics[width=\textwidth,pa
-                                            ge=23]{chapters/chrgSTAR/img/sys...
+l.96 		\includegraphics[width=\textwidth,pa
+                                           ge=23]{chapters/chrgSTAR/img/syst...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -5488,13 +5488,13 @@ Missing character: There is no D in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.99 ...age=23]{chapters/chrgSTAR/img/syst/outPID_
+l.96 ...age=23]{chapters/chrgSTAR/img/syst/outPID_
                                                   SDT.pdf}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.99 ...chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+l.96 ...chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5509,8 +5509,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.100 		\end{subfigure}
-                       
+l.97 	\end{subfigure}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5518,8 +5518,8 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.100 		\end{subfigure}
-                       
+l.97 	\end{subfigure}
+                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -5529,8 +5529,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.100 		\end{subfigure}
-                       
+l.97 	\end{subfigure}
+                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -5544,8 +5544,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101 		\begin{subfigure}
-                         {.49\textwidth}
+l.98 	\begin{subfigure}
+                       {.49\textwidth}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5556,8 +5556,8 @@ Missing character: There is no 9 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    }
-l.101 		\begin{subfigure}{.49\textwidth}
-                                        
+l.98 	\begin{subfigure}{.49\textwidth}
+                                      
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -5565,8 +5565,8 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    }
-l.101 		\begin{subfigure}{.49\textwidth}
-                                        
+l.98 	\begin{subfigure}{.49\textwidth}
+                                      
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -5575,8 +5575,8 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Undefined control sequence.
-l.102 			\includegraphics
-                         [width=\textwidth,page=24]{chapters/chrgSTAR/img/sy...
+l.99 		\includegraphics
+                       [width=\textwidth,page=24]{chapters/chrgSTAR/img/syst...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -5593,8 +5593,8 @@ Missing character: There is no = in font nullfont!
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    p
-l.102 			\includegraphics[width=\textwidth,pa
-                                             ge=24]{chapters/chrgSTAR/img/sy...
+l.99 		\includegraphics[width=\textwidth,pa
+                                           ge=24]{chapters/chrgSTAR/img/syst...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -5646,13 +5646,13 @@ Missing character: There is no D in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.102 ...ge=24]{chapters/chrgSTAR/img/syst/outPID_
+l.99 ...age=24]{chapters/chrgSTAR/img/syst/outPID_
                                                   SDT.pdf}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Extra }, or forgotten $.
-l.102 ...hapters/chrgSTAR/img/syst/outPID_SDT.pdf}
+l.99 ...chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5667,8 +5667,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.103 		\end{subfigure}
-                       
+l.100 	\end{subfigure}
+                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -5676,8 +5676,8 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.103 		\end{subfigure}
-                       
+l.100 	\end{subfigure}
+                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -5687,8 +5687,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.103 		\end{subfigure}
-                       
+l.100 	\end{subfigure}
+                      
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -5702,8 +5702,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 			\caption
-                 [Components of the systematic uncertainties of $K^-/K^+$ mu...
+l.102 		\caption
+                [Components of the systematic uncertainties of $K^-/K^+$ mul...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5915,6 +5915,36 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no . in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107 \begin{figure}
+                    [h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no ] in font nullfont!
 
 ! LaTeX Error: Environment subfigure undefined.
 
@@ -6623,42 +6653,42 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (38.3466pt too wide) in paragraph at lines 95--123
+Overfull \hbox (38.3466pt too wide) in paragraph at lines 92--123
 []\OML/cmm/m/it/10 DT:pdf$
  []
 
 
-Overfull \hbox (38.3466pt too wide) in paragraph at lines 95--123
+Overfull \hbox (38.3466pt too wide) in paragraph at lines 92--123
 []\OML/cmm/m/it/10 DT:pdf$
  []
 
 
-Overfull \hbox (38.3466pt too wide) in paragraph at lines 95--123
+Overfull \hbox (38.3466pt too wide) in paragraph at lines 92--123
 []\OML/cmm/m/it/10 DT:pdf$
  []
 
 
-Overfull \hbox (4014.12498pt too wide) in paragraph at lines 95--123
+Overfull \hbox (4014.12498pt too wide) in paragraph at lines 92--123
 []$
  []
 
 
-Overfull \hbox (38.3466pt too wide) in paragraph at lines 95--123
+Overfull \hbox (38.3466pt too wide) in paragraph at lines 92--123
 []\OML/cmm/m/it/10 DT:pdf$
  []
 
 
-Overfull \hbox (38.3466pt too wide) in paragraph at lines 95--123
+Overfull \hbox (38.3466pt too wide) in paragraph at lines 92--123
 []\OML/cmm/m/it/10 DT:pdf$
  []
 
 
-Overfull \hbox (38.3466pt too wide) in paragraph at lines 95--123
+Overfull \hbox (38.3466pt too wide) in paragraph at lines 92--123
 []\OML/cmm/m/it/10 DT:pdf$
  []
 
 
-Overfull \hbox (4014.12498pt too wide) in paragraph at lines 95--123
+Overfull \hbox (4014.12498pt too wide) in paragraph at lines 92--123
 []$
  []
 
