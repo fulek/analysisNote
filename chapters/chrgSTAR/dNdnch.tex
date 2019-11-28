@@ -36,7 +36,7 @@ P\left(n_{ch}\right)\cdot P\left(n_{sel}|n_{ch}\right) = P\left(n_{ch}|n_{sel}\r
 where:
 \begin{description}
 	\item $P(n_{sel})$ and $P(n_{ch})$ are probabilities of observing $n_{sel}$ and $n_{ch}$ independently,
-	\item $P(n_{ch}|n_{sel})$ and $P(n_{sel}|n_{sel})$ are conditional probabilities.
+	\item $P(n_{ch}|n_{sel})$ and $P(n_{sel}|n_{ch})$ are conditional probabilities.
 \end{description}
  
  The main idea behind these procedure is that the unfolding  is done iteratively to improve the estimate of $P(n_{ch}|n_{sel})$:
@@ -46,7 +46,7 @@ where:
 	P(n_{ch}|n_{sel}) = P = P(n_{sel}|n_{ch})\frac{P^{MC}(n_{ch})}{P^{MC}(n_{sel})}
 	\end{eqnarray}
 	\begin{equation}
-	N_{ev}(n_{ch})=\frac{1}{\epsilon^{m}(n_{ch})\epsilon^{r}(n_{ch})}\sum_{n_{sel}\geq2}N_{ev}^{MC}(n_{sel})\cdot P
+	N_{ev}(n_{ch})=\frac{1}{\epsilon^{m}(n_{ch})\epsilon^{r}(n_{ch})}\sum_{n_{sel}\geq2}N_{ev}(n_{sel})\cdot P
 	\end{equation}
 	where $P(n_{sel}|n_{ch})$, $P^{MC}(n_{ch})$ and $P^{MC}(n_{sel})$ are obtained from MC. $P(n_{sel}|n_{ch})$ is the same for each iteration.
 	
@@ -55,17 +55,13 @@ where:
 	P^{i+1}=P(n_{sel}|n_{ch})\frac{P^{i}(n_{ch})}{P(n_{sel})}
 	\end{equation}
 	\begin{equation}
-	N_{ev}^{i+1}(n_{ch})=\frac{1}{\epsilon^{m}(n_{ch})\epsilon^{r}(n_{ch})}\sum_{n_{sel}\geq2}N_{ev}^{MC}(n_{sel})\cdot P^{i+1}
+	N_{ev}^{i+1}(n_{ch})=\frac{1}{\epsilon^{m}(n_{ch})\epsilon^{r}(n_{ch})}\sum_{n_{sel}\geq2}N_{ev}(n_{sel})\cdot P^{i+1}
 	\end{equation}
 	where normalized $N_{ev}^i(n_{ch})$, calculated in the previous iteration, and $N_{ev}(n_{sel})$, taken from data, serve as probability distributions $P^{i}(n_{ch})$ and $P(n_{sel})$.
 \end{itemize}
 
 The  unfolding matrices $P(n_{ch}|n_{sel})$  for each $\xi$ region, shown in Fig.~\ref{fig:responseSTAR}, were obtained from MC and used in the first iteration of the above procedure. 
 
-After the unfolding procedure, the  obtained distribution $dN/dn_{ch}$
-was corrected for BBC-small efficiency, through $w_{BBC}(n_{ch})$ weights, and migrations of events between $\xi$ ranges, through $f_{\xi}(n_{ch})$ weights. Since the unfolding matrices contain track reconstruction efficiencies, non-primary track backgrounds, migrations of tracks into and out of the fiducial region, the weight $w_{trk}\left(p_T,\eta,V_{z}\right)$ was not used.
-
-Finally, the $dN/dn_{ch}$ distribution was normalized to total number of events, $N_{ev}=N$, which was calculated as the integral of the unfolded $N_{ev}(n_{ch})$ distribution.
 \captionsetup{format=plain,indention=0pt,justification=justified}
 \begin{figure}[h!]
 	\centering
@@ -84,6 +80,12 @@ Finally, the $dN/dn_{ch}$ distribution was normalized to total number of events,
 	\end{minipage}
 \end{figure}
 \captionsetup{format=default,indention=0pt,justification=justified}
+
+After the unfolding procedure, the  obtained distribution $dN/dn_{ch}$
+was corrected for BBC-small efficiency, through $w_{BBC}(n_{ch})$ weights, and migrations of events between $\xi$ ranges, through $f_{\xi}(n_{ch})$ weights. Since the unfolding matrices contain track reconstruction efficiencies, non-primary track backgrounds, migrations of tracks into and out of the fiducial region, the weight $w_{trk}\left(p_T,\eta,V_{z}\right)$ was not used.
+
+Finally, the $dN/dn_{ch}$ distribution was normalized to total number of events, $N_{ev}=N$, which was calculated as the integral of the unfolded $N_{ev}(n_{ch})$ distribution.
+
 
 
 \FloatBarrier
