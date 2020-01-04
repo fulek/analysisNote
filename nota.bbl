@@ -20,38 +20,6 @@ F.~W. Bopp, {\em {Baryon transport in dual models and the possibility of a
 \newblock \href{http://arxiv.org/abs/hep-ph/0007229}{{\ttfamily
   arXiv:hep-ph/0007229 [hep-ph]}}.
 
-\bibitem{RafalInz}
-R.~Sikora, {\em {Elastic proton-proton scattering in the STAR experiment at
-  RHIC}}, Bachelor's thesis, AGH University of Science and Technology, 2013.
-
-\bibitem{RafalMgr}
-R.~Sikora, {\em {Study of elastic proton-proton scattering with the STAR
-  detector at RHIC}}, Master's thesis, AGH University of Science and
-  Technology, 2014.
-
-\bibitem{LukaszInz}
-{\L}.~Fulek, {\em {Transport of particles through RHIC magnet lattice}},
-  Bachelor's thesis, AGH University of Science and Technology, 2013.
-\newblock Polish version.
-
-\bibitem{LukaszMgr}
-{\L}.~Fulek, {\em {Study of single diffrative dissociation in proton-proton
-  scattering with STAR detector at RHIC}}, Master's thesis, AGH University of
-  Science and Technology, 2014.
-\newblock Polish version.
-
-\bibitem{pp2pp:elastic}
-{STAR} Collaboration, L.~Adamczyk {et~al.}, {\em {Single Spin Asymmetry $A_N$
-  in Polarized Proton-Proton Elastic Scattering at $\sqrt{s}=200$ GeV}},
-\href{http://dx.doi.org/10.1016/j.physletb.2013.01.014}{Phys. Lett. {\bfseries
-  B719} (2013) 62--69}.
-%%CITATION = ARXIV:1206.1928;%%.
-
-\bibitem{MADX}
-L.~Deniau, H.~Grote, G.~Roy,  and S.~Frank, {\em The MAD-X Program (Methodical
-  Accelerator Design Version 5.05.01 User’s Reference Manual},
-  \url{http://mad.web.cern.ch/mad/}.
-
 \bibitem{STAR:tpc}
 M.~Anderson {et~al.}, {\em {The STAR Time Projection Chamber: A Unique tool for
   studying high multiplicity events at RHIC}},
@@ -83,11 +51,6 @@ W.~Fischer, {\em Run Overview of the {R}elativistic {H}eavy {I}on {C}ollider},
   {\bfseries C79} (2009) 034909},
 \href{http://arxiv.org/abs/0808.2041}{{\ttfamily arXiv:0808.2041 [nucl-ex]}}.
 %%CITATION = ARXIV:0808.2041;%%.
-
-\bibitem{RafalThesis}
-R.~Sikora, {\em {Measurement of the diffractive central exclusive production in
-  the STAR experiment at RHIC and the ATLAS experiment at LHC}}.
-\newblock PhD thesis, AGH University of Science and Technology, 2020.
 
 \bibitem{unfolding:2016mok}
 {ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle distributions in
