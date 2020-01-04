@@ -1,94 +1,114 @@
-
 \providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
 
 \bibitem{supplementaryNote}
-L.~Adamczyk, L.~Fulek and R.~Sikora, ``{Supplementary note on diffractive
-  analyses of 2015 proton-proton data}.''
-  \url{https://drupal.star.bnl.gov/STAR/blog/rafals/supplementary-note-diffractive-analyses-2015-proton-proton-data},
-  January, 2019.
+L.~Adamczyk, L.~Fulek,  and R.~Sikora, {\em {Supplementary note on diffractive
+  analyses of 2015 proton-proton data}},
+  \url{https://drupal.star.bnl.gov/STAR/starnotes/private/psn0732}, July, 2019.
 
-\bibitem{BaryonNoRapidity}
-B.~Z. Kopeliovich and B.~G. Zakharov, \emph{{Novel Mechanisms of Baryon Number
+\bibitem{Kopeliovich:1988qm}
+B.~Z. Kopeliovich and B.~G. Zakharov, {\em {Novel Mechanisms of Baryon Number
   Flow Over Large Rapidity Gap}},
-  \href{https://doi.org/10.1007/BF01588211}{\emph{Z. Phys.} {\bfseries C43}
-  (1989) 241}.
+\href{http://dx.doi.org/10.1007/BF01588211}{Z. Phys. {\bfseries C43} (1989)
+  241}.
+%%CITATION = ZEPYA,C43,241;%%.
 
-\bibitem{Bopp:2000cr}
-F.~W. Bopp, \emph{{Central baryons in dual models and the possibility of a
-  backward peak in diffraction}},
-  \href{https://arxiv.org/abs/hep-ph/0002190}{{\ttfamily hep-ph/0002190}}.
+\bibitem{Bopp:2000vg}
+F.~W. Bopp, {\em {Baryon transport in dual models and the possibility of a
+  backward peak in diffraction}}, in {\em {New trends in high-energy physics:
+  Experiment, phenomenology, theory. Proceedings, International
+  School-Conference, Crimea 2000, Yalta, Ukraine, May 27-June 4, 2000}}.
+\newblock \href{http://arxiv.org/abs/hep-ph/0007229}{{\ttfamily
+  arXiv:hep-ph/0007229 [hep-ph]}}.
 
-\bibitem{RHIC:rhicRunLuminosity}
-W.~Fischer, ``Run overview of the {R}elativistic {H}eavy {I}on {C}ollider.''
-  \url{http://www.agsrhichome.bnl.gov/RHIC/Runs/}.
+\bibitem{RafalInz}
+R.~Sikora, {\em {Elastic proton-proton scattering in the STAR experiment at
+  RHIC}}, Bachelor's thesis, AGH University of Science and Technology, 2013.
+
+\bibitem{RafalMgr}
+R.~Sikora, {\em {Study of elastic proton-proton scattering with the STAR
+  detector at RHIC}}, Master's thesis, AGH University of Science and
+  Technology, 2014.
+
+\bibitem{LukaszInz}
+{\L}.~Fulek, {\em {Transport of particles through RHIC magnet lattice}},
+  Bachelor's thesis, AGH University of Science and Technology, 2013.
+\newblock Polish version.
+
+\bibitem{LukaszMgr}
+{\L}.~Fulek, {\em {Study of single diffrative dissociation in proton-proton
+  scattering with STAR detector at RHIC}}, Master's thesis, AGH University of
+  Science and Technology, 2014.
+\newblock Polish version.
+
+\bibitem{pp2pp:elastic}
+{STAR} Collaboration, L.~Adamczyk {et~al.}, {\em {Single Spin Asymmetry $A_N$
+  in Polarized Proton-Proton Elastic Scattering at $\sqrt{s}=200$ GeV}},
+\href{http://dx.doi.org/10.1016/j.physletb.2013.01.014}{Phys. Lett. {\bfseries
+  B719} (2013) 62--69}.
+%%CITATION = ARXIV:1206.1928;%%.
+
+\bibitem{MADX}
+L.~Deniau, H.~Grote, G.~Roy,  and S.~Frank, {\em The MAD-X Program (Methodical
+  Accelerator Design Version 5.05.01 User’s Reference Manual},
+  \url{http://mad.web.cern.ch/mad/}.
 
 \bibitem{STAR:tpc}
-M.~Anderson et~al., \emph{{The Star time projection chamber: A Unique tool for
+M.~Anderson {et~al.}, {\em {The STAR Time Projection Chamber: A Unique tool for
   studying high multiplicity events at RHIC}},
-  \href{https://doi.org/10.1016/S0168-9002(02)01964-2}{\emph{Nucl. Instrum.
-  Meth.} {\bfseries A499} (2003) 659}
-  [\href{https://arxiv.org/abs/nucl-ex/0301015}{{\ttfamily nucl-ex/0301015}}].
-
-\bibitem{PYTHIA:SaS}
-G.~A. Schuler and T.~Sjostrand, \emph{{Hadronic diffractive cross-sections and
-  the rise of the total cross-section}},
-  \href{https://doi.org/10.1103/PhysRevD.49.2257}{\emph{Phys. Rev.} {\bfseries
-  D49} (1994) 2257}.
-
-\bibitem{PYTHIA8:Intro}
-T.~Sjostrand, S.~Mrenna and P.~Z. Skands, \emph{{A Brief Introduction to PYTHIA
-  8.1}}, \href{https://doi.org/10.1016/j.cpc.2008.01.036}{\emph{Comput. Phys.
-  Commun.} {\bfseries 178} (2008) 852}
-  [\href{https://arxiv.org/abs/0710.3820}{{\ttfamily 0710.3820}}].
+\href{http://dx.doi.org/10.1016/S0168-9002(02)01964-2}{Nucl. Instrum. Meth.
+  {\bfseries A499} (2003) 659--678}.
+%%CITATION = NUCL-EX/0301015;%%.
 
 \bibitem{GEANT:three}
-R.~Brun, F.~Bruyant, M.~Maire, A.~C. McPherson and P.~Zanarini,
-  \emph{{GEANT3}}, .
+R.~Brun, F.~Bruyant, M.~Maire, A.~C. McPherson,  and P.~Zanarini, {\em
+  {GEANT3}},
+CERN-DD-EE-84-1 (1987).
+%%CITATION = CERN-DD-EE-84-1;%%.
 
-\bibitem{Herwig:intro}
-S.~Gieseke, F.~Loshaj and P.~Kirchgaeßer, \emph{{Soft and diffractive
-  scattering with the cluster model in Herwig}},
-  \href{https://doi.org/10.1140/epjc/s10052-017-4727-7}{\emph{Eur. Phys. J.}
-  {\bfseries C77} (2017) 156}
-  [\href{https://arxiv.org/abs/1612.04701}{{\ttfamily 1612.04701}}].
+\bibitem{GEANT:four}
+{GEANT4} Collaboration, S.~Agostinelli {et~al.}, {\em {GEANT4: A Simulation
+  toolkit}},
+\href{http://dx.doi.org/10.1016/S0168-9002(03)01368-8}{Nucl. Instrum. Meth.
+  {\bfseries A506} (2003) 250--303}.
+%%CITATION = NUIMA,A506,250;%%.
 
-\bibitem{EPOS:intro}
-K.~Werner, L.~Karpenko, M.~Bleicher and T.~Pierog, \emph{{The Physics of
-  EPOS}}, \href{https://doi.org/10.1051/epjconf/20125205001}{\emph{EPJ Web
-  Conf.} {\bfseries 52} (2013) 05001}.
-
-\bibitem{MBR:intro}
-R.~Ciesielski and K.~Goulianos, \emph{{MBR Monte Carlo Simulation in PYTHIA8}},
-  \href{https://doi.org/10.22323/1.174.0301}{\emph{PoS} {\bfseries ICHEP2012}
-  (2013) 301} [\href{https://arxiv.org/abs/1205.1446}{{\ttfamily 1205.1446}}].
-
-\bibitem{ATLAS:A2}
-{\scshape ATLAS} collaboration, ``{Further ATLAS tunes of PYTHIA6 and Pythia
-  8}.'' ATL-PHYS-PUB-2011-014, ATL-COM-PHYS-2011-1507, 2011.
+\bibitem{RHIC:rhicRunLuminosity}
+W.~Fischer, {\em Run Overview of the {R}elativistic {H}eavy {I}on {C}ollider},
+  \url{http://www.agsrhichome.bnl.gov/RHIC/Runs/}.
 
 \bibitem{STAR:spectra}
-{\scshape STAR} collaboration, \emph{{Systematic Measurements of Identified
-  Particle Spectra in $p p, d^+$ Au and Au+Au Collisions from STAR}},
-  \href{https://doi.org/10.1103/PhysRevC.79.034909}{\emph{Phys. Rev.}
-  {\bfseries C79} (2009) 034909}
-  [\href{https://arxiv.org/abs/0808.2041}{{\ttfamily 0808.2041}}].
+{STAR} Collaboration, B.~I. Abelev {et~al.}, {\em {Systematic Measurements of
+  Identified Particle Spectra in $p p, d^+$ Au and Au+Au Collisions from
+  STAR}}, \href{http://dx.doi.org/10.1103/PhysRevC.79.034909}{Phys. Rev.
+  {\bfseries C79} (2009) 034909},
+\href{http://arxiv.org/abs/0808.2041}{{\ttfamily arXiv:0808.2041 [nucl-ex]}}.
+%%CITATION = ARXIV:0808.2041;%%.
+
+\bibitem{RafalThesis}
+R.~Sikora, {\em {Measurement of the diffractive central exclusive production in
+  the STAR experiment at RHIC and the ATLAS experiment at LHC}}.
+\newblock PhD thesis, AGH University of Science and Technology, 2020.
 
 \bibitem{unfolding:2016mok}
-{\scshape ATLAS} collaboration, \emph{{Charged-particle distributions in
+{ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle distributions in
   $\sqrt{s}$ = 13 TeV pp interactions measured with the ATLAS detector at the
-  LHC}}, \href{https://doi.org/10.1016/j.physletb.2016.04.050}{\emph{Phys.
-  Lett.} {\bfseries B758} (2016) 67}
-  [\href{https://arxiv.org/abs/1602.01633}{{\ttfamily 1602.01633}}].
+  LHC}},
+\href{http://dx.doi.org/10.1016/j.physletb.2016.04.050}{Phys. Lett. {\bfseries
+  B758} (2016) 67--88}.
+%%CITATION = ARXIV:1602.01633;%%.
 
 \bibitem{unfolding:DAgostini}
-G.~D'Agostini, \emph{{A Multidimensional unfolding method based on Bayes'
-  theorem}}, \href{https://doi.org/10.1016/0168-9002(95)00274-X}{\emph{Nucl.
-  Instrum. Meth.} {\bfseries A362} (1995) 487}.
+G.~D'Agostini, {\em {A Multidimensional unfolding method based on Bayes'
+  theorem}},
+\href{http://dx.doi.org/10.1016/0168-9002(95)00274-X}{Nucl. Instrum. Meth.
+  {\bfseries A362} (1995) 487--498}.
+%%CITATION = NUIMA,A362,487;%%.
 
 \bibitem{Bichsel:2006cs}
-H.~Bichsel, \emph{{A method to improve tracking and particle identification in
+H.~Bichsel, {\em {A method to improve tracking and particle identification in
   TPCs and silicon detectors}},
-  \href{https://doi.org/10.1016/j.nima.2006.03.009}{\emph{Nucl. Instrum. Meth.}
-  {\bfseries A562} (2006) 154}.
+\href{http://dx.doi.org/10.1016/j.nima.2006.03.009}{Nucl. Instrum. Meth.
+  {\bfseries A562} (2006) 154--197}.
+%%CITATION = NUIMA,A562,154;%%.
 
 \end{thebibliography}\endgroup

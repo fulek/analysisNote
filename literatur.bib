@@ -4,12 +4,20 @@
         Relativistic Heavy Ion Collider }",
         url = {http://www.agsrhichome.bnl.gov/RHIC/Runs/}
 }
-@misc{RHIC:rhicRunLuminosity,
+
+@electronic{MADX,
+	author = {Deniau, Laurent  and Grote, Hans and Roy, Ghislain and Schmidt Frank},
+	title = {The MAD-X Program (Methodical Accelerator Design Version 5.05.01 User’s Reference Manual},
+	howpublished = "\url{http://mad.web.cern.ch/mad/}"
+}
+
+@electronic{RHIC:rhicRunLuminosity,
 	author = {Fischer, Wolfram},
 	title = {Run Overview of the
 	{R}elativistic {H}eavy {I}on {C}ollider},
 	howpublished = "\url{http://www.agsrhichome.bnl.gov/RHIC/Runs/}"
 }
+
 @article{Bichsel:2006cs,
 	author         = "Bichsel, H.",
 	title          = "{A method to improve tracking and particle identification
@@ -37,7 +45,7 @@
 	SLACcitation   = "%%CITATION = ARXIV:0808.2041;%%"
 }
 @article{PYTHIA:SaS,
-	author         = "Schuler, Gerhard A. and Sjostrand, Torbjorn",
+	author         = "Schuler, Gerhard A. and Sjöstrand, Torbjörn",
 	title          = "{Hadronic diffractive cross-sections and the rise of the
 	total cross-section}",
 	journal        = "Phys. Rev.",
@@ -49,7 +57,7 @@
 	SLACcitation   = "%%CITATION = PHRVA,D49,2257;%%"
 }
 @article{PYTHIA8:Intro,
-	author         = "Sjostrand, Torbjorn and Mrenna, Stephen and Skands, Peter
+	author         = "Sjöstrand, Torbjörn and Mrenna, Stephen and Skands, Peter
 	Z.",
 	title          = "{A Brief Introduction to PYTHIA 8.1}",
 	journal        = "Comput. Phys. Commun.",
@@ -57,9 +65,6 @@
 	year           = "2008",
 	pages          = "852-867",
 	doi            = "10.1016/j.cpc.2008.01.036",
-	eprint         = "0710.3820",
-	archivePrefix  = "arXiv",
-	primaryClass   = "hep-ph",
 	reportNumber   = "CERN-LCGAPP-2007-04, LU-TP-07-28,
 	FERMILAB-PUB-07-512-CD-T",
 	SLACcitation   = "%%CITATION = ARXIV:0710.3820;%%"
@@ -75,25 +80,22 @@
 	number         = "3",
 	pages          = "156",
 	doi            = "10.1140/epjc/s10052-017-4727-7",
-	eprint         = "1612.04701",
-	archivePrefix  = "arXiv",
-	primaryClass   = "hep-ph",
 	reportNumber   = "KA-TP-42-2016, MCNET-16-46",
 	SLACcitation   = "%%CITATION = ARXIV:1612.04701;%%"
 }
 @article{EPOS:intro,
-	author         = "Werner, K. and Karpenko, Lu. and Bleicher, M. and Pierog,
-	T.",
-	title          = "{The Physics of EPOS}",
-	booktitle      = "{Proceedings, 17th International Symposium on Very High
-	Energy Cosmic Ray Interactions (ISVHECRI 2012): Berlin,
-	Germany, August 10-15, 2012}",
-	journal        = "EPJ Web Conf.",
-	volume         = "52",
-	year           = "2013",
-	pages          = "05001",
-	doi            = "10.1051/epjconf/20125205001",
-	SLACcitation   = "%%CITATION = 00776,52,05001;%%"
+	author         = "Werner, Klaus",
+	title          = "{The hadronic interaction model EPOS}",
+	booktitle      = "{Proceedings, 14th International Symposium on Very High
+	Energy Cosmic Ray Interactions (ISVHECRI 2006): Weihai,
+	China, August 15-22, 2006}",
+	journal        = "Nucl. Phys. Proc. Suppl.",
+	volume         = "175-176",
+	year           = "2008",
+	pages          = "81-87",
+	doi            = "10.1016/j.nuclphysbps.2007.10.012",
+	SLACcitation   = "%%CITATION = NUPHZ,175-176,81;%%"
+}"
 }
 @article{MBR:intro,
 	author         = "Ciesielski, Robert and Goulianos, Konstantin",
@@ -111,35 +113,58 @@
 	primaryClass   = "hep-ph",
 	SLACcitation   = "%%CITATION = ARXIV:1205.1446;%%"
 }
-@misc{ATLAS:A2,
+@article{ATLAS:A2,
 	title          = "{Further ATLAS tunes of PYTHIA6 and Pythia 8}",
-	collaboration  = "ATLAS",
+	author  = {{ATLAS Collaboration}},
 	year           = "2011",
-	howpublished   = "ATL-PHYS-PUB-2011-014, ATL-COM-PHYS-2011-1507",
+	note   = "ATL-PHYS-PUB-2011-014, ATL-COM-PHYS-2011-1507",
 	SLACcitation   = "%%CITATION = ATL-PHYS-PUB-2012-003;%%"
+}
+@article{ATLAS:computing,
+	author         = "Duckeck, G. and Barberis, D. and Hawkings, R. and Jones,
+	R. and McCubbin, N. and Poulard, G. and Quarrie, D. and
+	Wenaus, T. and Obreshkov, E.",
+	title          = "{ATLAS computing: Technical design report}",
+	collaboration  = "ATLAS",
+	year           = "2005",
+	note   = "CERN-LHCC-2005-022, ATLAS-TRD-017",
+	SLACcitation   = "%%CITATION = CERN-LHCC-2005-022;%%"
+}
+@article{ATLAS:simulation,
+	author         = "Aad, G. and others",
+	title          = "{The ATLAS Simulation Infrastructure}",
+	collaboration  = "ATLAS",
+	journal        = "Eur. Phys. J.",
+	volume         = "C70",
+	year           = "2010",
+	pages          = "823-874",
+	doi            = "10.1140/epjc/s10052-010-1429-9",
+	eprint         = "1005.4568",
+	archivePrefix  = "arXiv",
+	primaryClass   = "physics.ins-det",
+	SLACcitation   = "%%CITATION = ARXIV:1005.4568;%%"
 }
 @article{STAR:tpc,
 	author         = "Anderson, M. and others",
-	title          = "{The Star time projection chamber: A Unique tool for
+	title          = "{The STAR Time Projection Chamber: A Unique tool for
 	studying high multiplicity events at RHIC}",
 	journal        = "Nucl. Instrum. Meth.",
 	volume         = "A499",
 	year           = "2003",
 	pages          = "659-678",
 	doi            = "10.1016/S0168-9002(02)01964-2",
-	eprint         = "nucl-ex/0301015",
-	archivePrefix  = "arXiv",
-	primaryClass   = "nucl-ex",
 	SLACcitation   = "%%CITATION = NUCL-EX/0301015;%%"
 }
+
 @article{GEANT:three,
       author         = "Brun, R. and Bruyant, F. and Maire, M. and McPherson, A.
       C. and Zanarini, P.",
       title          = "{GEANT3}",
       year           = "1987",
-      reportNumber   = "CERN-DD-EE-84-1",
+      journal   = "CERN-DD-EE-84-1",
       SLACcitation   = "%%CITATION = CERN-DD-EE-84-1;%%"
 }
+
 @article{GEANT:four,
 	author         = "Agostinelli, S. and others",
 	title          = "{GEANT4: A Simulation toolkit}",
@@ -151,37 +176,6 @@
 	doi            = "10.1016/S0168-9002(03)01368-8",
 	reportNumber   = "SLAC-PUB-9350, FERMILAB-PUB-03-339",
 	SLACcitation   = "%%CITATION = NUIMA,A506,250;%%"
-}
-@misc{supplementaryNote,
-	author    = "Adamczyk, Leszek and Fulek, Lukasz and Sikora, Rafal",
-	title     = "{Supplementary note on diffractive analyses of 2015 proton-proton data}",
-	howpublished = "\url{https://drupal.star.bnl.gov/STAR/blog/rafals/supplementary-note-diffractive-analyses-2015-proton-proton-data}",
-	year     = "2019",
-	month    = "January",
-	
-}
-@article{Bopp:2000cr,
-	author         = "Bopp, Fritz W.",
-	title          = "{Central baryons in dual models and the possibility of a
-	backward peak in diffraction}",
-	year           = "2000",
-	eprint         = "hep-ph/0002190",
-	archivePrefix  = "arXiv",
-	primaryClass   = "hep-ph",
-	reportNumber   = "SI-00-1",
-	SLACcitation   = "%%CITATION = HEP-PH/0002190;%%"
-}
-@article{BaryonNoRapidity,
-	author         = "Kopeliovich, B. Z. and Zakharov, B. G.",
-	title          = "{Novel Mechanisms of Baryon Number Flow Over Large
-	Rapidity Gap}",
-	journal        = "Z. Phys.",
-	volume         = "C43",
-	year           = "1989",
-	pages          = "241",
-	doi            = "10.1007/BF01588211",
-	reportNumber   = "JINR-E2-88-493",
-	SLACcitation   = "%%CITATION = ZEPYA,C43,241;%%"
 }
 @article{unfolding:DAgostini,
 	author         = "D'Agostini, G.",
@@ -206,9 +200,2562 @@
 	year           = "2016",
 	pages          = "67-88",
 	doi            = "10.1016/j.physletb.2016.04.050",
-	eprint         = "1602.01633",
-	archivePrefix  = "arXiv",
-	primaryClass   = "hep-ex",
 	reportNumber   = "CERN-EP-2016-014",
 	SLACcitation   = "%%CITATION = ARXIV:1602.01633;%%"
+}
+@phdthesis{RafalThesis,
+	title          = "{Measurement of the diffractive central exclusive production in the STAR experiment at RHIC and the ATLAS experiment at LHC}",
+	author  = "Rafał Sikora",
+	year           = "2020",
+	howpublished   = "PhD thesis in preparation",
+	school = "AGH University of Science and Technology",
+}
+@phdthesis{SabinaThesis,
+title          = "{Hadronic final states in diffractive pp scattering at $\sqrt{s}=13$~TeV using the ATLAS detector}",
+author  = "Sabina Czekierda",
+year           = "2019",
+school = "THE H. Niewodniczański Institute of Nuclear Physics, Polish Academy of Sciences",
+}
+@mastersthesis{fastTrackerALFA,
+	title          = "{A Study of Diffractive Scattering with the ATLAS and ALFA Experiment}",
+	author  = "Alexander Pedersen Lind",
+	year           = "2017",
+	school   = "University of Copenhagen",
+}
+@phdthesis{CrystalBall:Oreglia,
+	author         = "Oreglia, M.",
+	title          = "{A Study of the Reactions $\psi^\prime \to \gamma \gamma
+	\psi$}",
+	school         = "SLAC",
+	year           = "1980",
+	reportNumber   = "SLAC-R-236",
+	SLACcitation   = "%%CITATION = SLAC-0236;%%"
+}
+@phdthesis{CrystalBall:Skwarnicki,
+	author         = "Skwarnicki, Tomasz",
+	title          = "{A study of the radiative CASCADE transitions between the
+	Upsilon-Prime and Upsilon resonances}",
+	school         = "Cracow, INP",
+	year           = "1986",
+	reportNumber   = "DESY-F31-86-02, DESY-F-31-86-02",
+	SLACcitation   = "%%CITATION = DESY-F31-86-02;%%"
+}
+@article{MSTW2008LO,
+	author         = "Martin, A. D. and Stirling, W. J. and Thorne, R. S. and
+	Watt, G.",
+	title          = "{Parton distributions for the LHC}",
+	journal        = "Eur. Phys. J.",
+	volume         = "C63",
+	year           = "2009",
+	pages          = "189-285",
+	doi            = "10.1140/epjc/s10052-009-1072-5",
+	eprint         = "0901.0002",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	reportNumber   = "IPPP-08-95, DCPT-08-190, CAVENDISH-HEP-08-16",
+	SLACcitation   = "%%CITATION = ARXIV:0901.0002;%%"
+}
+@article{QGSJET,
+	author         = "Ostapchenko, Sergey",
+	title          = "{Monte Carlo treatment of hadronic interactions in
+	enhanced Pomeron scheme: I. QGSJET-II model}",
+	journal        = "Phys. Rev.",
+	volume         = "D83",
+	year           = "2011",
+	pages          = "014018",
+	doi            = "10.1103/PhysRevD.83.014018",
+	eprint         = "1010.1869",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	SLACcitation   = "%%CITATION = ARXIV:1010.1869;%%"
+}
+@article{Donnachie:1984xq,
+	author         = "Donnachie, A. and Landshoff, P. V.",
+	title          = "{Elastic Scattering and Diffraction Dissociation}",
+	booktitle      = "{NEW PARTICLE PRODUCTION. PROCEEDINGS, 19TH RENCONTRES DE
+	MORIOND, HADRONIC SESSION, LA PLAGNE, FRANCE, MARCH 4-10,
+	1984}",
+	journal        = "Nucl. Phys.",
+	volume         = "B244",
+	year           = "1984",
+	pages          = "322",
+	doi            = "10.1016/0550-3213(84)90315-8",
+	reportNumber   = "DAMTP 84/6, M/C TH-84/8",
+	SLACcitation   = "%%CITATION = NUPHA,B244,322;%%"
+}
+@article{ATLAS:A3,
+	title          = "{A study of the Pythia 8 description of ATLAS minimum bias measurements with the Donnachie-Landshoff diffractive model}",
+	author  = {{ATLAS Collaboration}},
+	year           = "2016",
+	note   = "ATL-PHYS-PUB-2016-017",
+	SLACcitation   = "%%CITATION = ATL-PHYS-PUB-2012-003;%%"
+}
+@article{ATLAS:material,
+	title         = "{Studies of the ATLAS Inner Detector material using
+	$\sqrt{s}=$13 TeV $pp$ collision data}",
+	author  = {{ATLAS Collaboration}},
+	year          = "2015",
+	note  = "ATL-PHYS-PUB-2015-050",
+}
+@article{ATLAS:dEdx_old,
+	title          = "{$dE/dx$ measurement in the ATLAS Pixel Detector and its
+	use for particle identification}",
+	author  = {{ATLAS Collaboration}},
+	year           = "2011",
+	note   = "ATLAS-CONF-2011-016",
+}
+@article{ATLAS:dEdx_new,
+	author         = "Aaboud, Morad and others",
+	title          = "{Search for metastable heavy charged particles with large
+	ionization energy loss in pp collisions at $\sqrt{s} = 13$
+	TeV using the ATLAS experiment}",
+	collaboration  = "ATLAS",
+	journal        = "Phys. Rev.",
+	volume         = "D93",
+	year           = "2016",
+	number         = "11",
+	pages          = "112015",
+	doi            = "10.1103/PhysRevD.93.112015",
+	eprint         = "1604.04520",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ex",
+	reportNumber   = "CERN-EP-2016-063",
+	SLACcitation   = "%%CITATION = ARXIV:1604.04520;%%"
+}
+@article{Monash,
+	author         = "Skands, Peter and Carrazza, Stefano and Rojo, Juan",
+	title          = "{Tuning PYTHIA 8.1: the Monash 2013 Tune}",
+	journal        = "Eur. Phys. J.",
+	volume         = "C74",
+	year           = "2014",
+	number         = "8",
+	pages          = "3024",
+	doi            = "10.1140/epjc/s10052-014-3024-y",
+	eprint         = "1404.5630",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	reportNumber   = "CERN-PH-TH-2014-069, MCNET-14-08, OUTP-14-05P",
+	SLACcitation   = "%%CITATION = ARXIV:1404.5630;%%"
+}
+@inproceedings{NNPDF23LO,
+	author         = "Carrazza, Stefano and Forte, Stefano and Rojo, Juan",
+	title          = "{Parton Distributions and Event Generators}",
+	booktitle      = "{Proceedings, 43rd International Symposium on
+	Multiparticle Dynamics (ISMD 13)}",
+	year           = "2013",
+	pages          = "89-96",
+	eprint         = "1311.5887",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	SLACcitation   = "%%CITATION = ARXIV:1311.5887;%%"
+}
+@article{ATLAS:charged100,
+	author         = "Aaboud, Morad and others",
+	title          = "{Charged-particle distributions at low transverse
+	momentum in $\sqrt{s} = 13$  TeV $pp$ interactions
+	measured with the ATLAS detector at the LHC}",
+	collaboration  = "ATLAS",
+	journal        = "Eur. Phys. J.",
+	volume         = "C76",
+	year           = "2016",
+	number         = "9",
+	pages          = "502",
+	doi            = "10.1140/epjc/s10052-016-4335-y",
+	reportNumber   = "CERN-EP-2016-099",
+	SLACcitation   = "%%CITATION = ARXIV:1606.01133;%%"
+}
+@article{dEdx:ExpGausExp,
+	author         = "Das, Souvik",
+	title          = "{A simple alternative to the Crystal Ball function}",
+	year           = "2016",
+	eprint         = "1603.08591",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ex",
+	SLACcitation   = "%%CITATION = ARXIV:1603.08591;%%"
+}
+@article{osti_15020507,
+	title = {Electron Beam Ion Source  Preinjector Project (EBIS) Conceptual Design Report},
+	author = {Alessi, J. and others},
+	doi = {10.2172/15020507},
+	note   = "BNL-73700-2005-IR-R1",
+	year = {2005},
+}
+@article{RHICoverview,
+	author         = "Hahn, H. and others",
+	title          = "{The RHIC design overview}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "245-263",
+	doi            = "10.1016/S0168-9002(02)01938-1",
+	SLACcitation   = "%%CITATION = NUIMA,A499,245;%%"
+}
+@article{TOF:schema,
+	author         = "Llope, W. J.",
+	title          = "{The large-area time-of-flight upgrade for STAR}",
+	booktitle      = "{18th International Conference on the Application of
+	Accelerators in Research and Industry (CAARI 2004) Fort
+	Worth, Texas, October 10-15, 2004}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "B241",
+	year           = "2005",
+	pages          = "306-310",
+	doi            = "10.1016/j.nimb.2005.07.089",
+	SLACcitation   = "%%CITATION = NUIMA,B241,306;%%"
+}
+@article{RHIC:magnet,
+	author         = "Anerella, M. and others",
+	title          = "{The RHIC magnet system}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "280-315",
+	doi            = "10.1016/S0168-9002(02)01940-X",
+	SLACcitation   = "%%CITATION = NUIMA,A499,280;%%"
+}
+@article{RHIC:theAccelerator,
+	author         = "Harrison, M. and Peggs, Stephen G. and Roser, T.",
+	title          = "{The RHIC accelerator}",
+	journal        = "Ann. Rev. Nucl. Part. Sci.",
+	volume         = "52",
+	year           = "2002",
+	pages          = "425-469",
+	doi            = "10.1146/annurev.nucl.52.050102.090650",
+	SLACcitation   = "%%CITATION = ARNUA,52,425;%%"
+}
+@article{pp2pp:elastic,
+	author         = "Adamczyk, L. and others",
+	title          = "{Single Spin Asymmetry $A_N$ in Polarized Proton-Proton
+	Elastic Scattering at $\sqrt{s}=200$ GeV}",
+	collaboration  = "STAR",
+	journal        = "Phys. Lett.",
+	volume         = "B719",
+	year           = "2013",
+	pages          = "62-69",
+	doi            = "10.1016/j.physletb.2013.01.014",
+	SLACcitation   = "%%CITATION = ARXIV:1206.1928;%%"
+}
+@article{RHIC:sPHENIX,
+	author         = "Campbell, Sarah",
+	title          = "{sPHENIX: The next generation heavy ion detector at
+	RHIC}",
+	booktitle      = "{Proceedings, Hot Quarks 2016: Workshop for Young
+	Scientists on the Physics of Ultrarelativistic
+	Nucleus-Nucleus Collisions (HQ2016): South Padre Island,
+	Texas, September 12-17, 2016}",
+	collaboration  = "sPHENIX",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "832",
+	year           = "2017",
+	number         = "1",
+	pages          = "012012",
+	doi            = "10.1088/1742-6596/832/1/012012",
+	SLACcitation   = "%%CITATION = ARXIV:1611.03003;%%"
+}
+@article{RHIC:sPHENIX1,
+	author         = "Connors, Megan",
+	title          = "{Fulfilling the RHIC mission with sPHENIX}",
+	booktitle      = "{Proceedings, 32th Winter Workshop on Nuclear Dynamics
+	(WWND 2016): Guadeloupe, French West Indies, February
+	26-March 5, 2016}",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "736",
+	year           = "2016",
+	number         = "1",
+	pages          = "012027",
+	doi            = "10.1088/1742-6596/736/1/012027",
+	SLACcitation   = "%%CITATION = 00462,736,012027;%%"
+}
+@article{RHIC:BRAHMS,
+	author         = "Adamczyk, M and others",
+	title          = "{The BRAHMS experiment at RHIC}",
+	collaboration  = "BRAHMS",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "437-468",
+	doi            = "10.1016/S0168-9002(02)01949-6",
+	SLACcitation   = "%%CITATION = NUIMA,A499,437;%%"
+}
+@article{RHIC:PHENIX,
+	author         = "Morrison, D. P. and others",
+	title          = "{The PHENIX experiment at RHIC}",
+	booktitle      = "{Ultrarelativistic nucleus nucleus collisions.
+	Proceedings, 48th Yamada Conference, 13th International
+	Conference, Quark Matter '97, Tsukuba, Japan, December
+	1-5, 1997}",
+	collaboration  = "PHENIX",
+	journal        = "Nucl. Phys.",
+	volume         = "A638",
+	year           = "1998",
+	pages          = "565-570",
+	doi            = "10.1016/S0375-9474(98)00390-X",
+	SLACcitation   = "%%CITATION = HEP-EX/9804004;%%"
+}
+@article{RHIC:PHOBOS,
+	author         = "Back, B. and others",
+	title          = "{The PHOBOS experiment at the RHIC collider}",
+	booktitle      = "{Quark matter '99. Proceedings, 14th International
+	Conference on ultrarelativistic nucleus nucleus
+	collisions, QM'99, Torino, Italy, May 10-15, 1999}",
+	collaboration  = "PHOBOS",
+	journal        = "Nucl. Phys.",
+	volume         = "A661",
+	year           = "1999",
+	pages          = "690-693",
+	doi            = "10.1016/S0375-9474(99)85119-7",
+	SLACcitation   = "%%CITATION = NUPHA,A661,690;%%"
+}
+@article{eRHIC,
+	author         = "Aschenauer, E. C. and others",
+	title          = "{eRHIC Design Study: An Electron-Ion Collider at BNL}",
+	year           = "2014",
+	eprint         = "1409.1633",
+	archivePrefix  = "arXiv",
+	primaryClass   = "physics.acc-ph",
+	SLACcitation   = "%%CITATION = ARXIV:1409.1633;%%"
+}
+@article{RHIC:OPPIS,
+	author         = "Zelenski, A. and others",
+	title          = "{The RHIC polarized source upgrade}",
+	booktitle      = "{Spin physics. Proceedings, 19th International Symposium,
+	SPIN 2010, Juelich, Germany, September 27-October 2,
+	2010}",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "295",
+	year           = "2011",
+	pages          = "012147",
+	doi            = "10.1088/1742-6596/295/1/012147",
+	SLACcitation   = "%%CITATION = 00462,295,012147;%%"
+}
+@article{RHIC:EBIS,
+	author         = "Beebe, E. and others",
+	title          = "{Reliable operation of the Brookhaven EBIS for highly
+	charged ion production for RHIC and NSRL}",
+	booktitle      = "{Proceedings, 12th International Symposium on Electron
+	Beam Ion Sources and Traps and Their Applications
+	(EBIST'14): East Lansing, Michigan, May 18-21, 2014}",
+	journal        = "AIP Conf. Proc.",
+	volume         = "1640",
+	year           = "2015",
+	number         = "1",
+	pages          = "5-11",
+	doi            = "10.1063/1.4905394",
+	SLACcitation   = "%%CITATION = APCPC,1640,5;%%"
+}
+@article{RHIC:SiberianSnake,
+	author         = "Alekseev, I and others",
+	title          = "{Polarized proton collider at RHIC}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "392-414",
+	doi            = "10.1016/S0168-9002(02)01946-0",
+	reportNumber   = "FERMILAB-PUB-03-327",
+	SLACcitation   = "%%CITATION = NUIMA,A499,392;%%"
+}
+
+@article{STAR:overview,
+	author         = "Ackermann, K. H. and others",
+	title          = "{STAR detector overview}",
+	collaboration  = "STAR",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "624-632",
+	doi            = "10.1016/S0168-9002(02)01960-5",
+	SLACcitation   = "%%CITATION = NUIMA,A499,624;%%"
+}
+@article{STAR:gas,
+	author         = "Kotchenda, L. and Kozlov, S. and Kravtsov, P. and Markov,
+	A. and Strikhanov, M. and Stringfellow, B. and Trofimov,
+	V. and Wells, R. and Wieman, H.",
+	title          = "{STAR TPC gas system}",
+	collaboration  = "STAR",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "703-712",
+	doi            = "10.1016/S0168-9002(02)01967-8",
+	SLACcitation   = "%%CITATION = NUIMA,A499,703;%%"
+}
+@article{STAR:iTPC,
+	author         = "Shen, F. and Wang, S. and Yang, C. and Xu, Q.",
+	title          = "{MWPC prototyping and testing for STAR inner TPC
+	upgrade}",
+	booktitle      = "{Proceedings, International Conference on Instrumentation
+	for Colliding Beam Physics (INSTR17): Novosibirsk,
+	Russia}",
+	journal        = "JINST",
+	volume         = "12",
+	year           = "2017",
+	number         = "06",
+	pages          = "C06008",
+	doi            = "10.1088/1748-0221/12/06/C06008",
+	SLACcitation   = "%%CITATION = JINST,12,C06008;%%"
+}
+
+@article{STAR:TOFLlope,
+	author         = "Llope, W. J. and others",
+	title          = "{The TOFp / pVPD time-of-flight system for STAR}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A522",
+	year           = "2004",
+	pages          = "252-273",
+	doi            = "10.1016/j.nima.2003.11.414",
+	SLACcitation   = "%%CITATION = NUCL-EX/0308022;%%"
+}
+@article{STAR:TOF_MRPC,
+	author         = "Geurts, F. and others",
+	title          = "{Performance of the prototype MRPC detector for STAR}",
+	booktitle      = "{Resistive plate chambers. Proceedings, 7th International
+	Workshop on Resistive Plate Chambers and Related
+	Detectors, RPC 2003, Clermont-Ferrand, France, October
+	20-22, 2003}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A533",
+	year           = "2004",
+	pages          = "60-64",
+	doi            = "10.1016/j.nima.2004.07.001",
+	SLACcitation   = "%%CITATION = NUIMA,A533,60;%%"
+}
+
+@article{STAR:VPD,
+	author         = "Llope, W. J. and others",
+	title          = "{The STAR Vertex Position Detector}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A759",
+	year           = "2014",
+	pages          = "23-28",
+	doi            = "10.1016/j.nima.2014.04.080",
+	SLACcitation   = "%%CITATION = ARXIV:1403.6855;%%"
+}
+
+@article{STAR:trigger,
+	author         = "Bieser, F. S. and others",
+	title          = "{The STAR trigger}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "766-777",
+	doi            = "10.1016/S0168-9002(02)01974-5",
+	SLACcitation   = "%%CITATION = NUIMA,A499,766;%%"
+}
+
+@article{STAR:trigger3,
+	author         = "Adler, C. and others",
+	title          = "{The STAR level-3 trigger system}",
+	collaboration  = "STAR",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A499",
+	year           = "2003",
+	pages          = "778-791",
+	doi            = "10.1016/S0168-9002(02)01975-7",
+	SLACcitation   = "%%CITATION = NUIMA,A499,778;%%"
+}
+
+@article{STAR:ZDC,
+	author         = "Xu, Yi-Fei and others",
+	title          = "{Physics performance of the STAR Zero Degree Calorimeter
+	at relativistic heavy ion collider}",
+	booktitle      = "{Proceedings, 5th International Workshop on Nuclear
+	Dynamics in Heavy-Ion Reactions (IWND2016): Xinxiang,
+	Henan, China, May 15-20, 2016}",
+	journal        = "Nucl. Sci. Tech.",
+	volume         = "27",
+	year           = "2016",
+	number         = "6",
+	pages          = "126",
+	doi            = "10.1007/s41365-016-0129-z",
+	SLACcitation   = "%%CITATION = INSPIRE-1487373;%%"
+}
+
+@article{STAR:BBC,
+	author         = "Whitten, C. A.",
+	title          = "{The beam-beam counter: A local polarimeter at STAR}",
+	booktitle      = "{Proceedings, 12th International Workshop on Polarized
+	ion sources, targets and polarimetry (PSTP 2007): Upton,
+	USA, September 10-14, 2007}",
+	collaboration  = "STAR",
+	journal        = "AIP Conf. Proc.",
+	volume         = "980",
+	year           = "2008",
+	number         = "1",
+	pages          = "390-396",
+	doi            = "10.1063/1.2888113",
+	SLACcitation   = "%%CITATION = APCPC,980,390;%%"
+}
+
+@article{STAR:trigger_new,
+	title = {The evolution of the STAR Trigger System},
+	author = {Judd, E. G. and others},
+	doi = {10.1016/j.nima.2018.03.070},
+	journal = {Nucl. Instrum. Meth.},
+	number = C,
+	volume = "A902",
+	pages = "228–237",
+	place = {United States},
+	year = {2018},
+	month = {3}
+}
+
+@article{STAR:Vertex_Reed,
+	author         = "Reed, R. and others",
+	title          = "{Vertex finding in pile-up rich events for p+p and d+Au
+	collisions at STAR}",
+	booktitle      = "{Proceedings, 17th International Conference on Computing
+	in High Energy and Nuclear Physics (CHEP 2009): Prague,
+	Czech Republic, March 21-27, 2009}",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "219",
+	year           = "2010",
+	pages          = "032020",
+	doi            = "10.1088/1742-6596/219/3/032020",
+	SLACcitation   = "%%CITATION = 00462,219,032020;%%"
+}
+
+@article{STAR:Vertex_Smirnov,
+	author         = "Smirnov, D. and Lauret, J. and Perevoztchikov, V. and Van
+	Buren, G. and Webb, J.",
+	title          = "{Vertex Reconstruction at STAR: Overview and Performance
+	Evaluation}",
+	booktitle      = "{Proceedings, 22nd International Conference on Computing
+	in High Energy and Nuclear Physics (CHEP2016): San
+	Francisco, CA, October 14-16, 2016}",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "898",
+	year           = "2017",
+	number         = "4",
+	pages          = "042058",
+	doi            = "10.1088/1742-6596/898/4/042058",
+	SLACcitation   = "%%CITATION = 00462,898,042058;%%"
+}
+
+@article{STAR:tracker,
+	author         = "Rose, A.",
+	title          = "{STAR integrated tracker}",
+	booktitle      = "{Proceedings, 13th International Conference on Computing
+	in High-Enery and Nuclear Physics (CHEP 2003): La Jolla,
+	California, March 24-28, 2003}",
+	collaboration  = "STAR",
+	journal        = "eConf",
+	volume         = "C0303241",
+	year           = "2003",
+	pages          = "THLT004",
+	eprint         = "nucl-ex/0307015",
+	archivePrefix  = "arXiv",
+	primaryClass   = "nucl-ex",
+	reportNumber   = "CHEP-2003-THLT004",
+	SLACcitation   = "%%CITATION = NUCL-EX/0307015;%%"
+}
+
+@article{STAR:HFT,
+title = "The STAR Heavy Flavor Tracker and Upgrade Plan",
+journal = "Nuclear Physics",
+volume = "A956",
+pages = "858 - 861",
+year = "2016",
+issn = "0375-9474",
+doi = "https://doi.org/10.1016/j.nuclphysa.2016.02.064",
+author = "Giacomo Contin",
+keywords = "Pixel, MAPS, Silicon Tracker, Vertex Detector, RHIC, STAR Experiment, Heavy Ions, Heavy Flavor",
+
+}
+
+@mastersthesis{RafalMgr,
+	title          = "{Study of elastic proton-proton scattering
+	with the STAR detector at RHIC}",
+	author  = "Rafał Sikora",
+	year           = "2014",
+	school   = "AGH University of Science and Technology",
+}
+
+@bsthesis{RafalInz,
+	title          = "{Elastic proton-proton scattering
+	in the STAR experiment at RHIC}",
+	author  = "Rafał Sikora",
+	year           = "2013",
+	school   = "AGH University of Science and Technology",
+}
+
+
+
+@bsthesis{LukaszInz,
+	title          = "{Transport of particles through RHIC magnet lattice}",
+	author  = "{\L}ukasz Fulek",
+	year           = "2013",
+	note = "Polish version",
+	school   = "AGH University of Science and Technology",
+}
+
+@mastersthesis{LukaszMgr,
+	title          = "{Study of single diffrative dissociation in proton-proton scattering with STAR detector at RHIC}",
+	author  = "{\L}ukasz Fulek",
+	year           = "2014",
+	note = "Polish version",
+	school   = "AGH University of Science and Technology",
+}
+@online{LHCfig,
+	title = {The CERN accelerator complex},
+	url = {https://cds.cern.ch/record/2197559},
+	note = {Accessed: 2019-08-17}
+}
+@article{LHC:Bruning,
+	author         = "Bruning, O. and Burkhardt, H. and Myers, S.",
+	title          = "{The Large Hadron Collider}",
+	journal        = "Prog. Part. Nucl. Phys.",
+	volume         = "67",
+	year           = "2012",
+	pages          = "705-734",
+	doi            = "10.1016/j.ppnp.2012.03.001",
+	SLACcitation   = "%%CITATION = PPNPD,67,705;%%"
+}
+@article{LHC:Evans,
+	author         = "Evans, Lyndon and Bryant, Philip",
+	title          = "{LHC Machine}",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "S08001",
+	doi            = "10.1088/1748-0221/3/08/S08001",
+	SLACcitation   = "%%CITATION = JINST,3,S08001;%%"
+}
+@article{LHC:source,
+	author         = "Gilardoni, Simone and Manglunki, Django",
+	title          = "{Fifty years of the CERN Proton Synchrotron}",
+	doi            = "10.5170/CERN-2011-004",
+	year           = "2011",
+	note   = "CERN-2011-004",
+	SLACcitation   = "%%CITATION = CERN-2011-004;%%"
+}
+@book{LHC:injection,
+	author         = "Schindl, K.",
+	title          = "{LEP performance. Proceedings, 9th Workshop, Chamonix,
+	France, January 26-29, 1999: The injector chain for the LHC}",
+	year           = "1999",
+	pages          = "47-52",
+	note   = "CERN-PS-99-018-DI, CERN-PS-99-18-DI",
+	SLACcitation   = "%%CITATION = CERN-PS-99-018-DI;%%"
+}
+@article{LHC:injectionPb,
+	author         = "Benedikt, M. and others",
+	title          = "{LHC Design Report. 3. The LHC injector chain}",
+	year           = "2004",
+	note   = "CERN-2004-003-V-3, CERN-2004-003",
+	SLACcitation   = "%%CITATION = CERN-2004-003-V-3;%%"
+}
+
+@article{LHC:sourcePb,
+     author         = "Lettry, J. and others",
+     title          = "{Overview of the Status and Developments on Primary Ion
+     Sources at CERN}",
+     booktitle      = "{Particle accelerator. Proceedings, 2nd International
+     Conference, IPAC 2011, San Sebastian, Spain, September
+     4-9, 2011}",
+     journal        = "Conf. Proc.",
+     volume         = "C110904",
+     year           = "2011",
+     pages          = "3474-3476",
+     reportNumber   = "IPAC-2011-THPS025, CERN-ATS-2011-172",
+     SLACcitation   = "%%CITATION = CONFP,C110904,3474;%%"
+}
+
+@article{LHC:ATLAS,
+	author         = "Aad, G. and others",
+	title          = "{The ATLAS Experiment at the CERN Large Hadron Collider}",
+	collaboration  = "ATLAS",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "S08003",
+	doi            = "10.1088/1748-0221/3/08/S08003",
+	SLACcitation   = "%%CITATION = JINST,3,S08003;%%"
+}
+@article{LHC:CMS,
+	author         = "Chatrchyan, S. and others",
+	title          = "{The CMS Experiment at the CERN LHC}",
+	collaboration  = "CMS",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "S08004",
+	doi            = "10.1088/1748-0221/3/08/S08004",
+	SLACcitation   = "%%CITATION = JINST,3,S08004;%%"
+}
+
+@article{LHC:LHCb,
+	author         = "Alves, Jr., A. Augusto and others",
+	title          = "{The LHCb Detector at the LHC}",
+	collaboration  = "LHCb",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "S08005",
+	doi            = "10.1088/1748-0221/3/08/S08005",
+	SLACcitation   = "%%CITATION = JINST,3,S08005;%%"
+}
+@article{LHC:ALICE,
+	author         = "Aamodt, K. and others",
+	title          = "{The ALICE experiment at the CERN LHC}",
+	collaboration  = "ALICE",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "S08002",
+	doi            = "10.1088/1748-0221/3/08/S08002",
+	SLACcitation   = "%%CITATION = JINST,3,S08002;%%"
+}
+@article{ATLAS:EMbarrel,
+	author         = "Aubert, Bernard and others",
+	title          = "{Construction, assembly and tests of the ATLAS
+	electromagnetic barrel calorimeter}",
+	collaboration  = "ATLAS",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A558",
+	year           = "2006",
+	pages          = "388-418",
+	doi            = "10.1016/j.nima.2005.11.212",
+	reportNumber   = "CERN-PH-EP-2005-034",
+	SLACcitation   = "%%CITATION = NUIMA,A558,388;%%"
+}
+@article{ATLAS:EMEC,
+	author         = "Aleksa, M. and others",
+	title          = "{Construction, assembly and tests of the ATLAS
+	electromagnetic end-cap calorimeters}",
+	collaboration  = "ATLAS",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "P06002",
+	doi            = "10.1088/1748-0221/3/06/P06002",
+	SLACcitation   = "%%CITATION = JINST,3,P06002;%%"
+}
+@article{ATLAS:EMpresampler,
+	author         = "Andrieux, M. L and others",
+	title          = "{Construction and test of the first two sectors of the
+	ATLAS barrel liquid argon presampler}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A479",
+	year           = "2002",
+	pages          = "316-333",
+	doi            = "10.1016/S0168-9002(01)00943-3",
+	SLACcitation   = "%%CITATION = NUIMA,A479,316;%%"
+}
+@article{ATLAS:Htile,
+	title          = "{ATLAS tile calorimeter: Technical design report}",
+	author  =  {{ATLAS Collaboration}},
+	year           = "1996",
+	note   = "CERN-LHCC-96-42",
+	SLACcitation   = "%%CITATION = CERN-LHCC-96-42;%%"
+}
+@article{ATLAS:HEC,
+	author         = "Gingrich, D. M. and others",
+	title          = "{Construction, assembly and testing of the ATLAS hadronic
+	end-cap calorimeter}",
+	journal        = "JINST",
+	volume         = "2",
+	year           = "2007",
+	pages          = "P05005",
+	doi            = "10.1088/1748-0221/2/05/P05005",
+	reportNumber   = "ATL-LARG-PUB-2007-009, ATL-COM-LARG-2007-006",
+	SLACcitation   = "%%CITATION = JINST,2,P05005;%%"
+}
+
+@article{ATLAS:FCAL,
+	author         = "Artamonov, A. and others",
+	title          = "{The ATLAS forward calorimeters}",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "P02010",
+	doi            = "10.1088/1748-0221/3/02/P02010",
+	SLACcitation   = "%%CITATION = JINST,3,P02010;%%"
+}
+
+@article{ATLAS:IBLfig,
+	author         = "Potamianos, Karolos",
+	title          = "{The upgraded Pixel detector and the commissioning of the
+	Inner Detector tracking of the ATLAS experiment for Run-2
+	at the Large Hadron Collider}",
+	booktitle      = "{Proceedings,  2015 European Physical Society Conference
+	on High Energy Physics (EPS-HEP 2015): Vienna, Austria,
+	July 22-29, 2015}",
+	journal        = "PoS",
+	volume         = "EPS-HEP2015",
+	year           = "2015",
+	pages          = "261",
+	reportNumber   = "ATL-PHYS-PROC-2016-104",
+	SLACcitation   = "%%CITATION = ARXIV:1608.07850;%%"
+}
+@article{ATLAS:IBL,
+	author         = "Capeans, M. and others",
+	title          = "{ATLAS Insertable B-Layer Technical Design Report}",
+	collaboration  = "ATLAS",
+	year           = "2010",
+	note   = "CERN-LHCC-2010-013, ATLAS-TDR-19",
+	SLACcitation   = "%%CITATION = CERN-LHCC-2010-013;%%"
+}
+@article{ATLAS:PIXEL,
+	author         = "Aad, G. and others",
+	title          = "{ATLAS pixel detector electronics and sensors}",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "P07007",
+	doi            = "10.1088/1748-0221/3/07/P07007",
+	SLACcitation   = "%%CITATION = JINST,3,P07007;%%"
+}
+@article{ATLAS:SCT,
+	author         = "Abdesselam, A. and others",
+	title          = "{The integration and engineering of the ATLAS
+	SemiConductor Tracker barrel}",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "P10006",
+	doi            = "10.1088/1748-0221/3/10/P10006",
+	SLACcitation   = "%%CITATION = JINST,3,P10006;%%"
+}
+@article{ATLAS:TRTe,
+	author         = "Abat, E. and others",
+	title          = "{The ATLAS TRT end-cap detectors}",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "P10003",
+	doi            = "10.1088/1748-0221/3/10/P10003",
+	SLACcitation   = "%%CITATION = JINST,3,P10003;%%"
+}
+@article{ATLAS:TRT,
+	author         = "Abat, E. and others",
+	title          = "{The ATLAS TRT barrel detector}",
+	journal        = "JINST",
+	volume         = "3",
+	year           = "2008",
+	pages          = "P02014",
+	doi            = "10.1088/1748-0221/3/02/P02014",
+	SLACcitation   = "%%CITATION = JINST,3,P02014;%%"
+}
+@article{ATLAS:MBTS,
+	author         = "Sidoti, A.",
+	title          = "{Minimum Bias Trigger Scintillators in ATLAS Run II}",
+	booktitle      = "{Proceedings, International Conference on Instrumentation
+	for Colliding Beam Physics (INSTR14): Novosibirsk, Russia,
+	February 24-March 1, 2014}",
+	journal        = "JINST",
+	volume         = "9",
+	year           = "2014",
+	number         = "10",
+	pages          = "C10020",
+	doi            = "10.1088/1748-0221/9/10/C10020",
+	SLACcitation   = "%%CITATION = JINST,9,C10020;%%"
+}
+
+@article{ATLAS:ALFA,
+	author         = "Abdel Khalek, S. and others",
+	title          = "{The ALFA Roman Pot Detectors of ATLAS}",
+	journal        = "JINST",
+	volume         = "11",
+	year           = "2016",
+	number         = "11",
+	pages          = "P11013",
+	doi            = "10.1088/1748-0221/11/11/P11013",
+	eprint         = "1609.00249",
+	archivePrefix  = "arXiv",
+	primaryClass   = "physics.ins-det",
+	SLACcitation   = "%%CITATION = ARXIV:1609.00249;%%"
+}
+@phdthesis{SuneThesis,
+	title          = "{Commissioning of the Absolute Luminosity For ATLAS
+	detector at the LHC}",
+	author  = "Sune Jakobsen",
+	year           = "2014",
+	school = " University of Copenhagen",
+}
+@article{ATLAS:ALFA1,
+	author         = "Jenni, Peter and others",
+	title          = "{ATLAS Forward Detectors for Measurement of Elastic
+	Scattering and Luminosity}",
+	year           = "2008",
+	note   = "ATLAS-TDR-18, CERN-LHCC-2008-004",
+	SLACcitation   = "%%CITATION = ATLAS-TDR-18;%%"
+}
+
+@article{ATLAS:ALFAelastic7Tev,
+	author         = "Aad, Georges and others",
+	title          = "{Measurement of the total cross section from elastic
+	scattering in pp collisions at $\sqrt{s}=7$ TeV with the
+	ATLAS detector}",
+	collaboration  = "ATLAS",
+	journal        = "Nucl. Phys.",
+	volume         = "B889",
+	year           = "2014",
+	pages          = "486-548",
+	doi            = "10.1016/j.nuclphysb.2014.10.019",
+	reportNumber   = "CERN-PH-EP-2014-177",
+	SLACcitation   = "%%CITATION = ARXIV:1408.5778;%%"
+}
+@article{ATLAS:ALFAelastic8Tev,
+      author         = "Aaboud, Morad and others",
+      title          = "{Measurement of the total cross section from elastic
+      	scattering in $pp$ collisions at $\sqrt{s}=8$ TeV with the
+      	ATLAS detector}",
+      collaboration  = "ATLAS",
+      journal        = "Phys. Lett.",
+      volume         = "B761",
+      year           = "2016",
+      pages          = "158-178",
+      doi            = "10.1016/j.physletb.2016.08.020",
+      reportNumber   = "CERN-EP-2016-158",
+      SLACcitation   = "%%CITATION = ARXIV:1607.06605;%%"
+}
+@article{ATLAS:AFP,
+	author         = "Adamczyk, L. and others",
+	title          = "{Technical Design Report for the ATLAS Forward Proton
+	Detector}",
+	year           = "2015",
+	note   = "CERN-LHCC-2015-009, ATLAS-TDR-024",
+	SLACcitation   = "%%CITATION = CERN-LHCC-2015-009;%%"
+}
+@article{ATLAS:TDAQ,
+	author         = "Martínez, A. Ruiz",
+	title          = "{The Run-2 ATLAS Trigger System}",
+	booktitle      = "{Proceedings, 17th International Workshop on Advanced
+	Computing and Analysis Techniques in Physics Research
+	(ACAT 2016): Valparaiso, Chile, January 18-22, 2016}",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "762",
+	year           = "2016",
+	number         = "1",
+	pages          = "012003",
+	doi            = "10.1088/1742-6596/762/1/012003",
+	reportNumber   = "ATL-DAQ-PROC-2016-003",
+	SLACcitation   = "%%CITATION = 00462,762,012003;%%"
+}
+
+@article{ATLAS:TDAQ1,
+	title          = "{ATLAS high-level trigger, data acquisition and controls:
+	Technical design report}",
+	author  = {{ATLAS Collaboration}},
+	year           = "2003",
+	note   = "CERN-LHCC-2003-022, ATLAS-TRD-016",
+	SLACcitation   = "%%CITATION = CERN-LHCC-2003-022;%%"
+}
+@article{ATLAS:trackingParam,
+	author         = "Akesson, F. and others",
+	title          = "{ATLAS tracking event data model}",
+	year           = "2006",
+	note   = "ATL-SOFT-PUB-2006-004",
+	SLACcitation   = "%%CITATION = ATL-SOFT-PUB-2006-004;%%"
+}
+
+@article{ATLAS:trackingRun2,
+	author         = "Aaboud, M. and others",
+	title          = "{Performance of the ATLAS Track Reconstruction Algorithms
+	in Dense Environments in LHC Run 2}",
+	collaboration  = "ATLAS",
+	journal        = "Eur. Phys. J.",
+	volume         = "C77",
+	year           = "2017",
+	number         = "10",
+	pages          = "673",
+	doi            = "10.1140/epjc/s10052-017-5225-7",
+	reportNumber   = "CERN-EP-2017-045",
+	SLACcitation   = "%%CITATION = ARXIV:1704.07983;%%"
+}
+@article{ATLAS:Kalman,
+	author         = "Fruhwirth, R.",
+	title          = "{Application of Kalman filtering to track and vertex
+	fitting}",
+	journal        = "Nucl. Instrum. Meth.",
+	volume         = "A262",
+	year           = "1987",
+	pages          = "444-450",
+	doi            = "10.1016/0168-9002(87)90887-4",
+	reportNumber   = "HEPHY-PUB-87-503",
+	SLACcitation   = "%%CITATION = NUIMA,A262,444;%%"
+}
+@article{ATLAS:NN,
+	author         = "Aad, Georges and others",
+	title          = "{A neural network clustering algorithm for the ATLAS
+	silicon pixel detector}",
+	collaboration  = "ATLAS",
+	journal        = "JINST",
+	volume         = "9",
+	year           = "2014",
+	pages          = "P09009",
+	doi            = "10.1088/1748-0221/9/09/P09009",,
+	reportNumber   = "CERN-PH-EP-2014-120",
+	SLACcitation   = "%%CITATION = ARXIV:1406.7690;%%"
+}
+@article{ATLAS:trackingNEWT,
+	author         = "Cornelissen, T. and others",
+	editor         = "Salzburger, A.",
+	title          = "{Concepts, Design and Implementation of the ATLAS New
+	Tracking (NEWT)}",
+	year           = "2007",
+	note   = "ATL-SOFT-PUB-2007-007, ATL-COM-SOFT-2007-002",
+	SLACcitation   = "%%CITATION = ATL-SOFT-PUB-2007-007;%%"
+}
+@article{ATLAS:trackingNEWT1,
+	author         = "Cornelissen, T. and Elsing, M. and Gavrilenko, I. and
+	Liebig, W. and Moyse, E. and Salzburger, A.",
+	title          = "{The new ATLAS track reconstruction (NEWT)}",
+	booktitle      = "{Proceedings, 16th International Conference on Computing
+	in High Energy and Nuclear Physics (CHEP 2007): Victoria,
+	Canada, September 2-7, 2007}",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "119",
+	year           = "2008",
+	pages          = "032014",
+	doi            = "10.1088/1742-6596/119/3/032014",
+	SLACcitation   = "%%CITATION = 00462,119,032014;%%"
+}
+@article{ATLAS:vertex,
+	author         = "Boutle, S. and others",
+	title          = "{Primary vertex reconstruction at the ATLAS experiment}",
+	booktitle      = "{Proceedings, 22nd International Conference on Computing
+	in High Energy and Nuclear Physics (CHEP2016): San
+	Francisco, CA, October 14-16, 2016}",
+	collaboration  = "ATLAS",
+	journal        = "J. Phys. Conf. Ser.",
+	volume         = "898",
+	year           = "2017",
+	number         = "4",
+	pages          = "042056",
+	doi            = "10.1088/1742-6596/898/4/042056",
+	reportNumber   = "ATL-SOFT-PROC-2017-051",
+	SLACcitation   = "%%CITATION = 00462,898,042056;%%"
+}
+@article{ATLAS:CALreco,
+	author         = "Aad, Georges and others",
+	title          = "{Topological cell clustering in the ATLAS calorimeters
+	and its performance in LHC Run 1}",
+	collaboration  = "ATLAS",
+	journal        = "Eur. Phys. J.",
+	volume         = "C77",
+	year           = "2017",
+	pages          = "490",
+	doi            = "10.1140/epjc/s10052-017-5004-5",
+	reportNumber   = "CERN-PH-EP-2015-304",
+	SLACcitation   = "%%CITATION = ARXIV:1603.02934;%%"
+}
+@article{ATLAS:CALreco1,
+	author         = "Lampl, W. and others",
+	title          = "{Calorimeter clustering algorithms: Description and
+	performance}",
+	year           = "2008",
+	note   = "ATL-LARG-PUB-2008-002, ATL-COM-LARG-2008-003",
+	SLACcitation   = "%%CITATION = ATL-LARG-PUB-2008-002;%%"
+}
+
+@mastersthesis{ALFAreco,
+	title          = "{Kinematic reconstruction of diffractive processes with tagged protons in the ALFA detector at $\sqrt{s} = 8$~TeV}",
+	author  = "Simon Stark Mortensen",
+	year           = "2013",
+	school   = "University of Copenhagen",
+}
+@book{Barone:2002cv,
+	author         = "Barone, Vincenzo and Predazzi, Enrico",
+	title          = "{High-Energy Particle Diffraction}",
+	publisher      = "Springer-Verlag",
+	address        = "Berlin Heidelberg",
+	year           = "2002",
+	ISBN           = "3540421076",
+	SLACcitation   = "%%CITATION = INSPIRE-588021;%%"
+}
+
+@article{Donnachie:2002en,
+	author         = "Donnachie, S. and Dosch, Hans Gunter and Nachtmann, O.
+	and Landshoff, P.",
+	title          = "{Pomeron physics and QCD}",
+	journal        = "Camb. Monogr. Part. Phys. Nucl. Phys. Cosmol.",
+	volume         = "19",
+	year           = "2002",
+	pages          = "1-347",
+	SLACcitation   = "%%CITATION = CMPCE,19,1;%%"
+}
+@book{RapidityGap,
+	author         = "Dokshitzer, Yuri L. and Khoze, Valery A. and Mueller,
+	Alfred H. and Troian, S. I.",
+	title          = "{Basics of perturbative QCD}",
+	publisher        = "Editions Frontieres",
+	address        = "France",
+	year = "1991",
+	SLACcitation   = "%%CITATION = INSPIRE-325492;%%"
+}
+@article{Regge:1960zc,
+	author         = "Regge, T.",
+	title          = "{Bound states, shadow states and Mandelstam
+	representation}",
+	journal        = "Nuovo Cim.",
+	volume         = "18",
+	year           = "1960",
+	pages          = "947-956",
+	doi            = "10.1007/BF02733035",
+	SLACcitation   = "%%CITATION = NUCIA,18,947;%%"
+}
+
+@book{theory:Collins,
+	author         = "Collins, P. D. B.",
+	title          = "{An Introduction to Regge Theory and High-Energy
+	Physics}",
+	publisher      = "Cambridge Univ. Press",
+	address        = "Cambridge, UK",
+	year           = "2009",
+	series         = "Cambridge Monographs on Mathematical Physics",
+	doi            = "10.1017/CBO9780511897603",
+	ISBN           = "9780521110358",
+	SLACcitation   = "%%CITATION = INSPIRE-127083;%%"
+}
+
+@article{Regge:1959mz,
+	author         = "Regge, T.",
+	title          = "{Introduction to complex orbital momenta}",
+	journal        = "Nuovo Cim.",
+	volume         = "14",
+	year           = "1959",
+	pages          = "951",
+	doi            = "10.1007/BF02728177",
+	SLACcitation   = "%%CITATION = NUCIA,14,951;%%"
+}
+
+@article{theory:chewfrautshi,
+	author         = "Petrov, V. A.",
+	title          = "{Nonlinear Regge Trajectories in Theory and Practice}",
+	booktitle      = "{Proceedings, 5th International Workshop on Diffraction
+	in high-energy physics (Diffraction 2008): La
+	Londe-les-Maures, France, September 9-14, 2008}",
+	journal        = "AIP Conf. Proc.",
+	volume         = "1105",
+	year           = "2009",
+	number         = "1",
+	pages          = "266-269",
+	doi            = "10.1063/1.3122190",
+	SLACcitation   = "%%CITATION = ARXIV:0812.0996;%%"
+}
+@article{theory:chewfrautshi1,
+	title = {Regge Trajectories and the Principle of Maximum Strength for Strong Interactions},
+	author = {Chew, Geoffrey F. and Frautschi, Steven C.},
+	journal = {Phys. Rev. Lett.},
+	volume = {8},
+	issue = {1},
+	pages = {41--44},
+	numpages = {0},
+	year = {1962},
+	month = {Jan},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevLett.8.41},
+}
+@book{Gribov:2003nw,
+	author         = "Gribov, V. N.",
+	title          = "{The theory of complex angular momenta: Gribov lectures
+	on theoretical physics}",
+	publisher      = "Cambridge University Press",
+	year           = "2007",
+	series         = "Cambridge Monographs on Mathematical Physics",
+	doi            = "10.1017/CBO9780511534959",
+	ISBN           = "9780521037037, 9780521818346, 9780511055041",
+	SLACcitation   = "%%CITATION = INSPIRE-637524;%%"
+}
+@article{theory:sigmaTotal,
+	author         = "Antchev, G. and others",
+	title          = "{First measurement of elastic, inelastic and total
+	cross-section at $\sqrt{s}=13$ TeV by TOTEM and overview
+	of cross-section data at LHC energies}",
+	collaboration  = "TOTEM",
+	journal        = "Eur. Phys. J.",
+	volume         = "C79",
+	year           = "2019",
+	number         = "2",
+	pages          = "103",
+	doi            = "10.1140/epjc/s10052-019-6567-0",
+	SLACcitation   = "%%CITATION = ARXIV:1712.06153;%%"
+}
+@article{Pomeranchuk:406311,
+	author        = "Pomeranchuk, I I",
+	title         = "{Equality of the nucleon and antinucleon total interaction
+	cross section at high energies}",
+	journal       = "Zh. Eksp. Teor. Fiz.",
+	number        = "3",
+	volume        = "34",
+	pages         = "725-728",
+	year          = "1958",
+}
+@article{Donnachie:1992ny,
+	author         = "Donnachie, A. and Landshoff, P. V.",
+	title          = "{Total cross-sections}",
+	journal        = "Phys. Lett.",
+	volume         = "B296",
+	year           = "1992",
+	pages          = "227-232",
+	doi            = "10.1016/0370-2693(92)90832-O",
+	reportNumber   = "CERN-TH-6635-92",
+	SLACcitation   = "%%CITATION = HEP-PH/9209205;%%"
+}
+@article{Levin:1998pk,
+	author         = "Levin, Eugene",
+	title          = "{An Introduction to pomerons}",
+	year           = "1998",
+	note   = "DESY-98-120, TAUP-2522-98",
+	SLACcitation   = "%%CITATION = HEP-PH/9808486;%%"
+}
+@article{Froissart:1961ux,
+	author         = "Froissart, Marcel",
+	title          = "{Asymptotic behavior and subtractions in the Mandelstam
+	representation}",
+	journal        = "Phys. Rev.",
+	volume         = "123",
+	year           = "1961",
+	pages          = "1053-1057",
+	doi            = "10.1103/PhysRev.123.1053",
+	SLACcitation   = "%%CITATION = PHRVA,123,1053;%%"
+}
+@article{Martin:1965jj,
+	author         = "Martin, Andre",
+	title          = "{Extension of the axiomatic analyticity domain of
+	scattering amplitudes by unitarity. 1.}",
+	journal        = "Nuovo Cim.",
+	volume         = "A42",
+	year           = "1965",
+	pages          = "930-953",
+	doi            = "10.1007/BF02720568",
+	SLACcitation   = "%%CITATION = NUCIA,A42,930;%%"
+}
+@book{Kittel:2005fu,
+	author         = "Kittel, W. and De Wolf, E. A.",
+	title          = "{Soft multihadron dynamics}",
+	publisher        = "World Scientific",
+	address = "Hackensack, USA",
+	year           = "2005",
+	ISBN           = "9789812562951",
+	SLACcitation   = "%%CITATION = INSPIRE-696373;%%"
+}
+@article{Mueller:1970fa,
+	author         = "Mueller, Alfred H.",
+	title          = "{O(2,1) Analysis of Single Particle Spectra at
+	High-energy}",
+	journal        = "Phys. Rev.",
+	volume         = "D2",
+	year           = "1970",
+	pages          = "2963-2968",
+	doi            = "10.1103/PhysRevD.2.2963",
+	SLACcitation   = "%%CITATION = PHRVA,D2,2963;%%"
+}
+@article{Kaidalov:1979jz,
+	author         = "Kaidalov, A. B.",
+	title          = "{Diffractive Production Mechanisms}",
+	journal        = "Phys. Rept.",
+	volume         = "50",
+	year           = "1979",
+	pages          = "157-226",
+	doi            = "10.1016/0370-1573(79)90043-7",
+	SLACcitation   = "%%CITATION = PRPLC,50,157;%%"
+}
+@article{Kancheli,
+	author         = "Kancheli, O. V.",
+	title          = "{Inelastic Differential Cross Sections at High energies and
+	Duality}",
+	journal        = "JETP Lett.",
+	volume         = "11",
+	year           = "1970",
+	pages          = "267",
+}
+@article{Ingelman:1984ns,
+	author         = "Ingelman, G. and Schlein, P. E.",
+	title          = "{Jet Structure in High Mass Diffractive Scattering}",
+	journal        = "Phys. Lett.",
+	volume         = "152B",
+	year           = "1985",
+	pages          = "256-260",
+	doi            = "10.1016/0370-2693(85)91181-5",
+	reportNumber   = "CERN-TH-4062/84",
+	SLACcitation   = "%%CITATION = PHLTA,152B,256;%%"
+}
+@article{Kopeliovich:2006fp,
+	author         = "Kopeliovich, B. Z. and Potashnikova, I. K. and Schmidt,
+	Ivan",
+	title          = "{Diffraction in QCD}",
+	booktitle      = "{High energy physics. Proceedings, 1st Latin American
+	Workshop, LAWHEP, Porto Alegre, Brazil, December 1-3,
+	2005}",
+	journal        = "Braz. J. Phys.",
+	volume         = "37",
+	year           = "2007",
+	pages          = "473-483",
+	doi            = "10.1590/S0103-97332007000400002",
+	reportNumber   = "USM-TH-183",
+	SLACcitation   = "%%CITATION = HEP-PH/0604097;%%"
+}
+@article{UA8_0,
+	author         = "Bonino, R. and others",
+	title          = "{Evidence for Transverse Jets in High Mass Diffraction}",
+	booktitle      = "{New York 1987: 2nd Blois:49}",
+	collaboration  = "UA8",
+	journal        = "Phys. Lett.",
+	volume         = "B211",
+	year           = "1988",
+	pages          = "239",
+	doi            = "10.1016/0370-2693(88)90840-4",
+	reportNumber   = "CERN-EP-88-60",
+	SLACcitation   = "%%CITATION = PHLTA,B211,239;%%"
+}
+@article{UA8_1,
+	author         = "Brandt, A. and Erhan, S. and Kuzucu, A. and Medinnis, M.
+	and Ozdes, N. and Schlein, P. E. and Zeyrek, M. T. and
+	Zweizig, J. G. and Cheze, J. B. and Zsembery, J.",
+	title          = "{Cross-section measurements of hard diffraction at the
+	SPS collider}",
+	collaboration  = "UA8",
+	journal        = "Phys. Lett.",
+	volume         = "B421",
+	year           = "1998",
+	pages          = "395-404",
+	doi            = "10.1016/S0370-2693(97)01563-3",
+	reportNumber   = "CERN-PPE-97-126",
+	SLACcitation   = "%%CITATION = HEP-EX/9709015;%%"
+}
+@article{HERA:DPDF,
+	author         = "Aktas, A. and others",
+	title          = "{Measurement and QCD analysis of the diffractive
+	deep-inelastic scattering cross-section at HERA}",
+	collaboration  = "H1",
+	journal        = "Eur. Phys. J.",
+	volume         = "C48",
+	year           = "2006",
+	pages          = "715-748",
+	doi            = "10.1140/epjc/s10052-006-0035-3",,
+	reportNumber   = "DESY-06-049",
+	SLACcitation   = "%%CITATION = HEP-EX/0606004;%%"
+}
+@article{HERA:DPDF1,
+	author         = "Aktas, A. and others",
+	title          = "{Dijet Cross Sections and Parton Densities in Diffractive
+	DIS at HERA}",
+	collaboration  = "H1",
+	journal        = "JHEP",
+	volume         = "10",
+	year           = "2007",
+	pages          = "042",
+	doi            = "10.1088/1126-6708/2007/10/042",
+	reportNumber   = "DESY-07-115",
+	SLACcitation   = "%%CITATION = ARXIV:0708.3217;%%"
+}
+@article{HERA:DPDF2,
+	author         = "Chekanov, S. and others",
+	title          = "{Deep inelastic scattering with leading protons or large
+	rapidity gaps at HERA}",
+	collaboration  = "ZEUS",
+	journal        = "Nucl. Phys.",
+	volume         = "B816",
+	year           = "2009",
+	pages          = "1-61",
+	doi            = "10.1016/j.nuclphysb.2009.03.003",
+	reportNumber   = "DESY-08-175",
+	SLACcitation   = "%%CITATION = ARXIV:0812.2003;%%"
+}
+@article{Tevatron:DPDF,
+	author         = "Affolder, T. and others",
+	title          = "{Diffractive dijets with a leading antiproton in
+	$\bar{p}p$ collisions at $\sqrt{s} = 1800$ GeV}",
+	collaboration  = "CDF",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "84",
+	year           = "2000",
+	pages          = "5043-5048",
+	doi            = "10.1103/PhysRevLett.84.5043",
+	reportNumber   = "FERMILAB-PUB-00-055-E",
+	SLACcitation   = "%%CITATION = PRLTA,84,5043;%%"
+}
+@article{ALEPH:numberNeutrinos,
+	author         = "Decamp, D. and others",
+	title          = "{A Precise Determination of the Number of Families With
+	Light Neutrinos and of the $Z$ Boson Partial Widths}",
+	collaboration  = "ALEPH",
+	journal        = "Phys. Lett.",
+	volume         = "B235",
+	year           = "1990",
+	pages          = "399-411",
+	doi            = "10.1016/0370-2693(90)91984-J",
+	reportNumber   = "CERN-EP/89-169",
+	SLACcitation   = "%%CITATION = PHLTA,B235,399;%%"
+}
+@article{SM:bols,
+	author         = "Aurenche, P.",
+	title          = "{The Standard model of particle physics}",
+	year           = "1997",
+	journal   = "ENSLAPP-A-659-97",
+	SLACcitation   = "%%CITATION = HEP-PH/9712342;%%"
+}
+@article{SM:ALTARELLI,
+	author         = "ALTARELLI, Guido",
+	title          = "{The Standard model of particle physics}",
+	year           = "2005",
+	journal   = "CERN-PH-TH-2005-206",
+	SLACcitation   = "%%CITATION = HEP-PH/0510281;%%"
+}
+@book{SM:Bettini,
+	author         = "Bettini, Alessandro",
+	title          = "{Introduction to elementary particle physics}",
+	publisher        = "Cambridge University Press",
+	address = "Cambridge, UK",
+	year           = "2008",
+	ISBN           = "9780521880213",
+	SLACcitation   = "%%CITATION = INSPIRE-839696;%%"
+}
+@book{SM:Perkins,
+	author         = "Perkins, D. H.",
+	title          = "{Introduction to high energy physics}",
+	publisher        = "Cambridge University Press",
+	address = "Cambridge, UK",
+	year           = "1982",
+	ISBN           = "9780521621960",
+	SLACcitation   = "%%CITATION = INSPIRE-184231;%%"
+}
+@book{SM:Janus,
+	author         = "Cottingham, W. and Greenwood, D.",
+	title          = "{An Introduction to the Standard Model of Particle Physics}",
+	publisher        = "Cambridge University Press",
+	address = "Cambridge, UK",
+	year           = "2007",
+}
+@article{Higgs:1964pj,
+	author         = "Higgs, Peter W.",
+	title          = "{Broken Symmetries and the Masses of Gauge Bosons}",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "13",
+	year           = "1964",
+	pages          = "508-509",
+	doi            = "10.1103/PhysRevLett.13.508",
+	SLACcitation   = "%%CITATION = PRLTA,13,508;%%"
+}
+@article{Englert:1964et,
+	author         = "Englert, F. and Brout, R.",
+	title          = "{Broken Symmetry and the Mass of Gauge Vector Mesons}",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "13",
+	year           = "1964",
+	pages          = "321-323",
+	doi            = "10.1103/PhysRevLett.13.321",
+	SLACcitation   = "%%CITATION = PRLTA,13,321;%%"
+}
+@article{Glashow:1961tr,
+	author         = "Glashow, S. L.",
+	title          = "{Partial Symmetries of Weak Interactions}",
+	journal        = "Nucl. Phys.",
+	volume         = "22",
+	year           = "1961",
+	pages          = "579-588",
+	doi            = "10.1016/0029-5582(61)90469-2",
+	SLACcitation   = "%%CITATION = NUPHA,22,579;%%"
+}
+@article{Salam:1964ry,
+	author         = "Salam, Abdus and Ward, John Clive",
+	title          = "{Electromagnetic and weak interactions}",
+	journal        = "Phys. Lett.",
+	volume         = "13",
+	year           = "1964",
+	pages          = "168-171",
+	doi            = "10.1016/0031-9163(64)90711-5",
+	SLACcitation   = "%%CITATION = PHLTA,13,168;%%"
+}
+@article{Weinberg:1967tq,
+	author         = "Weinberg, Steven",
+	title          = "{A Model of Leptons}",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "19",
+	year           = "1967",
+	pages          = "1264-1266",
+	doi            = "10.1103/PhysRevLett.19.1264",
+	SLACcitation   = "%%CITATION = PRLTA,19,1264;%%"
+}
+@article{Skands:1461470,
+	author        = "Skands, Peter",
+	title         = "{Introduction to QCD}",
+	number        = "CERN-PH-TH-2012-196",
+	year          = "2012",
+	journal  = "CERN-PH-TH-2012-196"
+}
+@book{QCD:Mandl,
+	author         = "Mandl, Franz and Shaw, Graham",
+	title          = "{Quantum Field Theory}",
+	publisher        = "Wiley",
+	address = "Chichester, UK",
+	year           = "1985",
+	SLACcitation   = "%%CITATION = INSPIRE-221337;%%"
+}
+@article{QCD:Kronfeld,
+	author         = "Kronfeld, Andreas S. and Quigg, Chris",
+	title          = "{Resource Letter: Quantum Chromodynamics}",
+	journal        = "Am. J. Phys.",
+	volume         = "78",
+	year           = "2010",
+	pages          = "1081-1116",
+	doi            = "10.1119/1.3454865",
+	reportNumber   = "FERMILAB-PUB-10-040-T",
+	SLACcitation   = "%%CITATION = ARXIV:1002.5032;%%"
+}
+@article{PDG:2018oca,
+	author         = "Tanabashi, M. and others",
+	title          = "{Review of Particle Physics}",
+	collaboration  = "Particle Data Group",
+	journal        = "Phys. Rev.",
+	volume         = "D98",
+	year           = "2018",
+	number         = "3",
+	pages          = "030001",
+	doi            = "10.1103/PhysRevD.98.030001",
+	SLACcitation   = "%%CITATION = PHRVA,D98,030001;%%"
+}
+@article{QCD:ALTARELLI,
+	author         = "Altarelli, Guido",
+	title          = "{The Standard model of particle physics}",
+	year           = "2005",
+	journal   = "CERN-PH-TH-2005-206",
+	SLACcitation   = "%%CITATION = HEP-PH/0510281;%%"
+}
+@article{Ellis:1991qj,
+	author         = "Ellis, R. Keith and Stirling, W. James and Webber, B. R.",
+	title          = "{QCD and collider physics}",
+	journal        = "Camb. Monogr. Part. Phys. Nucl. Phys. Cosmol.",
+	volume         = "8",
+	year           = "1996",
+	pages          = "1-435",
+	SLACcitation   = "%%CITATION = CMPCE,8,1;%%"
+}
+@article{Wilczek:1999ym,
+	author         = "Wilczek, Frank",
+	title          = "{QCD in extreme conditions}",
+	booktitle      = "{Theoretical physics at the end of the twentieth century.
+	Proceedings, Summer School, Banff, Canada, June 27-July
+	10, 1999}",
+	year           = "1999",
+	journal   = "IASSNS-HEP-99-92",
+	SLACcitation   = "%%CITATION = HEP-PH/0003183;%%"
+}
+@article{QCD:Hinchliffe,
+	author        = "Hinchliffe, Ian and Manohar, A V",
+	title         = "{The QCD Coupling Constant}",
+	journal       = "Annu. Rev. Nucl. Part. Sci.",
+	number        = "hep-ph/0004186. UCSD-PTH-2000-07",
+	volume        = "50",
+	pages         = "643-678",
+	month         = "Apr",
+	year          = "2000",
+	reportNumber  = "hep-ph/0004186",
+}
+@article{Gross:1973id,
+	author         = "Gross, David J. and Wilczek, Frank",
+	title          = "{Ultraviolet Behavior of Nonabelian Gauge Theories}",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "30",
+	year           = "1973",
+	pages          = "1343-1346",
+	doi            = "10.1103/PhysRevLett.30.1343",
+	SLACcitation   = "%%CITATION = PRLTA,30,1343;%%"
+}
+@article{Politzer:1973fx,
+	author         = "Politzer, H. David",
+	title          = "{Reliable Perturbative Results for Strong Interactions?}",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "30",
+	year           = "1973",
+	pages          = "1346-1349",
+	doi            = "10.1103/PhysRevLett.30.1346",
+	note           = "[,274(1973)]",
+	SLACcitation   = "%%CITATION = PRLTA,30,1346;%%"
+}
+@book{Povh:1105915,
+	author        = "Povh, B and others",
+	title         = "{Particles and Nuclei: an introduction to the physical
+	concepts; 6th ed.}",
+	publisher     = "Springer",
+	address       = "Berlin",
+	year          = "2008",
+	doi           = "10.1007/978-3-540-79368-7",
+}
+@article{Feynman:1969ej,
+	author         = "Feynman, Richard P.",
+	title          = "{Very high-energy collisions of hadrons}",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "23",
+	year           = "1969",
+	pages          = "1415-1417",
+	doi            = "10.1103/PhysRevLett.23.1415",
+	reportNumber   = "PRINT-69-2817",
+	SLACcitation   = "%%CITATION = PRLTA,23,1415;%%"
+}
+@article{Collins:1989gx,
+	author         = "Collins, John C. and Soper, Davison E. and Sterman,
+	George F.",
+	title          = "{Factorization of Hard Processes in QCD}",
+	journal        = "Adv. Ser. Direct. High Energy Phys.",
+	volume         = "5",
+	year           = "1989",
+	pages          = "1-91",
+	doi            = "10.1142/9789814503266_0001",
+	reportNumber   = "ITP-SB-89-31",
+	SLACcitation   = "%%CITATION = HEP-PH/0409313;%%"
+}
+
+@article{Watt:2012np,
+	author         = "Watt, Graeme",
+	title          = "{MSTW PDFs and impact of PDFs on cross sections at
+	Tevatron and LHC}",
+	booktitle      = "{Proceedings, Ringberg Workshop on New trends in HERA
+	physics 2011: Ringberg Castle, Tegernsee, Germany,
+	September 25-28, 2011}",
+	journal        = "Nucl. Phys. Proc. Suppl.",
+	volume         = "222-224",
+	year           = "2012",
+	pages          = "61-80",
+	doi            = "10.1016/j.nuclphysbps.2012.03.008",
+	SLACcitation   = "%%CITATION = ARXIV:1201.1295;%%"
+}
+@article{Lai:2010vv,
+	author         = "Lai, Hung-Liang and others.",
+	title          = "{New parton distributions for collider physics}",
+	journal        = "Phys. Rev.",
+	volume         = "D82",
+	year           = "2010",
+	pages          = "074024",
+	doi            = "10.1103/PhysRevD.82.074024",
+	reportNumber   = "MSUHEP-100707, SMU-HEP-10-10",
+	SLACcitation   = "%%CITATION = ARXIV:1007.2241;%%"
+}
+
+@article{JimenezDelgado:2008hf,
+	author         = "Jimenez-Delgado, P. and Reya, E.",
+	title          = "{Dynamical NNLO parton distributions}",
+	journal        = "Phys. Rev.",
+	volume         = "D79",
+	year           = "2009",
+	pages          = "074023",
+	doi            = "10.1103/PhysRevD.79.074023",
+}
+@article{PDF:DIS,
+	author         = "Aaron, F. D. and others",
+	title          = "{Combined Measurement and QCD Analysis of the Inclusive
+	e+- p Scattering Cross Sections at HERA}",
+	collaboration  = "H1, ZEUS",
+	journal        = "JHEP",
+	volume         = "01",
+	year           = "2010",
+	pages          = "109",
+	doi            = "10.1007/JHEP01(2010)109"
+}
+@article{Gribov:427157,
+	author        = "Gribov, Vladimir Naumovich and Lipatov, L N",
+	title         = "{Deep inelastic ep scattering in perturbation theory}",
+	journal       = "Sov. J. Nucl. Phys.",
+	number        = "4",
+	volume        = "15",
+	pages         = "438-450",
+	year          = "1972",
+}
+@article{Altarelli:1977zs,
+	author         = "Altarelli, Guido and Parisi, G.",
+	title          = "{Asymptotic Freedom in Parton Language}",
+	journal        = "Nucl. Phys.",
+	volume         = "B126",
+	year           = "1977",
+	pages          = "298-318",
+	doi            = "10.1016/0550-3213(77)90384-4",
+	reportNumber   = "LPTENS-77-6",
+	SLACcitation   = "%%CITATION = NUPHA,B126,298;%%"
+}
+@article{Dokshitzer:1977sg,
+	author         = "Dokshitzer, Yuri L.",
+	title          = "{Calculation of the Structure Functions for Deep
+	Inelastic Scattering and e+ e- Annihilation by
+	Perturbation Theory in Quantum Chromodynamics.}",
+	journal        = "Sov. Phys. JETP",
+	volume         = "46",
+	year           = "1977",
+	pages          = "641-653",
+	SLACcitation   = "%%CITATION = SPHJA,46,641;%%"
+}
+
+
+
+@article{ATLAS:sigmaTotal,
+	author        = "Kretzschmar, Jan",
+	title         = "{Standard Model physics at the LHC}",
+	number        = "arXiv:1803.10800",
+	pages         = "153-171. 19 p",
+	month         = "Mar",
+	year          = "2018",
+	reportNumber  = "arXiv:1803.10800",
+	url           = "https://cds.cern.ch/record/2644360",
+	doi           = "10.1142/9789813238053_0009",
+}
+
+
+@book{Campbell:2017hsr,
+	author         = "Campbell, John and Huston, Joey and Krauss, Frank",
+	title          = "{The Black Book of Quantum Chromodynamics}",
+	publisher      = "Oxford University Press",
+	addresss = "Oxford, UK",
+	year           = "2017",
+	ISBN           = "9780199652747",
+	SLACcitation   = "%%CITATION = INSPIRE-1635686;%%"
+}
+@article{Sjostrand:2006za,
+	author         = "Sjöstrand, Torbjörn and Mrenna, Stephen and Skands, Peter
+	Z.",
+	title          = "{PYTHIA 6.4 Physics and Manual}",
+	journal        = "JHEP",
+	volume         = "05",
+	year           = "2006",
+	pages          = "026",
+	doi            = "10.1088/1126-6708/2006/05/026",
+	reportNumber   = "FERMILAB-PUB-06-052-CD-T, LU-TP-06-13",
+	SLACcitation   = "%%CITATION = HEP-PH/0603175;%%"
+}
+@article{Sjostrand:2014zea,
+	author         = "Sjöstrand, Torbjörn and others",
+	title          = "{An Introduction to PYTHIA 8.2}",
+	journal        = "Comput. Phys. Commun.",
+	volume         = "191",
+	year           = "2015",
+	pages          = "159-177",
+	doi            = "10.1016/j.cpc.2015.01.024",
+}
+@article{DONNACHIE1988634,
+	title = "Hard diffraction: Production of high $p_T$ jets, $W$ or $Z$, and Drell-Yan pairs",
+	journal = "Nuclear Physics B",
+	volume = "303",
+	number = "4",
+	pages = "634 - 652",
+	year = "1988",
+	issn = "0550-3213",
+	doi = "https://doi.org/10.1016/0550-3213(88)90423-3",
+	author = "A. Donnachie and P.V. Landshoff",
+}
+@article{Donnachie:1987xh,
+	author         = "Donnachie, A. and Landshoff, P. V.",
+	title          = "{Diffractive Deep Inelastic Lepton Scattering}",
+	journal        = "Phys. Lett.",
+	volume         = "B191",
+	year           = "1987",
+	pages          = "309-312",
+	doi            = "10.1016/0370-2693(87)90923-3,
+	10.1016/0370-2693(87)90261-9",
+	reportNumber   = "DAMTP/87-2, M/C-TH-87/4",
+	SLACcitation   = "%%CITATION = PHLTA,B191,309;%%"
+}
+@article{Goulianos:2004as,
+	author         = "Goulianos, Konstantin A.",
+	title          = "{Hadronic diffraction: Where do we stand?}",
+	booktitle      = "{Results and perspectives in particle physics.
+	Proceedings, 18th Rencontres de Physique de la Vallee
+	d'Aoste, La Thuile, Italy, February 29-March 6, 2004}",
+	journal        = "Frascati Phys. Ser.",
+	volume         = "34",
+	year           = "2004",
+	pages          = "251-274",
+	SLACcitation   = "%%CITATION = HEP-PH/0407035;%%"
+}
+@inproceedings{Goulianos:2002vm,
+	author         = "Goulianos, Konstantin A.",
+	title          = "{Diffraction in QCD}",
+	booktitle      = "{Proceedings, Corfu Summer Institute on Elementary
+	Particle Physics (Corfu 2001): Corfu, Greece, August
+	31-September, 2001}",
+	eprint         = "hep-ph/0203141",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	SLACcitation   = "%%CITATION = HEP-PH/0203141;%%"
+}
+@article{Andersson:1983ia,
+	author         = "Andersson, Bo and Gustafson, G. and Ingelman, G. and
+	Sjöstrand, T.",
+	title          = "{Parton Fragmentation and String Dynamics}",
+	journal        = "Phys. Rept.",
+	volume         = "97",
+	year           = "1983",
+	pages          = "31-145",
+	doi            = "10.1016/0370-1573(83)90080-7",
+	reportNumber   = "LU-TP-83-10",
+	SLACcitation   = "%%CITATION = PRPLC,97,31;%%"
+}
+@article{Andersson:1998tv,
+	author         = "Andersson, Bo",
+	title          = "{The Lund model}",
+	journal        = "Camb. Monogr. Part. Phys. Nucl. Phys. Cosmol.",
+	volume         = "7",
+	year           = "1997",
+	pages          = "1-471",
+	SLACcitation   = "%%CITATION = CMPCE,7,1;%%"
+}
+@article{Buckley:2011ms,
+	author         = "Buckley, Andy and others",
+	title          = "{General-purpose event generators for LHC physics}",
+	journal        = "Phys. Rept.",
+	volume         = "504",
+	year           = "2011",
+	pages          = "145-233",
+	doi            = "10.1016/j.physrep.2011.03.005",
+}
+@article{Andersson:1981ce,
+	author         = "Andersson, Bo and Gustafson, G. and Sjöstrand, T.",
+	title          = "{A Model for Baryon Production in Quark and Gluon Jets}",
+	journal        = "Nucl. Phys.",
+	volume         = "B197",
+	year           = "1982",
+	pages          = "45-54",
+	doi            = "10.1016/0550-3213(82)90153-5",
+	reportNumber   = "LU-TP-81-3",
+	SLACcitation   = "%%CITATION = NUPHA,B197,45;%%"
+}
+@article{Andersson:1984af,
+	author         = "Andersson, Bo and Gustafson, G. and Sjöstrand, T.",
+	title          = "{Baryon Production in Jet Fragmentation and $\Upsilon$
+	Decay}",
+	journal        = "Phys. Scripta",
+	volume         = "32",
+	year           = "1985",
+	pages          = "574",
+	doi            = "10.1088/0031-8949/32/6/003",
+	reportNumber   = "LU-TP-84-9",
+	SLACcitation   = "%%CITATION = PHSTB,32,574;%%"
+}
+@article{Webber:1983if,
+	author         = "Webber, B. R.",
+	title          = "{A QCD Model for Jet Fragmentation Including Soft Gluon
+	Interference}",
+	journal        = "Nucl. Phys.",
+	volume         = "B238",
+	year           = "1984",
+	pages          = "492-528",
+	doi            = "10.1016/0550-3213(84)90333-X",
+	reportNumber   = "CERN-TH-3713",
+	SLACcitation   = "%%CITATION = NUPHA,B238,492;%%"
+}
+@article{Rossi:1977cy,
+	author         = "Rossi, G. C. and Veneziano, G.",
+	title          = "{A Possible Description of Baryon Dynamics in Dual and
+	Gauge Theories}",
+	journal        = "Nucl. Phys.",
+	volume         = "B123",
+	year           = "1977",
+	pages          = "507-545",
+	doi            = "10.1016/0550-3213(77)90178-X",
+	reportNumber   = "CERN-TH-2287",
+	SLACcitation   = "%%CITATION = NUPHA,B123,507;%%"
+}
+@article{Kopeliovich:1988qm,
+	author         = "Kopeliovich, B. Z. and Zakharov, B. G.",
+	title          = "{Novel Mechanisms of Baryon Number Flow Over Large
+	Rapidity Gap}",
+	journal        = "Z. Phys.",
+	volume         = "C43",
+	year           = "1989",
+	pages          = "241",
+	doi            = "10.1007/BF01588211",
+	reportNumber   = "JINR-E2-88-493",
+	SLACcitation   = "%%CITATION = ZEPYA,C43,241;%%"
+}
+@article{Bopp:2004qz,
+	author         = "Bopp, Fritz W. and Shabelski, {\relax Yu}. M.",
+	title          = "{Baryon number transfer in high energy hp collisions}",
+	journal        = "Phys. Atom. Nucl.",
+	volume         = "68",
+	year           = "2005",
+	pages          = "2093-2099",
+	doi            = "10.1134/1.2149088",
+	SLACcitation   = "%%CITATION = HEP-PH/0406158;%%"
+}
+@article{Kopeliovich:1996qb,
+	author         = "Kopeliovich, Boris and Povh, Bogdan",
+	title          = "{Baryon asymmetry of the proton sea at low x}",
+	journal        = "Z. Phys.",
+	volume         = "C75",
+	year           = "1997",
+	pages          = "693-699",
+	doi            = "10.1007/s002880050515",
+	reportNumber   = "MPIH-V32-1996",
+	SLACcitation   = "%%CITATION = HEP-PH/9607486;%%"
+}
+@article{Capella:1992yb,
+	author         = "Capella, A. and others",
+	title          = "{Dual parton model}",
+	journal        = "Phys. Rept.",
+	volume         = "236",
+	year           = "1994",
+	pages          = "225-329",
+	doi            = "10.1016/0370-1573(94)90064-7",
+	reportNumber   = "LPTHE-ORSAY-92-38",
+	SLACcitation   = "%%CITATION = PRPLC,236,225;%%"
+}
+
+
+@article{Arakelyan:2007kq,
+	author         = "Arakelyan, G. H. and Merino, C. and Pajares, C. and
+	Shabelski, {\relax Yu}. M.",
+	title          = "{Midrapidity production of secondaries in pp collisions
+	at RHIC and LHC energies in the quark-gluon string model}",
+	journal        = "Eur. Phys. J.",
+	volume         = "C54",
+	year           = "2008",
+	pages          = "577-581",
+	doi            = "10.1140/epjc/s10052-008-0554-1",
+	SLACcitation   = "%%CITATION = ARXIV:0709.3174;%%"
+}
+@inproceedings{Bopp:2000vg,
+	author         = "Bopp, Fritz W.",
+	title          = "{Baryon transport in dual models and the possibility of a
+	backward peak in diffraction}",
+	booktitle      = "{New trends in high-energy physics: Experiment,
+	phenomenology, theory. Proceedings, International
+	School-Conference, Crimea 2000, Yalta, Ukraine, May
+	27-June 4, 2000}",
+	eprint         = "hep-ph/0007229",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+}
+
+@article{Artru:1974zn,
+	author         = "Artru, X.",
+	title          = "{String Model with Baryons: Topology, Classical Motion}",
+	journal        = "Nucl. Phys.",
+	volume         = "B85",
+	year           = "1975",
+	pages          = "442-460",
+	doi            = "10.1016/0550-3213(75)90019-X",
+	reportNumber   = "LPTHE-TH-74/24",
+	SLACcitation   = "%%CITATION = NUPHA,B85,442;%%"
+}
+
+@article{Kopeliovich:1998ps,
+	author         = "Kopeliovich, Boris and Povh, Bogdan",
+	title          = "{Baryon stopping at HERA: Evidence for gluonic
+	mechanism}",
+	journal        = "Phys. Lett.",
+	volume         = "B446",
+	year           = "1999",
+	pages          = "321-325",
+	doi            = "10.1016/S0370-2693(98)01546-9",
+	SLACcitation   = "%%CITATION = HEP-PH/9810530;%%"
+}
+@article{PDF:CTEQ,
+	author         = "Pumplin, J. and others",
+	title          = "{New generation of parton distributions with
+	uncertainties from global QCD analysis}",
+	journal        = "JHEP",
+	volume         = "07",
+	year           = "2002",
+	pages          = "012",
+	doi            = "10.1088/1126-6708/2002/07/012",
+	SLACcitation   = "%%CITATION = HEP-PH/0201195;%%"
+}
+@article{Pierog:2006qv,
+	author         = "Pierog, T. and others",
+	title          = "{Muon Production in Extended Air Shower Simulations}",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "101",
+	year           = "2008",
+	pages          = "171101",
+	doi            = "10.1103/PhysRevLett.101.171101",
+	SLACcitation   = "%%CITATION = ASTRO-PH/0611311;%%"
+}
+@article{Werner:2010aa,
+	author         = "Werner, K. and others",
+	title          = "{Event-by-Event Simulation of the Three-Dimensional
+		Hydrodynamic Evolution from Flux Tube Initial Conditions
+		in Ultrarelativistic Heavy Ion Collisions}",
+	journal        = "Phys. Rev.",
+	volume         = "C82",
+	year           = "2010",
+	pages          = "044904",
+	doi            = "10.1103/PhysRevC.82.044904",
+	SLACcitation   = "%%CITATION = ARXIV:1004.0805;%%"
+}
+@article{Werner:2010ny,
+	author         = "Werner, K. and others",
+	title          = "{Evidence for hydrodynamic evolution in proton-proton
+		scattering at 900 GeV}",
+	journal        = "Phys. Rev.",
+	volume         = "C83",
+	year           = "2011",
+	pages          = "044915",
+	doi            = "10.1103/PhysRevC.83.044915",
+	SLACcitation   = "%%CITATION = ARXIV:1010.0400;%%"
+}
+@article{Drescher:2000ha,
+	author         = "Drescher, H. J. and others",
+	title          = "{Parton based Gribov-Regge theory}",
+	journal        = "Phys. Rept.",
+	volume         = "350",
+	year           = "2001",
+	pages          = "93-289",
+	doi            = "10.1016/S0370-1573(00)00122-8",
+	reportNumber   = "SUBATECH-00-06",
+	SLACcitation   = "%%CITATION = HEP-PH/0007198;%%"
+}
+
+@article{Bellm:2015jjp,
+	author         = "Bellm, Johannes and others",
+	title          = "{Herwig 7.0/Herwig++ 3.0 release note}",
+	journal        = "Eur. Phys. J.",
+	volume         = "C76",
+	year           = "2016",
+	number         = "4",
+	pages          = "196",
+	doi            = "10.1140/epjc/s10052-016-4018-8",
+	SLACcitation   = "%%CITATION = ARXIV:1512.01178;%%"
+}
+@article{Bahr:2008pv,
+	author         = "Bahr, M. and others",
+	title          = "{Herwig++ Physics and Manual}",
+	journal        = "Eur. Phys. J.",
+	volume         = "C58",
+	year           = "2008",
+	pages          = "639-707",
+	doi            = "10.1140/epjc/s10052-008-0798-9",
+	SLACcitation   = "%%CITATION = ARXIV:0803.0883;%%"
+}
+@article{Bellm:2017bvx,
+	author         = "Bellm, Johannes and others",
+	title          = "{Herwig 7.1 Release Note}",
+	year           = "2017",
+	eprint         = "1705.06919",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	SLACcitation   = "%%CITATION = ARXIV:1705.06919;%%"
+}
+
+@article{Amati:1962nv,
+	author         = "Amati, D. and Stanghellini, A. and Fubini, S.",
+	title          = "{Theory of high-energy scattering and multiple
+		production}",
+	journal        = "Nuovo Cim.",
+	volume         = "26",
+	year           = "1962",
+	pages          = "896-954",
+	doi            = "10.1007/BF02781901",
+	SLACcitation   = "%%CITATION = NUCIA,26,896;%%"
+}
+@article{Ostapchenko:2010vb,
+	author         = "Ostapchenko, Sergey",
+	title          = "{Monte Carlo treatment of hadronic interactions in
+		enhanced Pomeron scheme: I. QGSJET-II model}",
+	journal        = "Phys. Rev.",
+	volume         = "D83",
+	year           = "2011",
+	pages          = "014018",
+	doi            = "10.1103/PhysRevD.83.014018",
+	SLACcitation   = "%%CITATION = ARXIV:1010.1869;%%"
+}
+
+@book{Lee:1425444,
+	author        = "Lee, S Y",
+	title         = "{Accelerator physics; 2nd ed.}",
+	publisher     = "World Scientific",
+	address       = "Singapore",
+	year          = "2004",
+}
+@article{TheATLAScollaboration:pileUP,
+	title          = "{Pile-up subtraction and suppression for jets in ATLAS}",
+	author = "{ATLAS Collaboration}",
+	year           = "2013",
+	note   = "ATLAS-CONF-2013-083",
+	SLACcitation   = "%%CITATION = ATLAS-CONF-2013-083;%%"
+}
+@inproceedings{Luo:2014toa,
+	author         = "Luo, Y. and Fischer, W.",
+	title          = "{Beam-beam observations in the RHIC}",
+	booktitle      = "{Proceedings, ICFA Mini-Workshop on Beam-Beam Effects in
+		Hadron Colliders (BB2013): CERN, Geneva, Switzerland,
+		March 18-22 2013}",
+	year           = "2014",
+	eprint         = "1410.5936",
+	archivePrefix  = "arXiv",
+	primaryClass   = "physics.acc-ph",
+}
+@article{UA1:intro,
+	author         = "Arnison, G. and others",
+	title          = "{Transverse Momentum Spectra for Charged Particles at the
+		CERN Proton anti-Proton Collider}",
+	collaboration  = "UA1",
+	journal        = "Phys. Lett.",
+	volume         = "118B",
+	year           = "1982",
+	pages          = "167-172",
+	doi            = "10.1016/0370-2693(82)90623-2",
+	reportNumber   = "CERN-EP-82-125-REV, CERN-EP-82-125",
+	SLACcitation   = "%%CITATION = PHLTA,118B,167;%%"
+}
+@article{ABCDHW:intro,
+	author         = "Breakstone, A. and others",
+	title          = "{Charged Multiplicity Distribution in pp Interactions at
+		ISR Energies}",
+	collaboration  = "ABCDHW",
+	journal        = "Phys. Rev.",
+	volume         = "D30",
+	year           = "1984",
+	pages          = "528",
+	doi            = "10.1103/PhysRevD.30.528",
+	reportNumber   = "IS-J-1306, CERN-EP-83-165",
+	SLACcitation   = "%%CITATION = PHRVA,D30,528;%%"
+}
+@article{UA5:introSD,
+	author         = "Ansorge, R. E. and others",
+	title          = "{Diffraction Dissociation at the {CERN} Pulsed Collider
+		at {CM} Energies of 900-{GeV} and 200-{GeV}}",
+	collaboration  = "UA5",
+	journal        = "Z. Phys.",
+	volume         = "C33",
+	year           = "1986",
+	pages          = "175",
+	doi            = "10.1007/BF01411134",
+	reportNumber   = "BONN-HE-86-19",
+	SLACcitation   = "%%CITATION = ZEPYA,C33,175;%%"
+}
+@article{UA5:intro_1,
+	author         = "Alner, G. J. and others",
+	title          = "{UA5: A general study of proton-antiproton physics at
+		$\sqrt{s}$ = 546-GeV}",
+	collaboration  = "UA5",
+	journal        = "Phys. Rept.",
+	volume         = "154",
+	year           = "1987",
+	pages          = "247-383",
+	doi            = "10.1016/0370-1573(87)90130-X",
+	SLACcitation   = "%%CITATION = PRPLC,154,247;%%"
+}
+@article{UA5:intro_2,
+	author         = "Ansorge, R. E. and others",
+	title          = "{Charged Particle Multiplicity Distributions at 200-GeV
+		and 900-GeV Center-Of-Mass Energy}",
+	booktitle      = "{High-energy physics. Proceedings, 24th International
+		Conference, Munich, Germany, August 4-10, 1988}",
+	collaboration  = "UA5",
+	journal        = "Z. Phys.",
+	volume         = "C43",
+	year           = "1989",
+	pages          = "357",
+	doi            = "10.1007/BF01506531",
+	reportNumber   = "CERN-EP-88-172",
+	SLACcitation   = "%%CITATION = ZEPYA,C43,357;%%"
+}
+@article{UA5:comparison,
+	author         = "Alner, G. J. and others",
+	title          = "{Scaling of Pseudorapidity Distributions at c.m. Energies
+		Up to 0.9-TeV}",
+	collaboration  = "UA5",
+	journal        = "Z. Phys.",
+	volume         = "C33",
+	year           = "1986",
+	pages          = "1-6",
+	doi            = "10.1007/BF01410446",
+	reportNumber   = "CERN-EP/86-126",
+	SLACcitation   = "%%CITATION = ZEPYA,C33,1;%%"
+}
+@article{ISR:comparison,
+	author         = "Thome, W. and others",
+	title          = "{Charged Particle Multiplicity Distributions in p p
+		Collisions at ISR Energies}",
+	collaboration  = "ACHM",
+	journal        = "Nucl. Phys.",
+	volume         = "B129",
+	year           = "1977",
+	pages          = "365",
+	doi            = "10.1016/0550-3213(77)90122-5",
+	reportNumber   = "MPI-PAE/Exp-El-63",
+	SLACcitation   = "%%CITATION = NUPHA,B129,365;%%"
+}
+@article{CDF:intro,
+	author         = "Abe, F. and others",
+	title          = "{Transverse Momentum Distributions of Charged Particles
+		Produced in $\bar{p}p$ Interactions at $\sqrt{s} = 630$
+		GeV and 1800 GeV}",
+	collaboration  = "CDF",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "61",
+	year           = "1988",
+	pages          = "1819",
+	doi            = "10.1103/PhysRevLett.61.1819",
+	reportNumber   = "ANL-HEP-PR-88-32, CDF-MEMO-MIN-BIAS-GROUP-576,
+	FERMILAB-PUB-88-224",
+	SLACcitation   = "%%CITATION = PRLTA,61,1819;%%"
+}
+@article{UA1:intro_1,
+	author         = "Albajar, C. and others",
+	title          = "{A Study of the General Characteristics of $p\bar{p}$
+		Collisions at $\sqrt{s}$ = 0.2-TeV to 0.9-TeV}",
+	collaboration  = "UA1",
+	journal        = "Nucl. Phys.",
+	volume         = "B335",
+	year           = "1990",
+	pages          = "261-287",
+	doi            = "10.1016/0550-3213(90)90493-W",
+	reportNumber   = "CERN-EP-89-85",
+	SLACcitation   = "%%CITATION = NUPHA,B335,261;%%"
+}
+@article{CDF:intro_2,
+	author         = "Abe, F. and others",
+	title          = "{Pseudorapidity distributions of charged particles
+		produced in $\bar{p}p$ interactions at $\sqrt{s} = 630$
+		GeV and 1800 GeV}",
+	collaboration  = "CDF",
+	journal        = "Phys. Rev.",
+	volume         = "D41",
+	year           = "1990",
+	pages          = "2330",
+	doi            = "10.1103/PhysRevD.41.2330",
+	reportNumber   = "FERMILAB-PUB-89-201-E",
+	SLACcitation   = "%%CITATION = PHRVA,D41,2330;%%"
+}
+@article{E735:intro,
+	title = "Multiplicity dependence of transverse momentum spectra of centrally produced hadrons in pp collisions at 0.3, 0.54, 0.9, and 1.8 TeV center of mass energy",
+	journal = "Physics Letters B",
+	volume = "336",
+	number = "3",
+	pages = "599 - 604",
+	year = "1994",
+	issn = "0370-2693",
+	doi = "https://doi.org/10.1016/0370-2693(94)90578-9",
+	author = "T. Alexopoulos and others",
+	collaboration  = "E735",
+}
+@article{CDF:intro_3,
+	author         = "Aaltonen, T. and others",
+	title          = "{Measurement of Particle Production and Inclusive
+		Differential Cross Sections in $p \bar{p}$ Collisions at
+		$\sqrt{s} = 1.96$-TeV}",
+	collaboration  = "CDF",
+	journal        = "Phys. Rev.",
+	volume         = "D79",
+	year           = "2009",
+	pages          = "112005",
+	doi            = "10.1103/PhysRevD.82.119903, 10.1103/PhysRevD.79.112005",
+	note           = "[Erratum: Phys. Rev. D82 (2010) 119903 ]",
+	reportNumber   = "FERMILAB-PUB-09-098-E",
+	SLACcitation   = "%%CITATION = ARXIV:0904.1098;%%"
+}
+@article{ALICE:intro,
+	author         = "Aamodt, K and others",
+	title          = "{First proton-proton collisions at the LHC as observed
+		with the ALICE detector: Measurement of the charged
+		particle pseudorapidity density at $\sqrt{s} = 900$ GeV}",
+	collaboration  = "ALICE",
+	journal        = "Eur. Phys. J.",
+	volume         = "C65",
+	year           = "2010",
+	pages          = "111-125",
+	doi            = "10.1140/epjc/s10052-009-1227-4",
+	SLACcitation   = "%%CITATION = ARXIV:0911.5430;%%"
+}
+@article{CMS:intro,
+	author         = "Khachatryan, Vardan and others",
+	title          = "{Transverse Momentum and Pseudorapidity Distributions of
+		Charged Hadrons in pp Collisions at $\sqrt{s} = 0.9$ and
+		2.36 TeV}",
+	collaboration  = "CMS",
+	journal        = "JHEP",
+	volume         = "02",
+	year           = "2010",
+	pages          = "041",
+	doi            = "10.1007/JHEP02(2010)041",
+	reportNumber   = "CMS-QCD-09-010, CERN-PH-EP-2010-003",
+	SLACcitation   = "%%CITATION = ARXIV:1002.0621;%%"
+}
+@article{ATLAS:intro,
+	author         = "Aad, G. and others",
+	title          = "{Charged-particle multiplicities in $pp$ interactions at
+		$\sqrt{s}=900$ GeV measured with the ATLAS detector at the
+		LHC}",
+	collaboration  = "ATLAS",
+	journal        = "Phys. Lett.",
+	volume         = "B688",
+	year           = "2010",
+	pages          = "21-42",
+	doi            = "10.1016/j.physletb.2010.03.064",
+	reportNumber   = "CERN-PH-EP-2010-004",
+	SLACcitation   = "%%CITATION = ARXIV:1003.3124;%%"
+}
+@article{ALICE:intro_1,
+	author         = "Aamodt, K. and others",
+	title          = "{Charged-particle multiplicity measurement in
+		proton-proton collisions at $\sqrt{s}=7$ TeV with ALICE at
+		LHC}",
+	collaboration  = "ALICE",
+	journal        = "Eur. Phys. J.",
+	volume         = "C68",
+	year           = "2010",
+	pages          = "345-354",
+	doi            = "10.1140/epjc/s10052-010-1350-2",
+	SLACcitation   = "%%CITATION = ARXIV:1004.3514;%%"
+}
+@article{ALICE:comparison,
+	author         = "Aamodt, K. and others",
+	title          = "{Charged-particle multiplicity measurement in
+		proton-proton collisions at $\sqrt{s}=0.9$ and 2.36 TeV
+		with ALICE at LHC}",
+	collaboration  = "ALICE",
+	journal        = "Eur. Phys. J.",
+	volume         = "C68",
+	year           = "2010",
+	pages          = "89-108",
+	doi            = "10.1140/epjc/s10052-010-1339-x",
+	SLACcitation   = "%%CITATION = ARXIV:1004.3034;%%"
+}
+@article{CMS:intro_1,
+	author         = "Khachatryan, Vardan and others",
+	title          = "{Transverse-momentum and pseudorapidity distributions of
+		charged hadrons in $pp$ collisions at $\sqrt{s}=7$ TeV}",
+	collaboration  = "CMS",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "105",
+	year           = "2010",
+	pages          = "022002",
+	doi            = "10.1103/PhysRevLett.105.022002",
+	reportNumber   = "CERN-PH-EP-2010-009, CMS-QCD-10-006",
+	SLACcitation   = "%%CITATION = ARXIV:1005.3299;%%"
+}
+@article{CMS:intro_2,
+	author         = "Khachatryan, Vardan and others",
+	title          = "{Charged Particle Multiplicities in $pp$ Interactions at
+		$\sqrt{s}=0.9$, 2.36, and 7 TeV}",
+	collaboration  = "CMS",
+	journal        = "JHEP",
+	volume         = "01",
+	year           = "2011",
+	pages          = "079",
+	doi            = "10.1007/JHEP01(2011)079",
+	reportNumber   = "CERN-PH-EP-2010-048, CMS-QCD-10-004",
+	SLACcitation   = "%%CITATION = ARXIV:1011.5531;%%"
+}
+@article{ATLAS:intro_1,
+	author         = "Aad, G. and others",
+	title          = "{Charged-particle multiplicities in pp interactions
+		measured with the ATLAS detector at the LHC}",
+	collaboration  = "ATLAS",
+	journal        = "New J. Phys.",
+	volume         = "13",
+	year           = "2011",
+	pages          = "053033",
+	doi            = "10.1088/1367-2630/13/5/053033",
+	reportNumber   = "CERN-PH-EP-2010-079",
+	SLACcitation   = "%%CITATION = ARXIV:1012.5104;%%"
+}
+@article{LHCb:intro,
+	author         = "Aaij, Roel and others",
+	title          = "{Measurement of charged particle multiplicities and
+		densities in $pp$ collisions at $\sqrt{s}=7\;$TeV in the
+		forward region}",
+	collaboration  = "LHCb",
+	journal        = "Eur. Phys. J.",
+	volume         = "C74",
+	year           = "2014",
+	number         = "5",
+	pages          = "2888",
+	doi            = "10.1140/epjc/s10052-014-2888-1",
+	reportNumber   = "CERN-PH-EP-2014-023, LHCB-PAPER-2013-070",
+	SLACcitation   = "%%CITATION = ARXIV:1402.4430;%%"
+}
+@article{CMS:intro_3,
+	author         = "Chatrchyan, Serguei and others",
+	title          = "{Measurement of pseudorapidity distributions of charged
+		particles in proton-proton collisions at $\sqrt{s}$ = 8
+		TeV by the CMS and TOTEM experiments}",
+	collaboration  = "CMS, TOTEM",
+	journal        = "Eur. Phys. J.",
+	volume         = "C74",
+	year           = "2014",
+	number         = "10",
+	pages          = "3053",
+	doi            = "10.1140/epjc/s10052-014-3053-6",
+	reportNumber   = "CMS-FSQ-12-026, CERN-PH-EP-TOTEM-2014-002,
+	CERN-PH-EP-2014-063",
+	SLACcitation   = "%%CITATION = ARXIV:1405.0722;%%"
+}
+@article{CMS:intro_4,
+	author         = "Khachatryan, Vardan and others",
+	title          = "{Pseudorapidity distribution of charged hadrons in
+		proton-proton collisions at $\sqrt{s}$ = 13 TeV}",
+	collaboration  = "CMS",
+	journal        = "Phys. Lett.",
+	volume         = "B751",
+	year           = "2015",
+	pages          = "143-163",
+	doi            = "10.1016/j.physletb.2015.10.004",
+	reportNumber   = "CMS-FSQ-15-001, CERN-PH-EP-2015-180",
+	SLACcitation   = "%%CITATION = ARXIV:1507.05915;%%"
+}
+@article{ALICE:intro_2,
+	author         = "Adam, Jaroslav and others",
+	title          = "{Pseudorapidity and transverse-momentum distributions of
+		charged particles in proton–proton collisions at $\sqrt
+		s=$ 13 TeV}",
+	collaboration  = "ALICE",
+	journal        = "Phys. Lett.",
+	volume         = "B753",
+	year           = "2016",
+	pages          = "319-329",
+	doi            = "10.1016/j.physletb.2015.12.030",
+	reportNumber   = "CERN-PH-EP-2015-270, ALICE-PUBLIC-2015-005",
+	SLACcitation   = "%%CITATION = ARXIV:1509.08734;%%"
+}
+@article{ATLAS:intro_2,
+	author         = "Aad, Georges and others",
+	title          = "{Charged-particle distributions in $pp$ interactions at
+		$\sqrt{s}=$ 8 TeV measured with the ATLAS detector}",
+	collaboration  = "ATLAS",
+	journal        = "Eur. Phys. J.",
+	volume         = "C76",
+	year           = "2016",
+	number         = "7",
+	pages          = "403",
+	doi            = "10.1140/epjc/s10052-016-4203-9",
+	reportNumber   = "CERN-EP-2016-020",
+	SLACcitation   = "%%CITATION = ARXIV:1603.02439;%%"
+}
+
+
+@article{UA4:intro,
+	author         = "Bernard, Denis and others",
+	title          = "{Pseudorapidity Distribution of Charged Particles in
+		Diffraction Dissociation Events at the CERN SPS
+		Collider}",
+	collaboration  = "UA4",
+	journal        = "Phys. Lett.",
+	volume         = "B166",
+	year           = "1986",
+	pages          = "459-462",
+	doi            = "10.1016/0370-2693(86)91598-4",
+	reportNumber   = "CERN-EP/85-155",
+	SLACcitation   = "%%CITATION = PHLTA,166B,459;%%"
+}
+@article{PHOBOS:intro,
+	author         = "Alver, B. and others",
+	title          = "{Phobos results on charged particle multiplicity and
+		pseudorapidity distributions in Au+Au, Cu+Cu, d+Au, and
+		p+p collisions at ultra-relativistic energies}",
+	collaboration  = "PHOBOS",
+	journal        = "Phys. Rev.",
+	volume         = "C83",
+	year           = "2011",
+	pages          = "024913",
+	doi            = "10.1103/PhysRevC.83.024913",
+	SLACcitation   = "%%CITATION = ARXIV:1011.1940;%%"
+}
+@article{Aamodt:2010dx,
+	author         = "Aamodt, K. and others",
+	title          = "{Midrapidity antiproton-to-proton ratio in pp collisions
+		at $\sqrt{s} = 0.9$ and $7$~TeV measured by the ALICE
+		experiment}",
+	collaboration  = "ALICE",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "105",
+	year           = "2010",
+	pages          = "072002",
+	doi            = "10.1103/PhysRevLett.105.072002",
+	SLACcitation   = "%%CITATION = ARXIV:1006.5432;%%"
+}
+@article{Collins:1997nm,
+	author         = "Collins, John C.",
+	title          = "{Light cone variables, rapidity and all that}",
+	year           = "1997",
+	eprint         = "hep-ph/9705393",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	SLACcitation   = "%%CITATION = HEP-PH/9705393;%%"
+}
+@article{Aad:2015xis,
+	author         = "Aad, Georges and others",
+	title          = "{Dijet production in $\sqrt{s}=$ 7 TeV $pp$ collisions
+		with large rapidity gaps at the ATLAS experiment}",
+	collaboration  = "ATLAS",
+	journal        = "Phys. Lett.",
+	volume         = "B754",
+	year           = "2016",
+	pages          = "214-234",
+	doi            = "10.1016/j.physletb.2016.01.028",
+	reportNumber   = "CERN-PH-EP-2015-227",
+	SLACcitation   = "%%CITATION = ARXIV:1511.00502;%%"
+}
+@article{Sjostrand:2016bif,
+	author         = "Sjöstrand, Torbjörn",
+	title          = "{Status and developments of event generators}",
+	booktitle      = "{Proceedings, 4th Large Hadron Collider Physics
+		Conference (LHCP 2016): Lund, Sweden, June 13-18, 2016}",
+	journal        = "PoS",
+	volume         = "LHCP2016",
+	year           = "2016",
+	pages          = "007",
+	doi            = "10.22323/1.276.0007",
+	reportNumber   = "LU-TP-16-47, MCNET-16-36",
+	SLACcitation   = "%%CITATION = ARXIV:1608.06425;%%"
+}
+@article{Bartalini:2011jp,
+	author         = "Bartalini, P. and others",
+	title          = "{Multi-Parton Interactions at the LHC}",
+	year           = "2011",
+	eprint         = "1111.0469",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	reportNumber   = "ANL-HEP-PR-11-65, DESY-11-185, KA-TP-32-2011, TTK-11-52",
+	SLACcitation   = "%%CITATION = ARXIV:1111.0469;%%"
+}
+@article{Aad:2010fh,
+	author         = "Aad, Georges and others",
+	title          = "{Measurement of underlying event characteristics using
+		charged particles in pp collisions at $\sqrt{s} = 900 GeV$
+		and 7 TeV with the ATLAS detector}",
+	collaboration  = "ATLAS",
+	journal        = "Phys. Rev.",
+	volume         = "D83",
+	year           = "2011",
+	pages          = "112001",
+	doi            = "10.1103/PhysRevD.83.112001",
+	reportNumber   = "CERN-PH-EP-2010-063",
+	SLACcitation   = "%%CITATION = ARXIV:1012.0791;%%"
+}
+@inproceedings{Corke:2009pm,
+	author         = "Corke, Richard",
+	title          = "{Multiple Interactions in Pythia 8}",
+	booktitle      = "{Proceedings, 1st International Workshop on Multiple
+		Partonic Interactions at the LHC (MPI08): Perugia, Italy,
+		October 27-31, 2008}",
+	eprint         = "0901.2852",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ph",
+	reportNumber   = "LU-TP-08-21, MCNET-08-15",
+	SLACcitation   = "%%CITATION = ARXIV:0901.2852;%%"
+}
+@article{Sjostrand:2017cdm,
+	author         = "Sjöstrand, Torbjörn",
+	title          = "{The Development of MPI Modeling in Pythia}",
+	journal        = "Adv. Ser. Direct. High Energy Phys.",
+	volume         = "29",
+	year           = "2018",
+	pages          = "191-225",
+	doi            = "10.1142/9789813227767_0010",
+	reportNumber   = "LU-TP-17-22, MCNET-17-10",
+	SLACcitation   = "%%CITATION = ARXIV:1706.02166;%%"
+}
+@article{Acosta:2003xi,
+	author         = "Acosta, D. and others",
+	title          = "{Inclusive double pomeron exchange at the Fermilab
+		Tevatron $\bar{p}p$ collider}",
+	collaboration  = "CDF",
+	journal        = "Phys. Rev. Lett.",
+	volume         = "93",
+	year           = "2004",
+	pages          = "141601",
+	doi            = "10.1103/PhysRevLett.93.141601",
+	eprint         = "hep-ex/0311023",
+	archivePrefix  = "arXiv",
+	primaryClass   = "hep-ex",
+	reportNumber   = "FERMILAB-PUB-03-043-E",
+	SLACcitation   = "%%CITATION = HEP-EX/0311023;%%"
+}
+@misc{supplementaryNote,
+	author    = "Adamczyk, Leszek and Fulek, Lukasz and Sikora, Rafal",
+	title     = "{Supplementary note on diffractive analyses of 2015 proton-proton data}",
+	howpublished = "\url{https://drupal.star.bnl.gov/STAR/starnotes/private/psn0732}",
+	year     = "2019",
+	month    = "July",
 }

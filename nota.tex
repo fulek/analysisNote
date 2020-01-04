@@ -1,28 +1,38 @@
-\documentclass[12pt,oneside,bibtotoc,liststotoc,chapterprefix=true]{scrbook}
+\documentclass[a4paper,10pt,notitlepage]{report}
 \usepackage[utf8]{inputenc}
+
 \usepackage{graphicx}
 \usepackage[polish, british]{babel}
 \usepackage{a4wide}
-\usepackage{parskip}
-\usepackage[bookmarks,hidelinks=true]{hyperref}
-\usepackage{fancyhdr}
-\usepackage[right]{eurosym}
+%\usepackage{parskip}
+\usepackage[hidelinks=true]{hyperref}
+%\usepackage{fancyhdr}
+%\usepackage[right]{eurosym}
 \usepackage{amsmath}
 \let\lll\undefined
 \usepackage{amssymb}
 \usepackage[toc,page]{appendix}
-\usepackage{blindtext}
-\usepackage{setspace,titlesec}
-\usepackage[nolist,nohyperlinks]{acronym}
+%\usepackage{blindtext}
+%\usepackage{setspace,titlesec}
+\usepackage[nohyperlinks]{acronym}
 \usepackage{placeins}
 \usepackage{url}
 \usepackage{subcaption}
 \usepackage{enumitem}
 \usepackage[capitalise]{cleveref}
-\usepackage{wrapfig,lipsum}
+\usepackage{wrapfig,lipsum,afterpage}
 \usepackage{multicol}
 \usepackage{calc}
 \usepackage{authblk}
+\usepackage{cite}
+\usepackage{comment}
+\usepackage{hhline}
+\usepackage{floatpag}
+
+
+\usepackage{lineno}
+\linenumbers
+
 
 \usepackage[numbers]{natbib}
 \DeclareUnicodeCharacter{2192}{ to}
@@ -34,80 +44,23 @@
 \usepackage{listings}
 \usepackage{color}
 \usepackage[usenames,dvipsnames]{xcolor}
-\colorlet{punct}{red!60!black}
-\definecolor{background}{HTML}{EEEEEE}
-\definecolor{delim}{RGB}{20,105,176}
-\colorlet{numb}{magenta!60!black}
-\lstdefinelanguage{json}{
-    basicstyle=\footnotesize\ttfamily,
-    numbers=left,
-    tabsize=2,
-    lineskip={-1.0pt},
-    numberstyle=\scriptsize,
-    stepnumber=1,
-    numbersep=8pt,
-    showstringspaces=false,
-    breaklines=true,
-    frame=lines,
-    backgroundcolor=\color{background},
-    literate=
-      *{:}{{{\color{punct}{:}}}}{1}
-      {,}{{{\color{punct}{,}}}}{1}
-      {\{}{{{\color{delim}{\{}}}}{1}
-      {\}}{{{\color{delim}{\}}}}}{1}
-      {[}{{{\color{delim}{[}}}}{1}
-      {]}{{{\color{delim}{]}}}}{1},
-}
-\lstdefinelanguage{rdf}{
-    basicstyle={\footnotesize\ttfamily},
-    lineskip={-1.0pt},
-    numbers=left,
-    numberstyle=\scriptsize,
-    stepnumber=1,
-    numbersep=8pt,
-    showstringspaces=false,
-    breaklines=true,
-    frame=lines,
-    tabsize=2,
-    backgroundcolor=\color{background},
-    keywordstyle={\bfseries\color{Blue}},
-    commentstyle={\color{Red}\textit},
-    stringstyle=\color{Magenta},
-    morekeywords={ql,rml,rr,schema},
-    moredelim=*[s][\ttfamily]{:}{:} %Newly added line
-}
-\lstdefinelanguage{xml}{
-    basicstyle={\footnotesize\ttfamily},
-    lineskip={-1.0pt},
-    numbers=left,
-    tabsize=2,
-    numberstyle=\scriptsize,
-    stepnumber=1,
-    numbersep=8pt,
-    showstringspaces=false,
-    breaklines=true,
-    frame=lines,
-    backgroundcolor=\color{background},
-    keywordstyle={\bfseries\color{Blue}},
-    commentstyle={\color{Red}\textit},
-    stringstyle=\color{Magenta},
-    morekeywords={},
-    moredelim=*[s][\ttfamily]{:}{:} %Newly added line
-}
-\newcommand\tab[1][1cm]{\hspace*{#1}}
-\lstset{
-	basicstyle=\ttfamily\small,
-	showspaces=false,
-	numbers=left,
-	breaklines = true,
-	showstringspaces=false
-}
 
 %\pagestyle{headings}
 %\setlength{\textwidth}{15cm}
 %\setlength{\textheight}{22.5cm}
 %\setlength{\oddsidemargin}{1cm}
 %\setlength{\evensidemargin}{0cm}
+
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+	\vspace*{-18\p@}%
+	{\parindent \z@ \raggedright
+		%     \LARGE \bfseries \thechapter. #1\par\nobreak
+		%     \vskip 40\p@
+		\Huge \bfseries \thechapter. #1\par\nobreak
+		\vskip 20\p@
+	}}
+	\makeatother
 
 % Title Page
 \title{\textbf{Measurement of charged particle production in diffractive proton-proton\\ collisions at $\mathbf{\sqrt{s}=200}$~GeV with tagging of the forward scattered proton}\vspace*{10pt}}
@@ -133,7 +86,7 @@
 		\maketitle
 		%\begin{abstract}
 			In this note we present the analysis of the Single Diffractive Dissociation process with the STAR Roman Pot detectors at~RHIC. The measurement is focused on the charged particle
-			multiplicity, its dependence on the transverse momentum  and pseudorapidity   in  three regions of $\xi$: $0.02<\xi <0.05$, $0.05<\xi<0.1$ and $0.1<\xi<02$.  The identified particle to antiparticle (pion, kaon, proton and their antiparticle) multiplicity ratios as a function of transverse momentum in above three $\xi$ regions  are also measured. The data come from proton-proton collisions collected in 2015. The forward proton was tagged in the STAR Roman Pot system while the charged particle tracks were reconstructed in the~STAR Time Projection Chamber (TPC). 
+			multiplicity, its dependence on the transverse momentum  and pseudorapidity   in  three regions of $\xi$: $0.02<\xi <0.05$, $0.05<\xi<0.1$ and $0.1<\xi<02$.  The identified particle to antiparticle (pion, kaon, proton and their antiparticle) multiplicity ratios as a function of transverse momentum in above three $\xi$ regions  are also measured. The data come from proton-proton collisions collected in 2015. The forward proton was tagged in the STAR Roman Pot system while the charged particle tracks were reconstructed in the~STAR \ac{TPC}. 
 			We describe all stages of the analysis involving comparison of the data with MC simulations and systematic uncertainty studies.
 			More technical parts of the analysis  are described in a supplementary analysis note~\cite{supplementaryNote}.	
 		%\end{abstract}
@@ -152,15 +105,11 @@
 
 \selectlanguage{british}
 
-\renewcommand{\baselinestretch}{1.00}\normalsize
-
 
 
 \tableofcontents
 \setcounter{page}{1}
 \pagenumbering{Roman}
-\listoffigures
-\renewcommand{\baselinestretch}{0.5}\normalsize
 
 \newpage
 \setcounter{page}{1}
@@ -174,7 +123,7 @@
 
 
 %Data sample and Signal Selection STAR
-\input{chapters/dataSampleSTAR/sampleAndSignal.tex}
+%\input{chapters/dataSampleSTAR/sampleAndSignal.tex}
 
 %Analysis STAR
 \input{chapters/chrgSTAR/analysis.tex}
@@ -186,10 +135,11 @@
 \input{chapters/summary/summary.tex}
 
 
-\bibliographystyle{JHEP} %apalike
+\bibliographystyle{atlasBibStyleWithTitle} %apalike
 \bibliography{literatur}
 \begin{appendices}
-	\input{chapters/chrgSTAR/DCAprotonAppendix.tex}
+	\input{chapters/acronyms/acronyms.tex}
+	%\input{chapters/chrgSTAR/DCAprotonAppendix.tex}
 	\input{chapters/chrgSTAR/PIDdEdxAppendix.tex}
 \end{appendices}
 

@@ -1,13 +1,22 @@
-\section{Data Sample}\label{section:star_data_sample}
-Analyzed data were collected during RHIC Run 15, i.e. year 2015. During this year proton-proton centre of mass energy was equal to $\sqrt{s}=200$~GeV. Data from the RP related triggers is stored in the st\_rp data stream.  All of the studies in this work use data from only the SDT trigger condition, which was the main trigger designed for SDD studies in Run 15 and used in this analysis. Integrated luminosity delivered by the RHIC to the STAR detector in $pp$ collisions during Run 15 amounts to $185.1$~pb$^{-1}$\cite{RHIC:rhicRunLuminosity}, shown in Fig.~\ref{fig:lumiRHIC}, whereas about $34.4$M SDT events were gathered by the STAR detector, which corresponds to $16$~nb$^{-1}$ of integrated luminosity.
+\chapter{Data Sample and Signal Selection}\label{section:star_data_sample}\label{section:star_trigger_selection}
+The data sample used in this analysis was collected in proton-proton collisions at centre-of-mass energy of $\sqrt{s}=200$~GeV during RHIC Run 15, i.e. in year 2015. %Data from the RP related triggers is stored in a~special data stream.  
 
-\begin{figure}[bh]
+\begin{figure}[h!]
 	\centering
 	\includegraphics[width=.39\textwidth]{chapters/dataSampleSTAR/img/RhicLuminosityPP.png}
 	\hfill
 	\includegraphics[width=.6\textwidth]{chapters/dataSampleSTAR/img/nEvents.png}
-	\caption[Integrated luminosity delivered by the collider over the seventeen years of operation of RHIC and integrated number of events collected for each trigger in the st\_rp data stream during Run 15]{Integrated lumonosity delivered by the collider over the seventeen years of operation of RHIC (left)\cite{RHIC:rhicRunLuminosity}. Dashed lines are for $100$~GeV/c proton momentum mailnly for transverse spin physics programs, while continuous lines are for $250/255$~GeV/c proton beams aimed predominantly at the $W$-physics program. The percentage polarization reached in each run is indicated next to the curves. Integrated number of events collected for each trigger in the st\_rp data stream during Run 15 (right). About $34.4$M SDT events were gathered, which  corresponds to 16~nb$^{-1}$ of integrated luminosity.}
+	\caption{(left) Integrated lumonosity delivered by the collider over the seventeen years of operation of RHIC~\cite{RHIC:rhicRunLuminosity}. Dashed lines are for $100$~GeV/c proton momentum mailnly for transverse spin physics programs, while continuous lines are for $250/255$~GeV/c proton beams aimed predominantly at the $W$-physics program. The percentage polarization reached in each run is indicated next to the curves. (right) Integrated number of events collected for each trigger in the~\ac{RP} data stream during Run 15. }
 	\label{fig:lumiRHIC}
 \end{figure}
 
-\FloatBarrier
+All of the studies in this work use data from only the SDT trigger condition, which was the main trigger designed for SDD studies in Run 15 and used in this analysis. It was formed by the following conditions combined with the logical AND:
+\begin{enumerate}
+	\item RP\_EOR $||$ RP\_WOR - signal in at least one RP on one side of the STAR central detector.
+	\item Veto on any signal in small BBC tiles or ZDC on the triggered RP  side of the~STAR central detector.
+	\item At least two TOF hits.
+\end{enumerate}
+Above requirements were imposed in accordance with the diffractive events topology. Veto on any signal in small BBC tiles and ZDC allows to accept only events with rapidity gap and reject diffractive events with parallel pile-up event. The requirement of at least two TOF hits was to ensure activity in the mid-rapidity.
+
+Integrated luminosity delivered by the RHIC to the STAR detector in $pp$ collisions during Run 15 amounts to $185.1$~pb$^{-1}$~\cite{RHIC:rhicRunLuminosity}, shown in Fig.~\ref{fig:lumiRHIC}, whereas about $34.4$M SDT events were gathered by the STAR detector, which corresponds to $16$~nb$^{-1}$ of integrated luminosity.
+%\FloatBarrier

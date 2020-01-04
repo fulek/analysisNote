@@ -1,48 +1,27 @@
-\subsection{Accidental Background}\label{section:star_accidentals}
-The accidental backgrounds (same bunch pile-up background) are quantified using data-driven method and defined as a process where in one proton-proton bunch crossing there is coincidence of two interactions, where any single-side proton signal is collected in coincidence with a diffractive like signal in the TPC-TOF detector. This has the same signature as a signal process but would not come from a DD, a CD or a ND interaction. This type of background may come from the overlap of:
-\begin{enumerate}
-	\item RP:
-	\begin{itemize}
-		\item proton from beamhalo,
-		\item low mass SD process without activity in TOF,
-		\item elastic or low mass CD processes with undetected proton on the other side,
-	\end{itemize}
-	\item TPC+TOF:
-	\begin{itemize}
-		\item  ND events without forward proton (dominant)
-		\item beam-gas and beam-halo:  should be effectively reduced by the reconstructed vertex requirement.
-	\end{itemize}
-\end{enumerate}
+\section{Accidental Background}\label{section:star_accidentals}
+The accidental backgrounds (same bunch pile-up background) are quantified using data-driven method and defined as a process where in one proton-proton bunch crossing there is coincidence of two interactions, where any single-side proton signal is collected in coincidence with a diffractive like signal in the TPC-TOF detector. This has the same signature as a signal process but would not come from a DD, a CD or a ND interaction. This type of background may come from the overlap of a~signal in \ac{RP} (proton from beamhalo, low mass SD process without activity in TOF, elastic or low mass CD processes with undetected proton on the other side) with a~\ac{SD}-like signal in TPC+TOF (ND events without forward proton, which is a~dominant contribution, beam-gas or beam-halo, which  should be effectively reduced by the~requirement of the~reconstructed vertex).
 
-\subsubsection{Accidental Background Contribution}
-The accidental background contribution was calculated analytically from Zerobias data, where two signatures of such background are investigated: the reconstructed proton in RP and the reconstruction of vertex in TPC. The analysis was done for each RP arm separately and thus the 
+The accidental background contribution was calculated analytically from Zerobias data, where two signatures of such background were investigated: the reconstructed proton in RP and the reconstruction of vertex in TPC. The analysis was done for each RP arm separately and thus the 
  Zerobias data was firstly required to pass the following criteria:
 \begin{enumerate}
 	\item no trigger in any RP or trigger in exactly one arm (two RPs) with exactly one reconstructed proton track in that arm,
-	\item veto on any signal in small BBC tiles or ZDC on the same  side of the IP as  RP under study.
+	\item veto on any signal in small BBC tiles or ZDC on the same  side of the IP as  RP under consideration,
 	\item no reconstructed vertex in TPC or exactly one vertex with at least two TOF-matched tracks passing the quality criteria. The latter includes also signal in BBC small tiles on the opposite side of the IP to the RP under study. 
 \end{enumerate}
- The sample of selected Zerobias data with  number events $N$ was divided into four classes of interactions:
+ The sample of selected Zerobias data with total  number  of events $N$ was divided into four classes:
 \begin{equation}
 N=N(P,S)+N(R,S)+N(P,T)+N(R,T)
 \label{eq:accidentalSTAR_N}
 \end{equation}
-where:\\
-$N(P,S)$ - number of events with a reconstructed proton in exactly one RP and reconstructed vertex in TPC, \\
-$N(R,S)$  - number of events with no trigger in any RP and a reconstructed vertex in TPC,\\
-$N(P,T)$ - number of events with a reconstructed proton in exactly one RP, vertex in TPC not reconstructed,\\
-$N(R,T)$ - number of events with no trigger in any RP, vertex in TPC not reconstructed.\\
-\newline\newline
-Since the signature of the signal is a reconstructed proton in exactly on RP and a reconstructed vertex in TPC, the number of such events can be expressed as:
+where: $N(P,S)$ is the~number of events with reconstructed proton in exactly one RP and reconstructed vertex in TPC, $N(R,S)$  is the~number of events with no trigger in any RP and reconstructed vertex in TPC, $N(P,T)$ is the~number of events with reconstructed proton in exactly one RP and no reconstructed vertex in TPC, $N(R,T)$ is the~number of events with no trigger in any RP and no reconstructed vertex in TPC.\\
+
+Since the signature of the signal is a reconstructed proton in exactly one RP and a~reconstructed vertex in TPC, the number of such events can be expressed as:
 \begin{equation}
 N(P,S)=N\left(p_3+p_1p_2\right)
 \end{equation}
-where:\\
- $p_1$ - probability that process provides reconstructed proton in RP and no reconstructed vertex in TPC,\\
-$p_2$ - probability that process provides no reconstructed proton in RP and  reconstructed vertex in TPC,\\
-$p_3$ - probability that process provides reconstructed proton in RP and  reconstructed vertex in TPC (not accidental).\\
-\newline\newline
-The rest classes of interaction given in Eq.~\ref{eq:accidentalSTAR_N} are then described by  above probabilities as:
+where: $p_1$ is the~probability that there is a~reconstructed proton in RP and there is no reconstructed vertex in TPC, $p_2$ is the~probability that there is no reconstructed proton in RP and  there is a~reconstructed vertex in TPC, $p_3$ is the~probability that there is a~reconstructed proton in RP and  there is a~reconstructed vertex in TPC (not accidental).
+
+The other classes of interaction given in Eq.~\eqref{eq:accidentalSTAR_N} can be expressed in terms of the~above probabilities as:
 \begin{equation}
 \begin{split}
 N(R,S)=  & N(1-p_1)p_2(1-p_3)\\
@@ -50,26 +29,23 @@ N(P,T) = & N(1-p_2)p_1(1-p_3)\\
 N(R,T) = & N(1-p_1)(1-p_2)(1-p_3)
 \end{split}
 \end{equation}
-Finally, the accidental background contribution $A_{bkg}^{accidental}$ is  given by:
+Finally, the accidental background contribution $A_{\mathrm{bkg} }^{\mathrm{accidental}}$ is  given by:
 \begin{equation}
 \begin{split}
-A_{bkg}^{accidental}&=  \frac{p_1p_2}{p_3+p_1p_2}\\
-&=\frac{N(R,S)N(P,T)N}{N(R)N(T)N(P,S)}
+A_{\mathrm{bkg}}^{\mathrm{accidental}}=  \frac{p_1p_2}{p_3+p_1p_2}=\frac{N(R,S)N(P,T)N}{N(R)N(T)N(P,S)}
 \end{split}
 \end{equation} 
-where:\\
-$N(R)=N(R,S)+N(R,T)$ and $N(T)=N(P,T)+N(R,T)$.
+where: $N(R)=N(R,S)+N(R,T)$ and $N(T)=N(P,T)+N(R,T)$.
 
-\subsubsection{Background Templates}
-The shapes of the accidental background to the TPC-related distributions come from the above Zerobias data events which pass all the analysis selection except have no trigger in any RP and  thus fail the overall selection. On the other hand, the templates corresponding to RP distributions are from protons in the above data events but with no reconstructed vertex in the TPC. The normalization derives from the data-driven probabilities.
-\subsubsection{Systematics}
-The selection of Zerobias events may provide some bias to the normalization. As a systematic check, the criteria for  Zerobias events selection were changed to:
+The shapes of the accidental background to the TPC-related distributions come from the above Zerobias data events which pass all the analysis selection except having no trigger in any RP and  thus fail the overall selection. On the other hand, the templates corresponding to RP distributions are from protons in the above data sets but with no reconstructed vertex in the TPC. The normalization is obtained from the data-driven probabilities.
+
+The selection of Zerobias events may provide some bias to the normalization of the~accidental background. As a systematic check, the criteria for  Zerobias selection were changed~to:
  \begin{enumerate}
  	\item no trigger in any RP or trigger in exactly one arm (two RPs) with \textit{no more} than one reconstructed proton track in that arm,
  	\item veto on any signal in small BBC tiles or ZDC on the same  side of the IP as  RP under study,
- 	\item no reconstructed vertex in TPC or exactly one vertex (do not require that the selected vertex has at least two TOF-matched tracks passing the quality criteria). The requirement of signal in BBC small tiles remains unchanged. 
+ 	\item no reconstructed vertex in TPC or exactly one vertex (not necessarily  with two TOF-matched tracks passing the quality criteria). The requirement of signal in BBC small tiles remains unchanged. 
  \end{enumerate}
- As a result of this change in the procedure, the accidental background normalization increases twice with respect to the nominal value. Since that the background change by $\pm50\%$ was taken as a systematic uncertainty related to the accidentals.
+ As a result of this change in the procedure, the accidental background normalization increases twice with respect to the nominal value. Therefore, the background changes by $\pm50\%$ was taken as a systematic uncertainty related to the accidentals.
 
 
 

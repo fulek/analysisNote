@@ -1,46 +1,61 @@
 This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nota.aux
-The style file: JHEP.bst
+The style file: atlasBibStyleWithTitle.bst
 Database file #1: literatur.bib
-You've used 16 entries,
-            2268 wiz_defined-function locations,
-            680 strings with 7116 characters,
-and the built_in function-call counts, 4099 in all, are:
+Warning--entry type for "MADX" isn't style-file defined
+--line 8 of file literatur.bib
+Warning--entry type for "RHIC:rhicRunLuminosity" isn't style-file defined
+--line 14 of file literatur.bib
+You're missing a field name---line 1187 of file literatur.bib
+ :  doi            = "10.1088/1748-0221/9/09/P09009",
+ :                                                   ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1527 of file literatur.bib
+ :  doi            = "10.1140/epjc/s10052-006-0035-3",
+ :                                                    ,
+I'm skipping whatever remains of this entry
+Warning--empty year in Bopp:2000vg
+Warning--empty pages in GEANT:three
+You've used 18 entries,
+            2349 wiz_defined-function locations,
+            703 strings with 7473 characters,
+and the built_in function-call counts, 4394 in all, are:
 = -- 425
-> -- 145
+> -- 126
 < -- 0
-+ -- 46
-- -- 30
-* -- 331
-:= -- 584
-add.period$ -- 16
-call.type$ -- 16
-change.case$ -- 16
++ -- 51
+- -- 33
+* -- 351
+:= -- 555
+add.period$ -- 31
+call.type$ -- 18
+change.case$ -- 25
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 197
-empty$ -- 362
-format.name$ -- 30
-if$ -- 1087
+cite$ -- 20
+duplicate$ -- 248
+empty$ -- 481
+format.name$ -- 33
+if$ -- 1122
 int.to.chr$ -- 0
-int.to.str$ -- 16
-missing$ -- 50
-newline$ -- 52
-num.names$ -- 13
-pop$ -- 37
+int.to.str$ -- 18
+missing$ -- 46
+newline$ -- 79
+num.names$ -- 18
+pop$ -- 91
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 186
+skip$ -- 149
 stack$ -- 0
-substring$ -- 142
-swap$ -- 99
+substring$ -- 170
+swap$ -- 89
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 30
-width$ -- 18
-write$ -- 154
+warning$ -- 2
+while$ -- 32
+width$ -- 20
+write$ -- 160
+(There were 2 error messages)

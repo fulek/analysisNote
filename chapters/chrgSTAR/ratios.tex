@@ -1,5 +1,5 @@
-\subsection{Antiparticle-to-Particle Ratios}\label{section:star_ratios}
-The following steps were taken to correct an  identified antiparticle to particle (pion, kaon, proton and their antiparticle) multiplicity ratios as a function of $p_T$ in three ranges of $\xi$.
+\section{Antiparticle-to-Particle Ratios}\label{section:star_ratios}
+The following steps were taken to correct an  identified antiparticle to particle (pion, kaon, proton and their antiparticle) multiplicity ratios as a function of $p_\textrm{T}$ in three ranges of $\xi$:
 \begin{itemize}
 	\item The raw identified particle yields were obtained through multi-Gaussian fits to the $n\sigma^i_{dE/dx}$ distributions (Sec.~\ref{section:star_PIDdEdx}), where the vertex reconstruction and energy loss corrections were applied. The latter depends on the particle type.
 	\item The accidental and non-SD backgrounds were subtracted. It was assumed that the former does not depend on the particle type, i.e. the same contribution of accidental background was used as for charged particles without identification (Sec.~\ref{section:star_accidentals}).
@@ -11,7 +11,7 @@ The following steps were taken to correct an  identified antiparticle to particl
 		\item $p,\bar{p}$: reconstructed tracks which have the appropriate number of common hit points with true-level particle, but the distance between them is too large (this background is negligibly small for other particle types),
 		\item all: fake track contribution, the same for each particle type. 
 	\end{itemize}
-	\item Then the tracks were corrected for track and $\xi$ migrations, BBC-small efficiency, which do not depend on the particle type and charge.
-	\item Finally, each antiparticle $p_T$ distribution was divided by the corresponding particle $p_T$ distribution to obtain fully corrected identified antiparticle to particle multiplicity ratios.
+	\item Then the tracks were corrected for track and $\xi$ migrations, and BBC-small efficiency, which do not depend on the particle type and charge.
+	\item Finally, each antiparticle $p_\textrm{T}$ distribution was divided by the corresponding particle $p_\textrm{T}$ distribution to obtain fully corrected identified antiparticle to particle multiplicity ratios.
 	\item Additionally, the average antiparticle to particle ratios in each $\xi$ region were calculated.
 \end{itemize}

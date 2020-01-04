@@ -1,69 +1,66 @@
-\subsection[Correction to $dN/dn_{ch}$]{Correction to $\mathbf{dN/dn_{ch}}$}\label{section:star_dNdnch}
-In order to express the multiplicity distribution in terms of the number of charged particles $n_{ch}$ instead of the number of selected tracks $n_{sel}$,  the observed $n_{sel}$ distribution was corrected for detector effects after the subtraction of accidental and non-SD backgrounds. The  following procedure based on the Bayesian unfolding~\cite{unfolding:2016mok,unfolding:DAgostini} was used. First, the $n_{sel}$ distribution was corrected for vertex reconstruction effects by applying event-by-event $w_{ev}^{vrt}(n_{vrt}^{global},|\Delta z_0|)$ weights. The number of events in which $n_{ch}$ are produced, $N_{ev}(n_{ch})$, can be associated with the number of events in which $n_{sel}$ are reconstructed, $N_{ev}(n_{sel})$:
+\section[Correction to $dN/dn_{ch}$]{Correction to $\mathbf{dN/dn_\textrm{ch}}$}\label{section:star_dNdnch}
+In order to express the multiplicity distribution in terms of the number of charged particles, $n_\textrm{ch}$, instead of the number of selected tracks, $n_\textrm{sel}$,  the observed $n_\textrm{sel}$ distribution was corrected for detector effects after subtraction of accidental and non-SD backgrounds. The  following procedure based on the Bayesian unfolding~\cite{unfolding:2016mok,unfolding:DAgostini} was used. First, the~$n_\textrm{sel}$ distribution was corrected for vertex reconstruction effects by applying event-by-event weights, $w_\textrm{ev}^\textrm{vrt}(n_\textrm{vrt}^\textrm{global},|\Delta z_0|)$. The number of events in which $n_\textrm{ch}$ are produced, $N_\textrm{ev}(n_\textrm{ch})$, can be associated with the number of events in which $n_\textrm{sel}$ are reconstructed, $N_\textrm{ev}(n_\textrm{sel})$:
 \begin{equation}
-N_{ev}\left(n_{ch}\right)=N_{ev}\left(n_{sel}\right)\cdot P\left(n_{ch}|n_{sel}\right)
+N_\textrm{ev}\left(n_\textrm{ch}\right)=N_\textrm{ev}\left(n_\textrm{sel}\right)\cdot P\left(n_\textrm{ch}|n_\textrm{sel}\right)
 \end{equation}
-where $P(n_{ch}|n_{sel})$ is the  probability of $n_{ch}$ under condition of $n_{sel}$.
+where $P(n_\textrm{ch}|n_\textrm{sel})$ is the conditional probability of having $n_\textrm{ch}$ charged particles in an event in which  $n_\textrm{sel}$ tracks were found.
 
 
-When  there are several possible $n_{sel}$ the number of events in which $n_{ch}$ are produced is given by:
+\noindent When  there are several possible $n_\textrm{sel}$ the number of events in which $n_\textrm{ch}$ are produced is given by:
 \begin{equation}
 \begin{array}{ccccc}
-N_{ev}(n_{ch})&=&&\sum_{n_{sel}\geq0}P(n_{ch}|n_{sel})\cdot N_{ev}(n_{sel})\\
-&=&\frac{1}{\epsilon^{m}(n_{ch})\epsilon^{r}(n_{ch})}&\sum_{n_{sel}\geq2}P(n_{ch}|n_{sel})\cdot N_{ev}(n_{sel})
+N_\textrm{ev}(n_\textrm{ch})&=&&\sum_{n_\textrm{sel}\geq0}P(n_\textrm{ch}|n_\textrm{sel})\cdot N_\textrm{ev}(n_\textrm{sel})\\
+&=&\frac{1}{\epsilon^{m}(n_\textrm{ch})\epsilon^{r}(n_\textrm{ch})}&\sum_{n_\textrm{sel}\geq2}P(n_\textrm{ch}|n_\textrm{sel})\cdot N_\textrm{ev}(n_\textrm{sel})
 \end{array}
 \end{equation}
 where:
 \begin{description}
-	\item $\epsilon^{m}(n_{ch})$ is a factor, which recovers events that are lost due to TPC track reconstuction and  TOF matching inefficiencies, i.e. those with $n_{ch}\geq2$ but $n_{sel}<2$,
-	\item $\epsilon^{r}(n_{ch})$ is a factor, which recovers  events which are lost due to fake tracks, i.e. those with $n_{ch}\leq 8$ but $n_{sel}> 8$.
+	\item $\epsilon^{m}(n_\textrm{ch})$ is a factor, which recovers events that are lost due to TPC track reconstuction and  TOF matching inefficiencies, i.e. those with $n_\textrm{ch}\geq2$ but $n_\textrm{sel}<2$,
+	\item $\epsilon^{r}(n_\textrm{ch})$ is a factor, which recovers  events which are lost due to fake tracks, i.e. those with $n_\textrm{ch}\leq 8$ but $n_\textrm{sel}> 8$.
 \end{description}
-Figure~\ref{fig:correctionSTAR} shows $\epsilon^{m}(n_{ch})$ and $\epsilon^{r}(n_{ch})$ in three ranges of $\xi$. Both corrections were derived from MC. The former varies from about $25\%$ for $n_{ch}=2$ to $95\%$ for $n_{ch}=8$, the latter is significantly smaller and varies up to $2\%$ for $n_{ch}=8$.
+Figure~\ref{fig:correctionSTAR} shows $\epsilon^{m}(n_\textrm{ch})$ and $\epsilon^{r}(n_\textrm{ch})$ in three ranges of $\xi$. Both corrections were derived from MC. The former varies from about $25\%$ for $n_\textrm{ch}=2$ to $95\%$ for $n_\textrm{ch}=8$, the latter is significantly smaller and varies up to $2\%$ for $n_\textrm{ch}=8$.
 
 
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=0.49\textwidth,page=1]{chapters/chrgSTAR/img/unfolding/correction_0.pdf}
 	\includegraphics[width=0.49\textwidth,page=1]{chapters/chrgSTAR/img/unfolding/correction_1.pdf}
-	\caption[$\epsilon^{m}(n_{ch})$ and $\epsilon^{r}(n_{ch})$ in three ranges of $\xi$]{$\epsilon^{m}(n_{ch})$ (left)  and $\epsilon^{r}(n_{ch})$ (right) calculated separately in three ranges of $\xi$.}
+	\caption{(left) $\epsilon^{m}(n_\textrm{ch})$  and (right) $\epsilon^{r}(n_\textrm{ch})$ calculated separately in three ranges of $\xi$.}
 	\label{fig:correctionSTAR}
 \end{figure}
 
-The unknown term $P(n_{ch}|n_{sel})$ can be derived through Bayes theorem, which is stated mathematically in terms of charged particle and charged track multiplicities as the following equation:
+\noindent The unknown probability $P(n_\textrm{ch}|n_\textrm{sel})$ can be derived using Bayes' theorem, which can be stated mathematically in terms of charged particle and charged track multiplicities as:
 \begin{equation}
-P\left(n_{ch}\right)\cdot P\left(n_{sel}|n_{ch}\right) = P\left(n_{ch}|n_{sel}\right)\cdot P\left(n_{sel}\right)
+P\left(n_\textrm{ch}\right)\cdot P\left(n_\textrm{sel}|n_\textrm{ch}\right) = P\left(n_\textrm{ch}|n_\textrm{sel}\right)\cdot P\left(n_\textrm{sel}\right)
 \end{equation}
-where:
-\begin{description}
-	\item $P(n_{sel})$ and $P(n_{ch})$ are probabilities of observing $n_{sel}$ and $n_{ch}$ independently,
-	\item $P(n_{ch}|n_{sel})$ and $P(n_{sel}|n_{ch})$ are conditional probabilities.
-\end{description}
+where: $P(n_\textrm{sel})$ and $P(n_\textrm{ch})$ are probabilities of observing $n_\textrm{sel}$ and $n_\textrm{ch}$ independently, $P(n_\textrm{ch}|n_\textrm{sel})$ and $P(n_\textrm{sel}|n_\textrm{ch})$ are conditional probabilities.
  
- The main idea behind these procedure is that the unfolding  is done iteratively to improve the estimate of $P(n_{ch}|n_{sel})$:
+\noindent The main idea behind this procedure is that the unfolding  is done iteratively to improve the estimate of $P(n_\textrm{ch}|n_\textrm{sel})$:
 \begin{itemize}
-	\item First iteration: \\
+	\item In the~first iteration, it is assumed that: \\
 	\begin{eqnarray}
-	P(n_{ch}|n_{sel}) = P = P(n_{sel}|n_{ch})\frac{P^{MC}(n_{ch})}{P^{MC}(n_{sel})}
+	P(n_\textrm{ch}|n_\textrm{sel}) = P = P(n_\textrm{sel}|n_\textrm{ch})\frac{P^\textrm{MC}(n_\textrm{ch})}{P^\textrm{MC}(n_\textrm{sel})}
 	\end{eqnarray}
 	\begin{equation}
-	N_{ev}(n_{ch})=\frac{1}{\epsilon^{m}(n_{ch})\epsilon^{r}(n_{ch})}\sum_{n_{sel}\geq2}N_{ev}(n_{sel})\cdot P
+	N_\textrm{ev}(n_\textrm{ch})=\frac{1}{\epsilon^{m}(n_\textrm{ch})\epsilon^{r}(n_\textrm{ch})}\sum_{n_\textrm{sel}\geq2}N_\textrm{ev}(n_\textrm{sel})\cdot P
 	\end{equation}
-	where $P(n_{sel}|n_{ch})$, $P^{MC}(n_{ch})$ and $P^{MC}(n_{sel})$ are obtained from MC. $P(n_{sel}|n_{ch})$ is the same for each iteration.
+	where $P(n_\textrm{sel}|n_\textrm{ch})$, $P^\textrm{MC}(n_\textrm{ch})$ and $P^\textrm{MC}(n_\textrm{sel})$ are obtained from MC. $P(n_\textrm{sel}|n_\textrm{ch})$ is the~same for each iteration.
 	
-	\item Next iterations $i+1$:
+	\item In the $(i+1)$th iteration we have:
 	\begin{equation}
-	P^{i+1}=P(n_{sel}|n_{ch})\frac{P^{i}(n_{ch})}{P(n_{sel})}
+	P^{i+1}=P(n_\textrm{sel}|n_\textrm{ch})\frac{P^{i}(n_\textrm{ch})}{P(n_\textrm{sel})}
 	\end{equation}
 	\begin{equation}
-	N_{ev}^{i+1}(n_{ch})=\frac{1}{\epsilon^{m}(n_{ch})\epsilon^{r}(n_{ch})}\sum_{n_{sel}\geq2}N_{ev}(n_{sel})\cdot P^{i+1}
+	N_\textrm{ev}^{i+1}(n_\textrm{ch})=\frac{1}{\epsilon^{m}(n_\textrm{ch})\epsilon^{r}(n_\textrm{ch})}\sum_{n_\textrm{sel}\geq2}N_\textrm{ev}(n_\textrm{sel})\cdot P^{i+1}
 	\end{equation}
-	where normalized $N_{ev}^i(n_{ch})$, calculated in the previous iteration, and $N_{ev}(n_{sel})$, taken from data, serve as probability distributions $P^{i}(n_{ch})$ and $P(n_{sel})$.
+	where normalized to unity $N_\textrm{ev}^i(n_\textrm{ch})$, calculated in the previous iteration, and $N_\textrm{ev}(n_\textrm{sel})$, taken from data, serve as probability distributions $P^{i}(n_\textrm{ch})$ and $P(n_\textrm{sel})$.
 \end{itemize}
 
-The  unfolding matrices $P(n_{ch}|n_{sel})$  for each $\xi$ region, shown in Fig.~\ref{fig:responseSTAR}, were obtained from MC and used in the first iteration of the above procedure. 
+The  unfolding matrices $P(n_\textrm{ch}|n_\textrm{sel})$  for each $\xi$ region, shown in Fig.~\ref{fig:responseSTAR}, were obtained from MC and used in the first iteration of the above procedure. 
 
-\captionsetup{format=plain,indention=0pt,justification=justified}
+
 \begin{figure}[h!]
+	\vspace{-0.5cm}
 	\centering
 	\begin{subfigure}{.49\textwidth}
 		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/unfolding/matrix_0.pdf}
@@ -78,14 +75,14 @@ The  unfolding matrices $P(n_{ch}|n_{sel})$  for each $\xi$ region, shown in Fig
 		\caption{The unfolding matrices calculated  from MC for three ranges of $\xi$ separately.}
 		\label{fig:responseSTAR}
 	\end{minipage}
+	\vspace{-0.5cm}
 \end{figure}
-\captionsetup{format=default,indention=0pt,justification=justified}
 
-After the unfolding procedure, the  obtained distribution $dN/dn_{ch}$
-was corrected for BBC-small efficiency, through $w_{BBC}(n_{ch})$ weights, and migrations of events between $\xi$ ranges, through $f_{\xi}(n_{ch})$ weights. Since the unfolding matrices contain track reconstruction efficiencies, non-primary track backgrounds, migrations of tracks into and out of the fiducial region, the weight $w_{trk}\left(p_T,\eta,V_{z}\right)$ was not used.
+The distribution $dN/dn_\textrm{ch}$ obtained after the unfolding procedure
+was corrected for BBC-small efficiency, through $w_\textrm{BBC}(n_\textrm{ch})$ weights, and migrations of events between $\xi$ ranges, through $f_{\xi}(n_\textrm{ch})$ weights. Since the unfolding matrices contain track reconstruction efficiencies, non-primary track backgrounds, migrations of tracks into and out of the~fiducial region, the weight $w_\textrm{trk}\left(p_\textrm{T},\eta,V_{z}\right)$ was not used.
 
-Finally, the $dN/dn_{ch}$ distribution was normalized to total number of events, $N_{ev}=N$, which was calculated as the integral of the unfolded $N_{ev}(n_{ch})$ distribution.
-
+\hspace{\parindent} Finally, the $dN/dn_\textrm{ch}$ distribution was normalized to the~total number of events, $N_\textrm{ev}=N$, which was calculated as the integral of the unfolded $N_\textrm{ev}(n_\textrm{ch})$ distribution.
 
 
-\FloatBarrier
+
+%\FloatBarrier
