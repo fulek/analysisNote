@@ -40,6 +40,20 @@ CERN-DD-EE-84-1 (1987).
   {\bfseries A506} (2003) 250--303}.
 %%CITATION = NUIMA,A506,250;%%.
 
+\bibitem{Sjostrand:2006za}
+T.~Sjöstrand, S.~Mrenna,  and P.~Z. Skands, {\em {PYTHIA 6.4 Physics and
+  Manual}},
+\href{http://dx.doi.org/10.1088/1126-6708/2006/05/026}{JHEP {\bfseries 05}
+  (2006) 026}.
+%%CITATION = HEP-PH/0603175;%%.
+
+\bibitem{MBR:intro}
+R.~Ciesielski and K.~Goulianos, {\em {MBR Monte Carlo Simulation in PYTHIA8}},
+  \href{http://dx.doi.org/10.22323/1.174.0301}{PoS {\bfseries ICHEP2012} (2013)
+  301},
+\href{http://arxiv.org/abs/1205.1446}{{\ttfamily arXiv:1205.1446 [hep-ph]}}.
+%%CITATION = ARXIV:1205.1446;%%.
+
 \bibitem{RHIC:rhicRunLuminosity}
 W.~Fischer, {\em Run Overview of the {R}elativistic {H}eavy {I}on {C}ollider},
   \url{http://www.agsrhichome.bnl.gov/RHIC/Runs/}.
