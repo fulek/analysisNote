@@ -10,26 +10,26 @@
 \contentsline {section}{\numberline {3.3}Fiducial Region of the Measurement}{7}{section.3.3}
 \contentsline {chapter}{\numberline {4}Background Contribution}{9}{chapter.4}
 \contentsline {section}{\numberline {4.1}Accidental Background}{9}{section.4.1}
-\contentsline {section}{\numberline {4.2}Non-SD Background}{10}{section.4.2}
-\contentsline {section}{\numberline {4.3}Background from Non-Primary Tracks}{13}{section.4.3}
-\contentsline {subsubsection}{Proton Background}{13}{section*.15}
-\contentsline {subsubsection}{Systematic Uncertainty Related to Proton Background}{16}{section*.19}
-\contentsline {subsubsection}{Pion Background}{17}{section*.21}
-\contentsline {chapter}{\numberline {5}Selection Efficiencies}{19}{chapter.5}
-\contentsline {section}{\numberline {5.1}Vertex Reconstruction}{19}{section.5.1}
-\contentsline {section}{\numberline {5.2}Correction to BBC-Small }{21}{section.5.2}
-\contentsline {chapter}{\numberline {6}Migrations into and out of the~Fiducial Region}{25}{chapter.6}
-\contentsline {section}{\numberline {6.1}Migrations of Tracks into and out of the~Fiducial Region}{25}{section.6.1}
-\contentsline {section}{\numberline {6.2}Migrations of $\xi $}{25}{section.6.2}
-\contentsline {chapter}{\numberline {7}Corrections and Unfolding Procedure}{28}{chapter.7}
-\contentsline {section}{\numberline {7.1}Correction to $dN/dn_{ch}$}{28}{section.7.1}
-\contentsline {section}{\numberline {7.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{30}{section.7.2}
-\contentsline {section}{\numberline {7.3}Particle Identification}{31}{section.7.3}
-\contentsline {section}{\numberline {7.4}Antiparticle-to-Particle Ratios}{35}{section.7.4}
-\contentsline {chapter}{\numberline {8}Systematic Uncertainties}{37}{chapter.8}
-\contentsline {chapter}{\numberline {9}Results}{42}{chapter.9}
-\contentsline {chapter}{\numberline {10}Summary and Conclusions}{49}{chapter.10}
-\contentsline {chapter}{Appendices}{51}{section*.58}
-\contentsline {chapter}{\numberline {A}Acronyms}{52}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{55}{Appendix.1.B}
-\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{68}{Appendix.1.C}
+\contentsline {section}{\numberline {4.2}Background from Non-Primary Tracks}{11}{section.4.2}
+\contentsline {subsubsection}{Proton Background}{11}{section*.13}
+\contentsline {subsubsection}{Systematic Uncertainty Related to Proton Background}{13}{section*.17}
+\contentsline {subsubsection}{Pion Background}{14}{section*.19}
+\contentsline {chapter}{\numberline {5}Non-SD Contributions}{17}{chapter.5}
+\contentsline {chapter}{\numberline {6}Selection Efficiencies}{21}{chapter.6}
+\contentsline {section}{\numberline {6.1}Vertex Reconstruction}{21}{section.6.1}
+\contentsline {section}{\numberline {6.2}Correction to BBC-Small }{23}{section.6.2}
+\contentsline {chapter}{\numberline {7}Migrations into and out of the~Fiducial Region}{27}{chapter.7}
+\contentsline {section}{\numberline {7.1}Migrations of Tracks into and out of the~Fiducial Region}{27}{section.7.1}
+\contentsline {section}{\numberline {7.2}Migrations of $\xi $}{27}{section.7.2}
+\contentsline {chapter}{\numberline {8}Corrections and Unfolding Procedure}{30}{chapter.8}
+\contentsline {section}{\numberline {8.1}Correction to $dN/dn_{ch}$}{30}{section.8.1}
+\contentsline {section}{\numberline {8.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{32}{section.8.2}
+\contentsline {section}{\numberline {8.3}Particle Identification}{33}{section.8.3}
+\contentsline {section}{\numberline {8.4}Antiparticle-to-Particle Ratios}{37}{section.8.4}
+\contentsline {chapter}{\numberline {9}Systematic Uncertainties}{39}{chapter.9}
+\contentsline {chapter}{\numberline {10}Results}{44}{chapter.10}
+\contentsline {chapter}{\numberline {11}Summary and Conclusions}{51}{chapter.11}
+\contentsline {chapter}{Appendices}{53}{section*.60}
+\contentsline {chapter}{\numberline {A}Acronyms}{54}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{57}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{70}{Appendix.1.C}
