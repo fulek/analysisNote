@@ -1,5 +1,5 @@
 \section{Background from Non-Primary Tracks}\label{section:star_background_primary}
-Reconstructed tracks matched to a~non-primary particle  originate  mainly from the~following sources:
+Reconstructed tracks matched to a~non-primary particle, so-called background tracks,  originate  mainly from the~following sources:
 \begin{itemize}
 	\item decays of short-lived primary particles with strange quark content (mostly $K^0$, $\Lambda^0$),
 	\item photons from $\pi^0$ and $\eta$ decays which are converting to $e^+e^-$,
@@ -14,17 +14,19 @@ Reconstructed tracks matched to a~non-primary particle  originate  mainly from t
 	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\linewidth, page=3]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
 	\end{subfigure}
+\begin{comment}
 	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\linewidth, page=4]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\linewidth, page=5]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
 	\end{subfigure}
-	\caption{(top left) Distribution of fraction of selected tracks  associated with non-primary particles  in the~range $0.02<\xi<0.2$ and distributions of fraction of tracks which are not associated with true-level particles for three ranges of $\xi$: (top right) $0.02<\xi<0.05$, (bottom left) $0.05<\xi<0.1$, (bottom right) $0.1<\xi<0.2$.}
+\end{comment}
+	\caption{(left) Distribution of fraction of selected tracks  associated with non-primary particles  in the~range $0.02<\xi<0.2$ and  (right) distribution of fraction of tracks which are not associated with true-level particles  in the~range $0.02<\xi<0.05$.}
 	\label{fig:bkg_fake_charged}
 \end{figure}
-
-Figure~\ref{fig:bkg_fake_charged} shows the background $f_{\textrm{bkg}}\left(p_{\textrm{T}},\eta\right)$ and fake track $f_{\textrm{fake}}\left(p_{\textrm{T}},\eta\right)$ contribution to reconstructed tracks as a~function of $p_{\textrm{T}}$ and $\eta$. There were no differences observed in the background contribution in different $\xi$ ranges, hence, all three $\xi$ ranges were merged for this study. The highest background fraction, which varies between $5-10\%$, was found to be at low $p_{\textrm{T}}$. There is also a contribution from fake tracks coming from out-of-time pile-up or  formed by a random combination of TPC hits. The fake track contribution was calculated in each $\xi$ range separately and its change by $\pm50\%$ was taken as a systematic uncertainty.
+There is also a contribution from fake tracks, i.e. tracks not associated with true-level particles, coming from out-of-time pile-up or  formed by a random combination of TPC hits. Figure~\ref{fig:bkg_fake_charged} shows the background $f_{\textrm{bkg}}\left(p_{\textrm{T}},\eta\right)$ and fake track $f_{\textrm{fake}}\left(p_{\textrm{T}},\eta\right)$ contribution to reconstructed tracks as a~function of $p_{\textrm{T}}$ and $\eta$. There were no differences observed in the~background contribution in different $\xi$ ranges, hence, all three $\xi$ ranges were merged for this study. The highest background fraction, which varies between $5-10\%$, was found to be at low $p_{\textrm{T}}$.  Due to too low statistics in PYTHIA~8 embedding \ac{MC}, the~shape of the~fake track contribution was assumed to be the~same in all three $\xi$ ranges. However, its normalization was calculated for each $\xi$ range separately with a ratio between the ranges of $1: 0.74: 1.11$.
+The~change by $\pm100\%$ in fake track contribution was taken as a systematic uncertainty.
 
 
 %\FloatBarrier
