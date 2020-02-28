@@ -8,13 +8,27 @@ where:
 	\item $f_\textrm{okr}^-(p_\textrm{T}, \eta)$ is the fraction of reconstructed tracks for which the corresponding primary particle is outside of the kinematic range of the measurement,
 	\item $f_\textrm{okr}^+(p_\textrm{T}, \eta)$  is the fraction of primary particles for which the corresponding reconstructed track is outside of the kinematic range of the measurement.
 \end{description}
-The resulting residual migrations, shown in Fig.~\ref{fig:okr}, were estimated using MC. The main effect  was observed  at $|\eta| \sim 0.7$, where about $2-6\%$ reconstructed tracks were associated to primary particle outside the fiducial region.  
+
+The resulting residual migrations, shown in Fig.~\ref{fig:okr}, were estimated using PYTHIA~8 SD embedding MC. The main effect  was observed  at $|\eta| \sim 0.7$, where about $2-6\%$ reconstructed tracks were associated to primary particle outside the fiducial region.  However, above contributions to the~correction factor, $f_\textrm{okr}(p_T, \eta)$, cancel each other and  a~resultant factor is about $2\%$ at $|\eta| \sim 0.7$.
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.49\textwidth, page=1]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
-	\includegraphics[width=0.49\textwidth, page=2]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
-	\caption{(left) Fraction of selected tracks migrating from outside of the kinematic range to the signal region and (right) fraction of particles for which the corresponding reconstructed track is outside the kinematic range of the measurement.}
-	\label{fig:okr}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=2]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=3]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\end{subfigure}
+	\begin{minipage}{.45\textwidth}
+		\caption{(top left) Fraction of selected tracks migrating from outside of the kinematic range to the signal region, (top right) fraction of particles for which the corresponding reconstructed track is outside the~kinematic range of the measurement and (bottom) the correction factor for migrations of tracks.}
+		\label{fig:okr}
+	\end{minipage}
+	
 \end{figure}
+
+
+
 \FloatBarrier

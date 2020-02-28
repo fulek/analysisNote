@@ -20,17 +20,17 @@
 \contentsline {section}{\numberline {6.2}Correction to BBC-Small }{25}{section.6.2}
 \contentsline {chapter}{\numberline {7}Migrations into and out of the~Fiducial Region}{29}{chapter.7}
 \contentsline {section}{\numberline {7.1}Migrations of Tracks into and out of the~Fiducial Region}{29}{section.7.1}
-\contentsline {section}{\numberline {7.2}Migrations of $\xi $}{29}{section.7.2}
-\contentsline {chapter}{\numberline {8}Corrections and Unfolding Procedure}{32}{chapter.8}
-\contentsline {section}{\numberline {8.1}Correction to $dN/dn_{ch}$}{32}{section.8.1}
-\contentsline {section}{\numberline {8.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{34}{section.8.2}
-\contentsline {section}{\numberline {8.3}Closure Tests}{35}{section.8.3}
-\contentsline {section}{\numberline {8.4}Particle Identification}{35}{section.8.4}
-\contentsline {section}{\numberline {8.5}Antiparticle-to-Particle Ratios}{41}{section.8.5}
-\contentsline {chapter}{\numberline {9}Systematic Uncertainties}{42}{chapter.9}
-\contentsline {chapter}{\numberline {10}Results}{47}{chapter.10}
-\contentsline {chapter}{\numberline {11}Summary and Conclusions}{54}{chapter.11}
-\contentsline {chapter}{Appendices}{56}{section*.66}
-\contentsline {chapter}{\numberline {A}Acronyms}{57}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{60}{Appendix.1.B}
-\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{73}{Appendix.1.C}
+\contentsline {section}{\numberline {7.2}Migrations of $\xi $}{30}{section.7.2}
+\contentsline {chapter}{\numberline {8}Corrections and Unfolding Procedure}{33}{chapter.8}
+\contentsline {section}{\numberline {8.1}Correction to $dN/dn_{ch}$}{33}{section.8.1}
+\contentsline {section}{\numberline {8.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{35}{section.8.2}
+\contentsline {section}{\numberline {8.3}Closure Tests}{36}{section.8.3}
+\contentsline {section}{\numberline {8.4}Particle Identification}{36}{section.8.4}
+\contentsline {section}{\numberline {8.5}Antiparticle-to-Particle Ratios}{42}{section.8.5}
+\contentsline {chapter}{\numberline {9}Systematic Uncertainties}{43}{chapter.9}
+\contentsline {chapter}{\numberline {10}Results}{48}{chapter.10}
+\contentsline {chapter}{\numberline {11}Summary and Conclusions}{55}{chapter.11}
+\contentsline {chapter}{Appendices}{57}{section*.66}
+\contentsline {chapter}{\numberline {A}Acronyms}{58}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{61}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{74}{Appendix.1.C}
