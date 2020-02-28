@@ -1,11 +1,30 @@
 \section{Correction to BBC-Small }\label{section:star_bbc}
-The SDT trigger conditions imposed signal in RPs and veto on any signal in the same-side small BBC tiles, whereas signal in the opposite-side BBC-small was required by the offline event selection. A common BBC-small efficiency, $\epsilon_\textrm{BBC}$, was obtained as a function of each measured quantity using  PYTHIA 8 4C (SaS) embedded into Zerobias data. 
+The SDT trigger conditions imposed signal in RPs and veto on any signal in the same-side small BBC tiles, whereas signal in the opposite-side BBC-small was required by the offline event selection. These requirements were imposed in order to accept only events with rapidity gap and reduce \ac{DD}, \ac{ND} and accidental backgrounds.  A joined BBC-small efficiency, $\epsilon_\textrm{BBC}$, was obtained as a function of each measured quantity using  PYTHIA 8 4C (SaS) embedded into Zerobias data and HERWIG \ac{MC}. 
 The efficiency was calculated  for events within fiducial region as follows:
 \begin{equation}
 \epsilon_\textrm{BBC}=\frac{\textrm{number of MC events satysfying the BBC-small selection criteria}}{\textrm{number of MC events}}
 \end{equation}
 
-\Cref{fig:bbcCorection_nch,fig:bbcCorection_pt,fig:bbcCorection_eta} show the fraction of generated true-level MC events, within the fiducial region of the measurement, in which the selection criteria on BBC-small signal and veto are fulfilled. The $\epsilon_\textrm{BBC}$  varies from about $90\%$ for events with $\xi$ within $0.02-0.05$ to about $65\%$ for events with $0.1<\xi<0.2$.
+
+\begin{figure}[t!]
+	\centering
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=2]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=3]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
+	\end{subfigure}
+	\begin{minipage}{.45\textwidth}
+		\caption{PYTHIA~8 4C (SaS) prediction on  (top left) veto, (top right) signal and (bottom) joined BBC-small efficiencies  as a~function of  $\xi$ calculated separately for BBCs on EAST and WEST side of the~IP.}
+		\label{fig:bbcAcceptance}
+	\end{minipage}
+	
+\end{figure}
+
+\Cref{fig:bbcCorection_nch,fig:bbcCorection_pt,fig:bbcCorection_eta} show the fraction of generated true-level MC events, within the fiducial region of the measurement, in which the selection criteria on BBC-small signal and veto are fulfilled. In addition, veto, signal and joined BBC-small efficiencies are presented separately as a~function of $\xi$ in Fig.~\ref{fig:bbcAcceptance}. The $\epsilon_\textrm{BBC}$  varies from about $90\%$ for events with $\xi$ within $0.02-0.05$ to about $60\%$ for events with $0.1<\xi<0.2$.
 
 \begin{figure}[h!]
 	%\vspace{-0.5cm}
@@ -64,7 +83,7 @@ The efficiency was calculated  for events within fiducial region as follows:
 %\FloatBarrier
 
 %\subsubsection{Systematic Uncertainty}
-When the data is corrected for BBC-small efficiency, there is an assumption that the MC used in the analysis, PYTHIA~8~4C~(SaS), provides correct correlation between the true value of $\xi$ and forward particles produced in the BBC acceptance region.  The uncertainty related to this correction is  estimated by using HERWIG~MC sample, where the hadronisation model is different from that used in PYTHIA~8. Figure~\ref{fig:bbcCorection_syst} shows the PYTHIA~8  prediction on BBC efficiency  divided by the HERWIG prediction in three ranges of $\xi$. The deviations between these two models are of the order of $2\%$ at $0.05<\xi<0.1$ and about $10\%$ for  other two $\xi$ regions. The difference between these two hadronisation models is used as systematic uncertainty.
+Data is corrected for BBC-small efficiency using PYTHIA~8~4C~(SaS).  The uncertainty related to this correction is  estimated by using HERWIG~MC sample, where the hadronisation model is different from that used in PYTHIA~8. Figure~\ref{fig:bbcCorection_syst} shows the PYTHIA~8  prediction on BBC efficiency  divided by the HERWIG prediction in three ranges of $\xi$. The deviations between these two models are of the order of $2\%$ at $0.05<\xi<0.1$ and about $10\%$ for  other two $\xi$ regions. The difference between these two hadronisation models is used as systematic uncertainty.
 
 \begin{figure}[t!]
 	\centering
