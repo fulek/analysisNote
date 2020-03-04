@@ -22,7 +22,7 @@
 \contentsline {section}{\numberline {7.1}Migrations of Tracks into and out of the~Fiducial Region}{29}{section.7.1}
 \contentsline {section}{\numberline {7.2}Migrations of $\xi $}{30}{section.7.2}
 \contentsline {chapter}{\numberline {8}Corrections and Unfolding Procedure}{33}{chapter.8}
-\contentsline {section}{\numberline {8.1}Correction to $dN/dn_{ch}$}{33}{section.8.1}
+\contentsline {section}{\numberline {8.1}Correction to $dN/dn_{sel}$}{33}{section.8.1}
 \contentsline {section}{\numberline {8.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{35}{section.8.2}
 \contentsline {section}{\numberline {8.3}Closure Tests}{36}{section.8.3}
 \contentsline {section}{\numberline {8.4}Particle Identification}{36}{section.8.4}
