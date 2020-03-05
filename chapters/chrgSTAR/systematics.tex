@@ -1,6 +1,7 @@
 \chapter{Systematic Uncertainties}\label{section:star_systematics}
 Apart from the statistical uncertainties there are also systematic uncertainties originating from inefficiencies and limitations of the measurement devices and techniques. 
-Systematic uncertainties are obtained by using modified input distributions and calculating the difference between standard and changed settings for each bin of the distribution. The systematic uncertainties on $1/N$~$dN/dn_\textrm{ch}$ are propagated by randomly removing and adding tracks in the $n_\textrm{sel}$ distribution before  unfolding procedure.
+%Systematic uncertainties are obtained by using modified input distributions and calculating the difference between standard and changed settings for each bin of the distribution. 
+
 
 The following sources of systematic uncertainties were considered:
 \begin{itemize}
@@ -14,12 +15,14 @@ The following sources of systematic uncertainties were considered:
 	\item non-SD background contribution (Sec.~\ref{section:star_nonSD}),
 	\item non-closure (Sec~\ref{section:star_closure}),%: full correction procedure was applied to the MC detector-level distributions. The difference between true-level and corrected distributions was taken as a systematic uncertainties. Due to the method of factorization of the~global efficiency into the product of single-particle efficiencies, a level of non-closure below $5\%$ is typically considered to be sufficient for the validation of the procedure.
 	\item non-closure of $N_\textrm{ev}$, applied only to $p_\textrm{T}$ and $\bar{\eta}$ distributions,
-	\item the $1/N_\textrm{ev}$~$dN/d\bar{\eta}$ distribution was calculated separately for events in which forward proton is on one and the other side of the IP (east-west).
+	\item difference in the~distributions calculated separately for events in which forward proton is on one and the other side of the IP (east-west, Sec~\ref{section:star_eastWest}).
 \end{itemize}
 
+Some of the~systematic uncertainties on $1/N$~$dN/dn_\textrm{ch}$ (related to TPC and TOF reconstruction efficiencies, fake track background contribution)  are propagated by randomly removing and adding tracks in the $n_\textrm{sel}$ distribution before  unfolding procedure. For each track, a~random number is generated. If this number is smaller than the~absolute value of systematic uncertainty, then $n_\textrm{sel}$ is increased or decreased, depending on the~sign of systematic uncertainty.
 
 
-\Cref{fig:results_star_nch_syst,fig:results_star_pt_syst,fig:results_star_eta_syst} show the components contributing to the total systematic uncertainty for charged particle distributions without the identification. The dominant systematic uncertainty for $p_\textrm{T}$ and $n_\textrm{ch}$ distributions is related to TOF system simulation accuracy. It affects mainly low-$p_\textrm{T}$ particles, where it is about $6\%$, and large charged particle multiplicities, where it varies up to $25\%$ for $n_\textrm{ch}=8$ and $0.02 < \xi < 0.05$. In case of $\bar{\eta}$ distribution, the systematic uncertainty on TOF mainly refers to charged particles produced at the edge of the fiducial region, for which it is about $2\%$.  However, the largest (up to $6\%$) systematic uncertainty for $\bar{\eta}$,  is related to the observed diffrence  in the distributions calculated separately with respect to the forward proton direction. The rest of the components have smaller contributions to the total systematic uncertainty. The systematic uncertainty on non-closure is at the level of $2\%$ which proves  the accuracy of the correction procedure. 
+
+\Cref{fig:results_star_nch_syst,fig:results_star_pt_syst,fig:results_star_eta_syst} show the components contributing to the total systematic uncertainty for charged particle distributions without the identification. The dominant systematic uncertainty for $p_\textrm{T}$ and $n_\textrm{ch}$ distributions is related to TOF system simulation accuracy. It affects mainly low-$p_\textrm{T}$ particles, where it is about $6\%$, and large charged particle multiplicities, where it varies up to $50\%$ for $n_\textrm{ch}=8$ and $0.02 < \xi < 0.05$. In case of $\bar{\eta}$ distribution, the systematic uncertainty on TOF mainly refers to charged particles produced at the edge of the fiducial region, for which it is about $2\%$.  The largest (up to $35\%$) systematic uncertainty for $\langle\bar{\eta}\rangle$,  is related to the observed diffrence  in the distributions calculated separately with respect to the forward proton direction. The rest of the components have smaller contributions to the total systematic uncertainty. The~systematic uncertainty on non-closure is at the level of $2\%$ which proves  the accuracy of the correction procedure. 
 
 
 
@@ -33,16 +36,16 @@ The largest sources of systematics, which  do not, are related to proton backgro
 	\thisfloatpagestyle{empty}
 	\vspace{-2.5cm}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=6]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=63]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=13]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=73]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=20]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=83]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=22]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=85]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	%
 	\caption{Components of the systematic uncertainties for the charged particle multiplicity in three $\xi$ regions and for the average charged particle multiplicity. }
@@ -54,16 +57,16 @@ The largest sources of systematics, which  do not, are related to proton backgro
 	\thisfloatpagestyle{empty}
 	\centering
 	\begin{subfigure}{.49\textwidth}	
-		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=2]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=7]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=9]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=13]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=16]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=19]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=22]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	\caption{Components of the systematic uncertainties for $p_\textrm{T}$ distributions in three $\xi$ regions and for an average $p_\textrm{T}$ distribution. }
 	\label{fig:results_star_pt_syst}
@@ -76,16 +79,16 @@ The largest sources of systematics, which  do not, are related to proton backgro
 	\thisfloatpagestyle{empty}
 	\vspace{-2.5cm}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=5]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=6]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=11]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=13]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=17]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=20]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=21]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
+		\includegraphics[width=\textwidth,page=24]{chapters/chrgSTAR/img/syst/out_chargedmax.pdf}
 	\end{subfigure}
 	%
 	\caption{Components of the systematic uncertainties for $\bar{\eta}$ distributions in three $\xi$ regions and for an average $\bar{\eta}$ distribution. }
