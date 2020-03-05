@@ -25,12 +25,13 @@
 \contentsline {section}{\numberline {8.1}Correction to $dN/dn_{sel}$}{33}{section.8.1}
 \contentsline {section}{\numberline {8.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{35}{section.8.2}
 \contentsline {section}{\numberline {8.3}Closure Tests}{36}{section.8.3}
-\contentsline {section}{\numberline {8.4}Particle Identification}{36}{section.8.4}
-\contentsline {section}{\numberline {8.5}Antiparticle-to-Particle Ratios}{42}{section.8.5}
-\contentsline {chapter}{\numberline {9}Systematic Uncertainties}{43}{chapter.9}
-\contentsline {chapter}{\numberline {10}Results}{48}{chapter.10}
-\contentsline {chapter}{\numberline {11}Summary and Conclusions}{55}{chapter.11}
-\contentsline {chapter}{Appendices}{57}{section*.66}
-\contentsline {chapter}{\numberline {A}Acronyms}{58}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{61}{Appendix.1.B}
-\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{74}{Appendix.1.C}
+\contentsline {section}{\numberline {8.4}EAST-WEST asymmetry}{36}{section.8.4}
+\contentsline {section}{\numberline {8.5}Particle Identification}{37}{section.8.5}
+\contentsline {section}{\numberline {8.6}Antiparticle-to-Particle Ratios}{41}{section.8.6}
+\contentsline {chapter}{\numberline {9}Systematic Uncertainties}{44}{chapter.9}
+\contentsline {chapter}{\numberline {10}Results}{49}{chapter.10}
+\contentsline {chapter}{\numberline {11}Summary and Conclusions}{56}{chapter.11}
+\contentsline {chapter}{Appendices}{58}{section*.67}
+\contentsline {chapter}{\numberline {A}Acronyms}{59}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{62}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{75}{Appendix.1.C}
