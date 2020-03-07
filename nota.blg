@@ -5,11 +5,16 @@ The style file: atlasBibStyleWithTitle.bst
 Database file #1: literatur.bib
 Warning--entry type for "RHIC:rhicRunLuminosity" isn't style-file defined
 --line 14 of file literatur.bib
-You're missing a field name---line 1187 of file literatur.bib
+I was expecting a `,' or a `}'---line 165 of file literatur.bib
+ :  
+ :  SLACcitation   = "%%CITATION = NUCL-EX/0301015;%%"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 1205 of file literatur.bib
  :  doi            = "10.1088/1748-0221/9/09/P09009",
  :                                                   ,
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1527 of file literatur.bib
+You're missing a field name---line 1545 of file literatur.bib
  :  doi            = "10.1140/epjc/s10052-006-0035-3",
  :                                                    ,
 I'm skipping whatever remains of this entry
@@ -17,30 +22,30 @@ Warning--empty year in Bopp:2000vg
 Warning--empty pages in GEANT:three
 You've used 13 entries,
             2349 wiz_defined-function locations,
-            689 strings with 6942 characters,
-and the built_in function-call counts, 3709 in all, are:
-= -- 349
+            691 strings with 6942 characters,
+and the built_in function-call counts, 3729 in all, are:
+= -- 346
 > -- 103
 < -- 0
 + -- 40
 - -- 27
-* -- 329
+* -- 350
 := -- 431
-add.period$ -- 24
+add.period$ -- 23
 call.type$ -- 13
 change.case$ -- 19
 chr.to.int$ -- 0
 cite$ -- 15
-duplicate$ -- 211
-empty$ -- 396
+duplicate$ -- 210
+empty$ -- 401
 format.name$ -- 27
-if$ -- 961
+if$ -- 963
 int.to.chr$ -- 0
 int.to.str$ -- 13
 missing$ -- 51
-newline$ -- 63
+newline$ -- 61
 num.names$ -- 13
-pop$ -- 76
+pop$ -- 74
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
@@ -55,5 +60,5 @@ type$ -- 0
 warning$ -- 2
 while$ -- 27
 width$ -- 15
-write$ -- 111
-(There were 2 error messages)
+write$ -- 112
+(There were 3 error messages)

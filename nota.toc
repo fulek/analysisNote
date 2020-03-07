@@ -33,5 +33,5 @@
 \contentsline {chapter}{\numberline {11}Summary and Conclusions}{56}{chapter.11}
 \contentsline {chapter}{Appendices}{58}{section*.67}
 \contentsline {chapter}{\numberline {A}Acronyms}{59}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{62}{Appendix.1.B}
-\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{75}{Appendix.1.C}
+\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{60}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{73}{Appendix.1.C}

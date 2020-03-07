@@ -23,9 +23,10 @@ F.~W. Bopp, {\em {Baryon transport in dual models and the possibility of a
 \bibitem{STAR:tpc}
 M.~Anderson {et~al.}, {\em {The STAR Time Projection Chamber: A Unique tool for
   studying high multiplicity events at RHIC}},
-\href{http://dx.doi.org/10.1016/S0168-9002(02)01964-2}{Nucl. Instrum. Meth.
-  {\bfseries A499} (2003) 659--678}.
-%%CITATION = NUCL-EX/0301015;%%.
+  \href{http://dx.doi.org/10.1016/S0168-9002(02)01964-2}{Nucl. Instrum. Meth.
+  {\bfseries A499} (2003) 659--678},
+  \href{http://arxiv.org/abs/nucl-ex/0301015}{{\ttfamily arXiv:nucl-ex/0301015
+  [nucl-ex]}}.
 
 \bibitem{GEANT:three}
 R.~Brun, F.~Bruyant, M.~Maire, A.~C. McPherson,  and P.~Zanarini, {\em
@@ -69,9 +70,9 @@ W.~Fischer, {\em Run Overview of the {R}elativistic {H}eavy {I}on {C}ollider},
 \bibitem{unfolding:2016mok}
 {ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle distributions in
   $\sqrt{s}$ = 13 TeV pp interactions measured with the ATLAS detector at the
-  LHC}},
-\href{http://dx.doi.org/10.1016/j.physletb.2016.04.050}{Phys. Lett. {\bfseries
-  B758} (2016) 67--88}.
+  LHC}}, \href{http://dx.doi.org/10.1016/j.physletb.2016.04.050}{Phys. Lett.
+  {\bfseries B758} (2016) 67--88},
+\href{http://arxiv.org/abs/1602.01633}{{\ttfamily arXiv:1602.01633 [hep-ex]}}.
 %%CITATION = ARXIV:1602.01633;%%.
 
 \bibitem{unfolding:DAgostini}
