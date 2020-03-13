@@ -3,62 +3,66 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: nota.aux
 The style file: atlasBibStyleWithTitle.bst
 Database file #1: literatur.bib
+Warning--entry type for "pp2ppTrigers" isn't style-file defined
+--line 7 of file literatur.bib
+Warning--entry type for "runLogBrowser" isn't style-file defined
+--line 11 of file literatur.bib
 Warning--entry type for "RHIC:rhicRunLuminosity" isn't style-file defined
---line 14 of file literatur.bib
-I was expecting a `,' or a `}'---line 165 of file literatur.bib
+--line 22 of file literatur.bib
+I was expecting a `,' or a `}'---line 173 of file literatur.bib
  :  
  :  SLACcitation   = "%%CITATION = NUCL-EX/0301015;%%"
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1205 of file literatur.bib
+You're missing a field name---line 1213 of file literatur.bib
  :  doi            = "10.1088/1748-0221/9/09/P09009",
  :                                                   ,
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1545 of file literatur.bib
+You're missing a field name---line 1553 of file literatur.bib
  :  doi            = "10.1140/epjc/s10052-006-0035-3",
  :                                                    ,
 I'm skipping whatever remains of this entry
 Warning--empty year in Bopp:2000vg
 Warning--empty pages in GEANT:three
-You've used 13 entries,
+You've used 15 entries,
             2349 wiz_defined-function locations,
-            691 strings with 6942 characters,
-and the built_in function-call counts, 3729 in all, are:
-= -- 346
-> -- 103
+            699 strings with 7135 characters,
+and the built_in function-call counts, 4009 in all, are:
+= -- 378
+> -- 105
 < -- 0
-+ -- 40
++ -- 42
 - -- 27
-* -- 350
-:= -- 431
-add.period$ -- 23
-call.type$ -- 13
-change.case$ -- 19
+* -- 362
+:= -- 453
+add.period$ -- 25
+call.type$ -- 15
+change.case$ -- 21
 chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 210
-empty$ -- 401
+cite$ -- 17
+duplicate$ -- 224
+empty$ -- 449
 format.name$ -- 27
-if$ -- 963
+if$ -- 1047
 int.to.chr$ -- 0
-int.to.str$ -- 13
+int.to.str$ -- 15
 missing$ -- 51
-newline$ -- 61
+newline$ -- 69
 num.names$ -- 13
-pop$ -- 74
+pop$ -- 88
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 139
+skip$ -- 153
 stack$ -- 0
 substring$ -- 162
-swap$ -- 91
+swap$ -- 93
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
 while$ -- 27
-width$ -- 15
-write$ -- 112
+width$ -- 17
+write$ -- 126
 (There were 3 error messages)

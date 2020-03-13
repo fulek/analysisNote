@@ -1,5 +1,7 @@
 \chapter{Non-SD Contributions}\label{section:star_nonSD}
-The  contributions coming from \ac{ND}, \ac{DD} and \ac{CD} events are estimated from \ac{MC} models, where forward proton and reconstructed vertex are the~result of the same $pp$ interaction. Tracks reconstructed in \ac{RP}s  which are modeled in the~\ac{MC} simulations are only coming from:
+Events, in which  forward proton and reconstructed TOF
+vertex are the result of the same $pp$ interaction, may originate from \ac{ND}, \ac{DD}, \ac{SD}, and \ac{CD} processes.  Their relative contributions must be estimated from MC models and are therefore model dependent. Tracks reconstructed in \ac{RP}s  %which are modeled in the~\ac{MC} simulations are only coming from:
+may also be:
 \begin{itemize}
 	\item forward protons produced in the \ac{SD}, \ac{CD} or \ac{DD} diffractive systems or from \ac{ND} events,
 	\item secondary particles from showering initiated 
@@ -8,7 +10,7 @@ The  contributions coming from \ac{ND}, \ac{DD} and \ac{CD} events are estimated
 
 Figure~\ref{fig:nonSDxit} shows the uncorrected $\xi$ and $t$ distributions in data compared to various \ac{MC} models: PYTHIA~8 A2 (MBR), PYTHIA~8 A2 (MBR-tuned) and EPOS. The \ac{MC} distributions are split into \ac{SD}, \ac{ND}, \ac{DD} and \ac{CD} components. For EPOS, SD$^\prime$ is separated from the ND events. Additionally, the accidental background is also shown. PYTHIA~8 A2 (MBR-tuned) predictions agree much better with the data than PYTHIA~8 A2 (MBR)  and result also in a suppression of non-SD events. EPOS describes data better than PYTHIA~8 but shows a dominant contribution of SD$^\prime$ events. All MCs predict significant \ac{DD} and \ac{ND} background at large $\xi$, thereby  the analysis was limited to $\xi < 0.2$. 
 
-On the other hand, \cref{fig:nonSDnsel,fig:nonSDpt,fig:nonSDera} show the uncorrected distributions of variables used in the later analysis: $n_{\mathrm{sel}}$, $p_{\mathrm T}$ an $\bar{\eta}$. The background contributions from non-SD interactions differ a bit between each other, i.e. EPOS predicts significantly larger CD contribution, whereas DD and ND are suppressed in PYTHIA~8 A2 (MBR-tuned).  As a result PYTHIA~8~A2~(MBR) is used as the default model  of non-SD with systematic uncertainty $\pm50\%$, which covers all differences between the~models. %Moreover, SD' in EPOS was not subtracted but used separately for comparisons.
+ \Cref{fig:nonSDnsel,fig:nonSDpt,fig:nonSDera} show the uncorrected distributions of variables used in the later analysis: $n_{\mathrm{sel}}$, $p_{\mathrm T}$ an $\bar{\eta}$. The  contributions from non-SD (except  EPOS-SD$^\prime$) interactions differ a bit between each other, i.e. EPOS predicts significantly larger CD contribution, whereas DD and ND are suppressed in PYTHIA~8 A2 (MBR-tuned).  PYTHIA~8~A2~(MBR) is used as the default model  of non-SD contribution subtracted from the data with systematic uncertainty $\pm50\%$, which covers all differences between the~models except EPOS-SD$^\prime$.  In this analysis EPOS-SD$^\prime$ is   considered as an~alternative to PYTHIA~8 SD model of events with forward proton in the final state,  where one of the proton remnants hadronizes back to a~single proton (non-diffrative process), while in  PYTHIA~8 the~initial proton stays intact (diffractive process). As a~consequence, results  are compared  with the~sum of SD and SD$^\prime$ procesess for EPOS model.   %Moreover, SD' in EPOS was not subtracted but used separately for comparisons.
 
 \thispagestyle{empty}
 \begin{figure}[h!]

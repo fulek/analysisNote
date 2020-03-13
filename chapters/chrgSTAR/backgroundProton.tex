@@ -1,8 +1,8 @@
 \subsubsection{Proton Background}\label{section:star_background_proton}
 Secondary particles can be created due to the interaction of particles with detector dead-material.
-The proton sample contains background from such protons knocked out  from the~detector materials~\cite{STAR:spectra}. Most of these protons have large $\textrm{DCA}$ to the~primary vertex and are not associated with the primary vertex. However, the~protons with small $\textrm{DCA}$  are included in the primary track sample. Antiprotons do not have knockout background, hence the~$\textrm{DCA}$ tail is almost absent in their $\textrm{DCA}$ distributions.
+The proton sample contains background from such protons knocked out  from the~detector materials~\cite{STAR:spectra}. Most of these protons have large $\textrm{DCA}$ to the~primary vertex and are not associated with it. However, the~protons with small $\textrm{DCA}$  are included in the primary track sample. Antiprotons do not have knockout background, hence the~$\textrm{DCA}$ tail is almost absent in their $\textrm{DCA}$ distributions.
 
-The fraction of knock-out background protons depends on a number of factors, including the~amount of detector material, analysis cuts and the $\xi$ of diffractive proton. While it is natural to calculate the fractions of primary and background protons in the~\ac{MC} sample, the \ac{MC} models do not necessarily predict the fraction of knock-out background protons correctly. Hence, other data-driven methods must be used to calculate this type of background.
+The fraction of knock-out background protons depends on a number of factors, including the~amount of detector material, analysis cuts and the $\xi$ of diffractive proton. While it is natural to calculate the fractions of primary and background protons in the~\ac{MC} sample, the \ac{MC} models do not necessarily predict the fraction of knock-out background protons without any bias. Hence,  data-driven methods should be used to calculate this type of background.
 
 \begin{figure}[h!]
 	\centering
@@ -18,7 +18,7 @@ The fraction of knock-out background protons depends on a number of factors, inc
 	\begin{subfigure}{.49\textwidth}
 		\includegraphics[width=\linewidth, page=4]{chapters/chrgSTAR/img/DCAproton/background_p_0.pdf}
 	\end{subfigure}
-	\caption{The $\textrm{DCA}$ distributions of protons for $0.4<p_T<0.5$~GeV/c shown for single range of $0.02<\xi<0.05$ (shown in log and linear scale in left and right column, respectively). The MC  constributions are shown after scaling the dead-material template  to data. (top) Background enriched samples were used in the normalization procedure, whereas (bottom) the proton background was estimated from the nominal sample.}
+	\caption{The $\textrm{DCA}$ distributions of protons for $0.4<p_T<0.5$~GeV/c shown for single range of $0.02<\xi<0.05$ (shown in log and linear scale in left and right column, respectively). The MC  contributions are shown after scaling the dead-material template  to the~tail of large $\textrm{DCA}$ values, $2<\textrm{DCA}<15$~cm. (top) Background enriched samples were used in the normalization procedure, whereas (bottom) the proton background was estimated from the nominal sample.}
 	\label{fig:bkg_proton}
 \end{figure}
 
@@ -30,7 +30,7 @@ The protons and antiprotons are selected by a $dE/dx$ cut of $-1 < n\sigma_{p,\b
 	\item fake tracks,
 	\item secondary particles with $dE/dx$ of (anti)proton (labeled as wrong PID - sec.),
 	\item tracks associated with primary (anti)protons, but with the reconstructed vertex  not matched to true-level primary vertex (labeled as wrong vtx),
-	\item reconstructed track is partially matched to true-level particle (labeled as wrong match, track to true-level particle matching is described in~\cite{supplementaryNote}, i.e.  track and true-level particle have appropriate number of common hit points but the distance between true-level particle and track is too large, $\delta^2\left(\eta,\phi\right)>\left(0.15\right)^2$, 
+	\item reconstructed track is partially matched to true-level particle (labeled as wrong match, track to true-level particle matching is described in~\cite{supplementaryNote}), i.e.  track and true-level particle have appropriate number of common hit points but the distance between true-level particle and track is too large, $\delta^2\left(\eta,\phi\right)>\left(0.15\right)^2$, thus, track is not considered as primary particle according to discussion in~\cite{supplementaryNote}, 
 	\item primary particles with $dE/dx$ of (anti)proton (labeled as wrong PID - prim.),
 	\item (anti)proton as a product of short-lived decays, mainly $\Lambda^0$ (labeled as feed-down).
 \end{itemize}
@@ -68,11 +68,12 @@ f_{\textrm{bkg}}^{p}\left(p_\textrm{T}\right) = p_0\exp\left(p_1p_\textrm{T}\rig
 where  $p_0$ and $p_1$ are  free parameters obtained from a~fit. 
 
 The obtained fraction of knock-out background protons is approximately $20\%$ at $p_\textrm{T} = 0.45$ GeV/c
- and less than $10\%$ at $p_\textrm{T} = 1.0$~GeV/c. 
+ and less than $10\%$ at $p_\textrm{T} = 1.0$~GeV/c.
+ In PYTHIA~8 SD   predictions (also shown in~Fig.~\ref{fig:bkg_proton}), such fraction is much smaller  and equals to approximately $7\%$ at $p_\textrm{T} = 0.45$ GeV/c
+ and about $5\%$ at $p_\textrm{T} = 1.0$~GeV/c. This may suggest that there are differences in the~amount of dead material in front of TPC  between data and simulation, which is consistent with the~studies presented in~\cite{supplementaryNote}.
  
  
- 
- Figure~\ref{fig:bkg_proton_bar} shows the corresponding $\textrm{DCA}$ distributions with MC templates for antiprotons, where the background from knock-out particles is not present. Therefore, there was no need for any fit to be performed in this comparison. The MC templates  fairly well describe the $\textrm{DCA}$ distribution for both, protons, after tunning the~fraction of knock-out background to data, and antiprotons. Additionally, there is a small $\left(<1\%\right)$ background  contribution, present for both particles, which also was taken into account and subtracted. It originates from reconstructed tracks which have the appropriate number of common hit points with true-level particle, but the~distance between them is too large, i.e. $\delta^2\left(\eta,\phi\right)>\left(0.15\right)^2$.
+ Figure~\ref{fig:bkg_proton_bar} shows the corresponding $\textrm{DCA}$ distributions with MC templates for antiprotons, where the background from knock-out particles is not present. Therefore, there was no need for any fit to be performed in this comparison. The MC templates  fairly well describe the $\textrm{DCA}$ distribution for both, protons, after tunning the~fraction of knock-out background to data, and antiprotons. %Additionally, there is a small $\left(<1\%\right)$ background  contribution, present for both particles, which also was taken into account and subtracted. It originates from reconstructed tracks which have the appropriate number of common hit points with true-level particle, but the~distance between them is too large, i.e. $\delta^2\left(\eta,\phi\right)>\left(0.15\right)^2$.
  
 
  \begin{figure}[h!]% \begin{wrapfigure}{r}{0.45\textwidth}
@@ -88,7 +89,7 @@ The obtained fraction of knock-out background protons is approximately $20\%$ at
  
  \subsubsection{Systematic Uncertainty Related to Proton Background} 
 The knock-out proton background estimation  introduces  systematic uncertainties. % which are added in quadrature. 
-First, the normalization interval of the  knock-out   proton  background template in the background enriched sample was changed to $4<\textrm{DCA}<15$~cm. This introduced a relative systematic uncertainty of up to $30\%$ for $p_\textrm{T}\approx 1.0$~GeV/c. 
+First, the normalization interval of the  knock-out   proton  background template in the background enriched sample was changed to $4<\textrm{DCA}<15$~cm. This introduced a relative systematic uncertainty of up to $30\%$ for $p_\textrm{T}\approx 0.9$~GeV/c. 
 
  \begin{figure}[h!]
  	\centering
@@ -119,15 +120,30 @@ Since this region is used to estimate background normalization, and the shape of
 \label{eq:slopeBkgFit}
 \end{equation}
 where $A$ (slope) and  $B$ are fit free parameters. Differences in slope between data and \ac{MC} were used to estimate how many
-more tail-like tracks would fit into the signal region and a systematic uncertainty, which varies up to $5\%$ for $0.02< \xi<0.05$, was introduced. 
+more background tracks would fit into the signal region and a systematic uncertainty, which varies up to $5\%$ for $0.02< \xi<0.05$, was introduced. 
 
 
 
 
 All above components of the systematic uncertainty related to the knock-out proton background,  shown in Fig.~\ref{fig:protonBkgSyst}, are added in quadrature.
-Those related to the~fit range and the~shape of the~proton background are symmetrized.
+Those related to the~fit range and the~shape of the~proton background are symmetrized. Figure~\ref{fig:protonBkgSystSummary} shows the~fraction of knock-out proton background in three ranges of $\xi$ and the~total systematic uncertainty related to it.
 
- 
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/DCAproton/p_bkg_summary.pdf}
+	\end{subfigure}%\label{fig:protonBkgSystRatio}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=2]{chapters/chrgSTAR/img/DCAproton/p_bkg_summary.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=3]{chapters/chrgSTAR/img/DCAproton/p_bkg_summary.pdf}
+	\end{subfigure}
+	\begin{minipage}{.49\textwidth}
+			\caption{The fraction of knock-out proton background  as a function of $p_\textrm{T}$   with  fitted parametrizations in three ranges of $\xi$: (top left) $0.02 < \xi < 0.05$, (top right) $0.05<\xi<0.1$ and (bottom) $0.1<\xi<0.2$. Gray bands represent total systematic uncertainties.}
+			\label{fig:protonBkgSystSummary}
+	\end{minipage}
+\end{figure}
 
 
  

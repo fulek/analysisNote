@@ -55,6 +55,14 @@ R.~Ciesielski and K.~Goulianos, {\em {MBR Monte Carlo Simulation in PYTHIA8}},
 \href{http://arxiv.org/abs/1205.1446}{{\ttfamily arXiv:1205.1446 [hep-ph]}}.
 %%CITATION = ARXIV:1205.1446;%%.
 
+\bibitem{pp2ppTrigers}
+{\em {Roman Pot Phase II* - online DAQ monitoring}},
+\newblock \url{https://online.star.bnl.gov/rp/pp200/}.
+
+\bibitem{runLogBrowser}
+{\em {STAR RunLog Browser}},
+\newblock \url{https://online.star.bnl.gov/RunLogRun15/}.
+
 \bibitem{RHIC:rhicRunLuminosity}
 W.~Fischer, {\em Run Overview of the {R}elativistic {H}eavy {I}on {C}ollider},
   \url{http://www.agsrhichome.bnl.gov/RHIC/Runs/}.
