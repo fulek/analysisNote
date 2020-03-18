@@ -1,30 +1,15 @@
 \section{Correction to BBC-Small }\label{section:star_bbc}
-The SDT trigger conditions imposed signal in RPs and veto on any signal in the same-side small BBC tiles, whereas signal in the opposite-side BBC-small was required by the offline event selection. These requirements were imposed in order to accept only events with rapidity gap and reduce \ac{DD}, \ac{ND} and accidental backgrounds.  A joined BBC-small efficiency, $\epsilon_\textrm{BBC}$, was obtained as a function of each measured quantity using  PYTHIA 8 4C (SaS) embedded into Zerobias data and HERWIG \ac{MC}. 
+The SDT trigger conditions imposed signal in RPs and veto on any signal in the same-side small BBC tiles, whereas signal in the opposite-side BBC-small was required by the offline event selection. These requirements were imposed in order to accept only events with rapidity gap and reduce \ac{DD}, \ac{ND} and accidental backgrounds.  A joined BBC-small efficiency, $\epsilon_\textrm{BBC}$, was obtained as a function of each measured quantity using  PYTHIA 8 4C (SaS) embedded into Zerobias data, EPOS SD+SD$^\prime$ and HERWIG \ac{MC}. 
 The efficiency was calculated  for events within fiducial region as follows:
 \begin{equation}
 \epsilon_\textrm{BBC}=\frac{\textrm{number of MC events satysfying the BBC-small selection criteria}}{\textrm{number of MC events}}
 \end{equation}
 
 
-\begin{figure}[t!]
-	\centering
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=2]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
-	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=3]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
-	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
-	\end{subfigure}
-	\begin{minipage}{.45\textwidth}
-		\caption{PYTHIA~8 4C (SaS) prediction on  (top left) veto, (top right) signal and (bottom) joined BBC-small efficiencies  as a~function of  $\xi$ calculated separately for BBCs on EAST and WEST side of the~IP.}
-		\label{fig:bbcAcceptance}
-	\end{minipage}
-	
-\end{figure}
 
-\Cref{fig:bbcCorection_nch,fig:bbcCorection_pt,fig:bbcCorection_eta} show the fraction of generated true-level MC events, within the fiducial region of the measurement, in which the selection criteria on BBC-small signal and veto are fulfilled. In addition, veto, signal and joined BBC-small efficiencies are presented separately as a~function of $\xi$ in Fig.~\ref{fig:bbcAcceptance}. The $\epsilon_\textrm{BBC}$  varies from about $90\%$ for events with $\xi$ within $0.02-0.05$ to about $60\%$ for events with $0.1<\xi<0.2$.
+
+\Cref{fig:bbcCorection_nch,fig:bbcCorection_pt,fig:bbcCorection_eta} show the fraction of generated true-level MC events, within the fiducial region of the measurement, in which the selection criteria on BBC-small signal and veto are fulfilled. The~efficiency  weakly dependents on the~measured variables ($n_\textrm{ch}$, $p_\textrm{T}$ and $\bar{\eta}$).
+In addition, veto, signal and joined BBC-small efficiencies are presented separately as a~function of $\xi$ in Fig.~\ref{fig:bbcAcceptance}. The $\epsilon_\textrm{BBC}$  strongly depends on $\xi$ and varies from about $90\%$ for events with $\xi$ within $0.02-0.05$ to about $60\%$ for events with $0.1<\xi<0.2$. However, measurements of corrected $\xi$ distributions are out of the~scope of this analysis.
 
 \begin{figure}[h!]
 	%\vspace{-0.5cm}
@@ -39,7 +24,7 @@ The efficiency was calculated  for events within fiducial region as follows:
 		\includegraphics[width=\textwidth,page=3]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
 	\end{subfigure}
 	\begin{minipage}{.45\textwidth}
-		\caption{Number of true-level MC events which fulfill BBC-small selection criteria  as a function of $n_\textrm{ch}$ in three ranges of $\xi$. The fraction of such events is shown in the bottom pad.}
+		\caption{Number of true-level MC events which fulfill BBC-small selection criteria  as a function of $n_\textrm{ch}$ in three ranges of $\xi$. The~fraction of such events is shown in the bottom pad.}
 		\label{fig:bbcCorection_nch}
 	\end{minipage}
 	%\vspace{-0.5cm}
@@ -48,16 +33,16 @@ The efficiency was calculated  for events within fiducial region as follows:
 	%\vspace{-0.5cm}
 	\centering
 	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=5]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
-	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\textwidth,page=6]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\textwidth,page=7]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
 	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=8]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+	\end{subfigure}
 	\begin{minipage}{.45\textwidth}
-		\caption{Number of true-level MC events which fulfill BBC-small selection criteria  as a function of $p_\textrm{T}$ in three ranges of $\xi$. The fraction of such events is shown in the bottom pad.}
+		\caption{Number of true-level MC events which fulfill BBC-small selection criteria  as a function of $p_\textrm{T}$ in three ranges of $\xi$. The~fraction of such events is shown in the bottom pad.}
 		\label{fig:bbcCorection_pt}
 	\end{minipage}
 	%\vspace{-1.cm}
@@ -66,13 +51,13 @@ The efficiency was calculated  for events within fiducial region as follows:
 \begin{figure}[h!]
 	\centering
 	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=9]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
-	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=10]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
-	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\textwidth,page=11]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=12]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=13]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
 	\end{subfigure}
 	\begin{minipage}{.45\textwidth}
 		\caption{Number of true-level MC events which fulfill BBC-small selection criteria  as a function of $\bar{\eta}$ in three ranges of $\xi$. The fraction of such events is shown in the bottom pad.}
@@ -82,8 +67,26 @@ The efficiency was calculated  for events within fiducial region as follows:
 \end{figure}
 %\FloatBarrier
 
+\begin{figure}[t!]
+	\centering
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=2]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=3]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/bbcCorrection/xiSD_bbc.pdf}
+	\end{subfigure}
+	\begin{minipage}{.45\textwidth}
+		\caption{PYTHIA~8 4C (SaS), HERWIG and EPOS SD+SD$^\prime$ predictions on  (top left) veto, (top right) signal and (bottom) joined BBC-small efficiencies  as a~function of  $\xi$ calculated separately for BBCs on EAST and WEST side of the~IP.}
+		\label{fig:bbcAcceptance}
+	\end{minipage}
+	
+\end{figure}
+
 %\subsubsection{Systematic Uncertainty}
-Data is corrected for BBC-small efficiency using PYTHIA~8~4C~(SaS).  The uncertainty related to this correction is  estimated by using HERWIG~MC sample, where the hadronisation model is different from that used in PYTHIA~8. Figure~\ref{fig:bbcCorection_syst} shows the PYTHIA~8  prediction on BBC efficiency  divided by the HERWIG prediction in three ranges of $\xi$. The deviations between these two models are of the order of $2\%$ at $0.05<\xi<0.1$ and about $10\%$ for  other two $\xi$ regions. The difference between these two hadronisation models is used as systematic uncertainty.
+Data is corrected for BBC-small efficiency using PYTHIA~8~4C~(SaS).  The uncertainty related to this correction is  estimated by using HERWIG~MC sample, where the hadronisation model is different from that used in PYTHIA~8. Figure~\ref{fig:bbcCorection_syst} shows the PYTHIA~8  prediction on BBC efficiency  divided by the HERWIG prediction in three ranges of $\xi$. The deviations between these two models are of the order of $4\%$ at $0.02<\xi<0.05$, $2\%$ at $0.05<\xi<0.1$ and about $10\%$ at  $0.1<\xi<0.2$. The difference between these two hadronisation models is used as systematic uncertainty. For completeness, the~differences between PYTHIA~8 and EPOS SD+SD$^\prime$ predictions are shown in Fig.~\ref{fig:bbcCorection_syst_EPOS}. Most of them are of the order of $3\%$, except $n_\textrm{ch}\leq 3$ for which the~difference varies up to $6\%$.
 
 \begin{figure}[t!]
 	\centering
@@ -91,14 +94,32 @@ Data is corrected for BBC-small efficiency using PYTHIA~8~4C~(SaS).  The uncerta
 		\includegraphics[width=\textwidth,page=4]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=8]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+		\includegraphics[width=\textwidth,page=9]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=12]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+		\includegraphics[width=\textwidth,page=14]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
 	\end{subfigure}
 	\begin{minipage}{.45\textwidth}
 		\caption{PYTHIA~8 4C (SaS) prediction on BBC efficiency  divided by the~HERWIG prediction as a function of (top left) $n_\textrm{ch}$, (top right) $p_\textrm{T}$ and (bottom)  $\bar{\eta}$ in three ranges of $\xi$}
 		\label{fig:bbcCorection_syst}
+	\end{minipage}
+	
+\end{figure}
+
+\begin{figure}[t!]
+	\centering
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=5]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=10]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\textwidth,page=15]{chapters/chrgSTAR/img/bbcCorrection/xi_bbc.pdf}
+	\end{subfigure}
+	\begin{minipage}{.45\textwidth}
+		\caption{PYTHIA~8 4C (SaS) prediction on BBC efficiency  divided by the~EPOS prediction as a function of (top left) $n_\textrm{ch}$, (top right) $p_\textrm{T}$ and (bottom)  $\bar{\eta}$ in three ranges of $\xi$}
+		\label{fig:bbcCorection_syst_EPOS}
 	\end{minipage}
 	
 \end{figure}

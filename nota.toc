@@ -18,20 +18,20 @@
 \contentsline {chapter}{\numberline {6}Selection Efficiencies}{22}{chapter.6}
 \contentsline {section}{\numberline {6.1}Vertex Reconstruction}{22}{section.6.1}
 \contentsline {section}{\numberline {6.2}Correction to BBC-Small }{26}{section.6.2}
-\contentsline {chapter}{\numberline {7}Migrations into and out of the~Fiducial Region}{30}{chapter.7}
-\contentsline {section}{\numberline {7.1}Migrations of Tracks into and out of the~Fiducial Region}{30}{section.7.1}
-\contentsline {section}{\numberline {7.2}Migrations of $\xi $}{31}{section.7.2}
-\contentsline {chapter}{\numberline {8}Corrections and Unfolding Procedure}{34}{chapter.8}
-\contentsline {section}{\numberline {8.1}Correction to $dN/dn_{sel}$}{34}{section.8.1}
-\contentsline {section}{\numberline {8.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{36}{section.8.2}
-\contentsline {section}{\numberline {8.3}Closure Tests}{37}{section.8.3}
-\contentsline {section}{\numberline {8.4}EAST-WEST asymmetry}{37}{section.8.4}
-\contentsline {section}{\numberline {8.5}Particle Identification}{38}{section.8.5}
-\contentsline {section}{\numberline {8.6}Antiparticle-to-Particle Ratios}{42}{section.8.6}
-\contentsline {chapter}{\numberline {9}Systematic Uncertainties}{45}{chapter.9}
-\contentsline {chapter}{\numberline {10}Results}{50}{chapter.10}
-\contentsline {chapter}{\numberline {11}Summary and Conclusions}{57}{chapter.11}
-\contentsline {chapter}{Appendices}{59}{section*.68}
-\contentsline {chapter}{\numberline {A}Acronyms}{60}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{61}{Appendix.1.B}
-\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{74}{Appendix.1.C}
+\contentsline {chapter}{\numberline {7}Migrations into and out of the~Fiducial Region}{31}{chapter.7}
+\contentsline {section}{\numberline {7.1}Migrations of Tracks into and out of the~Fiducial Region}{31}{section.7.1}
+\contentsline {section}{\numberline {7.2}Migrations of $\xi $}{32}{section.7.2}
+\contentsline {chapter}{\numberline {8}Corrections and Unfolding Procedure}{35}{chapter.8}
+\contentsline {section}{\numberline {8.1}Correction to $dN/dn_{sel}$}{35}{section.8.1}
+\contentsline {section}{\numberline {8.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{37}{section.8.2}
+\contentsline {section}{\numberline {8.3}Closure Tests}{38}{section.8.3}
+\contentsline {section}{\numberline {8.4}EAST-WEST asymmetry}{38}{section.8.4}
+\contentsline {section}{\numberline {8.5}Particle Identification}{39}{section.8.5}
+\contentsline {section}{\numberline {8.6}Antiparticle-to-Particle Ratios}{43}{section.8.6}
+\contentsline {chapter}{\numberline {9}Systematic Uncertainties}{46}{chapter.9}
+\contentsline {chapter}{\numberline {10}Results}{51}{chapter.10}
+\contentsline {chapter}{\numberline {11}Summary and Conclusions}{58}{chapter.11}
+\contentsline {chapter}{Appendices}{60}{section*.69}
+\contentsline {chapter}{\numberline {A}Acronyms}{61}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Proton and Antiproton DCA Distributions}{62}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{75}{Appendix.1.C}
