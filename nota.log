@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  18 MAR 2020 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  18 MAR 2020 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -5201,7 +5201,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
 Here is how much of TeX's memory you used:
  15767 strings out of 493089
  296768 string characters out of 6134841
- 450759 words of memory out of 5000000
+ 451759 words of memory out of 5000000
  18518 multiletter control sequences out of 15000+600000
  25659 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -5230,7 +5230,7 @@ fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on nota.pdf (87 pages, 4070027 bytes).
+Output written on nota.pdf (87 pages, 4069077 bytes).
 PDF statistics:
  5472 PDF objects out of 6186 (max. 8388607)
  2593 compressed objects within 26 object streams
