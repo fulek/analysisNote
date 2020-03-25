@@ -1,5 +1,5 @@
 \chapter{Corrections and Unfolding Procedure}\label{section:star_corrections}
-After subtraction of accidental, \ac{DD}, \ac{CD} and \ac{ND} backgrounds, the data was corrected for detector inefficiencies to obtain the~distributions of charged particles and particle to antiparticle (pion, kaon, proton and their antiparticle) multiplicity ratios. These corrections include:
+After subtraction of accidental, \ac{DD}, \ac{CD} and \ac{ND} backgrounds (as described in Sec.~\ref{section:star_accidentals} and \ref{section:star_nonSD}), the data was corrected for detector inefficiencies to obtain the~distributions of charged particles and particle to antiparticle (pion, kaon, proton and their antiparticle) multiplicity ratios. These corrections include:
 \begin{itemize}
 	\item event-by-event weights due to vertex reconstruction efficiency:
 \begin{equation}
@@ -12,10 +12,10 @@ where the 	$|\Delta z_0|$ dependence is only applicable for events with $n_\text
 w_\textrm{trk}\left(p_\textrm{T},\eta,V_{z}\right)=\frac{1-f_\textrm{bkg}\left(p_\textrm{T},\eta\right)-f_\textrm{fake}\left(p_\textrm{T},\eta\right)}{\epsilon_\textrm{TPC}\left(p_\textrm{T},\eta,V_{z}\right)\epsilon_\textrm{TOF}\left(p_\textrm{T},\eta,V_{z}\right)}f_\textrm{okr}\left(p_\textrm{T},\eta\right)
 \label{eq:trackCorrection}
 \end{equation}
-where: $\epsilon_\textrm{TPC}\left(p_\textrm{T},\eta,V_{z}\right)$ is TPC track reconstruction efficiency~\cite{supplementaryNote}, $\epsilon_\textrm{TOF}\left(p_\textrm{T},\eta,V_{z}\right)$ is TOF matching efficiency~\cite{supplementaryNote}, $f_\textrm{okr}\left(p_\textrm{T},\eta\right)$ is a~factor accounting for migrations of tracks into and out of the~fiducial region, $f_\textrm{bkg}\left(p_\textrm{T},\eta\right)$ is a~fraction of background tracks, and $f_\textrm{fake}\left(p_\textrm{T},\eta\right)$ is a~fraction of fake tracks.
+where: $\epsilon_\textrm{TPC}\left(p_\textrm{T},\eta,V_{z}\right)$ is TPC track reconstruction efficiency~\cite{supplementaryNote}, $\epsilon_\textrm{TOF}\left(p_\textrm{T},\eta,V_{z}\right)$ is TOF matching efficiency~\cite{supplementaryNote}, $f_\textrm{okr}\left(p_\textrm{T},\eta\right)$ is a~factor accounting for migrations of tracks into and out of the~fiducial region, $f_\textrm{bkg}\left(p_\textrm{T},\eta\right)$ is a~fraction of background tracks, and $f_\textrm{fake}\left(p_\textrm{T},\eta\right)$ is a~fraction of fake tracks. These corrections were not applied for $n_\textrm{ch}$ measurements since they were taken into account in the~unfolding procedure.
 \item event-by-event (for $n_\textrm{ch}$ distribution ) or track-by-track (for $p_\textrm{T}$, $\bar{\eta}$ distributions) weights, $f_{\xi}$, due to migrations of events between three $\xi$ regions.
 \end{itemize}
-Additionally, the obtained distributions were corrected for BBC-small efficiency, $\epsilon_\textrm{BBC}$, using the~following weight, which was calculated for each true-level quantity ($n_\textrm{ch}$, $p_\textrm{T}$, $\bar{\eta}$) separately:
+Additionally, the obtained distributions were corrected for BBC-small efficiency, $\epsilon_\textrm{BBC}$, using the~following weight, which was calculated for each true-level quantity ($n_\textrm{ch}$, $p_\textrm{T}$, $\bar{\eta}$) in three ranges of $\xi$ separately:
 \begin{equation}
 w_\textrm{BBC} = \frac{1}{\epsilon_\textrm{BBC}}
 \label{eq:bbcCorrection}

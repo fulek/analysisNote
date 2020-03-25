@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  18 MAR 2020 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  25 MAR 2020 18:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2197,7 +2197,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Excluding 'comment' comment. [35
 
 ]
-<chapters/chrgSTAR/img/unfolding/correction_0.pdf, id=2330, page=1, 569.12625pt
+<chapters/chrgSTAR/img/unfolding/correction_0.pdf, id=2332, page=1, 569.12625pt
  x 408.52625pt>
 File: chapters/chrgSTAR/img/unfolding/correction_0.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/unfolding/correction_0.pdf, page 1>
@@ -2211,95 +2211,140 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
 [36 <./chapters/chrgSTAR/img/unfolding/correction_0.pdf, page is rotated 90 deg
 rees>]
-<chapters/chrgSTAR/img/unfolding/matrix_0.pdf, id=2386, page=1, 569.12625pt x 4
+<chapters/chrgSTAR/img/unfolding/matrix_0.pdf, id=2389, page=1, 569.12625pt x 4
 08.52625pt>
 File: chapters/chrgSTAR/img/unfolding/matrix_0.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/unfolding/matrix_0.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/unfolding/matrix_0.pdf, page1 us
-ed on input line 73.
+ed on input line 75.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/unfolding/matrix_1.pdf, id=2387, page=1, 569.12625pt x 4
+<chapters/chrgSTAR/img/unfolding/matrix_1.pdf, id=2390, page=1, 569.12625pt x 4
 08.52625pt>
 File: chapters/chrgSTAR/img/unfolding/matrix_1.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/unfolding/matrix_1.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/unfolding/matrix_1.pdf, page1 us
-ed on input line 76.
+ed on input line 78.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/unfolding/matrix_2.pdf, id=2388, page=1, 569.12625pt x 4
+<chapters/chrgSTAR/img/unfolding/matrix_2.pdf, id=2391, page=1, 569.12625pt x 4
 08.52625pt>
 File: chapters/chrgSTAR/img/unfolding/matrix_2.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/unfolding/matrix_2.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/unfolding/matrix_2.pdf, page1 us
-ed on input line 79.
+ed on input line 81.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
-)
-(./chapters/chrgSTAR/dNdptdeta.tex) (./chapters/chrgSTAR/closureTests.tex
+
+<chapters/chrgSTAR/img/unfolding/matrix_stat_0.pdf, id=2392, page=1, 569.12625p
+t x 408.52625pt>
+File: chapters/chrgSTAR/img/unfolding/matrix_stat_0.pdf Graphic file (type pdf)
+
+
+<use chapters/chrgSTAR/img/unfolding/matrix_stat_0.pdf, page 1>
+Package pdftex.def Info: chapters/chrgSTAR/img/unfolding/matrix_stat_0.pdf, pag
+e1 used on input line 95.
+(pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
+
+<chapters/chrgSTAR/img/unfolding/matrix_stat_1.pdf, id=2393, page=1, 569.12625p
+t x 408.52625pt>
+File: chapters/chrgSTAR/img/unfolding/matrix_stat_1.pdf Graphic file (type pdf)
+
+
+<use chapters/chrgSTAR/img/unfolding/matrix_stat_1.pdf, page 1>
+Package pdftex.def Info: chapters/chrgSTAR/img/unfolding/matrix_stat_1.pdf, pag
+e1 used on input line 98.
+(pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
+
+<chapters/chrgSTAR/img/unfolding/matrix_stat_2.pdf, id=2394, page=1, 569.12625p
+t x 408.52625pt>
+File: chapters/chrgSTAR/img/unfolding/matrix_stat_2.pdf Graphic file (type pdf)
+
+
+<use chapters/chrgSTAR/img/unfolding/matrix_stat_2.pdf, page 1>
+Package pdftex.def Info: chapters/chrgSTAR/img/unfolding/matrix_stat_2.pdf, pag
+e1 used on input line 101.
+(pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./chapters/chrgSTAR/dNdptdeta.tex) (./chapters/chrgSTAR/closureTests.tex
 [37 <./chapters/chrgSTAR/img/unfolding/matrix_0.pdf, page is rotated 90 degrees
 > <./chapters/chrgSTAR/img/unfolding/matrix_1.pdf, page is rotated 90 degrees> 
 <./chapters/chrgSTAR/img/unfolding/matrix_2.pdf, page is rotated 90 degrees>]
-<chapters/chrgSTAR/img/closure/nch_test.pdf, id=2525, page=1, 569.12625pt x 408
+<chapters/chrgSTAR/img/closure/nch_test.pdf, id=2532, page=1, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/closure/nch_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/closure/nch_test.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/closure/nch_test.pdf, page1 used
- on input line 9.
+ on input line 10.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/closure/pt_test.pdf, id=2526, page=1, 569.12625pt x 408.
+<chapters/chrgSTAR/img/closure/pt_test.pdf, id=2533, page=1, 569.12625pt x 408.
 52625pt>
 File: chapters/chrgSTAR/img/closure/pt_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/closure/pt_test.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/closure/pt_test.pdf, page1 used 
-on input line 12.
+on input line 13.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/closure/eta_test.pdf, id=2527, page=1, 569.12625pt x 408
+<chapters/chrgSTAR/img/closure/eta_test.pdf, id=2534, page=1, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/closure/eta_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/closure/eta_test.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/closure/eta_test.pdf, page1 used
- on input line 15.
+ on input line 16.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
-)
-(./chapters/chrgSTAR/eastWest.tex Excluding 'comment' comment.
-<chapters/chrgSTAR/img/eastWest/nch_test.pdf, id=2529, page=1, 569.12625pt x 40
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (./chapters/chrgSTAR/eastWest.tex Excluding 'comment' comment.
+<chapters/chrgSTAR/img/eastWest/nch_test.pdf, id=2536, page=1, 569.12625pt x 40
 8.52625pt>
 File: chapters/chrgSTAR/img/eastWest/nch_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/eastWest/nch_test.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/eastWest/nch_test.pdf, page1 use
-d on input line 17.
+d on input line 19.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/eastWest/pt_test.pdf, id=2530, page=1, 569.12625pt x 408
+<chapters/chrgSTAR/img/eastWest/pt_test.pdf, id=2537, page=1, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/eastWest/pt_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/eastWest/pt_test.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/eastWest/pt_test.pdf, page1 used
- on input line 20.
+ on input line 22.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/eastWest/eta_test.pdf, id=2531, page=1, 569.12625pt x 40
+<chapters/chrgSTAR/img/eastWest/eta_test.pdf, id=2538, page=1, 569.12625pt x 40
 8.52625pt>
 File: chapters/chrgSTAR/img/eastWest/eta_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/eastWest/eta_test.pdf, page 1>
 Package pdftex.def Info: chapters/chrgSTAR/img/eastWest/eta_test.pdf, page1 use
-d on input line 23.
+d on input line 25.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-Underfull \hbox (badness 1603) in paragraph at lines 26--26
+Underfull \hbox (badness 1603) in paragraph at lines 28--28
 \OT1/cmr/m/n/10 pro-tons on (open circles) WEST and (full
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./chapters/chrgSTAR/PIDdEdx.tex [38 <./chapters/chrgSTAR/img/closure/nch_tes
-t.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/closure/pt_test.pdf
-, page is rotated 90 degrees> <./chapters/chrgSTAR/img/closure/eta_test.pdf, pa
-ge is rotated 90 degrees>]
-<chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, id=2670, page=1, 569.12625pt x 408.52
+) (./chapters/chrgSTAR/PIDdEdx.tex [38 <./chapters/chrgSTAR/img/unfolding/matri
+x_stat_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfolding/ma
+trix_stat_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfolding
+/matrix_stat_2.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Text page 39 contains only floats.
+
+[39 <./chapters/chrgSTAR/img/closure/nch_test.pdf, page is rotated 90 degrees> 
+<./chapters/chrgSTAR/img/closure/pt_test.pdf, page is rotated 90 degrees> <./ch
+apters/chrgSTAR/img/closure/eta_test.pdf, page is rotated 90 degrees> <./chapte
+rs/chrgSTAR/img/eastWest/nch_test.pdf, page is rotated 90 degrees> <./chapters/
+chrgSTAR/img/eastWest/pt_test.pdf, page is rotated 90 degrees> <./chapters/chrg
+STAR/img/eastWest/eta_test.pdf, page is rotated 90 degrees>]
+<chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, id=2941, page=1, 569.12625pt x 408.52
 625pt>
 File: chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, page 1>
@@ -2307,11 +2352,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, page1 used on
  input line 18.
 (pdftex.def)             Requested size: 339.67029pt x 243.82729pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, id=2672, page=1, 569.1262
+<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, id=2943, page=1, 569.1262
 5pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf Graphic file (type pd
 f)
@@ -2321,7 +2362,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, p
 age1 used on input line 41.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, id=2673, page=1, 569.1262
+<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, id=2944, page=1, 569.1262
 5pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf Graphic file (type pd
 f)
@@ -2331,7 +2372,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, p
 age1 used on input line 44.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf, id=2674, page=1, 569.1262
+<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf, id=2945, page=1, 569.1262
 5pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf Graphic file (type pd
 f)
@@ -2345,7 +2386,7 @@ age1 used on input line 47.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=2677, page=9, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=2948, page=9, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -2355,7 +2396,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page9 used on input line 60.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=2678, page=7, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=2949, page=7, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -2365,7 +2406,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf,
 page7 used on input line 63.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=2679, page=5, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=2950, page=5, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -2378,449 +2419,446 @@ page5 used on input line 66.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[39 <./chapters/chrgSTAR/img/eastWest/nch_test.pdf, page is rotated 90 degrees>
- <./chapters/chrgSTAR/img/eastWest/pt_test.pdf, page is rotated 90 degrees> <./
-chapters/chrgSTAR/img/eastWest/eta_test.pdf, page is rotated 90 degrees>]
 [40 <./chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, page is rotated 90 degrees>]
 [41 <./chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, page is rotated 90 
 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, page is rotate
 d 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf, page is r
-otated 90 degrees>]
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3012, page=3, 
+otated 90 degrees>] [42 <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pd
+f, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_
+1_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thir
+dStep_2_0.pdf, page is rotated 90 degrees>]
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3281, page=3, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 3>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page3 used on input line 141.
+0.pdf, page3 used on input line 142.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3013, page=4, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3282, page=4, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 4>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page4 used on input line 144.
+0.pdf, page4 used on input line 145.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3014, page=5, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3283, page=5, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 5>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page5 used on input line 147.
+0.pdf, page5 used on input line 148.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3015, page=6, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3284, page=6, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 6>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page6 used on input line 150.
+0.pdf, page6 used on input line 151.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3016, page=7, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3285, page=7, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 7>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page7 used on input line 153.
+0.pdf, page7 used on input line 154.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3017, page=8, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3286, page=8, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 8>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page8 used on input line 156.
+0.pdf, page8 used on input line 157.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3018, page=11,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3287, page=11,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 11>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page11 used on input line 159.
+0.pdf, page11 used on input line 160.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3019, page=12,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3288, page=12,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 12>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page12 used on input line 162.
+0.pdf, page12 used on input line 163.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3020, page=15,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3289, page=15,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 15>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page15 used on input line 165.
+0.pdf, page15 used on input line 166.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3021, page=16,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3290, page=16,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page 16>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_
-0.pdf, page16 used on input line 168.
+0.pdf, page16 used on input line 169.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[42 <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, page is rotated 9
-0 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is rot
-ated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, page 
-is rotated 90 degrees>]
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3157, page=3, 
+
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3292, page=3, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 3>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page3 used on input line 208.
+0.pdf, page3 used on input line 209.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3158, page=4, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3293, page=4, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 4>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page4 used on input line 211.
+0.pdf, page4 used on input line 212.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3159, page=5, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3294, page=5, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 5>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page5 used on input line 214.
+0.pdf, page5 used on input line 215.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3160, page=6, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3295, page=6, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 6>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page6 used on input line 217.
+0.pdf, page6 used on input line 218.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3161, page=7, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3296, page=7, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 7>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page7 used on input line 220.
+0.pdf, page7 used on input line 221.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3162, page=8, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3297, page=8, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 8>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page8 used on input line 223.
+0.pdf, page8 used on input line 224.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3163, page=11,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3298, page=11,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 11>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page11 used on input line 226.
+0.pdf, page11 used on input line 227.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3164, page=12,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, id=3299, page=12,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page 12>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_
-0.pdf, page12 used on input line 229.
+0.pdf, page12 used on input line 230.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3165, page=3, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3300, page=3, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, page 3>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_
-1.pdf, page3 used on input line 239.
+1.pdf, page3 used on input line 240.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3166, page=4, 
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3301, page=4, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, page 4>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_
-1.pdf, page4 used on input line 242.
+1.pdf, page4 used on input line 243.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_0.pdf, id=3167, page=11,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_0.pdf, id=3302, page=11,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_0.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_0.pdf, page 11>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_
-0.pdf, page11 used on input line 245.
+0.pdf, page11 used on input line 246.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3168, page=12,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3303, page=12,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, page 12>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_
-1.pdf, page12 used on input line 248.
+1.pdf, page12 used on input line 249.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3169, page=15,
+<chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, id=3304, page=15,
  569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf Graphic file 
 (type pdf)
 
 <use chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, page 15>
 Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_
-1.pdf, page15 used on input line 251.
+1.pdf, page15 used on input line 252.
 (pdftex.def)             Requested size: 135.8707pt x 97.53091pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./chapters/chrgSTAR/ratios.tex [43 <./chapters/chrgSTAR/img/dEdx/fit2019_fit
-Result_0_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEd
-x/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chr
-gSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <.
-/chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 9
-0 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page
- is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_ste
-p_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitR
-esult_0_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx
-/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrg
-STAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <./
-chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90
- degrees>] [44 <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, 
-page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0
-_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_
-fitResult_1_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/
-dEdx/fit2019_fitResult_1_0_step_0.pdf, page is rotated 90 degrees> <./chapters/
-chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page is rotated 90 degrees>
- <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page is rotate
-d 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, p
-age is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_
-step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_f
-itResult_2_0_step_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/d
-Edx/fit2019_fitResult_2_0_step_1.pdf, page is rotated 90 degrees> <./chapters/c
-hrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_0.pdf, page is rotated 90 degrees> 
-<./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, page is rotated
- 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, pa
-ge is rotated 90 degrees>])) (./chapters/chrgSTAR/systematics.tex [45]
+) (./chapters/chrgSTAR/ratios.tex [43] [44 <./chapters/chrgSTAR/img/dEdx/fit201
+9_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/im
+g/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <./chapter
+s/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degree
+s> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rota
+ted 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf,
+ page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_
+0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019
+_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img
+/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degrees> <./chapters
+/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotated 90 degrees
+> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, page is rotat
+ed 90 degrees>] [45 <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.
+pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResul
+t_1_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit
+2019_fitResult_1_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR
+/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page is rotated 90 degrees> <./chap
+ters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page is rotated 90 deg
+rees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.pdf, page is r
+otated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_1_0_step_0.p
+df, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult
+_1_0_step_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2
+019_fitResult_2_0_step_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/
+img/dEdx/fit2019_fitResult_2_0_step_1.pdf, page is rotated 90 degrees> <./chapt
+ers/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_0.pdf, page is rotated 90 degr
+ees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pdf, page is ro
+tated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_fitResult_2_0_step_1.pd
+f, page is rotated 90 degrees>])) (./chapters/chrgSTAR/systematics.tex [46]
 Chapter 9.
 
-<chapters/chrgSTAR/img/syst/outSD.pdf, id=3377, page=63, 569.12625pt x 408.5262
+<chapters/chrgSTAR/img/syst/outSD.pdf, id=3518, page=77, 569.12625pt x 408.5262
 5pt>
 File: chapters/chrgSTAR/img/syst/outSD.pdf Graphic file (type pdf)
- <use chapters/chrgSTAR/img/syst/outSD.pdf, page 63>
-Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page63 used on i
-nput line 39.
+ <use chapters/chrgSTAR/img/syst/outSD.pdf, page 77>
+Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page77 used on i
+nput line 40.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outSD.pdf, id=3378, page=73, 569.12625pt x 408.5262
+<chapters/chrgSTAR/img/syst/outSD.pdf, id=3519, page=89, 569.12625pt x 408.5262
 5pt>
 File: chapters/chrgSTAR/img/syst/outSD.pdf Graphic file (type pdf)
- <use chapters/chrgSTAR/img/syst/outSD.pdf, page 73>
-Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page73 used on i
-nput line 42.
+ <use chapters/chrgSTAR/img/syst/outSD.pdf, page 89>
+Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page89 used on i
+nput line 43.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outSD.pdf, id=3379, page=83, 569.12625pt x 408.5262
-5pt>
+<chapters/chrgSTAR/img/syst/outSD.pdf, id=3520, page=101, 569.12625pt x 408.526
+25pt>
 File: chapters/chrgSTAR/img/syst/outSD.pdf Graphic file (type pdf)
- <use chapters/chrgSTAR/img/syst/outSD.pdf, page 83>
-Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page83 used on i
-nput line 45.
+ <use chapters/chrgSTAR/img/syst/outSD.pdf, page 101>
+Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page101 used on 
+input line 46.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outSD.pdf, id=3380, page=85, 569.12625pt x 408.5262
-5pt>
+<chapters/chrgSTAR/img/syst/outSD.pdf, id=3521, page=103, 569.12625pt x 408.526
+25pt>
 File: chapters/chrgSTAR/img/syst/outSD.pdf Graphic file (type pdf)
- <use chapters/chrgSTAR/img/syst/outSD.pdf, page 85>
-Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page85 used on i
-nput line 48.
+ <use chapters/chrgSTAR/img/syst/outSD.pdf, page 103>
+Package pdftex.def Info: chapters/chrgSTAR/img/syst/outSD.pdf, page103 used on 
+input line 49.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3381, page=2, 569.12625pt x 
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3522, page=2, 569.12625pt x 
 408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 2>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page2 u
-sed on input line 60.
+sed on input line 61.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3382, page=9, 569.12625pt x 
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3523, page=9, 569.12625pt x 
 408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 9>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page9 u
-sed on input line 63.
+sed on input line 64.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3383, page=16, 569.12625pt x
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3524, page=16, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 16>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page16 
-used on input line 66.
+used on input line 67.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3384, page=22, 569.12625pt x
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3525, page=22, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 22>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page22 
-used on input line 69.
+used on input line 70.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3385, page=6, 569.12625pt x 
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3526, page=6, 569.12625pt x 
 408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 6>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page6 u
-sed on input line 82.
+sed on input line 83.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3386, page=13, 569.12625pt x
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3527, page=13, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 13>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page13 
-used on input line 85.
+used on input line 86.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3387, page=20, 569.12625pt x
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3528, page=20, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 20>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page20 
-used on input line 88.
+used on input line 89.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3388, page=24, 569.12625pt x
+<chapters/chrgSTAR/img/syst/out_chargedmax.pdf, id=3529, page=24, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/syst/out_chargedmax.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page 24>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/out_chargedmax.pdf, page24 
-used on input line 91.
+used on input line 92.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3389, page=19, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3530, page=19, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 19>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page19 used
- on input line 102.
+ on input line 103.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3390, page=20, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3531, page=20, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 20>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page20 used
- on input line 105.
+ on input line 106.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3391, page=21, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3532, page=21, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 21>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page21 used
- on input line 108.
+ on input line 109.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3392, page=22, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3533, page=22, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 22>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page22 used
- on input line 123.
+ on input line 124.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3393, page=23, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3534, page=23, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 23>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page23 used
- on input line 126.
+ on input line 127.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3394, page=24, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3535, page=24, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 24>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page24 used
- on input line 129.
+ on input line 130.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-Underfull \hbox (badness 1107) in paragraph at lines 132--132
+Underfull \hbox (badness 1107) in paragraph at lines 133--133
 \OT1/cmr/m/n/10 cer-tain-ties of $\OML/cmm/m/it/10 K[]=K[]$ \OT1/cmr/m/n/10 mul
 -ti-pli-city ra-tios in
  []
@@ -2829,85 +2867,85 @@ Underfull \hbox (badness 1107) in paragraph at lines 132--132
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3395, page=25, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3536, page=25, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 25>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page25 used
- on input line 144.
+ on input line 145.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3396, page=26, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3537, page=26, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 26>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page26 used
- on input line 147.
+ on input line 148.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3397, page=27, 569.12625pt x 408
+<chapters/chrgSTAR/img/syst/outPID_SDT.pdf, id=3538, page=27, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page 27>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page27 used
- on input line 150.
+ on input line 151.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[46
+[47
 
-] [47 <./chapters/chrgSTAR/img/syst/outSD.pdf, page is rotated 90 degrees> <./c
+] [48 <./chapters/chrgSTAR/img/syst/outSD.pdf, page is rotated 90 degrees> <./c
 hapters/chrgSTAR/img/syst/outSD.pdf, page is rotated 90 degrees> <./chapters/ch
 rgSTAR/img/syst/outSD.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img
 /syst/outSD.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/out_
 chargedmax.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/out_c
 hargedmax.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/out_ch
 argedmax.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/out_cha
-rgedmax.pdf, page is rotated 90 degrees>] [48 <./chapters/chrgSTAR/img/syst/out
+rgedmax.pdf, page is rotated 90 degrees>] [49 <./chapters/chrgSTAR/img/syst/out
 _chargedmax.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/out_
 chargedmax.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/out_c
 hargedmax.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/out_ch
 argedmax.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/outPID_
 SDT.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/outPID_SDT.p
 df, page is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, p
-age is rotated 90 degrees>] [49 <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, p
+age is rotated 90 degrees>] [50 <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, p
 age is rotated 90 degrees> <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page i
 s rotated 90 degrees> <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page is rot
 ated 90 degrees> <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page is rotated 
 90 degrees> <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page is rotated 90 de
 grees> <./chapters/chrgSTAR/img/syst/outPID_SDT.pdf, page is rotated 90 degrees
 >]
-<chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, id=3551, page=37, 569.12625pt
+<chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, id=3692, page=37, 569.12625pt
  x 408.52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page 37>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page3
-7 used on input line 166.
+7 used on input line 167.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, id=3552, page=38, 569.12625pt
+<chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, id=3693, page=38, 569.12625pt
  x 408.52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page 38>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page3
-8 used on input line 169.
+8 used on input line 170.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, id=3553, page=39, 569.12625pt
+<chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, id=3694, page=39, 569.12625pt
  x 408.52625pt>
 File: chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page 39>
 Package pdftex.def Info: chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page3
-9 used on input line 172.
+9 used on input line 173.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-Underfull \hbox (badness 1394) in paragraph at lines 175--175
+Underfull \hbox (badness 1394) in paragraph at lines 176--176
 []\OT1/cmr/m/n/10 Figure 9.7: |Com-pon-ents of the sys-tem-atic
  []
 
-) (./chapters/chrgSTAR/results.tex [50
+) (./chapters/chrgSTAR/results.tex [51
 
  <./chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page is rotated 90 degrees
 > <./chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page is rotated 90 degree
@@ -2915,7 +2953,7 @@ s> <./chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf, page is rotated 90 degre
 es>]
 Chapter 10.
 
-<chapters/chrgSTAR/img/results/nch_ksi_0.pdf, id=3601, page=1, 569.12625pt x 40
+<chapters/chrgSTAR/img/results/nch_ksi_0.pdf, id=3743, page=1, 569.12625pt x 40
 8.52625pt>
 File: chapters/chrgSTAR/img/results/nch_ksi_0.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/nch_ksi_0.pdf, page 1>
@@ -2923,7 +2961,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/nch_ksi_0.pdf, page1 use
 d on input line 14.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/nch_ksi_1.pdf, id=3602, page=1, 569.12625pt x 40
+<chapters/chrgSTAR/img/results/nch_ksi_1.pdf, id=3744, page=1, 569.12625pt x 40
 8.52625pt>
 File: chapters/chrgSTAR/img/results/nch_ksi_1.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/nch_ksi_1.pdf, page 1>
@@ -2931,7 +2969,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/nch_ksi_1.pdf, page1 use
 d on input line 16.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/nch_ksi_2.pdf, id=3603, page=1, 569.12625pt x 40
+<chapters/chrgSTAR/img/results/nch_ksi_2.pdf, id=3745, page=1, 569.12625pt x 40
 8.52625pt>
 File: chapters/chrgSTAR/img/results/nch_ksi_2.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/nch_ksi_2.pdf, page 1>
@@ -2939,7 +2977,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/nch_ksi_2.pdf, page1 use
 d on input line 18.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/mean_nch_xi.pdf, id=3604, page=1, 569.12625pt x 
+<chapters/chrgSTAR/img/results/mean_nch_xi.pdf, id=3746, page=1, 569.12625pt x 
 408.52625pt>
 File: chapters/chrgSTAR/img/results/mean_nch_xi.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/mean_nch_xi.pdf, page 1>
@@ -2947,13 +2985,13 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/mean_nch_xi.pdf, page1 u
 sed on input line 20.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-[51
+[52
 
  <./chapters/chrgSTAR/img/results/nch_ksi_0.pdf, page is rotated 90 degrees> <.
 /chapters/chrgSTAR/img/results/nch_ksi_1.pdf, page is rotated 90 degrees> <./ch
 apters/chrgSTAR/img/results/nch_ksi_2.pdf, page is rotated 90 degrees> <./chapt
 ers/chrgSTAR/img/results/mean_nch_xi.pdf, page is rotated 90 degrees>]
-<chapters/chrgSTAR/img/results/out_pt_ksi_0.pdf, id=3785, page=1, 569.12625pt x
+<chapters/chrgSTAR/img/results/out_pt_ksi_0.pdf, id=3926, page=1, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/results/out_pt_ksi_0.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/out_pt_ksi_0.pdf, page 1>
@@ -2961,7 +2999,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/out_pt_ksi_0.pdf, page1
 used on input line 32.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/out_pt_ksi_1.pdf, id=3786, page=1, 569.12625pt x
+<chapters/chrgSTAR/img/results/out_pt_ksi_1.pdf, id=3927, page=1, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/results/out_pt_ksi_1.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/out_pt_ksi_1.pdf, page 1>
@@ -2969,7 +3007,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/out_pt_ksi_1.pdf, page1
 used on input line 34.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/out_pt_ksi_2.pdf, id=3787, page=1, 569.12625pt x
+<chapters/chrgSTAR/img/results/out_pt_ksi_2.pdf, id=3928, page=1, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/results/out_pt_ksi_2.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/out_pt_ksi_2.pdf, page 1>
@@ -2977,7 +3015,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/out_pt_ksi_2.pdf, page1
 used on input line 36.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/mean_pt_xi.pdf, id=3788, page=1, 569.12625pt x 4
+<chapters/chrgSTAR/img/results/mean_pt_xi.pdf, id=3929, page=1, 569.12625pt x 4
 08.52625pt>
 File: chapters/chrgSTAR/img/results/mean_pt_xi.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/mean_pt_xi.pdf, page 1>
@@ -2985,7 +3023,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/mean_pt_xi.pdf, page1 us
 ed on input line 38.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/out_eta_SD_0.pdf, id=3790, page=1, 569.12625pt x
+<chapters/chrgSTAR/img/results/out_eta_SD_0.pdf, id=3931, page=1, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/results/out_eta_SD_0.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/out_eta_SD_0.pdf, page 1>
@@ -2993,7 +3031,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/out_eta_SD_0.pdf, page1
 used on input line 47.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/out_eta_SD_1.pdf, id=3791, page=1, 569.12625pt x
+<chapters/chrgSTAR/img/results/out_eta_SD_1.pdf, id=3932, page=1, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/results/out_eta_SD_1.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/out_eta_SD_1.pdf, page 1>
@@ -3001,7 +3039,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/out_eta_SD_1.pdf, page1
 used on input line 49.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/out_eta_SD_2.pdf, id=3792, page=1, 569.12625pt x
+<chapters/chrgSTAR/img/results/out_eta_SD_2.pdf, id=3933, page=1, 569.12625pt x
  408.52625pt>
 File: chapters/chrgSTAR/img/results/out_eta_SD_2.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/out_eta_SD_2.pdf, page 1>
@@ -3009,7 +3047,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/out_eta_SD_2.pdf, page1
 used on input line 51.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/results/mean_eta_xi.pdf, id=3793, page=1, 569.12625pt x 
+<chapters/chrgSTAR/img/results/mean_eta_xi.pdf, id=3934, page=1, 569.12625pt x 
 408.52625pt>
 File: chapters/chrgSTAR/img/results/mean_eta_xi.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/mean_eta_xi.pdf, page 1>
@@ -3021,7 +3059,7 @@ sed on input line 53.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/results/particleRatio_prt_0.pdf, id=3795, page=1, 569.12
+<chapters/chrgSTAR/img/results/particleRatio_prt_0.pdf, id=3936, page=1, 569.12
 625pt x 559.08875pt>
 File: chapters/chrgSTAR/img/results/particleRatio_prt_0.pdf Graphic file (type 
 pdf)
@@ -3035,7 +3073,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/particleRatio_prt_0.pdf,
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/results/particleRatio_prt_1.pdf, id=3798, page=1, 569.12
+<chapters/chrgSTAR/img/results/particleRatio_prt_1.pdf, id=3939, page=1, 569.12
 625pt x 559.08875pt>
 File: chapters/chrgSTAR/img/results/particleRatio_prt_1.pdf Graphic file (type 
 pdf)
@@ -3044,7 +3082,7 @@ pdf)
 Package pdftex.def Info: chapters/chrgSTAR/img/results/particleRatio_prt_1.pdf,
  page1 used on input line 79.
 (pdftex.def)             Requested size: 420.34271pt x 412.9514pt.
- [52 <./chapters/chrgSTAR/img/results/out_pt_ksi_0.pdf, page is rotated 90 degr
+ [53 <./chapters/chrgSTAR/img/results/out_pt_ksi_0.pdf, page is rotated 90 degr
 ees> <./chapters/chrgSTAR/img/results/out_pt_ksi_1.pdf, page is rotated 90 degr
 ees> <./chapters/chrgSTAR/img/results/out_pt_ksi_2.pdf, page is rotated 90 degr
 ees> <./chapters/chrgSTAR/img/results/mean_pt_xi.pdf, page is rotated 90 degree
@@ -3053,7 +3091,7 @@ s>]
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/results/particleRatio_prt_2.pdf, id=3982, page=1, 569.12
+<chapters/chrgSTAR/img/results/particleRatio_prt_2.pdf, id=4122, page=1, 569.12
 625pt x 559.08875pt>
 File: chapters/chrgSTAR/img/results/particleRatio_prt_2.pdf Graphic file (type 
 pdf)
@@ -3067,7 +3105,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/particleRatio_prt_2.pdf,
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/results/ratio_xi.pdf, id=3983, page=1, 569.12625pt x 559
+<chapters/chrgSTAR/img/results/ratio_xi.pdf, id=4123, page=1, 569.12625pt x 559
 .08875pt>
 File: chapters/chrgSTAR/img/results/ratio_xi.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/results/ratio_xi.pdf, page 1>
@@ -3078,26 +3116,26 @@ Package pdftex.def Info: chapters/chrgSTAR/img/results/ratio_xi.pdf, page1 used
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)) (./chapters/summary/summary.tex [53 <./chapters/chrgSTAR/img/results/out_eta
+)) (./chapters/summary/summary.tex [54 <./chapters/chrgSTAR/img/results/out_eta
 _SD_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/results/out_eta
 _SD_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/results/out_eta
 _SD_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/results/mean_et
-a_xi.pdf, page is rotated 90 degrees>] [54 <./chapters/chrgSTAR/img/results/par
-ticleRatio_prt_0.pdf, page is rotated 90 degrees>] [55 <./chapters/chrgSTAR/img
-/results/particleRatio_prt_1.pdf, page is rotated 90 degrees>] [56 <./chapters/
+a_xi.pdf, page is rotated 90 degrees>] [55 <./chapters/chrgSTAR/img/results/par
+ticleRatio_prt_0.pdf, page is rotated 90 degrees>] [56 <./chapters/chrgSTAR/img
+/results/particleRatio_prt_1.pdf, page is rotated 90 degrees>] [57 <./chapters/
 chrgSTAR/img/results/particleRatio_prt_2.pdf, page is rotated 90 degrees>]
-[57 <./chapters/chrgSTAR/img/results/ratio_xi.pdf, page is rotated 90 degrees>]
+[58 <./chapters/chrgSTAR/img/results/ratio_xi.pdf, page is rotated 90 degrees>]
 Chapter 11.
-) (./nota.bbl [58
+) (./nota.bbl [59
 
-]) [59
+]) [60
 
-] [60
+] [61
 
 
 ] (./chapters/acronyms/acronyms.tex
 Appendix A.
-) (./chapters/chrgSTAR/DCAprotonAppendix.tex [61
+) (./chapters/chrgSTAR/DCAprotonAppendix.tex [62
 
 ]
 Appendix B.
@@ -3115,7 +3153,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge2 used on input line 8.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4399, page=5, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4540, page=5, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3125,7 +3163,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge5 used on input line 11.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4400, page=6, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4541, page=6, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3135,7 +3173,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge6 used on input line 14.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4401, page=9, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4542, page=9, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3145,7 +3183,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge9 used on input line 17.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4402, page=10, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4543, page=10, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3155,7 +3193,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge10 used on input line 20.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4403, page=13, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4544, page=13, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3165,7 +3203,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge13 used on input line 23.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4404, page=14, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4545, page=14, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3192,7 +3230,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge4 used on input line 37.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4405, page=7, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4546, page=7, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3202,7 +3240,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge7 used on input line 40.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4406, page=8, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4547, page=8, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3212,7 +3250,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge8 used on input line 43.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4407, page=11, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4548, page=11, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3222,7 +3260,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge11 used on input line 46.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4408, page=12, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4549, page=12, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3232,7 +3270,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge12 used on input line 49.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4409, page=15, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4550, page=15, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3242,7 +3280,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge15 used on input line 52.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4410, page=16, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, id=4551, page=16, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_0.pdf Graphic file (type pdf
 )
@@ -3256,7 +3294,7 @@ ge16 used on input line 55.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4411, page=1, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4552, page=1, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3266,7 +3304,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge1 used on input line 63.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4412, page=2, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4553, page=2, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3276,7 +3314,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge2 used on input line 66.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4413, page=5, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4554, page=5, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3286,7 +3324,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge5 used on input line 69.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4414, page=6, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4555, page=6, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3296,7 +3334,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge6 used on input line 72.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4415, page=9, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4556, page=9, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3306,7 +3344,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge9 used on input line 75.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4416, page=10, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4557, page=10, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3316,7 +3354,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge10 used on input line 78.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4417, page=13, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4558, page=13, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3326,7 +3364,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge13 used on input line 81.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4418, page=14, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4559, page=14, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3340,7 +3378,7 @@ ge14 used on input line 84.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4419, page=3, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4560, page=3, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3350,7 +3388,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge3 used on input line 92.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4420, page=4, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4561, page=4, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3360,7 +3398,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge4 used on input line 95.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4421, page=7, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4562, page=7, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3370,7 +3408,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge7 used on input line 98.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4422, page=8, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4563, page=8, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3380,7 +3418,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge8 used on input line 101.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4423, page=11, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4564, page=11, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3390,7 +3428,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge11 used on input line 104.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4424, page=12, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4565, page=12, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3400,7 +3438,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge12 used on input line 107.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4425, page=15, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4566, page=15, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3410,7 +3448,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, pa
 ge15 used on input line 110.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4426, page=16, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, id=4567, page=16, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_1.pdf Graphic file (type pdf
 )
@@ -3424,7 +3462,7 @@ ge16 used on input line 113.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4427, page=1, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4568, page=1, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3434,7 +3472,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge1 used on input line 121.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4428, page=2, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4569, page=2, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3444,7 +3482,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge2 used on input line 124.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4429, page=5, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4570, page=5, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3454,7 +3492,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge5 used on input line 127.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4430, page=6, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4571, page=6, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3464,7 +3502,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge6 used on input line 130.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4431, page=9, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4572, page=9, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3474,7 +3512,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge9 used on input line 133.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4432, page=10, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4573, page=10, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3484,7 +3522,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge10 used on input line 136.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4433, page=13, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4574, page=13, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3494,7 +3532,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge13 used on input line 139.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4434, page=14, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4575, page=14, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3508,7 +3546,7 @@ ge14 used on input line 142.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4435, page=3, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4576, page=3, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3518,7 +3556,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge3 used on input line 150.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4436, page=4, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4577, page=4, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3528,7 +3566,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge4 used on input line 153.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4437, page=7, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4578, page=7, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3538,7 +3576,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge7 used on input line 156.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4438, page=8, 569.12625
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4579, page=8, 569.12625
 pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3548,7 +3586,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge8 used on input line 159.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4439, page=11, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4580, page=11, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3558,7 +3596,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge11 used on input line 162.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4440, page=12, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4581, page=12, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3568,7 +3606,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge12 used on input line 165.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4441, page=15, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4582, page=15, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3578,7 +3616,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, pa
 ge15 used on input line 168.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4442, page=16, 569.1262
+<chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, id=4583, page=16, 569.1262
 5pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_2.pdf Graphic file (type pdf
 )
@@ -3605,7 +3643,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page2 used on input line 182.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4443, page=5, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4584, page=5, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3615,7 +3653,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page5 used on input line 185.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4444, page=6, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4585, page=6, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3625,7 +3663,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page6 used on input line 188.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4445, page=9, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4586, page=9, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3635,7 +3673,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page9 used on input line 191.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4446, page=10, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4587, page=10, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3645,7 +3683,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page10 used on input line 194.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4447, page=13, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4588, page=13, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3655,7 +3693,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page13 used on input line 197.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4448, page=14, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4589, page=14, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3682,7 +3720,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page4 used on input line 211.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4449, page=7, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4590, page=7, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3692,7 +3730,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page7 used on input line 214.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4450, page=8, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4591, page=8, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3702,7 +3740,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page8 used on input line 217.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4451, page=11, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4592, page=11, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3712,7 +3750,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page11 used on input line 220.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4452, page=12, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4593, page=12, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3722,7 +3760,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page12 used on input line 223.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4453, page=15, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4594, page=15, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3732,7 +3770,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 , page15 used on input line 226.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4454, page=16, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, id=4595, page=16, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf Graphic file (type
  pdf)
@@ -3746,7 +3784,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4455, page=1, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4596, page=1, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3756,7 +3794,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page1 used on input line 237.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4456, page=2, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4597, page=2, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3766,7 +3804,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page2 used on input line 240.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4457, page=5, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4598, page=5, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3776,7 +3814,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page5 used on input line 243.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4458, page=6, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4599, page=6, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3786,7 +3824,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page6 used on input line 246.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4459, page=9, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4600, page=9, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3796,7 +3834,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page9 used on input line 249.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4460, page=10, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4601, page=10, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3806,7 +3844,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page10 used on input line 252.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4461, page=13, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4602, page=13, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3816,7 +3854,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page13 used on input line 255.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4462, page=14, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4603, page=14, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3830,7 +3868,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4463, page=3, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4604, page=3, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3840,7 +3878,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page3 used on input line 266.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4464, page=4, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4605, page=4, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3850,7 +3888,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page4 used on input line 269.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4465, page=7, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4606, page=7, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3860,7 +3898,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page7 used on input line 272.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4466, page=8, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4607, page=8, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3870,7 +3908,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page8 used on input line 275.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4467, page=11, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4608, page=11, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3880,7 +3918,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page11 used on input line 278.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4468, page=12, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4609, page=12, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3890,7 +3928,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page12 used on input line 281.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4469, page=15, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4610, page=15, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3900,7 +3938,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 , page15 used on input line 284.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4470, page=16, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, id=4611, page=16, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf Graphic file (type
  pdf)
@@ -3914,7 +3952,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4471, page=1, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4612, page=1, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3924,7 +3962,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page1 used on input line 295.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4472, page=2, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4613, page=2, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3934,7 +3972,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page2 used on input line 298.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4473, page=5, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4614, page=5, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3944,7 +3982,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page5 used on input line 301.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4474, page=6, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4615, page=6, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3954,7 +3992,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page6 used on input line 304.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4475, page=9, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4616, page=9, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3964,7 +4002,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page9 used on input line 307.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4476, page=10, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4617, page=10, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3974,7 +4012,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page10 used on input line 310.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4477, page=13, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4618, page=13, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3984,7 +4022,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page13 used on input line 313.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4478, page=14, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4619, page=14, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -3998,7 +4036,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4479, page=3, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4620, page=3, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4008,7 +4046,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page3 used on input line 324.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4480, page=4, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4621, page=4, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4018,7 +4056,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page4 used on input line 327.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4481, page=7, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4622, page=7, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4028,7 +4066,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page7 used on input line 330.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4482, page=8, 569.1
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4623, page=8, 569.1
 2625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4038,7 +4076,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page8 used on input line 333.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4483, page=11, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4624, page=11, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4048,7 +4086,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page11 used on input line 336.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4484, page=12, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4625, page=12, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4058,7 +4096,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page12 used on input line 339.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4485, page=15, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4626, page=15, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4068,7 +4106,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 , page15 used on input line 342.
 (pdftex.def)             Requested size: 191.0625pt x 137.14545pt.
 
-<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4486, page=16, 569.
+<chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, id=4627, page=16, 569.
 12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf Graphic file (type
  pdf)
@@ -4081,22 +4119,22 @@ Package pdftex.def Info: chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./chapters/chrgSTAR/PIDdEdxAppendix.tex [62
+) (./chapters/chrgSTAR/PIDdEdxAppendix.tex [63
 
-] [63 <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is rotated 90
+] [64 <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is rotated 90
  degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is rotate
 d 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is ro
 tated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page i
 s rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, pa
 ge is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf
 , page is rotated 90 degrees>]
-[64 <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is rotated 90 d
+[65 <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is rotated 90 d
 egrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is rotated 
 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is rota
 ted 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page is 
 rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, page
  is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_0.pdf, 
-page is rotated 90 degrees>] [65 <./chapters/chrgSTAR/img/DCAproton/background_
+page is rotated 90 degrees>] [66 <./chapters/chrgSTAR/img/DCAproton/background_
 p_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/backgro
 und_p_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/bac
 kground_p_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton
@@ -4104,7 +4142,7 @@ kground_p_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton
 oton/background_p_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/D
 CAproton/background_p_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/i
 mg/DCAproton/background_p_1.pdf, page is rotated 90 degrees> <./chapters/chrgST
-AR/img/DCAproton/background_p_1.pdf, page is rotated 90 degrees>] [66 <./chapte
+AR/img/DCAproton/background_p_1.pdf, page is rotated 90 degrees>] [67 <./chapte
 rs/chrgSTAR/img/DCAproton/background_p_1.pdf, page is rotated 90 degrees> <./ch
 apters/chrgSTAR/img/DCAproton/background_p_1.pdf, page is rotated 90 degrees> <
 ./chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, page is rotated 90 degree
@@ -4113,7 +4151,7 @@ grees> <./chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, page is rotated 9
 0 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, page is rotat
 ed 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, page is r
 otated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_1.pdf, page 
-is rotated 90 degrees>] [67 <./chapters/chrgSTAR/img/DCAproton/background_p_2.p
+is rotated 90 degrees>] [68 <./chapters/chrgSTAR/img/DCAproton/background_p_2.p
 df, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p
 _2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/backgrou
 nd_p_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/back
@@ -4121,7 +4159,7 @@ ground_p_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/
 background_p_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCApro
 ton/background_p_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DC
 Aproton/background_p_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/im
-g/DCAproton/background_p_2.pdf, page is rotated 90 degrees>] [68 <./chapters/ch
+g/DCAproton/background_p_2.pdf, page is rotated 90 degrees>] [69 <./chapters/ch
 rgSTAR/img/DCAproton/background_p_2.pdf, page is rotated 90 degrees> <./chapter
 s/chrgSTAR/img/DCAproton/background_p_2.pdf, page is rotated 90 degrees> <./cha
 pters/chrgSTAR/img/DCAproton/background_p_2.pdf, page is rotated 90 degrees> <.
@@ -4130,20 +4168,20 @@ pters/chrgSTAR/img/DCAproton/background_p_2.pdf, page is rotated 90 degrees> <.
 rees> <./chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, page is rotated 90
  degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, page is rotate
 d 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_2.pdf, page is ro
-tated 90 degrees>] [69 <./chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pd
+tated 90 degrees>] [70 <./chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pd
 f, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_
 bar_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/backg
 round_p_bar_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAprot
 on/background_p_bar_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img
 /DCAproton/background_p_bar_0.pdf, page is rotated 90 degrees> <./chapters/chrg
 STAR/img/DCAproton/background_p_bar_0.pdf, page is rotated 90 degrees>]
-[70 <./chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, page is rotated 
+[71 <./chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, page is rotated 
 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, page is 
 rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_0.pdf, 
 page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar
 _0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/backgrou
 nd_p_bar_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/
-background_p_bar_0.pdf, page is rotated 90 degrees>] [71 <./chapters/chrgSTAR/i
+background_p_bar_0.pdf, page is rotated 90 degrees>] [72 <./chapters/chrgSTAR/i
 mg/DCAproton/background_p_bar_1.pdf, page is rotated 90 degrees> <./chapters/ch
 rgSTAR/img/DCAproton/background_p_bar_1.pdf, page is rotated 90 degrees> <./cha
 pters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, page is rotated 90 degrees
@@ -4152,7 +4190,7 @@ pters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, page is rotated 90 degrees
 tated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, pa
 ge is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_1
 .pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background
-_p_bar_1.pdf, page is rotated 90 degrees>] [72 <./chapters/chrgSTAR/img/DCAprot
+_p_bar_1.pdf, page is rotated 90 degrees>] [73 <./chapters/chrgSTAR/img/DCAprot
 on/background_p_bar_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img
 /DCAproton/background_p_bar_1.pdf, page is rotated 90 degrees> <./chapters/chrg
 STAR/img/DCAproton/background_p_bar_1.pdf, page is rotated 90 degrees> <./chapt
@@ -4161,7 +4199,7 @@ ers/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, page is rotated 90 degrees>
 egrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, page is rota
 ted 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_1.pdf, page
  is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_1.p
-df, page is rotated 90 degrees>] [73 <./chapters/chrgSTAR/img/DCAproton/backgro
+df, page is rotated 90 degrees>] [74 <./chapters/chrgSTAR/img/DCAproton/backgro
 und_p_bar_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton
 /background_p_bar_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/D
 CAproton/background_p_bar_2.pdf, page is rotated 90 degrees> <./chapters/chrgST
@@ -4170,7 +4208,7 @@ s/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, page is rotated 90 degrees> <.
 /chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, page is rotated 90 deg
 rees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, page is rotate
 d 90 degrees> <./chapters/chrgSTAR/img/DCAproton/background_p_bar_2.pdf, page i
-s rotated 90 degrees>] [74 <./chapters/chrgSTAR/img/DCAproton/background_p_bar_
+s rotated 90 degrees>] [75 <./chapters/chrgSTAR/img/DCAproton/background_p_bar_
 2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/backgroun
 d_p_bar_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCAproton/b
 ackground_p_bar_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/DCA
@@ -4202,7 +4240,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 1.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4813, page=1, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4954, page=1, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4212,7 +4250,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page1 used on input line 5.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4814, page=2, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4955, page=2, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4222,7 +4260,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page2 used on input line 8.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4815, page=3, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4956, page=3, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4232,7 +4270,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page3 used on input line 11.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4816, page=4, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4957, page=4, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4242,7 +4280,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page4 used on input line 14.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4817, page=5, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4958, page=5, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4252,7 +4290,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page5 used on input line 17.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4818, page=6, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4959, page=6, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4262,7 +4300,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page6 used on input line 20.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4819, page=7, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4960, page=7, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4272,7 +4310,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page7 used on input line 23.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4820, page=8, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4961, page=8, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4289,7 +4327,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page9 used on input line 29.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4821, page=10, 569.1
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=4962, page=10, 569.1
 2625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -4299,7 +4337,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page10 used on input line 32.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4822, page=1, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4963, page=1, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4309,7 +4347,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page1 used on input line 41.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4823, page=2, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4964, page=2, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4319,7 +4357,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page2 used on input line 44.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4824, page=3, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4965, page=3, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4329,7 +4367,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page3 used on input line 47.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4825, page=4, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4966, page=4, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4339,7 +4377,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page4 used on input line 50.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4826, page=5, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4967, page=5, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4349,7 +4387,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page5 used on input line 53.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4827, page=6, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4968, page=6, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4359,7 +4397,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page6 used on input line 56.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4828, page=7, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4969, page=7, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4369,7 +4407,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page7 used on input line 59.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4829, page=8, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4970, page=8, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4379,7 +4417,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page8 used on input line 62.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4830, page=9, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4971, page=9, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4389,7 +4427,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
  page9 used on input line 65.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4831, page=10, 569.1
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, id=4972, page=10, 569.1
 2625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf Graphic file (type 
 pdf)
@@ -4403,7 +4441,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf,
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4832, page=1, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4973, page=1, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4413,7 +4451,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page1 used on input line 76.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4833, page=2, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4974, page=2, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4423,7 +4461,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page2 used on input line 79.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4834, page=3, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4975, page=3, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4433,7 +4471,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page3 used on input line 82.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4835, page=4, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4976, page=4, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4443,7 +4481,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page4 used on input line 85.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4836, page=5, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4977, page=5, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4453,7 +4491,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page5 used on input line 88.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4837, page=6, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4978, page=6, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4463,7 +4501,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page6 used on input line 91.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4838, page=7, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4979, page=7, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4473,7 +4511,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page7 used on input line 94.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4839, page=8, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4980, page=8, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4483,7 +4521,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page8 used on input line 97.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4840, page=9, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4981, page=9, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4493,7 +4531,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
  page9 used on input line 100.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4841, page=10, 569.1
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, id=4982, page=10, 569.1
 2625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf Graphic file (type 
 pdf)
@@ -4507,7 +4545,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf,
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4842, page=1, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4983, page=1, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -4517,7 +4555,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf,
 page1 used on input line 111.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4843, page=2, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4984, page=2, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -4527,7 +4565,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf,
 page2 used on input line 114.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4844, page=3, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4985, page=3, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -4537,7 +4575,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf,
 page3 used on input line 117.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4845, page=4, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4986, page=4, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -4547,7 +4585,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf,
 page4 used on input line 120.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4846, page=5, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4987, page=5, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -4557,7 +4595,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf,
 page5 used on input line 123.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4847, page=6, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=4988, page=6, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -4578,7 +4616,7 @@ page7 used on input line 129.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4848, page=1, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4989, page=1, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf Graphic file (type p
 df)
@@ -4588,7 +4626,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
 page1 used on input line 138.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4849, page=2, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4990, page=2, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf Graphic file (type p
 df)
@@ -4598,7 +4636,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
 page2 used on input line 141.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4850, page=3, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4991, page=3, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf Graphic file (type p
 df)
@@ -4608,7 +4646,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
 page3 used on input line 144.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4851, page=4, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4992, page=4, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf Graphic file (type p
 df)
@@ -4618,7 +4656,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
 page4 used on input line 147.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4852, page=5, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4993, page=5, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf Graphic file (type p
 df)
@@ -4628,7 +4666,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
 page5 used on input line 150.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4853, page=6, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4994, page=6, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf Graphic file (type p
 df)
@@ -4638,7 +4676,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
 page6 used on input line 153.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4854, page=7, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf, id=4995, page=7, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf Graphic file (type p
 df)
@@ -4652,7 +4690,7 @@ page7 used on input line 156.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4855, page=1, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4996, page=1, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf Graphic file (type p
 df)
@@ -4662,7 +4700,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf,
 page1 used on input line 165.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4856, page=2, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4997, page=2, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf Graphic file (type p
 df)
@@ -4672,7 +4710,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf,
 page2 used on input line 168.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4857, page=3, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4998, page=3, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf Graphic file (type p
 df)
@@ -4682,7 +4720,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf,
 page3 used on input line 171.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4858, page=4, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4999, page=4, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf Graphic file (type p
 df)
@@ -4692,7 +4730,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf,
 page4 used on input line 174.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4859, page=5, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=5000, page=5, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf Graphic file (type p
 df)
@@ -4702,7 +4740,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf,
 page5 used on input line 177.
 (pdftex.def)             Requested size: 140.11423pt x 135.16801pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4860, page=6, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=5001, page=6, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf Graphic file (type p
 df)
@@ -4712,7 +4750,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf,
 page6 used on input line 180.
 (pdftex.def)             Requested size: 127.37717pt x 122.87773pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=4861, page=7, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, id=5002, page=7, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf Graphic file (type p
 df)
@@ -4726,7 +4764,7 @@ page7 used on input line 183.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4862, page=1, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5003, page=1, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4736,7 +4774,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page1 used on input line 192.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4863, page=2, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5004, page=2, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4746,7 +4784,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page2 used on input line 195.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4864, page=3, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5005, page=3, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4756,7 +4794,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page3 used on input line 198.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4865, page=4, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5006, page=4, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4773,7 +4811,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page5 used on input line 204.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4866, page=6, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5007, page=6, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4783,7 +4821,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page6 used on input line 207.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4867, page=7, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5008, page=7, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4793,7 +4831,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page7 used on input line 210.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4868, page=8, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5009, page=8, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4803,7 +4841,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page8 used on input line 213.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4869, page=9, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5010, page=9, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4813,7 +4851,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page9 used on input line 216.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4870, page=10, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5011, page=10, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4823,7 +4861,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page10 used on input line 219.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4871, page=11, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5012, page=11, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4833,7 +4871,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf,
 page11 used on input line 222.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=4872, page=12, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=5013, page=12, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -4847,7 +4885,7 @@ page12 used on input line 225.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4873, page=1, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5014, page=1, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4857,7 +4895,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page1 used on input line 233.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4874, page=2, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5015, page=2, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4867,7 +4905,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page2 used on input line 236.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4875, page=3, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5016, page=3, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4877,7 +4915,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page3 used on input line 239.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4876, page=4, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5017, page=4, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4887,7 +4925,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page4 used on input line 242.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4877, page=5, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5018, page=5, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4897,7 +4935,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page5 used on input line 245.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4878, page=6, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5019, page=6, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4907,7 +4945,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page6 used on input line 248.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4879, page=7, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5020, page=7, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4917,7 +4955,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page7 used on input line 251.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4880, page=8, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5021, page=8, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4927,7 +4965,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page8 used on input line 254.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4881, page=9, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5022, page=9, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4937,7 +4975,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page9 used on input line 257.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4882, page=10, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5023, page=10, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4947,7 +4985,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page10 used on input line 260.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4883, page=11, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5024, page=11, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4957,7 +4995,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf,
 page11 used on input line 263.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=4884, page=12, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, id=5025, page=12, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf Graphic file (type p
 df)
@@ -4971,7 +5009,7 @@ page12 used on input line 266.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4885, page=1, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5026, page=1, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -4981,7 +5019,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page1 used on input line 274.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4886, page=2, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5027, page=2, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -4991,7 +5029,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page2 used on input line 277.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4887, page=3, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5028, page=3, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5001,7 +5039,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page3 used on input line 280.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4888, page=4, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5029, page=4, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5011,7 +5049,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page4 used on input line 283.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4889, page=5, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5030, page=5, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5021,7 +5059,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page5 used on input line 286.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4890, page=6, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5031, page=6, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5031,7 +5069,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page6 used on input line 289.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4891, page=7, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5032, page=7, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5041,7 +5079,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page7 used on input line 292.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4892, page=8, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5033, page=8, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5051,7 +5089,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page8 used on input line 295.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4893, page=9, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5034, page=9, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5061,7 +5099,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page9 used on input line 298.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4894, page=10, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5035, page=10, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5071,7 +5109,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page10 used on input line 301.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4895, page=11, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5036, page=11, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5081,7 +5119,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf,
 page11 used on input line 304.
 (pdftex.def)             Requested size: 135.8707pt x 131.07962pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=4896, page=12, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf, id=5037, page=12, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2.pdf Graphic file (type p
 df)
@@ -5096,7 +5134,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
- [75
+ [76
 
  <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, page is rotated 90 d
 egrees> <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, page is rotat
@@ -5107,7 +5145,7 @@ _0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_secon
 dStep_0_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit201
 9_secondStep_0_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx
 /fit2019_secondStep_0_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/i
-mg/dEdx/fit2019_secondStep_0_0.pdf, page is rotated 90 degrees>] [76 <./chapter
+mg/dEdx/fit2019_secondStep_0_0.pdf, page is rotated 90 degrees>] [77 <./chapter
 s/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, page is rotated 90 degrees> <./
 chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, page is rotated 90 degre
 es> <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_1.pdf, page is rotated 9
@@ -5118,7 +5156,7 @@ df, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_secondSte
 p_0_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_se
 condStep_0_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit
 2019_secondStep_0_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/d
-Edx/fit2019_secondStep_0_1.pdf, page is rotated 90 degrees>] [77 <./chapters/ch
+Edx/fit2019_secondStep_0_1.pdf, page is rotated 90 degrees>] [78 <./chapters/ch
 rgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, page is rotated 90 degrees> <./chap
 ters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, page is rotated 90 degrees> 
 <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_2.pdf, page is rotated 90 de
@@ -5129,21 +5167,21 @@ page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_
 2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_second
 Step_0_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019
 _secondStep_0_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/
-fit2019_secondStep_0_2.pdf, page is rotated 90 degrees>] [78 <./chapters/chrgST
+fit2019_secondStep_0_2.pdf, page is rotated 90 degrees>] [79 <./chapters/chrgST
 AR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is rotated 90 degrees> <./chapters/
 chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is rotated 90 degrees> <./cha
 pters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is rotated 90 degrees> 
 <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is rotated 90 deg
 rees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is rotated 
 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is ro
-tated 90 degrees>] [79 <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
+tated 90 degrees>] [80 <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_1.pdf,
  page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_
 1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdS
 tep_1_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_
 thirdStep_1_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fi
 t2019_thirdStep_1_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/d
 Edx/fit2019_thirdStep_1_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR
-/img/dEdx/fit2019_thirdStep_1_1.pdf, page is rotated 90 degrees>] [80 <./chapte
+/img/dEdx/fit2019_thirdStep_1_1.pdf, page is rotated 90 degrees>] [81 <./chapte
 rs/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, page is rotated 90 degrees> <./
 chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, page is rotated 90 degree
 s> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, page is rotated 90 
@@ -5151,7 +5189,7 @@ degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, page is rotat
 ed 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, page is
  rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.pdf, p
 age is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_2.
-pdf, page is rotated 90 degrees>] [81 <./chapters/chrgSTAR/img/dEdx/fit2019_thi
+pdf, page is rotated 90 degrees>] [82 <./chapters/chrgSTAR/img/dEdx/fit2019_thi
 rdStep_2_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit20
 19_thirdStep_2_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx
 /fit2019_thirdStep_2_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/im
@@ -5163,7 +5201,7 @@ apters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, page is rotated 90 degrees>
 grees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, page is rotated
  90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, page is r
 otated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, pag
-e is rotated 90 degrees>] [82 <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2
+e is rotated 90 degrees>] [83 <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2
 _1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_third
 Step_2_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019
 _thirdStep_2_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/f
@@ -5176,7 +5214,7 @@ ters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, page is rotated 90 degrees> <
 ees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, page is rotated 9
 0 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, page is rot
 ated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_1.pdf, page 
-is rotated 90 degrees>] [83 <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2
+is rotated 90 degrees>] [84 <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_2
 .pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdSt
 ep_2_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_t
 hirdStep_2_2.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit
@@ -5195,17 +5233,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
 Package rerunfilecheck Info: File `nota.out' has not changed.
-(rerunfilecheck)             Checksum: DD6ADFF890E458130675582142AE181E;2112.
+(rerunfilecheck)             Checksum: 7F4C28A1B62E2E1EF47889CC047AB34C;2112.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
  ) 
 Here is how much of TeX's memory you used:
- 15767 strings out of 493089
- 296768 string characters out of 6134841
- 451759 words of memory out of 5000000
- 18518 multiletter control sequences out of 15000+600000
+ 15788 strings out of 493089
+ 297631 string characters out of 6134841
+ 452450 words of memory out of 5000000
+ 18534 multiletter control sequences out of 15000+600000
  25659 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,18n,44p,1273b,727s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,18n,44p,1273b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -5230,10 +5268,10 @@ fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on nota.pdf (87 pages, 4069077 bytes).
+Output written on nota.pdf (88 pages, 4114078 bytes).
 PDF statistics:
- 5472 PDF objects out of 6186 (max. 8388607)
- 2593 compressed objects within 26 object streams
- 280 named destinations out of 1000 (max. 500000)
- 2057 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5613 PDF objects out of 6186 (max. 8388607)
+ 2654 compressed objects within 27 object streams
+ 282 named destinations out of 1000 (max. 500000)
+ 2072 words of extra memory for PDF output out of 10000 (max. 10000000)
 

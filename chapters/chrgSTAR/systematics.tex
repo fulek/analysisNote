@@ -8,6 +8,7 @@ The following sources of systematic uncertainties were considered:
 	\item the effect of off-time pile-up on TPC track reconstruction efficiency~\cite{supplementaryNote},
 	\item the uncertainty of TPC track reconstruction efficiency related to the~description of dead-material in simulation~\cite{supplementaryNote},
 	\item representation of data sample in embedding MC~\cite{supplementaryNote},
+	\item variation in the track quality cuts~\cite{supplementaryNote},
 	\item fake track background contribution (Sec.~\ref{section:star_background_primary}),
 	\item TOF system simulation accuracy~\cite{supplementaryNote},
 	\item accidental background contribution (Sec.~\ref{section:star_accidentals}),
@@ -22,7 +23,7 @@ Some of the~systematic uncertainties on $1/N$~$dN/dn_\textrm{ch}$ (related to TP
 
 
 
-\Cref{fig:results_star_nch_syst,fig:results_star_pt_syst,fig:results_star_eta_syst} show the components contributing to the total systematic uncertainty for charged particle distributions without the identification. The dominant systematic uncertainty for $p_\textrm{T}$ and $n_\textrm{ch}$ distributions is related to TOF system simulation accuracy. It affects mainly low-$p_\textrm{T}$ particles, where it is about $6\%$, and large charged particle multiplicities, where it varies up to $50\%$ for $n_\textrm{ch}=8$ and $0.02 < \xi < 0.05$. In case of $\bar{\eta}$ distribution, the systematic uncertainty on TOF mainly refers to charged particles produced at the edge of the fiducial region, for which it is about $2\%$.  The largest (up to $35\%$) systematic uncertainty for $\langle\bar{\eta}\rangle$,  is related to the observed diffrence  in the distributions calculated separately with respect to the forward proton direction. The rest of the components have smaller contributions to the total systematic uncertainty. The~systematic uncertainty on non-closure is at the level of $2\%$ which proves  the accuracy of the correction procedure. 
+\Cref{fig:results_star_nch_syst,fig:results_star_pt_syst,fig:results_star_eta_syst} show the components contributing to the total systematic uncertainty for charged particle distributions without the identification. The dominant systematic uncertainty for $p_\textrm{T}$ and $n_\textrm{ch}$ distributions is related to TOF system simulation accuracy. It affects mainly low-$p_\textrm{T}$ particles, where it is about $6\%$, and large charged particle multiplicities, where it varies up to $50\%$ for $n_\textrm{ch}=8$ and $0.02 < \xi < 0.05$. In case of $\bar{\eta}$ distribution, the systematic uncertainty on TOF mainly refers to charged particles produced at the edge of the fiducial region, for which it is about $4\%$.  The largest (up to $35\%$) systematic uncertainty for $\langle\bar{\eta}\rangle$,  is related to the observed diffrence  in the distributions calculated separately with respect to the forward proton direction. The rest of the components have smaller contributions to the total systematic uncertainty. The~systematic uncertainty on non-closure is at the level of $2\%$ which proves  the accuracy of the correction procedure. 
 
 
 
@@ -36,16 +37,16 @@ The largest sources of systematics, which  do not, are related to proton backgro
 	\thisfloatpagestyle{empty}
 	\vspace{-2.5cm}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=63]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=77]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=73]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=89]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=83]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=101]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\textwidth,page=85]{chapters/chrgSTAR/img/syst/outSD.pdf}
+		\includegraphics[width=\textwidth,page=103]{chapters/chrgSTAR/img/syst/outSD.pdf}
 	\end{subfigure}
 	%
 	\caption{Components of the systematic uncertainties for the charged particle multiplicity in three $\xi$ regions and for the average charged particle multiplicity. }
@@ -108,7 +109,7 @@ The largest sources of systematics, which  do not, are related to proton backgro
 		\includegraphics[width=\textwidth,page=21]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
 	\end{subfigure}
 	\begin{minipage}{.49\textwidth}
-		\caption{Components of the systematic uncertainties of $\pi^-/\pi^+$ multiplicity ratios  in three $\xi$ regions. }
+		\caption{Components of the systematic uncertainties of $\pi^-/\pi^+$ multiplicity ratios  in three $\xi$ regions. The gray band in the~bottom pad represents statistical uncertainties.}
 		\label{fig:results_star_syst_pi}
 	\end{minipage}
 	\vspace{-2.5cm}
@@ -129,7 +130,7 @@ The largest sources of systematics, which  do not, are related to proton backgro
 			\includegraphics[width=\textwidth,page=24]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
 		\end{subfigure}
 		\begin{minipage}{.49\textwidth}
-			\caption{Components of the systematic uncertainties of $K^-/K^+$ multiplicity ratios  in three $\xi$ regions. }
+			\caption{Components of the systematic uncertainties of $K^-/K^+$ multiplicity ratios  in three $\xi$ regions. The gray band in the~bottom pad represents statistical uncertainties.}
 			\label{fig:results_star_syst_K}
 		\end{minipage}
 		
@@ -150,7 +151,7 @@ The largest sources of systematics, which  do not, are related to proton backgro
 		\includegraphics[width=\textwidth,page=27]{chapters/chrgSTAR/img/syst/outPID_SDT.pdf}
 	\end{subfigure}
 	\begin{minipage}{.49\textwidth}
-		\caption{Components of the systematic uncertainties of $\bar{p}/p$ multiplicity ratios  in three $\xi$ regions. }
+		\caption{Components of the systematic uncertainties of $\bar{p}/p$ multiplicity ratios  in three $\xi$ regions. The gray band in the~bottom pad represents statistical uncertainties.}
 		\label{fig:results_star_syst_p}
 	\end{minipage}
 	\vspace{-2.5cm}
@@ -172,7 +173,7 @@ The largest sources of systematics, which  do not, are related to proton backgro
 			\includegraphics[width=\textwidth,page=39]{chapters/chrgSTAR/img/syst/outPID_SDT_ratio.pdf}
 		\end{subfigure}
 		\begin{minipage}{.49\textwidth}
-			\caption{Components of the systematic uncertainties of average antiparticle-to-particle multiplicity ratios  in three $\xi$ regions. }
+			\caption{Components of the systematic uncertainties of average antiparticle-to-particle multiplicity ratios  in three $\xi$ regions. The gray band in the~bottom pad represents statistical uncertainties}
 			\label{fig:results_star_syst_xi_part}
 		\end{minipage}
 		%\vspace{-2.5cm}

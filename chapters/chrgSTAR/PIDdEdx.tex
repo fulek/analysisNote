@@ -24,7 +24,7 @@ at $\sim1$~GeV/c.
 	\label{fig:star_dedx}
 \end{figure} 
 %\FloatBarrier
-\noindent Since the $dE/dx$ distribution for a fixed particle type
+\noindent Since the $dE/dx$ distribution for a~given particle type
 is not Gaussian, the following variable for each particle type was defined:
 \begin{equation}
 n\sigma^i_{dE/dx}=\ln\left(\frac{dE/dx}{(dE/dx)_i^\textrm{{BB}}}\right)/\sigma
@@ -80,7 +80,8 @@ $n\sigma^{i}_{dE/dx}$-distributions are fitted simultaneously, where the~centroi
 and antiparticle. 
 In some $p_\textrm{T}$ regions, the~fit does not converge,
 because different particle species are not well separated  there. Therefore, multiple steps of fitting are performed to reduce the number of free parameters in the final fit and ensure its stability. Almost all centroids and widths are constrained  by a~function with free parameters $p_k$, where $k \in \mathbb N$.  The function is chosen to describe the data as best as possible.
-Since $dE/dx$ is a~function of the~particle momentum and its shape should be independent of the~process under study, the values of $p_k$  are obtained only for events with $0.02 < \xi < 0.05$ and kept the same for other $\xi$ ranges. The electron contributions are  fixed, but separately for each $\xi$ range. The procedure slightly differs for different particle types. In each step, the~multi-Gaussian fit is performed first, then the~widths and centroids are fitted in  $p_\textrm{T}$ ranges in which the fit applied to $n\sigma^{i}_{dE/dx}$ converges:
+Since $dE/dx$ is a~function of the~particle momentum and its shape should be independent of the~process under study, the values of $p_k$  are obtained only for events with $0.02 < \xi < 0.05$ and kept the same for other $\xi$ ranges. The electron contributions are  fixed, but separately for each $\xi$ range. The procedure slightly differs for different particle types. In each step, the~multi-Gaussian fit is performed first, then the~widths and centroids are fitted  in  $p_\textrm{T}$ ranges in which the fit applied to $n\sigma^{i}_{dE/dx}$ converges. Later,  the~widths and centroids are extrapolated to other $p_\textrm{T}$ ranges, in which particle species are not well separated:
+\newpage
 \begin{enumerate}
 	\item  $\pi^{\pm}$:
 		\begin{itemize}
@@ -92,15 +93,15 @@ Since $dE/dx$ is a~function of the~particle momentum and its shape should be ind
 				\item Fit $r_{e^-/e^+}$ as a function of $p_\textrm{T}$ with a polynomial $p_0p_\textrm{T}^2+p_1p_\textrm{T}+p_2$
 				\item Fit  $C_{e^-/e^+}$, $\mu_{K^-/K^+}$ as a functions of $p_\textrm{T}$ with $p_0\exp\left(p_1p_\textrm{T}\right)+p_2$
 				\item Fit  $\mu_{e^-/e^+}$ as a function of $p_\textrm{T}$ with $p_0\exp\left[-\left(p_1p_\textrm{T}\right)^{p_2}\right]$ 
-				\item Fit $\sigma_{K^-/K^+}$ as a function of $p_\textrm{T}$, where $0.3<p_\textrm{T}<0.5$~GeV/c, with constant $p_0$ 
+				\item Fit $\sigma_{K^-/K^+}$ as a function of $p_\textrm{T}$, for $0.3<p_\textrm{T}<0.5$~GeV/c, with constant $p_0$ 
 				\item Fit  $\mu_{\bar{p}/p}$ and $\sigma_{\bar{p}/p}$ as a function of $p_\textrm{T}$ with $p_0\exp\left(p_1p_\textrm{T}\right)$
 			\end{itemize}
 			\item Step 2:
 				\begin{itemize}
 					\renewcommand\labelitemi{--}
 					\item $\sigma_{e^-/e^+}$ fixed to $1.2$ and $0.8$ for $0.2<p_\textrm{T}<0.4$ and $0.4<p_\textrm{T}<0.7$, respectively
-					\item $\sigma_{K^-/K^+}$ parametrized for $0.3<p_\textrm{T}<0.7$
-					\item  The rest parameters from Step 1 are fixed with obtained parametrization: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, , $r_{e^-/e^+}$, $C_{e^-/e^+}$, $\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$, $\mu_{\bar{p}/p}$, $\sigma_{\bar{p}/p}$
+					\item Fit $\sigma_{K^-/K^+}$ as a function of $p_\textrm{T}$, for $0.3<p_\textrm{T}<0.7$~GeV/c, with constant $p_0$ and fix it to the~value of $p_0$
+					\item  The rest parameters from Step 1 are fixed to the~values calculated from functions obtained in Step 1: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, , $r_{e^-/e^+}$, $C_{e^-/e^+}$, $\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$, $\mu_{\bar{p}/p}$, $\sigma_{\bar{p}/p}$
 				\end{itemize}	
 		\end{itemize}		
 \end{enumerate} 
@@ -122,15 +123,15 @@ Since $dE/dx$ is a~function of the~particle momentum and its shape should be ind
 		\item Step 2:
 		\begin{itemize}
 			\renewcommand\labelitemi{--}
-			\item All parameters from Step 1 except $\sigma_{e^-/e^+}$ are fixed with obtained parametrization.
-			\item  Fit $\sigma_{e^-/e^+}$ as a function of $p_\textrm{T}$, where $0.45<p_\textrm{T}<0.65$~GeV/c, with constant $p_0$ 
+			\item All parameters from Step 1 except $\sigma_{e^-/e^+}$ are fixed to the~values calculated from functions obtained in Step 1
+			\item  Fit $\sigma_{e^-/e^+}$ as a function of $p_\textrm{T}$, for $0.45<p_\textrm{T}<0.65$~GeV/c, with constant $p_0$ 
 			
 		\end{itemize}
 		\item Step 3:
 		\begin{itemize}
 			\renewcommand\labelitemi{--}
-			\item  $\sigma_{e^-/e^+}$ fixed with obtained parametrization from Steps 1 and 2 for $0.3<p_\textrm{T}<0.45$ and $0.45<p_\textrm{T}<0.65$, respectively.
-			\item  The rest parameters from Step 1 are fixed with obtained parametrization: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, , $r_{e^-/e^+}$, $C_{e^-/e^+}$, $\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$,$\sigma_{K^-/K^+}$
+			\item  $\sigma_{e^-/e^+}$ fixed to the~values calculated from functions obtained in  Steps 1 and 2 for $0.3<p_\textrm{T}<0.45$ and $0.45<p_\textrm{T}<0.65$, respectively.
+			\item  The rest parameters from Step 1 are fixed to the~values calculated from functions obtained in Step 1: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, , $r_{e^-/e^+}$, $C_{e^-/e^+}$, $\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$,$\sigma_{K^-/K^+}$
 		\end{itemize}		
 	\end{itemize}		
 \end{enumerate} 
@@ -187,18 +188,18 @@ Since $dE/dx$ is a~function of the~particle momentum and its shape should be ind
 		\item Step 2:
 		\begin{itemize}
 			\renewcommand\labelitemi{--}
-			\item $\mu_{K^-/K^+}$ fixed with obtained parametrization from Step 1
-			\item All the rest parameters from Step 1 are limited with obtained parametrization
+			\item $\mu_{K^-/K^+}$ fixed to the~values calculated from a~function obtained in Step 1
+			\item All the rest parameters from Step 1 are limited to the~values calculated from functions obtained in Step 1
 			\item Fit  $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, $\sigma_{K^-/K^+}$  as a function of $p_\textrm{T}$ with a~polynomial $p_0p_\textrm{T}^2+p_1p_\textrm{T}+p_2$ 
-			\item Fit  $\mu_{\bar{p}/p}$  as a function of $p_\textrm{T}$, where $0.7<p_\textrm{T}<1.0$~GeV/c, with constant $p_0$ 
+			\item Fit  $\mu_{\bar{p}/p}$  as a function of $p_\textrm{T}$, for $0.7<p_\textrm{T}<1.0$~GeV/c, with constant $p_0$ 
 			
 		\end{itemize}
 		\item Step 3:
 		\begin{itemize}
 			\renewcommand\labelitemi{--}
-			\item  $\mu_{K^-/K^+}$ fixed with obtained parametrization from Step 1
-			\item $\mu_{\bar{p}/p}$  fixed with obtained parametrization from Step 2 for $0.7<p_\textrm{T}<1.0$
-			\item  The rest parameters from Step 2 are fixed with obtained parametrization: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, $\sigma_{K^-/K^+}$
+			\item  $\mu_{K^-/K^+}$ fixed to the~values calculated from a~function obtained in Step 1
+			\item $\mu_{\bar{p}/p}$  fixed to the~values calculated from a~function obtained in Step 2 for $0.7<p_\textrm{T}<1.0$
+			\item  The rest parameters from Step 2 are fixed to the~values calculated from functions obtained in Step 2: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, $\sigma_{K^-/K^+}$
 		\end{itemize}		
 	\end{itemize}		
 \end{enumerate} 
