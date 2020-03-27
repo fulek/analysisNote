@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  25 MAR 2020 18:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  27 MAR 2020 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2268,10 +2268,10 @@ e1 used on input line 101.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./chapters/chrgSTAR/dNdptdeta.tex) (./chapters/chrgSTAR/closureTests.tex
-[37 <./chapters/chrgSTAR/img/unfolding/matrix_0.pdf, page is rotated 90 degrees
-> <./chapters/chrgSTAR/img/unfolding/matrix_1.pdf, page is rotated 90 degrees> 
-<./chapters/chrgSTAR/img/unfolding/matrix_2.pdf, page is rotated 90 degrees>]
+) (./chapters/chrgSTAR/dNdptdeta.tex [37 <./chapters/chrgSTAR/img/unfolding/mat
+rix_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfolding/matri
+x_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfolding/matrix_
+2.pdf, page is rotated 90 degrees>]) (./chapters/chrgSTAR/closureTests.tex
 <chapters/chrgSTAR/img/closure/nch_test.pdf, id=2532, page=1, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/closure/nch_test.pdf Graphic file (type pdf)
@@ -2299,8 +2299,11 @@ Package pdftex.def Info: chapters/chrgSTAR/img/closure/eta_test.pdf, page1 used
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./chapters/chrgSTAR/eastWest.tex Excluding 'comment' comment.
-<chapters/chrgSTAR/img/eastWest/nch_test.pdf, id=2536, page=1, 569.12625pt x 40
+) (./chapters/chrgSTAR/eastWest.tex [38 <./chapters/chrgSTAR/img/unfolding/matr
+ix_stat_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfolding/m
+atrix_stat_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfoldin
+g/matrix_stat_2.pdf, page is rotated 90 degrees>] Excluding 'comment' comment.
+<chapters/chrgSTAR/img/eastWest/nch_test.pdf, id=2672, page=1, 569.12625pt x 40
 8.52625pt>
 File: chapters/chrgSTAR/img/eastWest/nch_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/eastWest/nch_test.pdf, page 1>
@@ -2308,7 +2311,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/eastWest/nch_test.pdf, page1 use
 d on input line 19.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/eastWest/pt_test.pdf, id=2537, page=1, 569.12625pt x 408
+<chapters/chrgSTAR/img/eastWest/pt_test.pdf, id=2673, page=1, 569.12625pt x 408
 .52625pt>
 File: chapters/chrgSTAR/img/eastWest/pt_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/eastWest/pt_test.pdf, page 1>
@@ -2316,7 +2319,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/eastWest/pt_test.pdf, page1 used
  on input line 22.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
-<chapters/chrgSTAR/img/eastWest/eta_test.pdf, id=2538, page=1, 569.12625pt x 40
+<chapters/chrgSTAR/img/eastWest/eta_test.pdf, id=2674, page=1, 569.12625pt x 40
 8.52625pt>
 File: chapters/chrgSTAR/img/eastWest/eta_test.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/eastWest/eta_test.pdf, page 1>
@@ -2331,20 +2334,8 @@ Underfull \hbox (badness 1603) in paragraph at lines 28--28
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./chapters/chrgSTAR/PIDdEdx.tex [38 <./chapters/chrgSTAR/img/unfolding/matri
-x_stat_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfolding/ma
-trix_stat_1.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/unfolding
-/matrix_stat_2.pdf, page is rotated 90 degrees>]
-
-LaTeX Warning: Text page 39 contains only floats.
-
-[39 <./chapters/chrgSTAR/img/closure/nch_test.pdf, page is rotated 90 degrees> 
-<./chapters/chrgSTAR/img/closure/pt_test.pdf, page is rotated 90 degrees> <./ch
-apters/chrgSTAR/img/closure/eta_test.pdf, page is rotated 90 degrees> <./chapte
-rs/chrgSTAR/img/eastWest/nch_test.pdf, page is rotated 90 degrees> <./chapters/
-chrgSTAR/img/eastWest/pt_test.pdf, page is rotated 90 degrees> <./chapters/chrg
-STAR/img/eastWest/eta_test.pdf, page is rotated 90 degrees>]
-<chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, id=2941, page=1, 569.12625pt x 408.52
+) (./chapters/chrgSTAR/PIDdEdx.tex
+<chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, id=2677, page=1, 569.12625pt x 408.52
 625pt>
 File: chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf Graphic file (type pdf)
  <use chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, page 1>
@@ -2352,7 +2343,11 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, page1 used on
  input line 18.
 (pdftex.def)             Requested size: 339.67029pt x 243.82729pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, id=2943, page=1, 569.1262
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, id=2679, page=1, 569.1262
 5pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf Graphic file (type pd
 f)
@@ -2362,7 +2357,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, p
 age1 used on input line 41.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, id=2944, page=1, 569.1262
+<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, id=2680, page=1, 569.1262
 5pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf Graphic file (type pd
 f)
@@ -2372,7 +2367,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, p
 age1 used on input line 44.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf, id=2945, page=1, 569.1262
+<chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf, id=2681, page=1, 569.1262
 5pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf Graphic file (type pd
 f)
@@ -2386,7 +2381,7 @@ age1 used on input line 47.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=2948, page=9, 569.12
+<chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, id=2684, page=9, 569.12
 625pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf Graphic file (type 
 pdf)
@@ -2396,7 +2391,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf,
  page9 used on input line 60.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=2949, page=7, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, id=2685, page=7, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf Graphic file (type p
 df)
@@ -2406,7 +2401,7 @@ Package pdftex.def Info: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf,
 page7 used on input line 63.
 (pdftex.def)             Requested size: 208.04959pt x 200.7162pt.
 
-<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=2950, page=5, 569.126
+<chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, id=2686, page=5, 569.126
 25pt x 549.05125pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf Graphic file (type p
 df)
@@ -2419,14 +2414,20 @@ page5 used on input line 66.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[40 <./chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf, page is rotated 90 degrees>]
-[41 <./chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, page is rotated 90 
-degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, page is rotate
-d 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf, page is r
-otated 90 degrees>] [42 <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pd
-f, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_
-1_0.pdf, page is rotated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thir
-dStep_2_0.pdf, page is rotated 90 degrees>]
+[39 <./chapters/chrgSTAR/img/closure/nch_test.pdf, page is rotated 90 degrees> 
+<./chapters/chrgSTAR/img/closure/pt_test.pdf, page is rotated 90 degrees> <./ch
+apters/chrgSTAR/img/closure/eta_test.pdf, page is rotated 90 degrees>] [40 <./c
+hapters/chrgSTAR/img/eastWest/nch_test.pdf, page is rotated 90 degrees> <./chap
+ters/chrgSTAR/img/eastWest/pt_test.pdf, page is rotated 90 degrees> <./chapters
+/chrgSTAR/img/eastWest/eta_test.pdf, page is rotated 90 degrees> <./chapters/ch
+rgSTAR/img/dEdx/SDT_dEdx.pdf, page is rotated 90 degrees>] [41 <./chapters/chrg
+STAR/img/dEdx/fit2019_2dNsigma_0_0.pdf, page is rotated 90 degrees> <./chapters
+/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_1.pdf, page is rotated 90 degrees> <./cha
+pters/chrgSTAR/img/dEdx/fit2019_2dNsigma_0_2.pdf, page is rotated 90 degrees>]
+[42 <./chapters/chrgSTAR/img/dEdx/fit2019_secondStep_0_0.pdf, page is rotated 9
+0 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_1_0.pdf, page is rot
+ated 90 degrees> <./chapters/chrgSTAR/img/dEdx/fit2019_thirdStep_2_0.pdf, page 
+is rotated 90 degrees>]
 <chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf, id=3281, page=3, 
 569.12625pt x 408.52625pt>
 File: chapters/chrgSTAR/img/dEdx/fit2019_fitResult_0_0_step_0.pdf Graphic file 
@@ -5268,7 +5269,7 @@ fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on nota.pdf (88 pages, 4114078 bytes).
+Output written on nota.pdf (88 pages, 4113839 bytes).
 PDF statistics:
  5613 PDF objects out of 6186 (max. 8388607)
  2654 compressed objects within 27 object streams
