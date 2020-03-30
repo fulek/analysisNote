@@ -1,4 +1,4 @@
-\section[Correction to $dN/dn_{sel}$]{Correction to $\mathbf{dN/dn_\textrm{sel}}$}\label{section:star_dNdnch}
+\section[Correction to $dN/dn_\textrm{sel}$]{Correction to $\mathbf{dN/dn_\textrm{sel}}$}\label{section:star_dNdnch}
 In order to express the multiplicity distribution in terms of the number of charged particles, $n_\textrm{ch}$, instead of the number of selected tracks, $n_\textrm{sel}$.%,  the observed $n_\textrm{sel}$ distribution was corrected for detector effects after subtraction of accidental and non-SD backgrounds. 
 The  following procedure based on the Bayesian unfolding~\cite{unfolding:2016mok,unfolding:DAgostini} was used. First, the~$n_\textrm{sel}$ distribution was corrected for vertex reconstruction effects by applying event-by-event weights, $w_\textrm{ev}^\textrm{vrt}(n_\textrm{vrt}^\textrm{global},|\Delta z_0|)$. The number of events in which $n_\textrm{ch}$ are produced, $N_\textrm{ev}(n_\textrm{ch})$, can be associated with the number of events in which $n_\textrm{sel}$ are reconstructed, $N_\textrm{ev}(n_\textrm{sel})$.
 \begin{comment}
@@ -21,6 +21,8 @@ where:
 	\item $\epsilon_{r}(n_\textrm{ch})$ is a factor, which recovers  events which are lost due to fake tracks, i.e. those with $n_\textrm{ch}\leq 8$ but $n_\textrm{sel}> 8$. It was checked that this effect is negligible (smaller than $1\permil$) and can be omitted. 
 \end{description}
 Figure~\ref{fig:correctionSTAR} shows $\epsilon_{m}(n_\textrm{ch})$  in three ranges of $\xi$. It was derived from MC and varies from about $25\%$ for $n_\textrm{ch}=2$ to $95\%$ for $n_\textrm{ch}=8$. Since there are additional data-driven corrections to \ac{TPC} and TOF efficiences,  MC simulations were modified by randomly removing or adding tracks. This was done in accordance with differences in the~efficiencies between data and MC. 
+Figure~\ref{fig:correctionSTAR_syst} shows  $\epsilon_{m}(n_\textrm{ch})$ calculated in three ranges of $\xi$ using no-pile-up PYTHIA~8 and EPOS SD+SD$^\prime$. The~differences between
+these two models, which are up to $8\%$ for $n_\textrm{ch}=2$ and $0.1<\xi<0.2$, were symmetrized and taken as a~systematic uncertainty.
 
 
 \begin{figure}[h!]
@@ -32,6 +34,19 @@ Figure~\ref{fig:correctionSTAR} shows $\epsilon_{m}(n_\textrm{ch})$  in three ra
 			\caption{$\epsilon_{m}(n_\textrm{ch})$  calculated separately in three ranges of $\xi$ using PYTHIA~8 embedding MC.}
 			\label{fig:correctionSTAR}
 		\end{minipage}
+	
+\end{figure}
+
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}{.47\textwidth}
+		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/unfolding/nch_m2_nsel_s2.pdf}
+	\end{subfigure}
+	\begin{minipage}{.48\textwidth}
+		\caption{Comparison of $\epsilon_{m}(n_\textrm{ch})$  calculated separately in three ranges of $\xi$ using PYTHIA~8 SD and EPOS SD+SD$^\prime$ no-pile-up MCs.}
+		\label{fig:correctionSTAR_syst}
+	\end{minipage}
 	
 \end{figure}
 

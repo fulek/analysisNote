@@ -29,6 +29,37 @@ There is also a contribution from fake tracks, i.e. tracks not associated with t
 The~change by $\pm100\%$ in fake track contribution was taken as a systematic uncertainty.
 
 
+Figure~\ref{fig:bkg_epos_charged} shows the~background track contribution to reconstructed tracks as a~function of $p_\textrm{T}$ and $\eta$ calculated from EPOS SD+SD$^\prime$. The differences between
+PYTHIA~8 and EPOS, which are up to $50\%$ for $p_\textrm{T}>0.5$~GeV/c (as shown in Fig.~\ref{fig:bkg_epos_charged_1D}), were symmetrized and taken as a~systematic uncertainty.
+
+
+
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\linewidth, page=7]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
+	\end{subfigure}
+    \begin{minipage}{.49\textwidth}
+    	\caption{Distribution of fraction of selected tracks  associated with non-primary particles  as predicted by EPOS SD+SD$^\prime$.}
+    	\label{fig:bkg_epos_charged}
+    \end{minipage}
+	
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\linewidth, page=8]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+		\includegraphics[width=\linewidth, page=9]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
+	\end{subfigure}
+	\caption{PYTHIA~8 SD and EPOS SD+SD$^\prime$ predictions of fraction of selected tracks  associated with non-primary particles  as a~function of (left) $p_\textrm{T}$ and (right) $\eta$.}
+	\label{fig:bkg_epos_charged_1D}
+	
+\end{figure}
+
 %\FloatBarrier
 %background proton
 \input{chapters/chrgSTAR/backgroundProton.tex}
