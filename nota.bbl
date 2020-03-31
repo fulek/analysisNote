@@ -67,6 +67,12 @@ R.~Ciesielski and K.~Goulianos, {\em {MBR Monte Carlo Simulation in PYTHIA8}},
 W.~Fischer, {\em Run Overview of the {R}elativistic {H}eavy {I}on {C}ollider},
   \url{http://www.agsrhichome.bnl.gov/RHIC/Runs/}.
 
+\bibitem{STARelastic2015}
+{STAR} Collaboration, J.~Adam {et~al.}, {\em {Results on Total and Elastic
+  Cross Sections in Proton-Proton Collisions at $\sqrt{s}=200$ GeV}},
+  \href{http://arxiv.org/abs/2003.12136}{{\ttfamily arXiv:2003.12136
+  [hep-ex]}}.
+
 \bibitem{STAR:spectra}
 {STAR} Collaboration, B.~I. Abelev {et~al.}, {\em {Systematic Measurements of
   Identified Particle Spectra in $p p, d^+$ Au and Au+Au Collisions from

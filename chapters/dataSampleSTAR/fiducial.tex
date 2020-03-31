@@ -2,7 +2,9 @@
 A fiducial phase space of measurement  is defined by the~following criteria. Primary charged particles are defined as charged particles with a mean lifetime $\tau >300$~ps, either directly produced in $pp$ interaction or from subsequent decays of directly produced particles with $\tau <30$~ps. In this analysis, primary charged particles had to be contained within the kinematic range of $p_\textrm{T}>0.2$~GeV/c and $|\eta|<0.7$.
 The~results are corrected to the~region of the total number of primary charged particles (without identification), $2\leq n_\textrm{ch} \leq 8$.  In identified charged antiparticle to particle ratio measurement, the lower transverse momentum limit was set for the analyzed particles as follows: $0.2$~GeV/c (pions), $0.3$~GeV/c (kaons), $0.4$~GeV/c (protons and antiprotons).
 
-The measurements were performed in a fiducial phase space of the forward scattered protons of $0.04<-t<0.16$~GeV$^{2}$/c$^2$ and $0.02 < \xi<0.2$. Figure~\ref{fig:STARtrueMCfiducial} shows that the~efficiency  to events containing at least two primary charged particles, $\epsilon_{n_\textrm{ch}\geq 2}(\log_{10}\xi)$  is reduced by half for $\xi <0.02$ compared to the~region of larger $\xi$. In addition, the~accidental background contribution in  this region of $\xi$ is significant and  approximately equal to $20\%$ (Sec.~\ref{section:star_accidentals}). For these reasons the~lower $\xi$ cut was introduced. On the other hand, the~upper $\xi$ cut was required since the~region of larger $\xi$ is dominated by \ac{DD} and \ac{ND} (Sec.~\ref{section:star_nonSD}). 
+The measurements were performed in a fiducial phase space of the forward scattered protons of $0.04<-t<0.16$~GeV$^{2}$/c$^2$ and $0.02 < \xi<0.2$. Figure~\ref{fig:STARtrueMCfiducial} shows that the~fraction  of events containing at least two primary charged particles, $\epsilon_{n_\textrm{ch}\geq 2}(\log_{10}\xi)$,  is reduced by half for $\xi <0.02$ compared to the~region of larger $\xi$. In addition, the~accidental background contribution in  this region of $\xi$ is significant and  approximately equal to $20\%$ (Sec.~\ref{section:star_accidentals}). For these reasons the~lower $\xi$ cut was introduced. On the other hand, the~upper $\xi$ cut was required since the~region of larger $\xi$ is dominated by \ac{DD} and \ac{ND} (Sec.~\ref{section:star_nonSD}). The joint RP  acceptance and track reconstruction efficiency was defined as the~probabiltity that true-level proton was reconstructed as a~track passing the selection criteria. This efficiency was calculated as a function of $-t$ for three ranges of $\xi$ separately and is shown in Fig.~\ref{fig:STARAcceptance}. 
+Events were accepted in the analysis only if the~reconstructed values of $-t$ for protons fall within non-zero acceptance regions, which were required to be the same for each $\xi$ region  and similar to those defined in the~elastic analysis~\cite{STARelastic2015}. Therefore, additional cuts on $0.04 < -t < 0.16$~GeV$^2$/c$^2$ were introduced.
+
 All measured observables are presented in three $\xi$ regions: $0.02<\xi<0.05$, $0.05<\xi<0.1$ and $0.1<\xi<0.2$.
 
 \begin{figure}[h!]
@@ -10,6 +12,13 @@ All measured observables are presented in three $\xi$ regions: $0.02<\xi<0.05$, 
 	\includegraphics[width=0.8\textwidth, page=17]{chapters/dataSampleSTAR/img/true.pdf}
 	\caption{$\epsilon_{ n_\textrm{ch} \geq 2}$ as a function of $\log_{10}\xi$ calculated from PYTHIA~8 (MBR).}
 	\label{fig:STARtrueMCfiducial}
+\end{figure}
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.8\textwidth, page=4]{chapters/dataSampleSTAR/img/rpeffi.pdf}
+	\caption{RP acceptance and track reconstruction efficiency as a~function $-t$ in three ranges of $\xi$, calculated using PYTHIA~8 4C (SaS). Magenta lines indicate region accepted in the~analysis.}
+	\label{fig:STARAcceptance}
 \end{figure}
 
 \FloatBarrier
