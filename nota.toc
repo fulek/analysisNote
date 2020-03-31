@@ -11,9 +11,9 @@
 \contentsline {chapter}{\numberline {4}Background Contribution}{10}{chapter.4}
 \contentsline {section}{\numberline {4.1}Accidental Background}{10}{section.4.1}
 \contentsline {section}{\numberline {4.2}Background from Non-Primary Tracks}{12}{section.4.2}
-\contentsline {subsubsection}{Proton Background}{13}{section*.17}
-\contentsline {subsubsection}{Systematic Uncertainty Related to Proton Background}{15}{section*.21}
-\contentsline {subsubsection}{Pion Background}{18}{section*.24}
+\contentsline {subsubsection}{Proton Background}{13}{section*.16}
+\contentsline {subsubsection}{Systematic Uncertainty Related to Proton Background}{16}{section*.20}
+\contentsline {subsubsection}{Pion Background}{18}{section*.23}
 \contentsline {chapter}{\numberline {5}Non-SD Contributions}{20}{chapter.5}
 \contentsline {chapter}{\numberline {6}Selection Efficiencies}{24}{chapter.6}
 \contentsline {section}{\numberline {6.1}Vertex Reconstruction}{24}{section.6.1}
@@ -31,6 +31,6 @@
 \contentsline {chapter}{\numberline {9}Systematic Uncertainties}{49}{chapter.9}
 \contentsline {chapter}{\numberline {10}Results}{54}{chapter.10}
 \contentsline {chapter}{\numberline {11}Summary and Conclusions}{61}{chapter.11}
-\contentsline {chapter}{Appendices}{64}{section*.75}
+\contentsline {chapter}{Appendices}{64}{section*.74}
 \contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{65}{Appendix.1.A}
 \contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{78}{Appendix.1.B}
