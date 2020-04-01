@@ -23,7 +23,9 @@ The fraction of knock-out background protons depends on a number of factors, inc
 \end{figure}
 
 In order to correct for the knock-out background protons, sample enriched in proton background  was used for background normalization, where $\textrm{DCA}_{xy}$, $\textrm{DCA}_z$ and $d_0$ cuts were abandoned. Additionally, at least one, instead of exactly one,  reconstructed vertex was allowed in this sample.  \Cref{fig:bkg_proton,fig:bkg_proton_bar} show the~$\textrm{DCA}$ distributions of protons and antiprotons, respectively, for  nominal (bottom) and background enriched (top) samples. The distributions for other $p_\textrm{T}$ and $\xi$ regions are shown in Appendix~\ref{appendix:DCA_proton}.
-The protons and antiprotons are selected by a $dE/dx$ cut of $-1 < n\sigma_{p,\bar{p}} < 3$ where $n\sigma_{p,\bar{p}}$ is given by Eq.~\eqref{eq:nsigma}. The fraction of knock-out protons within the selected sample is determined via \ac{MC} template fits. The templates of reconstructed tracks with $dE/dx$ corresponding to the~proton and antiproton are obtained from PYTHIA~8 embedding \ac{MC} separately for:
+The protons and antiprotons are selected by a $dE/dx$ cut of $-1 < n\sigma_{p,\bar{p}} < 3$ where $n\sigma_{p,\bar{p}}$ is given by Eq.~\eqref{eq:nsigma}. In some $p_\textrm{T}$ regions, the~$dE/dx$ of (anti)protons and pions
+starts to overlap, hence, the~asymmetric $n\sigma_{p,\bar{p}}$ cut was introduced in order to select as clean (anti)proton sample as possible.
+The fraction of knock-out protons within the selected sample is determined via \ac{MC} template fits. The templates of reconstructed tracks with $dE/dx$ corresponding to the~proton and antiproton are obtained from PYTHIA~8 embedding \ac{MC} separately for:
 \begin{itemize}
 	\item primary (anti)protons,
 	\item knock-out background protons (labeled as dead-material),
@@ -37,7 +39,7 @@ The protons and antiprotons are selected by a $dE/dx$ cut of $-1 < n\sigma_{p,\b
 
 
 
-First, the background enriched sample was used  (Fig.~\ref{fig:bkg_proton}, top), where the template of knock-out background protons was normalized to the number of events in the fake-subtracted tail of the $\textrm{DCA}$ distribution, $2<\textrm{DCA}<15$~cm. Next the knock-out proton and fake background was subtracted from the $\textrm{DCA}$ distribution and the sum of other templates was normalized to the~number of events in the~signal region,  $\textrm{DCA}<1.5$~cm. 
+First, the background enriched sample was analyzed  (Fig.~\ref{fig:bkg_proton}, top), where the template of knock-out background protons was normalized to the number of events in the fake-subtracted tail of the $\textrm{DCA}$ distribution, $2<\textrm{DCA}<15$~cm. Next the knock-out proton and fake background was subtracted from the $\textrm{DCA}$ distribution and the sum of other templates was normalized to the~number of events in the~signal region,  $\textrm{DCA}<1.5$~cm. 
 
 \begin{figure}[h!]
 	%\vspace{-1cm}
