@@ -27,10 +27,10 @@
 \contentsline {section}{\numberline {8.3}Closure Tests}{41}{section.8.3}
 \contentsline {section}{\numberline {8.4}EAST-WEST asymmetry}{41}{section.8.4}
 \contentsline {section}{\numberline {8.5}Particle Identification}{41}{section.8.5}
-\contentsline {section}{\numberline {8.6}Antiparticle-to-Particle Ratios}{47}{section.8.6}
+\contentsline {section}{\numberline {8.6}Antiparticle-to-Particle Ratios}{46}{section.8.6}
 \contentsline {chapter}{\numberline {9}Systematic Uncertainties}{49}{chapter.9}
 \contentsline {chapter}{\numberline {10}Results}{54}{chapter.10}
 \contentsline {chapter}{\numberline {11}Summary and Conclusions}{61}{chapter.11}
-\contentsline {chapter}{Appendices}{64}{section*.74}
+\contentsline {chapter}{Appendices}{64}{section*.75}
 \contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{65}{Appendix.1.A}
 \contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{78}{Appendix.1.B}
