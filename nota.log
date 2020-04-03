@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  3 APR 2020 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.12.22)  3 APR 2020 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -954,7 +954,7 @@ pt>
 File: chapters/dataSampleSTAR/img/true.pdf Graphic file (type pdf)
  <use chapters/dataSampleSTAR/img/true.pdf, page 14>
 Package pdftex.def Info: chapters/dataSampleSTAR/img/true.pdf, page14 used on i
-nput line 53.
+nput line 54.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 
 <chapters/dataSampleSTAR/img/true.pdf, id=230, page=13, 569.12625pt x 408.52625
@@ -962,7 +962,7 @@ pt>
 File: chapters/dataSampleSTAR/img/true.pdf Graphic file (type pdf)
  <use chapters/dataSampleSTAR/img/true.pdf, page 13>
 Package pdftex.def Info: chapters/dataSampleSTAR/img/true.pdf, page13 used on i
-nput line 54.
+nput line 55.
 (pdftex.def)             Requested size: 208.04959pt x 149.3446pt.
 )
 (./chapters/dataSampleSTAR/dataSample.texpdfTeX warning (ext4): destination wit
@@ -5257,7 +5257,7 @@ fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2015/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2015/texmf-dist/fon
 ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2015/texmf-dist
 /fonts/type1/public/wasy2-ps/wasy10.pfb>
-Output written on nota.pdf (91 pages, 4173589 bytes).
+Output written on nota.pdf (91 pages, 4173701 bytes).
 PDF statistics:
  5824 PDF objects out of 6186 (max. 8388607)
  2759 compressed objects within 28 object streams
