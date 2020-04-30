@@ -6,58 +6,46 @@ Reconstructed tracks matched to a~non-primary particle, so-called background tra
 	\item hadronic interactions of particles with the beam-pipe or detector dead material.
 \end{itemize} 
 
-\begin{figure}[h!]
-	\centering
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\linewidth, page=1]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
-	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\linewidth, page=3]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
-	\end{subfigure}
-\begin{comment}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\linewidth, page=4]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
-	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\linewidth, page=5]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
-	\end{subfigure}
-\end{comment}
-	\caption{(left) Distribution of fraction of selected tracks  associated with non-primary particles  in the~range $0.02<\xi<0.2$ and  (right) distribution of fraction of tracks which are not associated with true-level particles  in the~range $0.02<\xi<0.05$ as predicted by PYTHIA~8 4C (SaS) embedding.}
-	\label{fig:bkg_fake_charged}
-\end{figure}
-There is also a contribution from fake tracks, i.e. tracks not associated with true-level particles, coming from out-of-time pile-up or  formed by a random combination of TPC hits. Figure~\ref{fig:bkg_fake_charged} shows the background $f_{\textrm{bkg}}\left(p_{\textrm{T}},\eta\right)$ and fake track $f_{\textrm{fake}}\left(p_{\textrm{T}},\eta\right)$ contribution to reconstructed tracks as a~function of $p_{\textrm{T}}$ and $\eta$. There were no differences observed in the~background contribution in different $\xi$ ranges, hence, all three $\xi$ ranges were merged for this study. The highest background fraction, which varies between $5-10\%$, was found to be at low $p_{\textrm{T}}$.  Due to too low statistics in PYTHIA~8 embedding \ac{MC}, the~shape of the~fake track contribution was assumed to be the~same in all three $\xi$ ranges. However, its normalization was calculated for each $\xi$ range separately with a ratio between the ranges of $1: 0.74: 1.11$.
-The~change by $\pm100\%$ in fake track contribution was taken as a systematic uncertainty.
-
-
-Figure~\ref{fig:bkg_epos_charged} shows the~background track contribution to reconstructed tracks as a~function of $p_\textrm{T}$ and $\eta$ calculated from EPOS SD+SD$^\prime$. The differences between
-PYTHIA~8 and EPOS, which are up to $50\%$ for $p_\textrm{T}>0.5$~GeV/c (as shown in Fig.~\ref{fig:bkg_epos_charged_1D}), were symmetrized and taken as a~systematic uncertainty.
-
-
-
-
-\begin{figure}[h!]
+\begin{figure}[b!]
 	\centering
 	\begin{subfigure}{.49\textwidth}
-		\includegraphics[width=\linewidth, page=7]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
+		\includegraphics[width=\linewidth, page=1]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
 	\end{subfigure}
-    \begin{minipage}{.49\textwidth}
-    	\caption{Distribution of fraction of selected tracks  associated with non-primary particles  as predicted by EPOS SD+SD$^\prime$.}
-    	\label{fig:bkg_epos_charged}
-    \end{minipage}
-	
-\end{figure}
-
-\begin{figure}[h!]
-	\centering
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\linewidth, page=7]{chapters/chrgSTAR/img/chargedBkg/bkg2D_epos.pdf}
+	\end{subfigure}
+	\begin{comment}
 	\begin{subfigure}{.45\textwidth}
+	\includegraphics[width=\linewidth, page=4]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.45\textwidth}
+	\includegraphics[width=\linewidth, page=5]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
+	\end{subfigure}
+	\end{comment}
+	\caption{Distribution of fraction of selected tracks  associated with non-primary particles  in the~range $0.02<\xi<0.2$ as predicted by (left) PYTHIA~8 4C (SaS) embedding and (right) EPOS SD+SD$^\prime$.}
+	\label{fig:bkg_fake_charged}
+\end{figure}
+Figure~\ref{fig:bkg_fake_charged} (left) shows the background from non-primary tracks, $f_{\textrm{bkg}}\left(p_{\textrm{T}},\eta\right)$, %and fake track $f_{\textrm{fake}}\left(p_{\textrm{T}},\eta\right)$ contribution to reconstructed tracks 
+as a~function of tracks' $p_{\textrm{T}}$ and $\eta$, predicted by PYTHIA~8 SD model. There were no differences observed in the~background contribution in different $\xi$ ranges, hence, all three $\xi$ ranges were merged for this study. The highest background fraction, which varies between $5-10\%$, was found to be at low $p_{\textrm{T}}$.  %Due to too low statistics in PYTHIA~8 embedding \ac{MC}, the~shape of the~fake track contribution was assumed to be the~same in all three $\xi$ ranges. However, its normalization was calculated for each $\xi$ range separately with a ratio between the ranges of $1: 0.74: 1.11$.
+
+
+Figure~\ref{fig:bkg_fake_charged} (right) shows the~background track contribution to reconstructed tracks as a~function of $p_\textrm{T}$ and $\eta$ calculated from EPOS SD+SD$^\prime$. The differences between
+PYTHIA~8 and EPOS, which are up to $50\%$ for $p_\textrm{T}>0.5$~GeV/c (as shown in Fig.~\ref{fig:bkg_epos_charged_1D}), were symmetrized and taken as a~systematic uncertainty.
+
+There is also a~small ($<0.5\%$) contribution from fake tracks, $f_{\textrm{fake}}\left(p_{\textrm{T}},\eta\right)$, i.e. tracks not associated with true-level particles, coming from out-of-time pile-up or  formed by a~random combination of TPC hits. The~change by $\pm100\%$ in this contribution was taken as a systematic uncertainty.
+
+\begin{figure}[t!]
+	\centering
+	\begin{subfigure}{.49\textwidth}
 		\includegraphics[width=\linewidth, page=8]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
 	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
+	\begin{subfigure}{.49\textwidth}
 		\includegraphics[width=\linewidth, page=9]{chapters/chrgSTAR/img/chargedBkg/bkg2D.pdf}
 	\end{subfigure}
-	\caption{PYTHIA~8 SD and EPOS SD+SD$^\prime$ predictions of fraction of selected tracks  associated with non-primary particles  as a~function of (left) $p_\textrm{T}$ and (right) $\eta$.}
+	\vspace{-0.25cm}
+	\caption{PYTHIA~8 SD and EPOS SD+SD$^\prime$ predictions of fraction of selected tracks  associated with non-primary particles  as a~function of (left) $p_\textrm{T}$ and (right) $\eta$. The~ratio of EPOS and PYTHIA~8 predictions is shown in the~bottom panels.}
 	\label{fig:bkg_epos_charged_1D}
-	
+	\vspace{-0.25cm}
 \end{figure}
 
 %\FloatBarrier

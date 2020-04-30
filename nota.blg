@@ -6,65 +6,64 @@ Database file #1: literatur.bib
 Warning--entry type for "starLumi" isn't style-file defined
 --line 7 of file literatur.bib
 Warning--entry type for "pp2ppTrigers" isn't style-file defined
---line 12 of file literatur.bib
+--line 13 of file literatur.bib
 Warning--entry type for "runLogBrowser" isn't style-file defined
---line 16 of file literatur.bib
+--line 17 of file literatur.bib
 Warning--entry type for "RHIC:rhicRunLuminosity" isn't style-file defined
---line 27 of file literatur.bib
-I was expecting a `,' or a `}'---line 178 of file literatur.bib
+--line 28 of file literatur.bib
+I was expecting a `,' or a `}'---line 179 of file literatur.bib
  :  
  :  SLACcitation   = "%%CITATION = NUCL-EX/0301015;%%"
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1218 of file literatur.bib
+You're missing a field name---line 1219 of file literatur.bib
  :  doi            = "10.1088/1748-0221/9/09/P09009",
  :                                                   ,
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1558 of file literatur.bib
+You're missing a field name---line 1559 of file literatur.bib
  :  doi            = "10.1140/epjc/s10052-006-0035-3",
  :                                                    ,
 I'm skipping whatever remains of this entry
 Warning--empty year in Bopp:2000vg
-Warning--empty pages in GEANT:three
-You've used 17 entries,
+You've used 16 entries,
             2349 wiz_defined-function locations,
-            708 strings with 7426 characters,
-and the built_in function-call counts, 4310 in all, are:
-= -- 406
-> -- 114
+            703 strings with 7333 characters,
+and the built_in function-call counts, 4071 in all, are:
+= -- 389
+> -- 97
 < -- 0
-+ -- 46
-- -- 29
-* -- 389
-:= -- 487
-add.period$ -- 27
-call.type$ -- 17
-change.case$ -- 23
++ -- 40
+- -- 24
+* -- 369
+:= -- 448
+add.period$ -- 25
+call.type$ -- 16
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 239
-empty$ -- 491
-format.name$ -- 29
-if$ -- 1126
+cite$ -- 17
+duplicate$ -- 232
+empty$ -- 466
+format.name$ -- 24
+if$ -- 1071
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 53
-newline$ -- 76
-num.names$ -- 14
-pop$ -- 98
+int.to.str$ -- 16
+missing$ -- 48
+newline$ -- 71
+num.names$ -- 13
+pop$ -- 93
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 162
+skip$ -- 166
 stack$ -- 0
-substring$ -- 162
-swap$ -- 95
+substring$ -- 146
+swap$ -- 98
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 28
-width$ -- 19
-write$ -- 141
+warning$ -- 1
+while$ -- 26
+width$ -- 18
+write$ -- 134
 (There were 3 error messages)

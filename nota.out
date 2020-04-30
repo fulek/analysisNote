@@ -3,29 +3,27 @@
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 3
 \BOOKMARK [0][-]{chapter.2}{Monte Carlo Samples }{}% 4
 \BOOKMARK [0][-]{chapter.3}{Data Sample and Event Selection}{}% 5
-\BOOKMARK [1][-]{section.3.1}{Event Selection}{chapter.3}% 6
-\BOOKMARK [1][-]{section.3.2}{Track Selection}{chapter.3}% 7
-\BOOKMARK [1][-]{section.3.3}{Fiducial Region of the Measurement}{chapter.3}% 8
-\BOOKMARK [0][-]{chapter.4}{Background Contribution}{}% 9
-\BOOKMARK [1][-]{section.4.1}{Accidental Background}{chapter.4}% 10
-\BOOKMARK [1][-]{section.4.2}{Background from Non-Primary Tracks}{chapter.4}% 11
-\BOOKMARK [0][-]{chapter.5}{Non-SD Contributions}{}% 12
-\BOOKMARK [0][-]{chapter.6}{Selection Efficiencies}{}% 13
-\BOOKMARK [1][-]{section.6.1}{Vertex Reconstruction}{chapter.6}% 14
-\BOOKMARK [1][-]{section.6.2}{Correction to BBC-Small }{chapter.6}% 15
-\BOOKMARK [0][-]{chapter.7}{Migrations into and out of the Fiducial Region}{}% 16
-\BOOKMARK [1][-]{section.7.1}{Migrations of Tracks into and out of the Fiducial Region}{chapter.7}% 17
-\BOOKMARK [1][-]{section.7.2}{Migrations in }{chapter.7}% 18
-\BOOKMARK [0][-]{chapter.8}{Corrections and Unfolding Procedure}{}% 19
-\BOOKMARK [1][-]{section.8.1}{Correction to dN/dnsel}{chapter.8}% 20
-\BOOKMARK [1][-]{section.8.2}{Correction to Transverse Momentum and Pseudorapidity Distributions}{chapter.8}% 21
-\BOOKMARK [1][-]{section.8.3}{Closure Tests}{chapter.8}% 22
-\BOOKMARK [1][-]{section.8.4}{EAST-WEST asymmetry}{chapter.8}% 23
-\BOOKMARK [1][-]{section.8.5}{Particle Identification}{chapter.8}% 24
-\BOOKMARK [1][-]{section.8.6}{Antiparticle-to-Particle Ratios}{chapter.8}% 25
-\BOOKMARK [0][-]{chapter.9}{Systematic Uncertainties}{}% 26
-\BOOKMARK [0][-]{chapter.10}{Results}{}% 27
-\BOOKMARK [0][-]{chapter.11}{Summary and Conclusions}{}% 28
-\BOOKMARK [0][-]{section*.75}{Appendices}{}% 29
-\BOOKMARK [0][-]{Appendix.1.A}{Proton and Antiproton DCA Distributions}{}% 30
-\BOOKMARK [0][-]{Appendix.1.B}{Distributions of nidE/dx in SD}{}% 31
+\BOOKMARK [1][-]{section.3.1}{Track Selection}{chapter.3}% 6
+\BOOKMARK [1][-]{section.3.2}{Fiducial Region of the Measurement}{chapter.3}% 7
+\BOOKMARK [0][-]{chapter.4}{Background Contribution}{}% 8
+\BOOKMARK [1][-]{section.4.1}{Background from Non-Primary Tracks}{chapter.4}% 9
+\BOOKMARK [1][-]{section.4.2}{Control Plots}{chapter.4}% 10
+\BOOKMARK [0][-]{chapter.5}{Selection Efficiencies}{}% 11
+\BOOKMARK [1][-]{section.5.1}{Vertex Reconstruction}{chapter.5}% 12
+\BOOKMARK [1][-]{section.5.2}{Correction to BBC-Small }{chapter.5}% 13
+\BOOKMARK [0][-]{chapter.6}{Migrations into and out of the Fiducial Region}{}% 14
+\BOOKMARK [1][-]{section.6.1}{Migrations of Tracks into and out of the Fiducial Region}{chapter.6}% 15
+\BOOKMARK [1][-]{section.6.2}{Migrations in }{chapter.6}% 16
+\BOOKMARK [0][-]{chapter.7}{Event Corrections and Unfolding Procedure}{}% 17
+\BOOKMARK [1][-]{section.7.1}{Correction to dN/dnsel}{chapter.7}% 18
+\BOOKMARK [1][-]{section.7.2}{Correction to Transverse Momentum and Pseudorapidity Distributions}{chapter.7}% 19
+\BOOKMARK [1][-]{section.7.3}{Closure Tests}{chapter.7}% 20
+\BOOKMARK [1][-]{section.7.4}{EAST-WEST asymmetry}{chapter.7}% 21
+\BOOKMARK [1][-]{section.7.5}{Particle Identification}{chapter.7}% 22
+\BOOKMARK [1][-]{section.7.6}{Antiparticle-to-Particle Ratios}{chapter.7}% 23
+\BOOKMARK [0][-]{chapter.8}{Systematic Uncertainties}{}% 24
+\BOOKMARK [0][-]{chapter.9}{Results}{}% 25
+\BOOKMARK [0][-]{chapter.10}{Summary and Conclusions}{}% 26
+\BOOKMARK [0][-]{section*.70}{Appendices}{}% 27
+\BOOKMARK [0][-]{Appendix.1.A}{Proton and Antiproton DCA Distributions}{}% 28
+\BOOKMARK [0][-]{Appendix.1.B}{Distributions of nidE/dx in SD}{}% 29

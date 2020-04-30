@@ -1,6 +1,6 @@
 \documentclass[a4paper,10pt,notitlepage]{report}
 \usepackage[utf8]{inputenc}
-
+\usepackage[percent]{overpic}
 \usepackage{graphicx}
 \usepackage[polish, british]{babel}
 \usepackage{a4wide}
@@ -29,11 +29,11 @@
 \usepackage{hhline}
 \usepackage{floatpag}
 \usepackage{wasysym}
-
+\usepackage[percent]{overpic}
 \usepackage{lineno}
 \linenumbers
 
-
+\extrafloats{100}
 \usepackage[numbers]{natbib}
 \DeclareUnicodeCharacter{2192}{ to}
 
@@ -44,6 +44,19 @@
 \usepackage{listings}
 \usepackage{color}
 \usepackage[usenames,dvipsnames]{xcolor}
+
+\usepackage{fancyhdr,floatpag}
+
+\pagestyle{fancy}
+\fancyhf{}% Clear header/footer
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}% Remove header rule
+\newcommand\blankpage{%
+	\null
+	\thispagestyle{empty}%
+	\addtocounter{page}{-1}%
+	\newpage}
+%\textheight{24.5cm} \textwidth{17.cm}
 
 %\pagestyle{headings}
 %\setlength{\textwidth}{15cm}

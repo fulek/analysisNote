@@ -1,15 +1,17 @@
 \section{Track Selection}\label{section:star_track_selection}
-The following quality cuts had to be passed by the selected primary tracks in this analysis (TPC and TOF efficiencies are described in~\cite{supplementaryNote}):
+The following quality cuts had to be passed by the selected primary tracks:
+
+
 \begin{enumerate}
-	\item The tracks must be matched with hits reconstructed in TOF,
-	\item The number of the  TPC hits used in the helix fit $N_{\textrm{hits}}^{\textrm{fit}}$ must be greater than $24$,
-	\item The~ratio of $N_{\textrm{hits}}^{\textrm{fit}}$ to the~number of all possible TPC hits, $N_{\textrm{hits}}^{\textrm{fit}}/N_{\textrm{hits}}^{\textrm{possible}}$, must be greater than $0.52$,
-	\item The number of the  TPC hits used to determine the $dE/dx$ information $N_{\textrm{hits}}^{\textrm{dE/dx}}$ must be greater than $14$,
-	\item The transverse impact parameter with respect to the beamline $d_0$ must be less than $1.5$~cm,
-	\item The radial component of the distance of the closest approach between  the global helix and the vertex $\textrm{DCA}_{xy}$ must be less than $1.5$~cm (consistent with the $d_0$ limit),
-	\item The absolute magnitude of  longitudinal component of the distance of the closest approach between  the global helix and the vertex $|\textrm{DCA}_{z}|$ must be less than $1$~cm,
-	\item The track's transverse momentum $p_\textrm{T}$ must be greater than $0.2$~GeV/c,
-	\item The track's absolute value of  pseudorapidity $|\eta|$ must be smaller than $0.7$.
+	\item the tracks must be matched with hits reconstructed in TOF,
+	\item the number of the  TPC hits used in the helix fit $N_{\textrm{hits}}^{\textrm{fit}}$ must be greater than $24$,
+	\item the~ratio of $N_{\textrm{hits}}^{\textrm{fit}}$ to the~number of all possible TPC hits, $N_{\textrm{hits}}^{\textrm{fit}}/N_{\textrm{hits}}^{\textrm{possible}}$, must be greater than $0.52$,
+	\item the number of the  TPC hits used to determine the $dE/dx$ information $N_{\textrm{hits}}^{\textrm{dE/dx}}$ must be greater than $14$,
+	\item the transverse impact parameter with respect to the beamline $d_0$ must be less than $1.5$~cm,
+	\item the radial component of the distance of the closest approach between  the global helix and the vertex $\textrm{DCA}_{xy}$ must be less than $1.5$~cm,
+	\item the absolute magnitude of  longitudinal component of the distance of the closest approach between  the global helix and the vertex $|\textrm{DCA}_{z}|$ must be less than $1$~cm,
+	\item the track's transverse momentum $p_\textrm{T}$ must be greater than $0.2$~GeV/c,
+	\item the track's absolute value of  pseudorapidity $|\eta|$ must be smaller than $0.7$.
 \end{enumerate}
 
 \begin{figure}[b!]
@@ -35,14 +37,15 @@ The following quality cuts had to be passed by the selected primary tracks in th
 		\caption{}
 	\end{subfigure}
 	\begin{minipage}{.45\textwidth}
-		
-		
+
+
 		\caption{Number of the  TPC hits used in the helix fit (a) and number of the  TPC hits used to determine the $dE/dx$ (b), the radial component (c) and the absolute magnitude of the longitudinal component (d) of the distance of the closest approach between  the global helix and the vertex, transverse impact parameter w.r.t. beam-line (e). All distributions are shown before applying  the corresponding cuts. Blue lines indicate regions accepted in the analysis.}
 		\label{fig:dca_nhitsSTAR}
 	\end{minipage}
 \end{figure}
 
 \begin{figure}[h!]
+	\vspace{-1cm}
 	\centering
 	\begin{subfigure}{.45\textwidth}
 		\includegraphics[width=\textwidth, page=2]{chapters/chrgSTAR/img/selection/SDT.pdf}
@@ -66,7 +69,7 @@ The following quality cuts had to be passed by the selected primary tracks in th
 	\end{subfigure}
 	\begin{minipage}{.45\textwidth}
 		
-		
+
 		\caption{Pseudorapidity of the~reconstructed tracks for events in which forward proton is on  west (a) and east (b) side of the IP, track azimuthal angle for runs $\leq 16073050$ (c) and $>16073050$ (d) and track transverse momentum (e). All distributions are shown before applying  the~corresponding cuts. Blue lines indicate regions accepted in the analysis.}
 		\label{fig:ptEtaPhiSTAR}
 	\end{minipage}
@@ -74,11 +77,9 @@ The following quality cuts had to be passed by the selected primary tracks in th
 
 
 The $N_{\textrm{hits}}^{\textrm{fit}}$ and $N_{\textrm{hits}}^{\textrm{fit}}/N_{\textrm{hits}}^{\textrm{possible}}$ cuts are used to reject low quality TPC tracks and avoid track splitting effects. The $d_0$ and global $\textrm{DCA}_{xy}$,  $|\textrm{DCA}_{z}|$ cuts are used to select tracks that originate from the primary interaction vertex. The cut on $N_{\textrm{hits}}^{\textrm{dE/dx}}$ is used to ensure that selected tracks have sufficient energy loss information
-for particle identification purposes. In this analysis tracks without identification are required to have $p_\textrm{T} > 0.2$~GeV/c and $|\eta| < 0.7$ due to high track reconstruction and TOF matching efficiencies in this region. For the identified particle-antiparticle ratio analysis, where charged pions, charged kaons and (anti)protons  are measured, the $p_T$ cut was increased for kaons and (anti)protons  to $0.3$ and $0.4$~GeV/c, respectively. 
-The distributions of the $\textrm{DCA}_{xy}$, $|\textrm{DCA}_{z}|$, $d_0$, $N_{\textrm{hits}}^{\textrm{fit}}$ and $N_{\textrm{hits}}^{\textrm{dE/dx}}$ quatities together with applied cuts are shown in Fig.~\ref{fig:dca_nhitsSTAR}, while the~$p_T$, $\eta$ and  the~azimuthal angle, $\phi$, of the~reconstructed tracks are shown in Fig.~\ref{fig:ptEtaPhiSTAR}. Data are compared to embedded PYTHIA~8 SD sample.
+for particle identification purposes. In this analysis tracks without identification are required to have $p_\textrm{T} > 0.2$~GeV/c and $|\eta| < 0.7$ due to high track reconstruction and TOF matching efficiencies in this region. For the identified particle-antiparticle ratio analysis, where charged pions, charged kaons and (anti)protons  are measured, the $p_\textrm{T}$ cut was increased for kaons and (anti)protons  to $0.3$ and $0.4$~GeV/c, respectively. 
+The distributions of the $\textrm{DCA}_{xy}$, $|\textrm{DCA}_{z}|$, $d_0$, $N_{\textrm{hits}}^{\textrm{fit}}$ and $N_{\textrm{hits}}^{\textrm{dE/dx}}$ quantities together with applied cuts are shown in Fig.~\ref{fig:dca_nhitsSTAR}, while the~$p_\textrm{T}$, $\eta$ and  the~azimuthal angle, $\phi$, of the~reconstructed tracks are shown in Fig.~\ref{fig:ptEtaPhiSTAR}. Data are compared to embedded PYTHIA~8 SD sample.
 
- The~azimuthal angle of the~reconstructed tracks for runs $\leq 16073050$ is not described by PYTHIA~8. 
+ The~azimuthal angle of the~reconstructed tracks for runs $\leq 16073050$ is not described by PYTHIA~8.
 The~inner sector $\#19$ in the~TPC was dead for this running period and some effects related to it were presumably not taken into account in the~TPC detector simulation. Therefore, additional data-driven corrections to track efficiencies are used~\cite{supplementaryNote}.
 The larger accidental background is  observed for  runs $>16073050$, probably due to the higher bunch intensities in this running period~\cite{starLumi}.
- 
-

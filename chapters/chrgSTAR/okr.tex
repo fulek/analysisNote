@@ -3,31 +3,28 @@ The procedure, described in this section, accounts for migrations of tracks into
 \begin{equation}
 f_\textrm{okr}(p_\textrm{T}, \eta)=\frac{1-f_\textrm{okr}^-(p_\textrm{T}, \eta)}{1-f_{okr}^+(p_\textrm{T}, \eta)}
 \end{equation}
-where:
-\begin{description}
-	\item $f_\textrm{okr}^-(p_\textrm{T}, \eta)$ is the fraction of reconstructed tracks for which the corresponding primary particle is outside of the kinematic range of the measurement,
-	\item $f_\textrm{okr}^+(p_\textrm{T}, \eta)$  is the fraction of primary particles for which the corresponding reconstructed track is outside of the kinematic range of the measurement.
-\end{description}
+where $f_\textrm{okr}^-(p_\textrm{T}, \eta)$ is the fraction of reconstructed tracks for which the corresponding primary particle is outside of the kinematic range of the measurement and $f_\textrm{okr}^+(p_\textrm{T}, \eta)$  is the fraction of primary particles for which the corresponding reconstructed track is outside of the~kinematic range of the measurement.
 
-The resulting residual migrations, shown in Fig.~\ref{fig:okr}, were estimated using PYTHIA~8 SD embedding MC. The main effect  was observed  at $|\eta| \sim 0.7$, where about $2-6\%$ reconstructed tracks were associated to primary particle outside the fiducial region.  However, above contributions to the~correction factor, $f_\textrm{okr}(p_T, \eta)$, cancel each other and  a~resultant factor is about $2\%$ at $|\eta| \sim 0.7$.
-
-\begin{figure}[h!]
+\begin{figure}[b!]
+	%\vspace{-0.2cm}
 	\centering
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=1]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=0.97\textwidth,page=1]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
 	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=2]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=0.97\textwidth,page=2]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
 	\end{subfigure}
-	\begin{subfigure}{.45\textwidth}
-		\includegraphics[width=\textwidth,page=3]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=0.97\textwidth,page=3]{chapters/chrgSTAR/img/OKR/outOfSpace.pdf}
 	\end{subfigure}
-	\begin{minipage}{.45\textwidth}
+	\begin{minipage}{.49\textwidth}
 		\caption{(top left) Fraction of selected tracks migrating from outside of the kinematic range to the signal region, (top right) fraction of particles for which the corresponding reconstructed track is outside the~kinematic range of the measurement and (bottom) the correction factor for migrations of tracks.}
 		\label{fig:okr}
 	\end{minipage}
-	
+	%\vspace{-0.5cm}
 \end{figure}
+
+The resulting residual migrations, shown in Fig.~\ref{fig:okr}, were estimated using PYTHIA~8 \ac{SD} embedding \ac{MC}. The main effect  was observed  at $|\eta| \sim 0.7$, where about $2-6\%$ reconstructed tracks were associated to primary particle outside the fiducial region.  However, above contributions to the~correction factor, $f_\textrm{okr}(p_T, \eta)$, cancel each other and  the~resulting factor is about $2\%$ at $|\eta| \sim 0.7$.
 
 
 

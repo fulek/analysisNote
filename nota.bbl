@@ -28,19 +28,6 @@ M.~Anderson {et~al.}, {\em {The STAR Time Projection Chamber: A Unique tool for
   \href{http://arxiv.org/abs/nucl-ex/0301015}{{\ttfamily arXiv:nucl-ex/0301015
   [nucl-ex]}}.
 
-\bibitem{GEANT:three}
-R.~Brun, F.~Bruyant, M.~Maire, A.~C. McPherson,  and P.~Zanarini, {\em
-  {GEANT3}},
-CERN-DD-EE-84-1 (1987).
-%%CITATION = CERN-DD-EE-84-1;%%.
-
-\bibitem{GEANT:four}
-{GEANT4} Collaboration, S.~Agostinelli {et~al.}, {\em {GEANT4: A Simulation
-  toolkit}},
-\href{http://dx.doi.org/10.1016/S0168-9002(03)01368-8}{Nucl. Instrum. Meth.
-  {\bfseries A506} (2003) 250--303}.
-%%CITATION = NUIMA,A506,250;%%.
-
 \bibitem{Sjostrand:2006za}
 T.~Sjöstrand, S.~Mrenna,  and P.~Z. Skands, {\em {PYTHIA 6.4 Physics and
   Manual}},
@@ -85,6 +72,15 @@ W.~Fischer, {\em Run Overview of the {R}elativistic {H}eavy {I}on {C}ollider},
   {\bfseries C79} (2009) 034909},
 \href{http://arxiv.org/abs/0808.2041}{{\ttfamily arXiv:0808.2041 [nucl-ex]}}.
 %%CITATION = ARXIV:0808.2041;%%.
+
+\bibitem{Acosta:2003xi}
+{CDF} Collaboration, D.~Acosta {et~al.}, {\em {Inclusive double pomeron
+  exchange at the Fermilab Tevatron $\bar{p}p$ collider}},
+  \href{http://dx.doi.org/10.1103/PhysRevLett.93.141601}{Phys. Rev. Lett.
+  {\bfseries 93} (2004) 141601},
+\href{http://arxiv.org/abs/hep-ex/0311023}{{\ttfamily arXiv:hep-ex/0311023
+  [hep-ex]}}.
+%%CITATION = HEP-EX/0311023;%%.
 
 \bibitem{unfolding:2016mok}
 {ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle distributions in

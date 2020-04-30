@@ -1,8 +1,6 @@
 \section{Particle Identification}\label{section:star_PIDdEdx}
-
-The specific ionization energy loss, the $dE/dx$, is a function of magnitude of the
-particle momentum.  In this section the particle identification by the $dE/dx$  is described.
- Due to the low particle multiplicity and lack of signal in VPDs on the outgoing proton side (presence of the rapidity gap) in SD events, the time of collision is not defined precisely enough, therefore, the particle identification  by the TOF is not possible
+Specific ionization energy loss, the $dE/dx$, is a function of the~magnitude of a~particle momentum.  In this section the particle identification with help of $dE/dx$  is described.
+Due to a~low particle multiplicity and lack of signal in VPDs on the outgoing proton side (presence of the rapidity gap) in SD events, the time of collision is not defined precisely enough, therefore, the particle identification  by the TOF is not possible
 and the~analysis was limited to identification only by $dE/dx$. 
 
 The ionization energy loss of charged particles in material
@@ -13,9 +11,9 @@ Figure \ref{fig:star_dedx} shows the  $dE/dx$ versus rigidity $q\times p$ for pa
 overlap: $e^\pm$ and $K^\pm$ merge at $\sim0.4$~GeV/c, $K^\pm$ and
 $\pi^\pm$ merge at $\sim0.65$~GeV/c, and $p(\bar{p})$ and $\pi^\pm$ merge
 at $\sim1$~GeV/c. 
-\begin{figure}[h!]
+\begin{figure}[b!]
 	\centering
-	\includegraphics[width=0.8\linewidth, page=1]{chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf}
+	\includegraphics[width=0.75\linewidth, page=1]{chapters/chrgSTAR/img/dEdx/SDT_dEdx.pdf}
 	\caption[Specific ionization
 	energy loss $dE/dx$ as a function of rigidity $q\times p$ for particles
 	in $|\eta| < 0.7$]{Specific ionization
@@ -24,7 +22,7 @@ at $\sim1$~GeV/c.
 	\label{fig:star_dedx}
 \end{figure} 
 %\FloatBarrier
-\noindent Since the $dE/dx$ distribution for a~given particle type
+\noindent Since the $dE/dx$ distribution for a given particle type
 is not Gaussian, the following variable for each particle type was defined:
 \begin{equation}
 n\sigma^i_{dE/dx}=\ln\left(\frac{dE/dx}{(dE/dx)_i^\textrm{{BB}}}\right)/\sigma
@@ -32,7 +30,7 @@ n\sigma^i_{dE/dx}=\ln\left(\frac{dE/dx}{(dE/dx)_i^\textrm{{BB}}}\right)/\sigma
 \end{equation}
 where $(dE/dx)_i^\textrm{{BB}}$ is the Bethe-Bloch (Bichsel) expectation
 of $dE/dx$ for the given particle type $i$ $(i =
-\pi, K, p)$, $\sigma$ - the $dE/dx$ resolution.
+\pi, K, p)$, $\sigma$ - the~relative $dE/dx$ resolution.
 The expected value of $n\sigma^i_{dE/dx}$ for the~particle under consideration is  $0$  and the width equals to $1$. The sample $n\sigma^i_{dE/dx}$ distribution for $\pi^{\pm}$, $K^\pm$ and $p(\bar{p})$ in one $\xi$ range, $0.02 < \xi < 0.05$, is shown  in Fig.~\ref{fig:dEdx_nsigma}.
 \begin{figure}[h!]
 	
@@ -74,13 +72,16 @@ The expected value of $n\sigma^i_{dE/dx}$ for the~particle under consideration i
 
 
 \noindent Figure \ref{fig:dEdx_fit_example}
-shows the $n\sigma^{\pi^\pm}_{dE/dx}$,$n\sigma^{K^\pm}_{dE/dx}$ and $n\sigma^{p(\bar{p})}_{dE/dx}$ distributions for  $0.6 < p_\textrm{T} < 0.65$~GeV/c  in the~$\xi$ range, $0.02 < \xi < 0.05$, each corrected for the energy loss (mass of $i$-particle was assumed)~\cite{supplementaryNote} and vertexing (other $p_\textrm{T}$ bins are shown in Appendix~\ref{appendix:dEdxFits}). To extract the  particle yield for a given particle type,
-a~multi-Gaussian fit is applied to the $n\sigma^i_{dE/dx}$ distribution in each $p_\textrm{T}$ bin and $\xi$ range. The parameters of the multi-Gaussian fit are the centroids $\mu_{i^-/i^+}$, widths $\sigma_{i^-/i^+}$, sum  and ratios  of yields $C_{i^-/i^+}$, $r_{i^-/i^+}$ for negative $i^-$ and positive $i^+$ particles ($\pi^\pm$, $e^\pm$, $K^\pm$, $p$ and $\bar{p}$). The~positive and negative particle
+shows the $n\sigma^{\pi^\pm}_{dE/dx}$,$n\sigma^{K^\pm}_{dE/dx}$ and $n\sigma^{p(\bar{p})}_{dE/dx}$ distributions for  $0.6 < p_\textrm{T} < 0.65$~GeV/c  in the~$\xi$ range, $0.02 < \xi < 0.05$, each corrected for the energy loss (mass of $i$-particle was assumed)~\cite{supplementaryNote} and vertexing  (other $p_\textrm{T}$ bins are shown in Appendix~\ref{appendix:dEdxFits}). To extract the  particle yield for a given particle type,
+a~multi-Gaussian fit is applied to the $n\sigma^i_{dE/dx}$ distribution in each $p_\textrm{T}$ bin and $\xi$ range. The parameters of the multi-Gaussian fit are the centroids $\mu_{i^-/i^+}$, widths $\sigma_{i^-/i^+}$, sums  and ratios  of yields $C_{i^-/i^+}$, $r_{i^-/i^+}$ for negative $i^-$ and positive $i^+$ particles ($\pi^\pm$, $e^\pm$, $K^\pm$, $p$ and $\bar{p}$). The~positive and negative particle
 $n\sigma^{i}_{dE/dx}$-distributions are fitted simultaneously, where the~centroids and widths are kept the same for particle
 and antiparticle. 
 In some $p_\textrm{T}$ regions, the~fit does not converge,
-because different particle species are not well separated  there. Therefore, multiple steps of fitting are performed to reduce the number of free parameters in the final fit and ensure its stability. Almost all centroids and widths are constrained  by a~function with free parameters $p_k$, where $k \in \mathbb N$.  The function is chosen to describe the data as best as possible.
-Since $dE/dx$ is a~function of the~particle momentum and its shape should be independent of the~process under study, the values of $p_k$  are obtained only for events with $0.02 < \xi < 0.05$ and kept the same for other $\xi$ ranges. The electron contributions are  fixed, but separately for each $\xi$ range. The procedure slightly differs for different particle types. In each step, the~multi-Gaussian fit is performed first, then the~widths and centroids are fitted  in  $p_\textrm{T}$ ranges in which the fit applied to $n\sigma^{i}_{dE/dx}$ converges. Later,  the~widths and centroids are extrapolated to other $p_\textrm{T}$ ranges, in which particle species are not well separated:
+because different particle species are not well separated  there. Therefore, multiple steps of the~fitting procedure  are performed to reduce the number of free parameters in the final fit and ensure its stability. Almost all centroids and widths are constrained  by a~function with free parameters $p_k$, where $k \in \mathbb N$.  The function is chosen to describe the data as best as possible.
+Since $dE/dx$ is a~function of the~particle's momentum and its shape should be independent of the~process under study, the values of $p_k$  are obtained only for events with $0.02 < \xi < 0.05$ and kept the same for other $\xi$ ranges. 
+%The electron contributions are  fixed, but separately for each $\xi$ range. 
+The~electron contributions are  fitted only in the~first analysed $p_\textrm{T}$ range, separately for each particle species and $\xi$ range. For higher $p_\text{T}$ ranges, they are estimated from PYTHIA~8 embedding MC, and scaled according to the~ratio of PYTHIA~8 predictions and  contributions fitted in the~first $p_\textrm{T}$ bin.
+The procedure slightly differs for different particle types. In each step, the~multi-Gaussian fit is performed first, then the~widths and centroids are fitted  in  $p_\textrm{T}$ ranges in which the fit applied to $n\sigma^{i}_{dE/dx}$ converges. Later,  the~widths and centroids are extrapolated to other $p_\textrm{T}$ ranges, in which particle species are not well separated:
 %\newpage
 \begin{enumerate}
 	\item  $\pi^{\pm}$:
@@ -258,7 +259,7 @@ Since $dE/dx$ is a~function of the~particle momentum and its shape should be ind
 
 
 The particle yield is extracted from the fit to the corresponding
-$n\sigma^{i}_{dE/dx}$  distribution (corrected only for the energy loss~\cite{supplementaryNote} and vertexing). As shown in Fig.~\ref{fig:dEdx_nsigma}, the $dE/dx$ of each particle type merge at large $p_\textrm{T}$. Hence, the particle identification is limited. Pions can be identified
+$n\sigma^{i}_{dE/dx}$  distribution (corrected only for the energy loss and vertexing). As shown in Fig.~\ref{fig:dEdx_nsigma}, the $dE/dx$ of each particle type merge at large $p_\textrm{T}$. Hence, the particle identification is limited. Pions can be identified
 in the momentum range of $0.2-0.7$~GeV/c, kaons in
 $0.3-0.65$~GeV/c and (anti)protons in $0.4-1.0$~GeV/c. 
 %\FloatBarrier
