@@ -6,31 +6,32 @@
 \contentsline {chapter}{\numberline {2}Monte Carlo Samples }{2}{chapter.2}
 \contentsline {chapter}{\numberline {3}Data Sample and Event Selection}{4}{chapter.3}
 \contentsline {subsubsection}{Event Selection}{4}{section*.7}
+\contentsline {subsubsection}{ZDC Veto}{5}{section*.9}
 \contentsline {section}{\numberline {3.1}Track Selection}{5}{section.3.1}
 \contentsline {section}{\numberline {3.2}Fiducial Region of the Measurement}{8}{section.3.2}
-\contentsline {chapter}{\numberline {4}Background Contribution}{10}{chapter.4}
-\contentsline {subsubsection}{Accidental Background}{10}{section*.13}
-\contentsline {section}{\numberline {4.1}Background from Non-Primary Tracks}{12}{section.4.1}
-\contentsline {subsubsection}{Proton Background}{13}{section*.17}
-\contentsline {subsubsection}{Systematic Uncertainty Related to Proton Background}{16}{section*.21}
-\contentsline {subsubsection}{Pion Background}{18}{section*.24}
-\contentsline {section}{\numberline {4.2}Control Plots}{19}{section.4.2}
-\contentsline {chapter}{\numberline {5}Selection Efficiencies}{23}{chapter.5}
-\contentsline {section}{\numberline {5.1}Vertex Reconstruction}{23}{section.5.1}
-\contentsline {section}{\numberline {5.2}Correction to BBC-Small }{28}{section.5.2}
-\contentsline {chapter}{\numberline {6}Migrations into and out of the~Fiducial Region}{32}{chapter.6}
-\contentsline {section}{\numberline {6.1}Migrations of Tracks into and out of the~Fiducial Region}{32}{section.6.1}
-\contentsline {section}{\numberline {6.2}Migrations in $\xi $}{33}{section.6.2}
-\contentsline {chapter}{\numberline {7}Event Corrections and Unfolding Procedure}{36}{chapter.7}
-\contentsline {section}{\numberline {7.1}Correction to $dN/dn_\textrm {sel}$}{36}{section.7.1}
-\contentsline {section}{\numberline {7.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{39}{section.7.2}
-\contentsline {section}{\numberline {7.3}Closure Tests}{40}{section.7.3}
-\contentsline {section}{\numberline {7.4}EAST-WEST asymmetry}{40}{section.7.4}
-\contentsline {section}{\numberline {7.5}Particle Identification}{41}{section.7.5}
-\contentsline {section}{\numberline {7.6}Antiparticle-to-Particle Ratios}{47}{section.7.6}
-\contentsline {chapter}{\numberline {8}Systematic Uncertainties}{48}{chapter.8}
-\contentsline {chapter}{\numberline {9}Results}{53}{chapter.9}
-\contentsline {chapter}{\numberline {10}Summary and Conclusions}{60}{chapter.10}
-\contentsline {chapter}{Appendices}{63}{section*.70}
-\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{64}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{77}{Appendix.1.B}
+\contentsline {chapter}{\numberline {4}Background Contribution}{11}{chapter.4}
+\contentsline {subsubsection}{Accidental Background}{11}{section*.15}
+\contentsline {section}{\numberline {4.1}Background from Non-Primary Tracks}{13}{section.4.1}
+\contentsline {subsubsection}{Proton Background}{14}{section*.19}
+\contentsline {subsubsection}{Systematic Uncertainty Related to Proton Background}{17}{section*.23}
+\contentsline {subsubsection}{Pion Background}{19}{section*.26}
+\contentsline {section}{\numberline {4.2}Control Plots}{20}{section.4.2}
+\contentsline {chapter}{\numberline {5}Selection Efficiencies}{24}{chapter.5}
+\contentsline {section}{\numberline {5.1}Vertex Reconstruction}{24}{section.5.1}
+\contentsline {section}{\numberline {5.2}Correction to BBC-Small }{29}{section.5.2}
+\contentsline {chapter}{\numberline {6}Migrations into and out of the~Fiducial Region}{33}{chapter.6}
+\contentsline {section}{\numberline {6.1}Migrations of Tracks into and out of the~Fiducial Region}{33}{section.6.1}
+\contentsline {section}{\numberline {6.2}Migrations in $\xi $}{34}{section.6.2}
+\contentsline {chapter}{\numberline {7}Event Corrections and Unfolding Procedure}{37}{chapter.7}
+\contentsline {section}{\numberline {7.1}Correction to $dN/dn_\textrm {sel}$}{37}{section.7.1}
+\contentsline {section}{\numberline {7.2}Correction to Transverse Momentum and Pseudorapidity Distributions}{40}{section.7.2}
+\contentsline {section}{\numberline {7.3}Closure Tests}{41}{section.7.3}
+\contentsline {section}{\numberline {7.4}EAST-WEST asymmetry}{41}{section.7.4}
+\contentsline {section}{\numberline {7.5}Particle Identification}{42}{section.7.5}
+\contentsline {section}{\numberline {7.6}Antiparticle-to-Particle Ratios}{48}{section.7.6}
+\contentsline {chapter}{\numberline {8}Systematic Uncertainties}{49}{chapter.8}
+\contentsline {chapter}{\numberline {9}Results}{54}{chapter.9}
+\contentsline {chapter}{\numberline {10}Summary and Conclusions}{61}{chapter.10}
+\contentsline {chapter}{Appendices}{64}{section*.72}
+\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{65}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{78}{Appendix.1.B}
