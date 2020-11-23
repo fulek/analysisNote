@@ -181,4 +181,12 @@ H.~Bichsel, {\em {A method to improve tracking and particle identification in
   (2011) 024913}.
 %%CITATION = ARXIV:1011.1940;%%.
 
+\bibitem{CMS:intro_1}
+{CMS} Collaboration, V.~Khachatryan {et~al.}, {\em {Transverse-momentum and
+  pseudorapidity distributions of charged hadrons in $pp$ collisions at
+  $\sqrt{s}=7$ TeV}},
+  \href{http://dx.doi.org/10.1103/PhysRevLett.105.022002}{Phys. Rev. Lett.
+  {\bfseries 105} (2010) 022002},
+  \href{http://arxiv.org/abs/1005.3299}{{\ttfamily arXiv:1005.3299 [hep-ex]}}.
+
 \end{thebibliography}\endgroup
