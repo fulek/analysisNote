@@ -31,7 +31,9 @@
 \contentsline {section}{\numberline {7.6}Antiparticle-to-Particle Ratios}{48}{section.7.6}
 \contentsline {chapter}{\numberline {8}Systematic Uncertainties}{49}{chapter.8}
 \contentsline {chapter}{\numberline {9}Results}{54}{chapter.9}
-\contentsline {chapter}{\numberline {10}Summary and Conclusions}{61}{chapter.10}
-\contentsline {chapter}{Appendices}{64}{section*.72}
-\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{65}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{78}{Appendix.1.B}
+\contentsline {section}{\numberline {9.1}Comparison of Charged-Particle Densities at Central Rapidities}{61}{section.9.1}
+\contentsline {chapter}{\numberline {10}Kaon to Pion Ratio}{63}{chapter.10}
+\contentsline {chapter}{\numberline {11}Summary and Conclusions}{64}{chapter.11}
+\contentsline {chapter}{Appendices}{67}{section*.74}
+\contentsline {chapter}{\numberline {A}Proton and Antiproton DCA Distributions}{68}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Distributions of $n\sigma ^{i}_{dE/dx}$ in SD}{81}{Appendix.1.B}

@@ -104,4 +104,81 @@ H.~Bichsel, {\em {A method to improve tracking and particle identification in
   {\bfseries A562} (2006) 154--197}.
 %%CITATION = NUIMA,A562,154;%%.
 
+\bibitem{CMS:intro_3}
+{CMS, TOTEM} Collaboration, S.~Chatrchyan {et~al.}, {\em {Measurement of
+  pseudorapidity distributions of charged particles in proton-proton collisions
+  at $\sqrt{s}$ = 8 TeV by the CMS and TOTEM experiments}},
+\href{http://dx.doi.org/10.1140/epjc/s10052-014-3053-6}{Eur. Phys. J.
+  {\bfseries C74} (2014) 3053}.
+%%CITATION = ARXIV:1405.0722;%%.
+
+\bibitem{UA1:intro_1}
+{UA1} Collaboration, C.~Albajar {et~al.}, {\em {A Study of the General
+  Characteristics of $p\bar{p}$ Collisions at $\sqrt{s}$ = 0.2-TeV to
+  0.9-TeV}},
+\href{http://dx.doi.org/10.1016/0550-3213(90)90493-W}{Nucl. Phys. {\bfseries
+  B335} (1990) 261--287}.
+%%CITATION = NUPHA,B335,261;%%.
+
+\bibitem{UA5:comparison}
+{UA5} Collaboration, G.~J. Alner {et~al.}, {\em {Scaling of Pseudorapidity
+  Distributions at c.m. Energies Up to 0.9-TeV}},
+\href{http://dx.doi.org/10.1007/BF01410446}{Z. Phys. {\bfseries C33} (1986)
+  1--6}.
+%%CITATION = ZEPYA,C33,1;%%.
+
+\bibitem{ISR:comparison}
+{ACHM} Collaboration, W.~Thome {et~al.}, {\em {Charged Particle Multiplicity
+  Distributions in p p Collisions at ISR Energies}},
+\href{http://dx.doi.org/10.1016/0550-3213(77)90122-5}{Nucl. Phys. {\bfseries
+  B129} (1977) 365}.
+%%CITATION = NUPHA,B129,365;%%.
+
+\bibitem{CDF:intro_2}
+{CDF} Collaboration, F.~Abe {et~al.}, {\em {Pseudorapidity distributions of
+  charged particles produced in $\bar{p}p$ interactions at $\sqrt{s} = 630$ GeV
+  and 1800 GeV}},
+\href{http://dx.doi.org/10.1103/PhysRevD.41.2330}{Phys. Rev. {\bfseries D41}
+  (1990) 2330}.
+%%CITATION = PHRVA,D41,2330;%%.
+
+\bibitem{ALICE:comparison}
+{ALICE} Collaboration, K.~Aamodt {et~al.}, {\em {Charged-particle multiplicity
+  measurement in proton-proton collisions at $\sqrt{s}=0.9$ and 2.36 TeV with
+  ALICE at LHC}},
+\href{http://dx.doi.org/10.1140/epjc/s10052-010-1339-x}{Eur. Phys. J.
+  {\bfseries C68} (2010) 89--108}.
+%%CITATION = ARXIV:1004.3034;%%.
+
+\bibitem{ATLAS:charged100}
+{ATLAS} Collaboration, M.~Aaboud {et~al.}, {\em {Charged-particle distributions
+  at low transverse momentum in $\sqrt{s} = 13$ TeV $pp$ interactions measured
+  with the ATLAS detector at the LHC}},
+  \href{http://dx.doi.org/10.1140/epjc/s10052-016-4335-y}{Eur. Phys. J.
+  {\bfseries C76} (2016) 502},
+\href{http://arxiv.org/abs/1606.01133}{{\ttfamily arXiv:1606.01133 [hep-ex]}}.
+%%CITATION = ARXIV:1606.01133;%%.
+
+\bibitem{ATLAS:intro_2}
+{ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle distributions in
+  $pp$ interactions at $\sqrt{s}=$ 8 TeV measured with the ATLAS detector}},
+\href{http://dx.doi.org/10.1140/epjc/s10052-016-4203-9}{Eur. Phys. J.
+  {\bfseries C76} (2016) 403}.
+%%CITATION = ARXIV:1603.02439;%%.
+
+\bibitem{ATLAS:intro_1}
+{ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle multiplicities
+  in pp interactions measured with the ATLAS detector at the LHC}},
+\href{http://dx.doi.org/10.1088/1367-2630/13/5/053033}{New J. Phys. {\bfseries
+  13} (2011) 053033}.
+%%CITATION = ARXIV:1012.5104;%%.
+
+\bibitem{PHOBOS:intro}
+{PHOBOS} Collaboration, B.~Alver {et~al.}, {\em {Phobos results on charged
+  particle multiplicity and pseudorapidity distributions in Au+Au, Cu+Cu, d+Au,
+  and p+p collisions at ultra-relativistic energies}},
+\href{http://dx.doi.org/10.1103/PhysRevC.83.024913}{Phys. Rev. {\bfseries C83}
+  (2011) 024913}.
+%%CITATION = ARXIV:1011.1940;%%.
+
 \end{thebibliography}\endgroup

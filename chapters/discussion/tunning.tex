@@ -1,0 +1,112 @@
+% !TeX spellcheck = en_GB
+
+
+%All models predict the~same $\pi^-/\pi^+$, $K^-/K^+$ and $\bar{p}/p$ production ratios as observed in the~data.
+\begin{comment}
+are well described by PYTHIA 8 models (MBR
+2229 and MBR-tuned), except η ̄ at ξ > 0.05 for which PYTHIA 8 predicts flatter distribution
+2230 than observed in the data. PYTHIA 8 shows asymmetry between p ̄ and p, which may
+2231 indicate there is a baryon number transfer from the forward to the central region. However,
+2232 it is smaller than measured in the data. The uncorrected ξ distributions are better described
+ by PYTHIA 8 predictions without artificial suppression of diffractive cross sections at
+ 2234 large ξ. This result may suggest that the default suppression of diffractive cross sections,
+ 2235 implemented in MBR model, is too large in PYTHIA 8 and should be further tuned.
+ 2236 Results indicate that the relative contribution of EPOS SD and SD′ may be further
+ 2237 tuned. The measured distributions of charged-particle multiplicity and its densities as
+ 2238 a function of η ̄ are well described by EPOS SD′, while EPOS SD+SD′ does not describe
+ 2239 the data. The results suggests that the contribution of SD events is overestimated in
+ 2240 EPOS. It is in agreement with the production ratios of p ̄ and p at 0.02 < ξ < 0.05, for
+ 2241 which EPOS SD′ predictions are approximately 2σ above the data (as PYTHIA 8), while
+ 2242 EPOS SD+SD′ predictions are approximately 3σ below the data.
+ 2243 Significant differences are observed between the measured distributions and HERWIG
+ 2244 model. HERWIG predicts smaller mean charged-particle multiplicity than observed in
+ 2245 the data for 0.02 < ξ < 0.05 and too large for 0.1 < ξ < 0.2. The dependence of particle
+ 2246 densities with pT and η ̄ is too steep in this model. The production ratios of π−/π+ and
+ 2247 K−/K+ for 0.02 < ξ < 0.05 are underestimated and overestimated, respectively. HERWIG
+ 2248 predicts much larger baryon number transfers compared to data for ξ < 0.1.
+\end{comment}
+
+\begin{comment}
+The~ATLAS data, unlike the~STAR data, are not well described by PYTHIA~8, hence, the~possible tunning of PYTHIA~8 can be investigated. In order to describe the~\ac{MB} distributions, mainly  \ac{MPI} and \ac{CR} effects were tuned in PYTHIA~8 A2 and A3 tunes~\cite{ATLAS:A3}. \Cref{fig:mpi2Depos,fig:mpi2Dpythia} show charged-particle multiplicities as a~function of the~number of \ac{MPI}, $n_\textrm{MPI}$, in EPOS and PYTHIA~8 A3 (MBR), respectively. Most of EPOS SD events do not  contain any \ac{MPI}, while EPOS SD$^\prime$ sample is dominated by events with only one \ac{MPI}. Therefore, the~charged-particle multiplicity  in EPOS depends on the~relative contribution of SD and SD$^\prime$. However, it will be probably not possible to describe the~data with a~generally small number of \ac{MPI}.
+On the~other hand, there is a~correlation between the number of \ac{MPI} and charged-particle multiplicity in PYTHIA~8. Hence, there may be a~possibility to tune~\ac{MPI}
+in order to describe the~data.
+
+\begin{figure}[b!]
+	%\centering
+	
+	%	\vspace*{-0.9\floatsep}
+	\centering
+	\includegraphics[width=0.49\textwidth,page=1]{chapters/discussion/img/mpi.pdf}
+	\includegraphics[width=0.49\textwidth,page=5]{chapters/discussion/img/mpi.pdf}
+	\caption{Charged-particle multiplicity as a function of the~number of \ac{MPI} in EPOS (left) SD and (right) SD$^\prime$.}
+	\label{fig:mpi2Depos}
+	\vspace{0.8cm}
+\end{figure}
+
+In~PYTHIA~8, the~generation of diffractive events is split into two regimes, a~high-mass and a~low-mass one, with
+a~smooth transition between them. The probability for applying the high-mass description
+is given by a~threshold for the diffractive system mass $m_\textrm{min}^\textrm{pert}$ with default value equal to $10$~GeV, its width $m_\textrm{width}^\textrm{pert}$ with default value equal to $10$~GeV and probability
+of the low-mass-like fragmentation for high masses.
+
+
+
+
+
+
+
+
+\begin{figure}[t!]
+	%\centering
+	
+	%	\vspace*{-0.9\floatsep}
+	\centering
+	\includegraphics[width=0.9\textwidth,page=14]{chapters/discussion/img/mpi.pdf}
+	\caption{Charged-particle multiplicity as a function of the~number of \ac{MPI} in PYTHIA~8 A3 (MBR) SD.}
+	\label{fig:mpi2Dpythia}
+\end{figure}
+%\newpage
+Several \ac{MC}s were generated in order to check the~influence of different PYTHIA~8 A3 (MBR) SD  parameters on the~measured distributions. The following settings were disabled in individual samples: \ac{MPI}, \ac{CR}, \ac{FSR}  and \ac{ISR}. There is also an~additional \ac{MC} sample, in which  $m_\textrm{min}^\textrm{pert}$ and $m_\textrm{width}^\textrm{pert}$ parameters were changed from their default values to $m_\textrm{min}^\textrm{pert}=m_\textrm{width}^\textrm{pert}=13$~TeV, thereby, the~high-mass description for diffractive events was switched off. Figure~\ref{fig:pythia_study_m_pert} shows PYTHIA~8 predictions for the~distributions studied in this thesis with default and modified settings. Main differences are observed in the~charged-particle multiplicity distribution. The~exclusion of \ac{MPI} and inclusion of \ac{CR} decrease the~multiplicity. However, both mechanisms, together with \ac{ISR} and \ac{FSR}, have a~relatively small effect on the~measured distributions and can not explain the~differences between data and \ac{MC} (Sec.~\ref{section:atlas_results}). Only a~change in $m_\textrm{min}^\textrm{pert}$ and $m_\textrm{width}^\textrm{pert}$ parameters gives a significant difference in PYTHIA~8 predictions for the~charged-particle multiplicities.  Therefore, additional samples were generated with these two parameters changed. The~best description for $10^{-5} < \xi <0.035$ was obtained with $m_\textrm{min}^\textrm{pert}=m_\textrm{width}^\textrm{pert}=300$~GeV  (Fig.~\ref{fig:pythia_study_m_pert}). Nevertheless, 
+the other two regions of $\xi$  were not significantly affected. It seems that  several parameters should be  simultaneously tuned to describe   distributions studied in this thesis. Probably, also  the relative cross sections of different processes should be tuned, which is mainly observed for low multiplicities, the description of which might be improved by the~additional contribution of \ac{DD}.
+
+\begin{figure}[h!]
+	%\centering
+	
+		%\vspace{-0.5cm}
+	\centering
+	\includegraphics[width=0.49\textwidth,page=42]{chapters/discussion/img/mpi.pdf}
+	\includegraphics[width=0.49\textwidth,page=46]{chapters/discussion/img/mpi.pdf}
+	\includegraphics[width=0.49\textwidth,page=50]{chapters/discussion/img/mpi.pdf}
+	\includegraphics[width=0.49\textwidth,page=54]{chapters/discussion/img/mpi.pdf}
+	\caption{(top left) Charged-particle multiplicity, (top right) mean trasverse momentum as a~function of $n_\textrm{ch}$ and  charged-particle densities as a~function of (bottom left) $p_\textrm{T}$ and (bottom right) $\bar{\eta}$ for \ac{SD}  in PYTHIA~8 A3 (MBR) with default settings, MPI off, CR off, ISR off, FSR off and $m_\textrm{min}^\textrm{pert}=13$~TeV.}
+	\label{fig:mpi}
+	\vspace{-1.cm}
+\end{figure}
+
+\begin{figure}[h!]
+	\thisfloatpagestyle{fancy}
+	%\vspace{-2.5cm}
+	\centering
+	\begin{subfigure}{.49\textwidth}
+		
+		\includegraphics[width=\textwidth,page=54]{chapters/chrgATLAS/img/systAndresults/new/systematics_paired_noSyst_m_rmCDfromDataAndMC_mbts_reduced_A3bkg.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=69]{chapters/chrgATLAS/img/systAndresults/new/systematics_paired_noSyst_m_rmCDfromDataAndMC_mbts_reduced_A3bkg.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=52]{chapters/chrgATLAS/img/systAndresults/new/systematics_paired_noSyst_m_rmCDfromDataAndMC_mbts_reduced_A3bkg.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=67]{chapters/chrgATLAS/img/systAndresults/new/systematics_paired_noSyst_m_rmCDfromDataAndMC_mbts_reduced_A3bkg.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=53]{chapters/chrgATLAS/img/systAndresults/new/systematics_paired_noSyst_m_rmCDfromDataAndMC_mbts_reduced_A3bkg.pdf}
+	\end{subfigure}
+	\begin{subfigure}{.49\textwidth}
+		\includegraphics[width=\textwidth,page=68]{chapters/chrgATLAS/img/systAndresults/new/systematics_paired_noSyst_m_rmCDfromDataAndMC_mbts_reduced_A3bkg.pdf}
+	\end{subfigure}
+	\caption{Primary charged-particle multiplicity  shown separately for the~three ranges of $\xi$: (top) $10^{-5} < \xi < 0.035$, (middle) $0.035 < \xi < 0.08$, (bottom) $0.08 < \xi < 0.16$, and  compared to PYTHIA~8 A3 (MBR) predictions with (left) default settings and (right) $m_\textrm{min}^\textrm{pert}=m_\textrm{width}^\textrm{pert}=300$~GeV. The ratio of the~models’ prediction to data is shown in the~bottom panels.}
+	\label{fig:pythia_study_m_pert}
+	%\vspace{-2.5cm}
+\end{figure}
+\end{comment}
