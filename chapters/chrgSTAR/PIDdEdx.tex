@@ -78,9 +78,9 @@ $n\sigma^{i}_{dE/dx}$-distributions are fitted simultaneously, where the~centroi
 and antiparticle. 
 In some $p_\textrm{T}$ regions, the~fit does not converge,
 because different particle species are not well separated  there. Therefore, multiple steps of the~fitting procedure  are performed to reduce the number of free parameters in the final fit and ensure its stability. Almost all centroids and widths are constrained  by a~function with free parameters $p_k$, where $k \in \mathbb N$.  The function is chosen to describe the data as best as possible.
-Since $dE/dx$ is a~function of the~particle's momentum and its shape should be independent of the~process under study, the values of $p_k$  are obtained only for events with $0.02 < \xi < 0.05$ and kept the same for other $\xi$ ranges. 
-%The electron contributions are  fixed, but separately for each $\xi$ range. 
-The~electron parameters are limited based on the difference between data and MC. Their contributions are fitted only in the~first analysed $p_\textrm{T}$ range, separately for each particle species and $\xi$ range. For higher $p_\text{T}$ ranges, they are estimated from PYTHIA~8 embedding MC, and scaled according to the~ratio of PYTHIA~8 predictions and  contributions fitted in the~first $p_\textrm{T}$ bin.
+Since $dE/dx$ is a~function of the~particle's momentum and its shape should be independent of the~process under study, the values of $p_k$  are obtained only for events with $0.02 < \xi < 0.05$ and kept the same for other $\xi$ ranges. The electron contributions are fitted only at $p_\textrm{T}<0.4$~GeV/c, separately for each
+particle species and $\xi$ range. For higher $p_\text{T}$ ranges, they are estimated from PYTHIA 8 embedding MC, and scaled according to the ratio of PYTHIA 8 predictions and contributions
+fitted in the $0.35<p_\textrm{T}<0.4$~GeV/c  bin.
 The procedure slightly differs for different particle types. In each step, the~multi-Gaussian fit is performed first, then the~widths and centroids are fitted  in  $p_\textrm{T}$ ranges in which the fit applied to $n\sigma^{i}_{dE/dx}$ converges. Later,  the~widths and centroids are extrapolated to other $p_\textrm{T}$ ranges, in which particle species are not well separated:
 %\newpage
 \begin{enumerate}
@@ -91,8 +91,9 @@ The procedure slightly differs for different particle types. In each step, the~m
 				\renewcommand\labelitemi{--}
 				\item Analyze data with $0.2 < p_\textrm{T} < 0.65$~GeV/c
 				\item Fit  $\mu_{\pi^-/\pi^+}$ and $\sigma_{\pi^-/\pi^+}$ as a function of $p_\textrm{T}$ with a polynomial  $p_0p_\textrm{T}^3+p_1p_\textrm{T}^2+p_2p_\textrm{T}+p_3$
-				\item Fit $r_{e^-/e^+}$ as a function of $p_\textrm{T}$ with a polynomial $p_0p_\textrm{T}^2+p_1p_\textrm{T}+p_2$
-				\item Fit  $C_{e^-/e^+}$, $\mu_{K^-/K^+}$ as a functions of $p_\textrm{T}$ with $p_0\exp\left(p_1p_\textrm{T}\right)+p_2$
+				%\item Fit $r_{e^-/e^+}$ as a function of $p_\textrm{T}$ with a polynomial $p_0p_\textrm{T}^2+p_1p_\textrm{T}+p_2$
+				\item Fit  %$C_{e^-/e^+}$, 
+				$\mu_{K^-/K^+}$ as a function of $p_\textrm{T}$ with $p_0\exp\left(p_1p_\textrm{T}\right)+p_2$
 				\item Fit  $\mu_{e^-/e^+}$ as a function of $p_\textrm{T}$ with $p_0\exp\left[-\left(p_1p_\textrm{T}\right)^{p_2}\right]$ 
 				\item Fit $\sigma_{K^-/K^+}$ as a function of $p_\textrm{T}$, for $0.3<p_\textrm{T}<0.5$~GeV/c, with constant $p_0$ 
 				\item Fit  $\mu_{\bar{p}/p}$ and $\sigma_{\bar{p}/p}$ as a function of $p_\textrm{T}$ with $p_0\exp\left(p_1p_\textrm{T}\right)$
@@ -102,7 +103,8 @@ The procedure slightly differs for different particle types. In each step, the~m
 					\renewcommand\labelitemi{--}
 					\item $\sigma_{e^-/e^+}$ fixed to $1.2$ and $0.8$ for $0.2<p_\textrm{T}<0.4$ and $0.4<p_\textrm{T}<0.7$, respectively
 					\item Fit $\sigma_{K^-/K^+}$ as a function of $p_\textrm{T}$, for $0.3<p_\textrm{T}<0.7$~GeV/c, with constant $p_0$ and fix it to the~value of $p_0$
-					\item  The rest parameters from Step 1 are fixed to the~values calculated from functions obtained in Step 1: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, , $r_{e^-/e^+}$, $C_{e^-/e^+}$, $\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$, $\mu_{\bar{p}/p}$, $\sigma_{\bar{p}/p}$
+					\item  The rest parameters from Step 1 are fixed to the~values calculated from functions obtained in Step 1: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$,  % $r_{e^-/e^+}$, $C_{e^-/e^+}$, 
+					$\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$, $\mu_{\bar{p}/p}$, $\sigma_{\bar{p}/p}$
 				\end{itemize}	
 		\end{itemize}		
 \end{enumerate} 
@@ -115,8 +117,9 @@ The procedure slightly differs for different particle types. In each step, the~m
 			\renewcommand\labelitemi{--}
 			\item Analyze data with $0.2 < p_\textrm{T} < 0.6$~GeV/c
 			\item Fit  $\mu_{\pi^-/\pi^+}$  as a function of $p_\textrm{T}$ with $-\exp\left(p_0+p_1p_\textrm{T}\right)$
-			\item Fit $\sigma_{\pi^-/\pi^+}$, $C_{e^-/e^+}$, $\sigma_{e^-/e^+}$, $\sigma_{K^-/K^+}$ as a function of $p_\textrm{T}$ with $\exp\left(p_0+p_1p_\textrm{T}\right)$
-			\item Fit $r_{e^-/e^+}$ as a function of $p_\textrm{T}$ with constant $p_0$ 
+			\item Fit $\sigma_{\pi^-/\pi^+}$, %$C_{e^-/e^+}$, 
+			$\sigma_{e^-/e^+}$, $\sigma_{K^-/K^+}$ as a function of $p_\textrm{T}$ with $\exp\left(p_0+p_1p_\textrm{T}\right)$
+			%\item Fit $r_{e^-/e^+}$ as a function of $p_\textrm{T}$ with constant $p_0$ 
 			\item Fit $\mu_{e^-/e^+}$ as a function of $p_\textrm{T}$ with a~polynomial  $p_0p_\textrm{T}^3+p_1p_\textrm{T}^2+p_2p_\textrm{T}+p_3$
 			\item Fit $\mu_{K^-/K^+}$ as a function of $p_\textrm{T}$ with a~polynomial  $p_0+p_1p_\textrm{T}^2$
 			
@@ -132,7 +135,8 @@ The procedure slightly differs for different particle types. In each step, the~m
 		\begin{itemize}
 			\renewcommand\labelitemi{--}
 			\item  $\sigma_{e^-/e^+}$ fixed to the~values calculated from functions obtained in  Steps 1 and 2 for $0.3<p_\textrm{T}<0.45$ and $0.45<p_\textrm{T}<0.65$, respectively.
-			\item  The rest parameters from Step 1 are fixed to the~values calculated from functions obtained in Step 1: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, , $r_{e^-/e^+}$, $C_{e^-/e^+}$, $\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$,$\sigma_{K^-/K^+}$
+			\item  The rest parameters from Step 1 are fixed to the~values calculated from functions obtained in Step 1: $\mu_{\pi^-/\pi^+}$, $\sigma_{\pi^-/\pi^+}$, %$r_{e^-/e^+}$, $C_{e^-/e^+}$, 
+			$\mu_{e^-/e^+}$ , $\mu_{K^-/K^+}$,$\sigma_{K^-/K^+}$
 		\end{itemize}		
 	\end{itemize}		
 \end{enumerate} 
@@ -262,4 +266,4 @@ The particle yield is extracted from the fit to the corresponding
 $n\sigma^{i}_{dE/dx}$  distribution (corrected only for the energy loss and vertexing). As shown in Fig.~\ref{fig:dEdx_nsigma}, the $dE/dx$ of each particle type merge at large $p_\textrm{T}$. Hence, the particle identification is limited. Pions can be identified
 in the momentum range of $0.2-0.7$~GeV/c, kaons in
 $0.3-0.65$~GeV/c and (anti)protons in $0.4-1.0$~GeV/c. 
-%\FloatBarrier
+\FloatBarrier
