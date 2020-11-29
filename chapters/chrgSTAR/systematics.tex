@@ -14,7 +14,8 @@ Apart from the statistical uncertainties there are also systematic uncertainties
 	\item the effect of alternative model  on $\epsilon_{ m}$ correction (Sec.~\ref{section:star_dNdnch}),
 	\item non-closure (Sec~\ref{section:star_closure}),
 	\item non-closure of $N_\textrm{ev}$, applied only to $p_\textrm{T}$ and $\bar{\eta}$ distributions,
-	\item difference in the~distributions calculated separately for events in which forward proton is on one and the other side of the IP (east-west, Sec~\ref{section:star_eastWest}).
+	\item difference in the~distributions calculated separately for events in which forward proton is on one and the other side of the IP (east-west, Sec~\ref{section:star_eastWest}),
+	\item the effect of $\left(K^{+}+K^{-}\right)/\left(\pi^{+}+\pi^{-}\right)$ ratio on TPC and TOF efficiencies.
 \end{itemize}
 
 Some of the~systematic uncertainties on $1/N$~$dN/dn_\textrm{ch}$ (related to TPC and TOF reconstruction efficiencies, fake track background contribution)  are propagated by randomly removing and adding tracks in the $n_\textrm{sel}$ distribution before  unfolding procedure. For each track, a~random number is generated. If this number is smaller than the~absolute value of systematic uncertainty, then $n_\textrm{sel}$ is increased or decreased, depending on the~sign of systematic uncertainty.
@@ -23,6 +24,8 @@ Some of the~systematic uncertainties on $1/N$~$dN/dn_\textrm{ch}$ (related to TP
 
 \Cref{fig:results_star_nch_syst,fig:results_star_pt_syst,fig:results_star_eta_syst} show the components contributing to the total systematic uncertainty for charged particle distributions without the identification. The dominant systematic uncertainty for $p_\textrm{T}$ and $n_\textrm{ch}$ distributions is related to TOF system simulation accuracy. It affects mainly low-$p_\textrm{T}$ particles, where it is about $2-3\%$, and large charged particle multiplicities, where it varies up to $20\%$ for $n_\textrm{ch}=8$ and $0.02 < \xi < 0.05$. In case of $\bar{\eta}$ distribution, the systematic uncertainty on TOF mainly refers to charged particles produced at the edge of the fiducial region, for which it is about $2\%$.  The largest (up to $30\%$) systematic uncertainty for $\langle\bar{\eta}\rangle$,  is related to the observed difference  in the distributions calculated separately with respect to the forward-scattered proton direction. The rest of the components have smaller contributions to the total systematic uncertainty. The~systematic uncertainty on non-closure is on average at the level of $2\%$ which proves  the accuracy of the correction procedure. 
 
+TPC and TOF efficiencies for a~charged particle without the~identification are calculated by mixing charged pions, kaons and (anti)protons. Their relative contributions are based on PYTHIA~8 model. However, the ratios of production yields of $\left(K^{+}+K^{-}\right)/\left(\pi^{+}+\pi^{-}\right)$ are measured to be different than predicted PYTHIA~8~(Fig.~\ref{fig:results_Kpi_ratio}). Therefore, 
+the~TPC and TOF efficiencies calculated with the~modified $K^{\pm}/\pi^{\pm}$ ratios are used to introduce  an~additional systematic uncertainty. It is about $2-3\%$ for particles with $p_\textrm{T}>0.6$~GeV/c and up to $5\%$ for $n_\textrm{ch}=8$.
 
 
 \Cref{fig:results_star_syst_pi,fig:results_star_syst_K,fig:results_star_syst_p,fig:results_star_syst_xi_part} show breakdown of all different systematics for the antiparticle-to-particle multiplicity ratio distributions. An additional systematic contribution for $\bar{p}/p$ multiplicity ratio due to proton background estimation was introduced.
@@ -72,7 +75,7 @@ The largest sources of systematics, which  do not, are related to proton backgro
 	\caption{Components of the systematic uncertainties for $p_\textrm{T}$ distributions in three $\xi$ regions and for an average $p_\textrm{T}$ distribution. }
 	\label{fig:results_star_pt_syst}
 	%\vspace*{\floatsep}
-	\vspace{-2.5cm}
+	%\vspace{-2.5cm}
 \end{figure}	
 
 \begin{figure}[h!]
@@ -94,6 +97,7 @@ The largest sources of systematics, which  do not, are related to proton backgro
 	%
 	\caption{Components of the systematic uncertainties for $\bar{\eta}$ distributions in three $\xi$ regions and for an average $\bar{\eta}$ distribution. }
 	\label{fig:results_star_eta_syst}
+	\vspace{-2.5cm}
 \end{figure}
 
 \begin{figure}[h!]
