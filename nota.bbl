@@ -150,37 +150,6 @@ H.~Bichsel, {\em {A method to improve tracking and particle identification in
   {\bfseries C68} (2010) 89--108}.
 %%CITATION = ARXIV:1004.3034;%%.
 
-\bibitem{ATLAS:charged100}
-{ATLAS} Collaboration, M.~Aaboud {et~al.}, {\em {Charged-particle distributions
-  at low transverse momentum in $\sqrt{s} = 13$ TeV $pp$ interactions measured
-  with the ATLAS detector at the LHC}},
-  \href{http://dx.doi.org/10.1140/epjc/s10052-016-4335-y}{Eur. Phys. J.
-  {\bfseries C76} (2016) 502},
-\href{http://arxiv.org/abs/1606.01133}{{\ttfamily arXiv:1606.01133 [hep-ex]}}.
-%%CITATION = ARXIV:1606.01133;%%.
-
-\bibitem{ATLAS:intro_2}
-{ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle distributions in
-  $pp$ interactions at $\sqrt{s}=$ 8 TeV measured with the ATLAS detector}},
-\href{http://dx.doi.org/10.1140/epjc/s10052-016-4203-9}{Eur. Phys. J.
-  {\bfseries C76} (2016) 403}.
-%%CITATION = ARXIV:1603.02439;%%.
-
-\bibitem{ATLAS:intro_1}
-{ATLAS} Collaboration, G.~Aad {et~al.}, {\em {Charged-particle multiplicities
-  in pp interactions measured with the ATLAS detector at the LHC}},
-\href{http://dx.doi.org/10.1088/1367-2630/13/5/053033}{New J. Phys. {\bfseries
-  13} (2011) 053033}.
-%%CITATION = ARXIV:1012.5104;%%.
-
-\bibitem{PHOBOS:intro}
-{PHOBOS} Collaboration, B.~Alver {et~al.}, {\em {Phobos results on charged
-  particle multiplicity and pseudorapidity distributions in Au+Au, Cu+Cu, d+Au,
-  and p+p collisions at ultra-relativistic energies}},
-\href{http://dx.doi.org/10.1103/PhysRevC.83.024913}{Phys. Rev. {\bfseries C83}
-  (2011) 024913}.
-%%CITATION = ARXIV:1011.1940;%%.
-
 \bibitem{CMS:intro_1}
 {CMS} Collaboration, V.~Khachatryan {et~al.}, {\em {Transverse-momentum and
   pseudorapidity distributions of charged hadrons in $pp$ collisions at
@@ -188,5 +157,25 @@ H.~Bichsel, {\em {A method to improve tracking and particle identification in
   \href{http://dx.doi.org/10.1103/PhysRevLett.105.022002}{Phys. Rev. Lett.
   {\bfseries 105} (2010) 022002},
   \href{http://arxiv.org/abs/1005.3299}{{\ttfamily arXiv:1005.3299 [hep-ex]}}.
+
+\bibitem{ua4_diff1}
+{UA4} Collaboration, M.~Bozzo {et~al.}, {\em {Single Diffraction Dissociation
+  at the \{CERN\} \{SPS\} Collider}},
+  \href{http://dx.doi.org/10.1016/0370-2693(84)91185-7}{Phys. Lett. B
+  {\bfseries 136} (1984) 2170}.
+
+\bibitem{UA4:intro}
+{UA4} Collaboration, D.~Bernard {et~al.}, {\em {Pseudorapidity Distribution of
+  Charged Particles in Diffraction Dissociation Events at the CERN SPS
+  Collider}},
+\href{http://dx.doi.org/10.1016/0370-2693(86)91598-4}{Phys. Lett. {\bfseries
+  B166} (1986) 459}.
+%%CITATION = PHLTA,166B,459;%%.
+
+\bibitem{ua4_diff3}
+{UA4} Collaboration, D.~Bernard {et~al.}, {\em {The Cross-section of
+  Diffraction Dissociation at the CERN SPS Collider}},
+  \href{http://dx.doi.org/10.1016/0370-2693(87)90285-1}{Phys. Lett. B
+  {\bfseries 186} (1987) 227}.
 
 \end{thebibliography}\endgroup

@@ -25,45 +25,45 @@ You're missing a field name---line 1559 of file literatur.bib
  :                                                    ,
 I'm skipping whatever remains of this entry
 Warning--empty year in Bopp:2000vg
-You've used 27 entries,
+You've used 26 entries,
             2349 wiz_defined-function locations,
-            808 strings with 9897 characters,
-and the built_in function-call counts, 7465 in all, are:
-= -- 724
-> -- 185
+            794 strings with 9398 characters,
+and the built_in function-call counts, 7033 in all, are:
+= -- 672
+> -- 177
 < -- 0
-+ -- 73
-- -- 46
-* -- 681
-:= -- 819
-add.period$ -- 46
-call.type$ -- 27
-change.case$ -- 33
++ -- 70
+- -- 44
+* -- 643
+:= -- 778
+add.period$ -- 42
+call.type$ -- 26
+change.case$ -- 32
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 440
-empty$ -- 798
-format.name$ -- 46
-if$ -- 1972
+cite$ -- 27
+duplicate$ -- 411
+empty$ -- 761
+format.name$ -- 44
+if$ -- 1854
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 103
-newline$ -- 124
-num.names$ -- 24
-pop$ -- 143
+int.to.str$ -- 26
+missing$ -- 98
+newline$ -- 115
+num.names$ -- 23
+pop$ -- 139
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 323
+skip$ -- 297
 stack$ -- 0
-substring$ -- 279
-swap$ -- 208
+substring$ -- 263
+swap$ -- 190
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 51
-width$ -- 29
-write$ -- 234
+while$ -- 49
+width$ -- 28
+write$ -- 222
 (There were 3 error messages)
